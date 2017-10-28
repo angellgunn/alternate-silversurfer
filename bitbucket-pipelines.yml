@@ -6,6 +6,7 @@ pipelines:
     master:
       - step:
           script:
+            - apk add git-subtree
             - git submodule update
             - hugo
             - git subtree split --branch deploy --prefix public/
