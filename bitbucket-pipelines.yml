@@ -6,5 +6,6 @@ pipelines:
     master:
       - step:
           script:
+            - git submodule update
             - hugo
             - git subtree split --branch deploy --prefix public/
