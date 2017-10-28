@@ -1,0 +1,10 @@
+image: sjstreeting/pipelines-hugo
+
+pipelines:
+  # Master branch deployment to live - no drafts
+  branches:
+    master:
+      - step:
+          script:
+            - hugo
+            - git filter-branch --subdirectory-filter public -- deploy
