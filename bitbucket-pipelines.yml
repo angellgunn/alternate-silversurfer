@@ -1,4 +1,4 @@
-image: sjstreeting/pipelines-hugo
+image: andthensome/alpine-hugo-git-bash
 
 pipelines:
   # Master branch deployment to live - no drafts
