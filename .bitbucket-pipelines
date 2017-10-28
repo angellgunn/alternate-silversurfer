@@ -7,4 +7,4 @@ pipelines:
       - step:
           script:
             - hugo
-            - git filter-branch --subdirectory-filter public -- deploy
+            - git subtree split --branch deploy --prefix public/
