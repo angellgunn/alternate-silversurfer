@@ -1,4 +1,4 @@
-image: telyn/docker-hugo
+image: andthensome/alpine-hugo-git-bash
 
 pipelines:
   # Master branch deployment to live - no drafts
@@ -7,6 +7,8 @@ pipelines:
       - step:
           script:
             - git submodule update
+            - apk update
+            - apk add openssh
             - hugo
             - git config user.name 'fhcflx'
             - git config user.email 'fhcflx@outlook.com'
