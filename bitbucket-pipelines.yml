@@ -1,4 +1,4 @@
-image: andthensome/alpine-hugo-git-bash
+image: telyn/docker-hugo
 
 pipelines:
   # Master branch deployment to live - no drafts
@@ -13,4 +13,6 @@ pipelines:
             - git add .
             - git commit -m 'new update'
             - git push
-            - git filter-branch --subdirectory-filter public --state-branch deploy
+            - git subtree split --branch deploy --prefix public/
+            - git checkout deploy
+            - git push -u origin deploy
