@@ -15,4 +15,5 @@ pipelines:
             - git add .
             - git commit -m 'new update'
             - git filter-branch --prune-empty --subdirectory-filter public
-            - git checkout deploy
+            - git checkout -b deploy
+            - git push origin deploy
