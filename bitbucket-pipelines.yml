@@ -14,5 +14,5 @@ pipelines:
             - git config user.email 'fhcflx@outlook.com'
             - git add .
             - git commit -m 'new update'
-            - git filter-branch --subdirectory-filter public
-            - git push origin deploy
+            - git filter-branch --prune-empty --subdirectory-filter public
+            - git checkout deploy
