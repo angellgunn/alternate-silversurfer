@@ -9,12 +9,11 @@ pipelines:
             - git submodule update
             - apk update
             - apk add openssh
-            - apk add git
             - hugo
             - git config user.name 'fhcflx'
             - git config user.email 'fhcflx@outlook.com'
             - git add .
             - git commit -m 'new update'
-            - git subtree split --branch deploy --prefix public/
+            - git filter-branch --subdirectory-filter public --state-branch deploy
             - git checkout deploy
             - git push -u origin deploy
