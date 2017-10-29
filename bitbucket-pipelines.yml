@@ -8,5 +8,5 @@ pipelines:
           script:
             - git submodule update
             - hugo
-            - git add . && git commit -m "new update" && git push
+            - git add . && git commit --author='fhcflx fhcflx@outlook.com' -m "new update" && git push
             - git filter-branch --subdirectory-filter public --state-branch deploy
