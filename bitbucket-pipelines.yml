@@ -1,4 +1,4 @@
-image: fhcflx/docker-alpine-hugo-git-bash
+image: fhcflx/alpine-hugo-git-bash
 
 pipelines:
   # Master branch deployment to live - no drafts
