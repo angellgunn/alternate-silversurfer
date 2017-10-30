@@ -11,6 +11,7 @@ title = "uma página livre"
 author = "silversurfer"
 disqusshortname = ""
 pluralizelisttitles = false
+preserveTaxonomyNames = true
 
 [permalinks]
 blog = "blog/:slug/"
