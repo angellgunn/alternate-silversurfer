@@ -12,6 +12,7 @@ author = "silversurfer"
 disqusshortname = ""
 pluralizelisttitles = false
 preserveTaxonomyNames = true
+removePathAccents = true
 
 [permalinks]
 blog = "blog/:slug/"
