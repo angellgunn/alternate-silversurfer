@@ -10,9 +10,9 @@ pipelines:
             - apk add openssh
             - git submodule update
             - hugo
-            - git config user.name 'fhcflx'
-            - git config user.email 'fhcflx@outlook.com'
-            - git commit -m 'new update'
+            - git config user.name 'silversurfer'
+            - git config user.email 'alternate-silversurfer@outlook.com'
+            - git commit -am 'new update'
             - git filter-branch --prune-empty --subdirectory-filter public
             - git checkout -b deploy
             - git push -f origin deploy
