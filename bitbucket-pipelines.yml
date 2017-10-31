@@ -6,6 +6,7 @@ pipelines:
     master:
       - step:
           script:
+            - apk update
             - apk add openssh
             - git submodule update
             - hugo
