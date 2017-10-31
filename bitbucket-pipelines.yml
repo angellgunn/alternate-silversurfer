@@ -12,9 +12,7 @@ pipelines:
             - hugo
             - git config user.name 'fhcflx'
             - git config user.email 'fhcflx@outlook.com'
-            - git reset HEAD~8
-            - git commit -am 'back to the future'
-            - git push origin master
+            - git commit -m 'new update'
             - git filter-branch --prune-empty --subdirectory-filter public
             - git checkout -b deploy
-            - git push origin deploy
+            - git push -f origin deploy
