@@ -1,4 +1,4 @@
-image: fhcflx/alpine-hugo-git-bash
+image: andthensome/alpine-hugo-git-bash
 
 pipelines:
   # Master branch deployment to live - no drafts
@@ -6,12 +6,14 @@ pipelines:
     master:
       - step:
           script:
+            - apk add openssh
             - git submodule update
             - hugo
             - git config user.name 'fhcflx'
             - git config user.email 'fhcflx@outlook.com'
-            - git add .
-            - git commit -m 'new update'
+            - git reset HEAD~8
+            - git commit -am 'back to the future'
+            - git push origin master
             - git filter-branch --prune-empty --subdirectory-filter public
             - git checkout -b deploy
-            - git push -f origin deploy
+            - git push origin deploy
