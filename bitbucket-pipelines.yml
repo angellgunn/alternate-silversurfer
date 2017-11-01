@@ -12,7 +12,7 @@ pipelines:
             - hugo
             - git config user.name 'silversurfer'
             - git config user.email 'alternate-silversurfer@outlook.com'
-            - git commit -am 'new update'
+            - git add . && git commit -m 'new update'
             - git filter-branch --prune-empty --subdirectory-filter public
             - git checkout -b deploy
             - git push -f origin deploy
