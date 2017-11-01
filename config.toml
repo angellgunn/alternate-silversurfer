@@ -16,6 +16,7 @@ removePathAccents = true
 
 [permalinks]
 blog = "blog/:slug/"
+postagens = "postagens/:slug/"
 
 [params]
 dateform = "2 Jan, 2006"
