@@ -45,6 +45,6 @@ Como o Hugo escreve os arquivos gerados da página no diretório _public_, filtr
 
 No mais, foi preciso gerar um par de chaves criptográficas no menu _pipelines_ e, em seguida, _configurações_. A chave pública pode ser copiada com um toque. Basta adicionar a chave nas configuracões de segurança do perfil do Bitbucket e tudo funcionará como se fosse um _commit_ a partir de um repositório origem para o remoto.
 
-_Très, très simple!_ Fiz tudo de um tablet!
+_Très, très simple!_ Fiz tudo de um tablet! E a integração ficou rápida como o raio, dura menos de 15 segundos!
 
 P.S.: a única limitação para mim foi que o Alpine Linux não tem opção de configurar _locales_, e isso me impediu de acentuar o título da página. Mas foi somente isso. Os símbolos e acentuação dentro do texto das postagens são preservados.
