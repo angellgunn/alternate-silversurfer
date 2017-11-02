@@ -39,10 +39,12 @@ pipelines:
             - git push -f origin deploy
 ```
 
-Apk é o gerenciador de pacotes do Alpine, e eu preciso do _openssh_ porque o _bitbucket.pipelines_ não salva artefatos da integração em contas gratuitas (exceto na área de download). É necessário sincronizar os arquivos atualizados com o remoto via ssh (daí também a necessidade de Git). 
+Apk é o gerenciador de pacotes do Alpine, e eu preciso do _openssh_ porque o _bitbucket.pipelines_ não salva artefatos da integração em contas gratuitas (exceto na área de download). É necessário sincronizar os arquivos atualizados com o remoto via ssh (daí também a necessidade de Git). Além disso, preciso dar um `git submodule update` pois o tema _Cocoa EH_ é um submódulo dentro do meu repositório.
 
 Como o Hugo escreve os arquivos gerados da página no diretório _public_, filtrei os arquivos usando `git filter-branch --subdirectory-filter` e criei um novo _branch_ chamado `deploy`, fazendo _checkout_ nele em seguida. O remoto já tem um ramo `deploy`, porém o _bitbucket.pipelines_ somente clona o `master`. Por isso, também, torna-se necessário dar _push_ com a opção `git push -f` (_force_).
 
 No mais, foi preciso gerar um par de chaves criptográficas no menu _pipelines_ e, em seguida, _configurações_. A chave pública pode ser copiada com um toque. Basta adicionar a chave nas configuracões de segurança do perfil do Bitbucket e tudo funcionará como se fosse um _commit_ a partir de um repositório origem para o remoto.
 
 _Très, très simple!_ Fiz tudo de um tablet!
+
+P.S.: a única limitação para mim foi que o Alpine Linux não tem opção de configurar _locales_, e isso me impediu de acentuar o título da página. Mas foi somente isso. Os símbolos e acentuação dentro do texto das postagens são preservados.
