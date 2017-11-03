@@ -1,7 +1,7 @@
 +++
 date = "2017-10-25"
 title = "Não existe gênero - sobre a ideologia"
-keywords = ideologia, gênero, liberdade, preconceito
+keywords = "ideologia, gênero, liberdade, preconceito"
 +++
 
 Eu não sou especialista em ideologia de gênero, nem tampouco em ciências sociais. Minha educação formal e meu trabalho me levaram para áreas distintas: meus interesses iniciais eram das ciências exatas, e acabei indo parar trabalhando na área biomédica. Por isso, neste pequeno texto vai basicamente minha opinião, o modo como compreendo esta questão, mas não uma abordagem erudita, ou mesmo profissional.
