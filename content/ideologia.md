@@ -1,6 +1,6 @@
 +++
 date = "2017-10-25"
-title = "Não existe gênero - sobre a ideologia"
+title = "Não existe gênero"
 keywords = "ideologia, gênero, liberdade, preconceito"
 +++
 
