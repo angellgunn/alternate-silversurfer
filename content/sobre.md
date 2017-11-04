@@ -1,6 +1,6 @@
 +++
-date = "2017-10-31"
+date = "2017-10-20"
 title = "Sobre"
 +++
 
-pÃ¡gina criada para nada em especial.
+página criada para nada em especial.
