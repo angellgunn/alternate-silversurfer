@@ -1,6 +1,7 @@
 +++
-title = "a escravidão moderna"
-date = "2017-10-20"
+title = "A escravidão moderna"
+date = "2017-10-31"
+keywords = "escravidão, trabalho, direitos"
 +++
 
 Um amigo meu trabalha na Central de Leitos, uma repartição da Secretaria de Saúde do Estado. Do que entendo, sua atribuição é encontrar "a melhor vaga para cada paciente".  Mas não é sobre isso que versa este texto. Apenas acrescento, como curiosidade, que meu amigo confirmou que a Central tem poucas vagas para um mar de solicitações (nenhuma surpresa nisso).
