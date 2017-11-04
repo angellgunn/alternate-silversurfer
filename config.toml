@@ -1,6 +1,7 @@
 baseURL = "/"
 theme = "cocoa-eh"
 builddrafts = false
+buildExpired = true
 canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
