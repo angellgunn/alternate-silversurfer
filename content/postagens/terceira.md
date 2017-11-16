@@ -25,7 +25,7 @@ O método:
 # cd /sys/firmware/efi/efivars/
 ```
 
-4- Checando a pasta `/sys/firmware/efi/efivars`, se houver algum arquivo *gpu-power-prefs-<UUID>*, o mesmo deve ser removido. No meu caso, não havia tal arquivo.
+4- Checando a pasta `/sys/firmware/efi/efivars`, se houver algum arquivo `gpu-power-prefs-<UUID>`, o mesmo deve ser removido. No meu caso, não havia tal arquivo.
 
 5- Pulei algumas recomendações para o caso de problemas no display ou para eventualidade de encontrar outros arquivos de configuração (é bom checar com cuidado a discussão original) e parti para o ataque, criando uma nova configuração usando uma UUID qualquer (@AppleMacFinder tirou de uma placa física):
 
@@ -36,7 +36,7 @@ O método:
 # umount /sys/firmware/efi/efivars/
 # reboot
 ```
-Na discussão foram introduzidos outros métodos adicionais, mas inicialmente fiz apenas isso. _Como que por encanto, meu falecido MBP voltou à vida!_ Como eu havia apagado o SO nas inúmeras tentativas de autodiagnosticar o problema antes de levar na autorizada, usei a reinicialização pressionando as teclas *Option + Command + R" para acionar o _Internet Recovery_ da Apple. O procedimento funcionou perfeitamente (antes congelava a meio caminho) e baixou o SO mais novo (High Sierra) o qual foi instalado e reinicializou. Tudo perfeito! Ou quase. Ao percorrer as etapas de inicialização do High Sierra, quando o computador foi reiniciar ao final, ele congelou novamente. Após mais leituras da mesma discussão do fórum, descobri que seria necessário isolar um arquivo de configuração que tentava usar a dGPU da AMD. Para tanto, usei o [guia](https://forums.macrumors.com/threads/force-2011-macbook-pro-8-2-with-failed-amd-gpu-to-always-use-intel-integrated-gpu-efi-variable-fix.2037591/page-35#post-24956091) do usuário @MikeyN, o qual faz algo muito semelhante que o método que usei primeiro, porém por outro caminho:
+Na discussão foram introduzidos outros métodos adicionais, mas inicialmente fiz apenas isso. _Como que por encanto, meu falecido MBP voltou à vida!_ Como eu havia apagado o SO nas inúmeras tentativas de autodiagnosticar o problema antes de levar na autorizada, usei a reinicialização pressionando as teclas *Option + Command + R* para acionar o _Internet Recovery_ da Apple. O procedimento funcionou perfeitamente (antes congelava a meio caminho) e baixou o SO mais novo (High Sierra) o qual foi instalado e reinicializou. Tudo perfeito! Ou quase. Ao percorrer as etapas de inicialização do High Sierra, quando o computador foi reiniciar ao final, ele congelou novamente. Após mais leituras da mesma discussão do fórum, descobri que seria necessário isolar um arquivo de configuração que tentava usar a dGPU da AMD. Para tanto, usei o [guia](https://forums.macrumors.com/threads/force-2011-macbook-pro-8-2-with-failed-amd-gpu-to-always-use-intel-integrated-gpu-efi-variable-fix.2037591/page-35#post-24956091) do usuário @MikeyN, o qual faz algo muito semelhante que o método que usei primeiro, porém por outro caminho:
 
 1- Resetei a SMC e NVRAM, pressionando *Option + Control + Shift esquerdo + Power*, liberando e, depois, iniciando com *Option + Command + P + R* pressionadas.
 
