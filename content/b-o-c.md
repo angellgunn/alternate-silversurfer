@@ -97,8 +97,8 @@ which one believes to be transferable, objective knowledge, must always
 be created by the listener: the listener understands, and *objective
 knowledge* appears transferred, only if he is prepared to understand.
 Thus *cognition* as a biological function is such that the answer to the
-question, *\'What is cognition?\'* must arise from understanding
-knowledge and the knower through the latter\'s capacity to know.
+question, *'What is cognition?'* must arise from understanding
+knowledge and the knower through the latter's capacity to know.
 
 Such is my endeavor.
 
@@ -109,7 +109,7 @@ application of a well defined methodology, to make statements about the
 universe. At the very root of this claim, however, lies its weakness:
 the *a priori* assumption that objective knowledge constitutes a
 description of that which is known. Such assumption begs the questions,
-*\'What is it to know?\'* and *\'How do we know?\'*.
+*'What is it to know?'* and *'How do we know?'*.
 
 ***Biology***
 
@@ -121,7 +121,7 @@ parts? The organismic approach does not answer this question, it merely
 restates it by insisting that there are elements of organization that
 subordinate each part to the whole and make the organism
 
-*\[Note 1\]*
+*[Note 1]*
 
  
 
@@ -129,10 +129,10 @@ subordinate each part to the whole and make the organism
 
 \
  \
-*\[Note 1\] The ungrammatical phrasing \"\...are its \... properties
-\... **it** parts\" appears in the original. It should, of course, read
-\"\... in what sense are its component properties **its** parts?\" -
-Ed.*\
+*[Note 1] The ungrammatical phrasing "...are its ... properties
+... **it** parts" appears in the original. It should, of course, read
+"... in what sense are its component properties **its** parts?" -
+Ed.*
  
 
  
@@ -145,7 +145,7 @@ Ed.*\
 
 (In: *Autopoiesis and Cognition*)
 
-[**Page 6**]{#p6}
+**Page 6**
 
  
 
@@ -153,27 +153,27 @@ Ed.*\
 
  
 
-a unity \[Cf. Bertalanffy, 1960\]. The questions *\'How does this unity
-arise?\'* and *\'To what extent must it be considered a property of the
+a unity [Cf. Bertalanffy, 1960]. The questions *'How does this unity
+arise?'* and *'To what extent must it be considered a property of the
 organization of the organism, as opposed to a property emerging from its
 mode of life?\'* remain open. A similar difficulty exists for the
 understanding of the functional organization of the nervous system,
 particularly if one considers the higher functions of man. Enumeration
 of the transfer functions of all nerve cells would leave us with a list,
 but not with a system capable of abstract thinking, description, and
-self-description. Such an approach would beg the question, *\'How does
+self-description. Such an approach would beg the question, *'How does
 the living organization give rise to cognition in general and to
-self-cognition in particular?\'*
+self-cognition in particular?'*
 
 *(b)* Organisms are adapted to their environments, and it has appeared
 adequate to say of them that their organization represents the
-\'environment\' in which they live, and that through evolution they have
+'environment' in which they live, and that through evolution they have
 accumulated information about it, coded in their nervous systems.
 Similarly it has been said that the sense organs gather information
-about the \'environment\', and through learning this information is
-coded in the nervous system \[Cf. Young, 1967\]. Yet this general view
-begs the questions, *\'What does it mean to \"gather information\"?\'*
-and *\'What is coded in the genetic and nervous systems?\'*.
+about the 'environment', and through learning this information is
+coded in the nervous system [Cf. Young, 1967]. Yet this general view
+begs the questions, *'What does it mean to "gather information"?'*
+and *'What is coded in the genetic and nervous systems?'*.
 
 A successful theory of cognition would answer both the epistemological
 and the biological questions. This I propose to do, and the purpose of
@@ -184,7 +184,7 @@ that gives rise to such phenomena as conceptual thinking, language, and
 self-consciousness.
 
 In what follows I shall not offer any formal definitions for the various
-terms used, such as \'cognition\', \'life\', or \'interaction\', but I
+terms used, such as 'cognition', 'life', or 'interaction', but I
 shall let their meaning appear through their usage. This I shall do
 because I am confident that the internal consistency of the theory will
 show that these terms indeed adequately refer to the phenomena I am
@@ -204,7 +204,6 @@ whole.
 
  
 
-  []{#II.}
 
 ------------------------------------------------------------------------
 
@@ -216,7 +215,7 @@ whole.
 
 (In: *Autopoiesis and Cognition*)
 
-[**Page 7**]{#p7}
+**Page 7**
 
  
 
@@ -230,7 +229,7 @@ whole.
 
 
 
-:   \(1) Cognition is a biological phenomenon and can only be understood as
+    > (1) Cognition is a biological phenomenon and can only be understood as
     > such; any epistemological insight into the domain of knowledge requires
     > this understanding.
 
@@ -238,7 +237,7 @@ whole.
 
 
 
-:    
+   
     >
     > \(2) If such an insight is to be attained, two questions must be
     > considered:
@@ -251,6 +250,238 @@ whole.
     >
     > *What is cognition as a process?*
 
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 8**
+
+
+
+
+
+
+## COGNITIVE FUNCTION IN GENERAL
+
+### THE OBSERVER
+
+(1) Anything said is said by an observer. In his discourse the observer speaks to another observer, who could be himself; whatever applies to the one applies to the other as well. The observer is a human being, that is, a living system, and whatever applies to living systems applies also to him.
+(2) The observer beholds simultaneously the entity that he considers (an organism, in our case) and the universe in which it lies (the organism's environment). This allows him to interact independently with both and to have interactions that are necessarily outside the domain of interactions of the observed entity.
+
+(3) It is an attribute of the observer to be able to interact independently with the observed entity and with its relations; for him both are units of interaction (entities).
+
+(4) For the observer an entity is an entity when he can describe it. To describe is to enumerate the actual or potential interactions and relations of the described entity. Accordingly, the observer can describe an entity only if there is at least one other entity from which he can distinguish it and with which he can observe it to interact or relate. This second entity that serves as a reference for the description can be any entity, but the ultimate reference for any description is the observer himself.
+
+(5) The set of all interactions into which an entity can enter is its domain of interactions. The set of all relations (interactions through the observer) in which an entity can be observed is its domain of relations. This latter domain lies within the cognitive domain of the observer. An entity is an entity if it has a domain of interactions, and if this domain includes interactions with the observer who can specify for it a domain of relations. The observer can define an entity by specifying its domain of interactions; thus part of an entity, a group of entities, or their relations, can be made units of interactions (entities) by the observer.
+
+(6) The observer can define himself as an entity by specifying his own domain of interactions; he can always remain an observer of these interactions, which he can treat as independent entities.
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 9**
+
+
+
+
+
+
+
+(7) *The observer is a living system and an understanding of cognition as a biological phenomenon must account for the observer and his role in it.*
+ 
+### THE LIVING SYSTEM
+
+(1) Living systems are units of interactions; they exist in an ambience. From a purely biological point of view they cannot be understood independently of that part of the ambience with which they interact: the niche; nor can the niche be defined independently of the living system that specifies it.
+
+(2) Living systems as they exist on earth today are characterized by exergonic metabolism, growth and internal molecular reproduction, all organized in a closed causal circular process that allows for evolutionary change in the way the circularity is maintained, but not for the loss of the circularity itself. Exergonic metabolism is required to provide energy for the endergonic synthesis of specific polymers (proteins, nucleic acids, lipids, polysaccharides) from the corresponding monomers, that is, for growth and replication; special replication procedures secure that the polymers synthesized be specific, that they should have the monomer sequence proper to their class; specific polymers (enzymes) are required for the exergonic metabolism and the synthesis of specific polymers (proteins, nucleic acids, lipids, polysaccharides) [Cf. Commoner, 19651.]
+This circular organization constitutes a homeostatic system whose function is to produce and maintain this very same circular organization by determining that the components that specify it be those whose synthesis or maintenance it secures. Furthermore, this circular organization defines a living system as a unit of interactions and is essential for its maintenance as a unit; that which is not in it is external to it or does not exist. The circular organization in which the components that specify it are those whose synthesis or maintenance it secures in a manner such that the product of their functioning is the same functioning organization that produces them, is the living organization.
+
+(3) It is the circularity of its organization that makes a living system a unit of interactions, and it is this circularity that it must maintain in order to remain a living system and to retain its identity through different interactions. All the peculiar aspects of the different kinds of organisms are superimposed on this basic circularity and are subsequent to it, securing its continuance through successive interactions in an always changing environment. A living system defines through its organization the domain of all interactions into which it can possibly enter without losing its identity, and it maintains its identity only as long as the basic circularity that defines it as a unit of
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 10**
+
+
+
+
+
+
+
+interactions remains unbroken. Strictly, the identity of a unit of interactions that otherwise changes continuously is maintained only with respect to the observer, for whom its character as a unit of interactions remains unchanged.
+
+(4) Due to the circular nature of its organization a living system has a self-referring domain of interactions (it is a self-referring system), and its condition of being a unit of interactions is maintained because its organization has functional significance only in relation to the maintenance of its circularity and defines its domain of interactions accordingly.
+
+(5) Living systems as units of interactions specified by their condition of being living systems cannot enter into interactions that are not specified by their organization. The circularity of their organization continuously brings them back to the same internal state (same with respect to the cyclic process). Each internal state requires that certain conditions (interactions with the environment be satisfied in order to proceed to the next state. Thus, the circular organization implies the prediction that an interaction that took place once will take place again. If this does not happen the system disintegrates; if the predicted interaction does take place, the system maintains its integrity (identity with respect to the observer) and enters into a new prediction. In a continuously changing environment these predictions can only be successful if the environment does not change in that which is predicted. Accordingly, the predictions implied in the organization of the living system are not predictions of particular events, but of classes of interactions. Every interaction is a particular interaction, but every prediction is a prediction of a class of interactions that is defined by those features of its elements that will allow the living system to retain its circular organization after the interaction, and thus, to interact again. This makes living systems inferential systems, and their domain of interactions a cognitive domain.
+
+(6) The niche is defined by the classes of interactions into which an organism cam enter. The environment is defined by the classes of interactions into which the observer can enter and which he treats as a context for his interactions with the observed organism. The observer beholds organism and environment simultaneously and he considers as the niche of the organism that part of the environment which he observes to lie in its domain of interactions. Accordingly, as for the observer the niche appears as part of the environment, for the observed organism the niche constitutes its entire domain of interactions, and as such it cannot be part of the environment that lies exclusively in the cognitive domain of the observer. Niche and environment, then, intersect only to the extent that the observer (including instruments) and the organism have comparable organizations, but even then
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 11**
+
+
+
+
+
+
+there are always parts of the environment that lie beyond any possibility of intersection with the domain of interactions of the organism, and there are parts of the niche that lie beyond any possibility of intersection with the domain of interactions of the observer. Thus for every living system its organization implies a prediction of a niche, and the niche thus predicted as a domain of classes of interactions constitutes its entire cognitive reality. If an organism interacts in a manner not prescribed by its organization, it does so as something different from the unit of interactions defined by its basic circularity, and this interaction remains outside its cognitive domain, although it may well lie within the cognitive domain of the observer.
+
+(7) Every unit of interactions can participate in interactions relevant to other, more encompassing units of interactions. If in doing this a living system does not lose its identity, its niche may evolve to be contained by the larger unit of interactions and thus be subservient to it. If this larger unit of interactions is (or becomes) in turn also a self-referring system in which its components (themselves self-referring systems) are subservient to its maintenance as a unit of interactions, then it must itself be (or become) subservient to the maintenance of the circular organization of its components. Thus, a particular self-referring system may have the circular organization of a living system or partake functionally of the circular organization of its components, or both. The society of bees (the honey producing bees) is an example of a third order self-referring system of this kind; it has a circular organization superimposed on the second order self-referring systems that are the bees, which in turn have a circular organization superimposed on the first order living systems that are the cells; all three systems with their domains of interactions are subordinated both to the maintenance of themselves and to the maintenance of the others.
+ 
+### EVOLUTION
+
+(1) Evolutionary change in living systems is the result of that aspect of their circular organization which secures the maintenance of their basic circularity, allowing in each reproductive step for changes in the way this circularity is maintained. Reproduction and evolution are not essential for the living organization, but they have been essential for the historical transformation of the cognitive domains of the living systems on earth.
+
+(2) For a change to occur in the domain of interactions of a unit of interactions without its losing its identity with respect to the observer it must suffer an internal change. Conversely, if an internal change occurs in a unit of
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 12**
+
+
+
+
+
+
+interactions, without its losing its identity, its domain of interactions changes. A living system suffers an internal change without loss of identity if the predictions brought forth by the internal change are predictions which do not interfere with its fundamental circular organization. A system changes only if its domain of interactions changes.
+
+(3) After reproduction the new unit of interactions has the same domain of interactions as the parental one only if it has the same organization. Conversely, the new unit of interactions has a different domain of interactions only if its organization is different, and hence, implies different predictions about the niche.
+
+(4) Predictions about the niche are inferences about classes of interactions. Consequently, particular interactions which are indistinguishable for an organism may be different for an observer if he has a different cognitive domain and can describe them as different elements of a class defined by the conduct of the organism. The same applies to interactions that are identical for the organism but different for (have different effects) its different internal parts. Such interactions may result in different modifications of the internal states of the organism and, hence, determine different paths of change in its domain of interactions without loss of identity. These changes may bring about the production of offspring having domains of interactions different from the parental ones. If this is the case and a new system thus produced predicts a niche that cannot be actualized, it disintegrates; otherwise it maintains its identity and a new cycle begins.
+
+(5) What changes from generation to generation in the evolution of living systems are those aspects of their organization which are subservient to the maintenance of their basic circularity but do not determine it, and which allow them to retain their identity through interactions; that is, what changes is the way in which the basic circularity is maintained, and not this basic circularity in itself. The manner in which a living system is compounded as a unit of interactions, whether by a single basic unit, or through the aggregation of numerous such units (themselves living systems) that together constitute a larger one (multicellular organisms), or still through the aggregation of their compound units that form self-referring systems of even higher order (insect societies, nations) is of no significance; what evolves is always a unit of interactions defined by the way in which it maintains its identity. The evolution of the living systems is the evolution of the niches of the units of interactions defined by their self-referring circular organization, hence, the evolution of the cognitive domains.
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 13**
+
+
+
+
+
+
+### THE COGNITIVE PROCESS
+
+(1) A cognitive system is a system whose organization defines a domain of interactions in which it can act with relevance to the maintenance of itself, and the process of cognition is the actual (inductive) acting or behaving in this domain. *Living systems are cognitive systems, and living as a process is a process of cognition.* This statement is valid for all organisms, with and without a nervous system.
+
+(2) If a living system enters into a cognitive interaction, its internal state is changed in a manner relevant to its maintenance, and it enters into a new interaction without loss of its identity. In an organism without a nervous system (or its functional equivalent) its interactions are of a chemical or physical nature (a molecule is absorbed and an enzymatic process is initiated; a photon is captured and a step in photosynthesis is carried out). For such an organism the relations holding between the physical events remain outside its domain of interactions. The nervous system enlarges the domain of interactions of the organism by making its internal states also modifiable in a relevant manner by 'pure relations', not only by physical events; the observer sees that the sensors of an animal (say, a cat) are modified by light, and that the animal (the cat) is modified by a visible entity (say, a bird). The sensors change through physical interactions: the absorption of light quanta; the animal is modified through its interactions with the relations that hold between the activated sensors that absorbed the light quanta at the sensory surface. *The nervous system expands the cognitive domain of the living system by making possible interactions with 'pure relations'; it does not create cognition.*
+
+(3) Although the nervous system expands the domain of interactions of the organism by bringing into this domain interactions with 'pure relations', the function of the nervous system is subservient to the necessary circularity of the living organization.
+
+(4) The nervous system, by expanding the domain of interactions of the organism, has transformed the unit of interactions and has subjected acting and interacting in the domain of 'pure relations' to the process of evolution. As a consequence, there are organisms that include as a subset of their possible interactions, interactions with their own internal states (as states resulting from external and internal interactions) as if they were independent entities, generating the apparent paradox of including their cognitive domain within their cognitive domain. In us this paradox is resolved by what we call 'abstract thinking', another expansion of the cognitive domain.
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+(In: *Autopoiesis and Cognition*)
+
+**Page 14**
+
+
+
+
+
+
+
+(5) Furthermore, the expansion of the cognitive domain into the domain of 'pure relations' by means of a nervous system allows for non-physical interactions between organisms such that the interacting organisms orient each other toward interactions within their respective cognitive domains. Herein lies the basis for communication: the orienting behavior becomes a representation of the interactions toward which it orients, and a unit of interactions in its own terms. But this very process generates another apparent paradox: there are organisms that generate representations of their own interactions by specifying entities with which they interact as if they belonged to an independent domain, while as representations they only map their own interactions. In us this paradox is resolved simultaneously in two ways:
 
 :   *(a)* We become *observers* through recursively generating
     representations of our interactions, and by interacting with several
