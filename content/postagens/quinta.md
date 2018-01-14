@@ -1,0 +1,25 @@
+﻿---
+title: "Quinta"
+date: 2018-01-12T23:04:12-03:00
+keywords: epistemologia, Maturana, filosofia, modernidade líquida, foraTemer
+---
+
+As minhas outras postagens foram sobre tecnologia, e estavam de acordo com o impulso inicial de criar um novo canal de comunicação aqui nas fímbrias da rede mundial, onde possivelmente ninguém jamais me ouvirá (lerá). Tanto faz, o intuito principal deste canal, fora o de não ter intuito algum, foi simplesmente de jogar estas idéias ao vento e deixá-las ao sabor da maré do fluxo da rede de informações. A estatística pura e simples me diz que a chance de alguém em particular dar de cara aleatoriamente com estas linhas e lê-las é ínfima, especialmente na ausência de uma divulgação sistemática em redes sociais, como é a rotina modernamente. Então, o ato puro de escrever e a (pseudo)exposição de fazer isso num canal livre e público são os fetiches que me motivam.
+
+Esta postagem varia do tema até então, não sendo sobre a tecnologia que empreguei na feitura do blog, ou em outras tecnologias as quais me suscitam interesse. Esta é a introdução da minha tese sobre filosofia da ciência, conhecida por epistemologia. É uma tese pelo motivo mais próprio, mas não mais utilizado: é a apresentação da minha teoria em especial sobre a filosofia da ciência no geral, de uma área específica em especial. Cogitei longo tempo sobre fazer um doutorado na minha área primária de formação, e algum tempo (bem menos, confesso) em outras áreas, afins ou não. Desisti de todas as possibilidades por vários motivos, o principal sendo provavelmente a possibilidade de não me ater a prazos. Prazos são extremamente incômodos e chatos mas, acima de tudo, tolhem a criatividade alheia por não permitir desvios que, sem dúvida, consomem um tempo desproporcionalmente grande em relação à sua baixa produtividade, porém constituem a única possibilidade real de criar algo realmente novo e não somente um passeio guiado pela produção intelectual humana, algo como a Dysneylândia da filosofia.
+
+Não que qualquer que seja o esforço empreendido terá a garantia de ser criativo ou vingar como uma iniciativa original na epistemologia. Novamente, a estatística me diz que o mais provável é que este esforço não seja mais do que algo isolado e sem nenhum significado para o panorama geral, local ou não. Mais uma vez, isso não me incomoda. Mais transtorno seria ter que me atrelar aos arreios acadêmicos a fim de criar o que quer que fosse e, pior ainda, a perspectiva de me tornar um jumento puxador de charrete da filosofia e nada criar de meu, mesmo que inútil. Peço perdão de antemão por ser assim grosseiro com o _status quo_ da academia de uma forma anônima, sem assumir a autoria. Isso parece covardia, e bem o é, sem desculpas que eu possa usar para disfarçar a infração. Vivo numa democracia (aparente) e não sofro pressões sociais e políticas maiores que a média da população sem rosto. No entanto, arriscaria mais do que minha pele, também a de outros, e dessa forma, vilmente, me escondo sob um _nom de plume_.
+
+Dito isto (como agora é moda, imitando desavergonhadamente os americanos), declaro que esta postagem é o equivalente ao preâmbulo, ou apresentação, da minha tese. Ela terá um aspecto formal sem muito fugir ao tradicional, com uma introdução, objetivo, discussão, etc. Para início, vou apresentar logo toda a premissa a ser defendida, sem circunlóquios:
+- O método científico é um construto essencialmente individual do agente do conhecimento, e o conhecimento possível é uma construção também individual acerca de uma visão de mundo, aparentemente objetiva, igualmente individual, mas que é capaz de interagir com construtos coletivos que existem como uma parte desta construção individual e que jamais podem alcançar uma objetividade transcendente.
+- O conhecimento científico pode ter estas características:
+  - Integração lógica: obedecem a um esqueleto de idéias prévias que podemos chamar de lógica.
+  - Falseabilidade sistemática: ocorre dentro do sistema onde o conhecimento foi gerado, mas não há garantia de nenhuma permanência desta característica fora deste sistema.
+  - Dependência do panorama: todas as operações lógicas de manipulação do conhecimento, por mais "objetivas" que pareçam, dependem da lógica do sistema onde o conhecimento está inserido, e mais, dependem de como o indivíduo se posiciona e quais as suas motivações dentro deste sistema.
+- A analogia que me vêm à mente é de um peixe no aquário: o que conhecemos é o nosso mundo particular e apenas temos contato "indireto" com "o mundo lá fora" e nem mesmo sua realidade pode ser certa para nós, quanto mais suas características.
+
+A minha tese é diretamente influenciada pelo trabalho de Humberto Maturana, sobre a Biologia do Conhecimento [1]. Seu trabalho é independente
+
+1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
+
+[biocog]:http://www.enolagaia.com/M70-80BoC.html#VI.
