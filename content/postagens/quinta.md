@@ -22,4 +22,4 @@ A minha tese é diretamente influenciada pelo trabalho de Humberto Maturana, sob
 
 1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
 
-[biocog]:http://www.enolagaia.com/M70-80BoC.html#VI.
+[biocog]:{{< relref "b-o-c.md">}}

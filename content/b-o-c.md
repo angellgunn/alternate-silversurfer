@@ -3,8 +3,6 @@ date = "2018-01-11"
 title = "Biology of Cognition"
 +++
 
-**BIOLOGY OF COGNITION**
-
 **Humberto R. Maturana**
 
 Biological Computer Laboratory Research Report BCL 9.0.\
@@ -24,13 +22,13 @@ important document, formatted to reflect its original appearance.
 This material is presented with the gracious permission of the author
 (Professor Maturana).\
 
-This presentation is formatted to reflect the pagination of the paper\'s
+This presentation is formatted to reflect the pagination of the paper's
 reprinting in *Autopoiesis and Cognition*\
 
-Parenthetical notes of the form *\[Note X\]* represent editor /
+Parenthetical notes of the form *[Note X]* represent editor /
 transcriber comments, and are not part of the original published text.\
 
-This HTML transcription (exclusive of the otherwise copyrighted
+The HTML transcription (exclusive of the otherwise copyrighted
 material) is copyright © 2000 Randall Whitaker.\
 
 [**I. INTRODUCTION**]({{< relref "#introduction" >}})\
@@ -63,11 +61,28 @@ material) is copyright © 2000 Randall Whitaker.\
 
 [**POST SCRIPTUM**]({{< relref "#post-scriptum" >}})\
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 5**
+
+ 
+
+ 
+
+ 
+
 
 **HUMBERTO R. MATURANA**
 
@@ -110,16 +125,33 @@ parts? The organismic approach does not answer this question, it merely
 restates it by insisting that there are elements of organization that
 subordinate each part to the whole and make the organism
 
-*Note 1: The ungrammatical phrasing "...are its ... properties
+_Note 1: The ungrammatical phrasing "...are its ... properties
 ... **it** parts" appears in the original. It should, of course, read
 "... in what sense are its component properties **its** parts?" -
-Ed.*
+Ed._
+
+ 
+
+ 
+
+ 
 
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 6**
+
+ 
+
+ 
+
+ 
+
 
 a unity [Cf. Bertalanffy, 1960]. The questions *'How does this unity
 arise?'* and *'To what extent must it be considered a property of the
@@ -168,40 +200,66 @@ whole.
 > mean unity. Since I cannot now correct this. I beg the reader to bear
 > this in mind.
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 7**
 
+ 
+
+ 
+
+ 
+
+
 ## THE PROBLEM
 
-    > (1) Cognition is a biological phenomenon and can only be understood as
-    > such; any epistemological insight into the domain of knowledge requires
-    > this understanding.
-
-     
+> (1) Cognition is a biological phenomenon and can only be understood as
+> such; any epistemological insight into the domain of knowledge requires
+> this understanding.
 
 
 
-   
+> (2) If such an insight is to be attained, two questions must be
+> considered:
+>
+> - *What is cognition as a function?*
+>
+> - *What is cognition as a process?*
 
-    > \(2) If such an insight is to be attained, two questions must be
-    > considered:
- 
- 
-    > *What is cognition as a function?*
- 
- 
- 
-    > *What is cognition as a process?*
- 
+ 
+
+ 
+
+ 
 
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 8**
+
+ 
+
+ 
+
+ 
+
 
 ## COGNITIVE FUNCTION IN GENERAL
 
@@ -218,11 +276,28 @@ whole.
 
 (6) The observer can define himself as an entity by specifying his own domain of interactions; he can always remain an observer of these interactions, which he can treat as independent entities.
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 9**
+
+ 
+
+ 
+
+ 
+
 
 (7) *The observer is a living system and an understanding of cognition as a biological phenomenon must account for the observer and his role in it.*
  
@@ -235,11 +310,28 @@ This circular organization constitutes a homeostatic system whose function is to
 
 (3) It is the circularity of its organization that makes a living system a unit of interactions, and it is this circularity that it must maintain in order to remain a living system and to retain its identity through different interactions. All the peculiar aspects of the different kinds of organisms are superimposed on this basic circularity and are subsequent to it, securing its continuance through successive interactions in an always changing environment. A living system defines through its organization the domain of all interactions into which it can possibly enter without losing its identity, and it maintains its identity only as long as the basic circularity that defines it as a unit of
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 10**
+
+ 
+
+ 
+
+ 
+
 
 interactions remains unbroken. Strictly, the identity of a unit of interactions that otherwise changes continuously is maintained only with respect to the observer, for whom its character as a unit of interactions remains unchanged.
 
@@ -249,11 +341,28 @@ interactions remains unbroken. Strictly, the identity of a unit of interactions 
 
 (6) The niche is defined by the classes of interactions into which an organism cam enter. The environment is defined by the classes of interactions into which the observer can enter and which he treats as a context for his interactions with the observed organism. The observer beholds organism and environment simultaneously and he considers as the niche of the organism that part of the environment which he observes to lie in its domain of interactions. Accordingly, as for the observer the niche appears as part of the environment, for the observed organism the niche constitutes its entire domain of interactions, and as such it cannot be part of the environment that lies exclusively in the cognitive domain of the observer. Niche and environment, then, intersect only to the extent that the observer (including instruments) and the organism have comparable organizations, but even then
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 11**
+
+ 
+
+ 
+
+ 
+
 
 there are always parts of the environment that lie beyond any possibility of intersection with the domain of interactions of the organism, and there are parts of the niche that lie beyond any possibility of intersection with the domain of interactions of the observer. Thus for every living system its organization implies a prediction of a niche, and the niche thus predicted as a domain of classes of interactions constitutes its entire cognitive reality. If an organism interacts in a manner not prescribed by its organization, it does so as something different from the unit of interactions defined by its basic circularity, and this interaction remains outside its cognitive domain, although it may well lie within the cognitive domain of the observer.
 
@@ -265,11 +374,28 @@ there are always parts of the environment that lie beyond any possibility of int
 
 (2) For a change to occur in the domain of interactions of a unit of interactions without its losing its identity with respect to the observer it must suffer an internal change. Conversely, if an internal change occurs in a unit of
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 12**
+
+ 
+
+ 
+
+ 
+
 
 interactions, without its losing its identity, its domain of interactions changes. A living system suffers an internal change without loss of identity if the predictions brought forth by the internal change are predictions which do not interfere with its fundamental circular organization. A system changes only if its domain of interactions changes.
 
@@ -279,11 +405,28 @@ interactions, without its losing its identity, its domain of interactions change
 
 (5) What changes from generation to generation in the evolution of living systems are those aspects of their organization which are subservient to the maintenance of their basic circularity but do not determine it, and which allow them to retain their identity through interactions; that is, what changes is the way in which the basic circularity is maintained, and not this basic circularity in itself. The manner in which a living system is compounded as a unit of interactions, whether by a single basic unit, or through the aggregation of numerous such units (themselves living systems) that together constitute a larger one (multicellular organisms), or still through the aggregation of their compound units that form self-referring systems of even higher order (insect societies, nations) is of no significance; what evolves is always a unit of interactions defined by the way in which it maintains its identity. The evolution of the living systems is the evolution of the niches of the units of interactions defined by their self-referring circular organization, hence, the evolution of the cognitive domains.
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 13**
+
+ 
+
+ 
+
+ 
+
 
 ### THE COGNITIVE PROCESS
 
@@ -295,15 +438,32 @@ interactions, without its losing its identity, its domain of interactions change
 
 (4) The nervous system, by expanding the domain of interactions of the organism, has transformed the unit of interactions and has subjected acting and interacting in the domain of 'pure relations' to the process of evolution. As a consequence, there are organisms that include as a subset of their possible interactions, interactions with their own internal states (as states resulting from external and internal interactions) as if they were independent entities, generating the apparent paradox of including their cognitive domain within their cognitive domain. In us this paradox is resolved by what we call 'abstract thinking', another expansion of the cognitive domain.
 
+ 
+
+ 
+
+ 
+
 ------------------------------------------------------------------------
+
+ 
+
+ 
 
 (In: *Autopoiesis and Cognition*)
 
 **Page 14**
 
+ 
+
+ 
+
+ 
+
+
 (5) Furthermore, the expansion of the cognitive domain into the domain of 'pure relations' by means of a nervous system allows for non-physical interactions between organisms such that the interacting organisms orient each other toward interactions within their respective cognitive domains. Herein lies the basis for communication: the orienting behavior becomes a representation of the interactions toward which it orients, and a unit of interactions in its own terms. But this very process generates another apparent paradox: there are organisms that generate representations of their own interactions by specifying entities with which they interact as if they belonged to an independent domain, while as representations they only map their own interactions. In us this paradox is resolved simultaneously in two ways:
 
-:   *(a)* We become *observers* through recursively generating
+> *(a)* We become *observers* through recursively generating
     representations of our interactions, and by interacting with several
     representations simultaneously we generate relations with the
     representations of which we can then interact and repeat this
@@ -311,16 +471,33 @@ interactions, without its losing its identity, its domain of interactions change
     always larger than that of the representations.
 
 
-:   *(b)* We become *self-conscious* through self-observation; by making
+>  *(b)* We become *self-conscious* through  self-observation; by making
     descriptions of ourselves (representations), and by interacting with
     our descriptions we can describe ourselves describing ourselves, in
     an endless recursive process.
 
+   
+
+   
+
+   
+
 ------------------------------------------------------------------------
 
-(In: *Autopoiesis and Cognition*)
+   
 
-**Page 15**
+   
+
+  (In: *Autopoiesis and Cognition*)
+
+  **Page 15**
+
+   
+
+   
+
+   
+
 
 ## COGNITIVE FUNCTION IN PARTICULAR
 
@@ -533,7 +710,7 @@ states of effector activity, and not to particular afferent states.
 Furthermore:
 
 
-:   *(a)* Any interaction is represented in the nervous system by the
+> *(a)* Any interaction is represented in the nervous system by the
     sequence of states of relative neuronal activity leading to the
     conduct which it generates; this conduct should be repeatable to the
     extent that the interaction (sequence of states of relative
@@ -542,7 +719,7 @@ Furthermore:
     impossible.
 
 
-:   *(b)* The nervous system always functions in the present, and it can
+> *(b)* The nervous system always functions in the present, and it can
     only be understood as a system functioning in the present. The
     present is the time interval necessary for an interaction to take
     place; past, future and time exist only for the observer. Although
@@ -553,7 +730,7 @@ Furthermore:
     is.
 
 
-:   *(c)* Any behavior is defined through a sequence of states in the
+> *\(c\)* Any behavior is defined through a sequence of states in the
     receptor surfaces (external and internal) that satisfy its direct or
     indirect subordination to the maintenance of the basic circularity
     of the living system. Since the nervous system is continuously
@@ -566,7 +743,7 @@ Furthermore:
 
 
 
-:   *(d)* An organism is a unit to the extent that its conduct results
+> *(d)* An organism is a unit to the extent that its conduct results
     in the maintenance of its basic circularity (and hence identity),
     and two modes of conduct are equivalent if they satisfy the same
     class of requirements for this maintenance. For this reason an
@@ -576,9 +753,9 @@ Furthermore:
     the generation of conduct, and sameness of conduct is defined with
     respect to an observer or a function that must be satisfied.
 
-     
+   
 
-\(9) From these notions it is apparent that the neuron cannot be
+(9) From these notions it is apparent that the neuron cannot be
 considered as the functional unit of the nervous system; no neuron can
 have a fixed functional role in the generation of conduct if it must be
 continuously changing its participation in it. For the same reason a
@@ -586,14 +763,14 @@ fixed collection of cells also cannot be considered as a functional unit
 of the nervous system. Only conduct itself can be considered as the
 functional unit of the nervous system.
 
-\(10) If nerve cells respond to classes of afferent configurations and
+(10) If nerve cells respond to classes of afferent configurations and
 not to particular afferent states, they must necessarily treat as
 equivalent particular afferent configurations that arise through
 interactions which for the observer are otherwise unrelated.
 
 ### ARCHITECTURE
 
-\(1) In any given nervous system the great majority (and perhaps the
+(1) In any given nervous system the great majority (and perhaps the
 totality) of its neurons can be assigned to well-defined morphological
 classes, each characterized by a given pattern of distribution of the
 collector and effector areas of its elements. As a result, the elements
@@ -606,14 +783,14 @@ and has been attained through evolution. The following implications are
 significant for the understanding of the nervous system:
 
 
-:   *(a)* There is a necessary genetic variability in the shape of nerve
+> *(a)* There is a necessary genetic variability in the shape of nerve
     cells as well as a variability that results from interactions of the
     organism with independent events during its development. The
     functional organization of the nervous system must be such as to
     tolerate this double variability.
 
 
-:   *(b)* Due to the genetic and somatic variability no two nervous
+> *(b)* Due to the genetic and somatic variability no two nervous
     systems of animals of the same species (particularly if they have
     many cells) are identical, and they resemble each other only to the
     extent that they are
@@ -641,12 +818,12 @@ significant for the understanding of the nervous system:
  
 
 
-:   organized according to the same general pattern. It is the
+> organized according to the same general pattern. It is the
     organization defining the class, and not any particular
     connectivity, which determines the mode of functioning of any given
     kind of nervous system.
 
-\(2) The shapes of nerve cells and their packing are such that there is
+(2) The shapes of nerve cells and their packing are such that there is
 in general a great overlapping in the collector and effector areas of
 neurons of the same class. Also, the spatial distribution and the
 interconnections between different classes of neurons is such that any
@@ -655,7 +832,7 @@ related to many other parts; the parts interconnected, however, differ
 in different species, and as a result these have different interacting
 capabilities.
 
-\(3) The organism ends at the boundary that its self-referring
+(3) The organism ends at the boundary that its self-referring
 organization defines in the maintenance of its identity. At this
 boundary there are sensors (the sensory surfaces) through which the
 organism interacts in the domain of relations and effectors (the
@@ -672,7 +849,7 @@ they change the receptor surfaces of the organism during the
 interactions: action always leads to a change in the state of activity
 of the receptor surfaces.
 
-\(4) The architectural organization of the nervous system is subordinated
+(4) The architectural organization of the nervous system is subordinated
 to the order of the sensory and effector surfaces. This subordination
 has two aspects: (i) the receptor and effector surfaces project to the
 central nervous system retaining their proper topological relations;
@@ -719,7 +896,7 @@ neural activity).
 
 ### FUNCTION
 
-\(1) The way the nervous system functions is bound to its anatomical
+(1) The way the nervous system functions is bound to its anatomical
 organization. The functioning of the nervous system has two aspects: one
 which refers to the domain of interactions defined by the nervous system
 (relations in general); the other which refers to the particular part of
@@ -727,7 +904,7 @@ that domain used by a given species (particular classes of relations):
 Different species interact with different sets of relations (have
 different niches).
 
-\(2) The nervous system only interacts with relations. However, since the
+(2) The nervous system only interacts with relations. However, since the
 functioning of the nervous system is anatomy bound, these interactions
 are necessarily mediated by physical interactions; for an animal to
 discriminate objects visually the receptors in its eyes must absorb
@@ -738,9 +915,9 @@ retina, in a manner determined by the connectivity of its various types
 of cells. Therefore, the nervous system defines through the relative
 weights of the patterns of interactions of its various components, both
 innate and acquired through experience, which relations will modify it
-at any given interaction \[Cf. Maturana, 1965\]. Or, in general, the
+at any given interaction [Cf. Maturana, 1965]. Or, in general, the
 organization and structure of a living system (its nervous system
-included) define in it a \'point of view\', a bias or posture from the
+included) define in it a 'point of view', a bias or posture from the
 perspective of which it interacts determining at any instant the
 possible relations accessible to its nervous system. Moreover, since the
 domain of interactions of the organism is defined by its structure, and
@@ -748,7 +925,7 @@ since this structure implies a prediction of a niche, the relations with
 which the nervous system interacts are defined by this prediction and
 arise in the domain of interactions of the organism.
 
-\(3) Due to the properties of neurons, and due to the architecture of the
+(3) Due to the properties of neurons, and due to the architecture of the
 nervous system, interactions within the nervous system give rise to
 activity in aggregates of cells. Also, for the same reasons, any given
 cell may assume the same state of activity under many different
@@ -781,10 +958,10 @@ cell with any particular interaction of the living
 system. When any particular interaction takes place at the level of the
 sensors, the relations accessible to the nervous system are given at
 this level in a certain state of relative activity of the sensing
-elements and not in the state of activity of any particular one \[Cf.
-Maturana Uribe, and Frenk, 1968\]. At the same time, although
-operational localizations can be established in the nervous system \[Cf.
-Geschwind, 1965\], these localizations are to be viewed in terms of
+elements and not in the state of activity of any particular one [Cf.
+Maturana Uribe, and Frenk, 1968]. At the same time, although
+operational localizations can be established in the nervous system [Cf.
+Geschwind, 1965], these localizations are to be viewed in terms of
 areas where certain modalities of interactions converge, and not as
 localizations of faculties or functions. As a result of the mode of
 organization of the nervous system that I have emphasized, localized
@@ -794,12 +971,12 @@ conduct (state of activity). The anatomical and functional organization
 of the nervous system secures the synthesis of behavior, not a
 representation of the world; hence, it is only with the synthesis of
 behavior that one cam interfere. The nervous system is localized in
-terms of the organism\'s surfaces of interaction but not in terms of
+terms of the organism's surfaces of interaction but not in terms of
 representations of the interactions it can generate.
 
 ### REPRESENTATION
 
-\(1) The fundamental anatomical and functional organization of the
+(1) The fundamental anatomical and functional organization of the
 nervous system is basically uniform; the same functions and operations
 (excitation, inhibition, lateral interaction, recursive inhibition,
 etc.) are performed in its various parts, although in different
@@ -810,7 +987,7 @@ they appear in their mode of operations identical to the untouched
 whole. To the observer, once the boundary of the sensors is passed, the
 nervous system, as a mode of organization, seems to begin at any
 arbitrary point that he may choose to consider; the answer to the
-question, *\'What is the input to the nervous system?\'* depends
+question, *'What is the input to the nervous system?'* depends
 entirely on the chosen point of observation. This basic uniformity of
 organization can best be expressed by saying: all that is accessible to
 the nervous system at any point are states of relative activity holding
@@ -850,7 +1027,7 @@ the consequences of the new interactions which they originate) there is
 no possible distinction between internally and externally generated
 states of nervous activity.*
 
-\(2) The relations with which the nervous system interacts are relations
+(2) The relations with which the nervous system interacts are relations
 given by the physical interactions of the organism, and, hence, depend
 on its anatomical organization. For the observer the organism interacts
 with a given entity that he can describe in his cognitive domain. Yet,
@@ -869,7 +1046,7 @@ sensing elements. Two interactions that produce the same state of
 relative activity are identical for the nervous system, no matter how
 different they may be in the cognitive domain of the observer.
 
-\(3) Every relation is embodied in a state of relative activity of nerve
+(3) Every relation is embodied in a state of relative activity of nerve
 cells, but also every state of relative activity acts to modify the
 relative activity of other nerve cells. Thus, relations through their
 embodiment in states of relative activity become units of internal
@@ -877,7 +1054,7 @@ interactions and generate additional relations, again embodied in states
 of relative activity which in turn may also become units of internal
 interactions, and so on, recursively.
 
-\(4) If an external interaction takes place, the state of activity of the
+(4) If an external interaction takes place, the state of activity of the
 nervous system is modified by the change in relative activity of the
 neurons, which in close association with the sensing elements embody the
 relations given in the interaction. Accordingly, that which the
@@ -919,7 +1096,7 @@ description, in terms of some kind of
 entities, such as thoughts, that lie only within the cognitive domain of
 the observer.
 
-\(5) The classes of relations that can be embodied have been defined (i)
+(5) The classes of relations that can be embodied have been defined (i)
 through the evolution of the general structural organization of the
 organism, and particularly, of the sensors, that has defined the classes
 of relation that are accessible to the nervous system; and (ii) through
@@ -927,7 +1104,7 @@ the evolution of a particular organization of the nervous system that
 defines for each class of animals (species) the specific mode of how
 these relations generate a behavior relevant to their maintenance.
 
-\(6) For any class of relations, the particular relations given as a
+(6) For any class of relations, the particular relations given as a
 result of a present interaction are embodied in a set of particular
 states of activity occurring in the present. This is the case
 independently of the history of the system. However, the relevance of
@@ -954,7 +1131,7 @@ in the absence of anxiety) and, hence *known*. Any experience without
 anxiety can be described as known, and thus serve as a basis for the
 functional notion of time.
 
-\(7) There is no difference in the nature of the embodiment of the
+(7) There is no difference in the nature of the embodiment of the
 relations generated through either external or internal interactions;
 both are sets of states of neuronal activity that can be said to
 represent the interactions. In a nervous system capable of interacting
@@ -962,7 +1139,7 @@ with some of its own internal states as if they were independent
 entities, there are two consequences:
 
 
-:   *(a)* The distinction between externally and internally generated
+> *(a)* The distinction between externally and internally generated
     inter-
 
  
@@ -988,7 +1165,7 @@ entities, there are two consequences:
  
 
 
-:   actions can only arise through a concomitance of events that
+> actions can only arise through a concomitance of events that
     indicates the source (sensory surface or not) of the state of
     activity caused by them, or through the outcome of new interactions
     which they initiate. A nervous system that is capable of treating
@@ -997,14 +1174,14 @@ entities, there are two consequences:
     origin, is capable of abstract thinking.
 
 
-:   *(b)* The nervous system can interact with the representations of
+> *(b)* The nervous system can interact with the representations of
     its interactions (and hence, of the organism) in an endless
     recursive manner.
 
-\(8) Four comments:
+(8) Four comments:
 
 
-:   *(a)* Notions such as embodiment of representation express the
+> *(a)* Notions such as embodiment of representation express the
     correspondence that the observer sees between relations, or sets of
     relations, and different states of activity of the nervous system,
     and, as such, lie in his cognitive domain. They describe the
@@ -1014,11 +1191,11 @@ entities, there are two consequences:
     which it can interact, but they do not characterize the nature of
     the functional subordination of the nervous system to its own
     states. This subordination is that of a functionally closed, state
-    determined, ultrastable system, modulated by interactions \[Cf.
-    Ashby, 1960\].
+    determined, ultrastable system, modulated by interactions [Cf.
+    Ashby, 1960].
 
 
-:   *(b)* The closed nature of the functional organization of the
+> *(b)* The closed nature of the functional organization of the
     nervous system is a consequence of the self-referring domain of
     interactions of the living organization; every change of state of
     the organism must bring forth another change of state, and so on,
@@ -1028,18 +1205,18 @@ entities, there are two consequences:
     surfaces of the organism, which can only in that way retain its
     identity as it moves through its domain of interactions. Thus all
     conduct, as controlled through the nervous system, must
-    (necessarily, due to the latter\'s architectural organization) lead
+    (necessarily, due to the latter's architectural organization) lead
     through changes in the effector surfaces to specific changes in the
     receptor surfaces that in turn must generate changes in the effector
-    surfaces that again \... and so on, recursively. Conduct is thus a
+    surfaces that again ... and so on, recursively. Conduct is thus a
     functional continuum that gives unity to the life of the organism
-    through its transformations in the latter\'s self-referring domain
+    through its transformations in the latter's self-referring domain
     of interactions. The evolutionary subordination of the architecture
     of the central nervous system to the topology of the sensory and
     effector surfaces appears as an obvious necessity.
 
 
-:   *(c)* The ability of the nervous system to interact with its own
+> *\(c\)* The ability of the nervous system to interact with its own
     internal
 
  
@@ -1065,7 +1242,7 @@ entities, there are two consequences:
  
 
 
-:   states, as if these were independent entities, enters these internal
+> states, as if these were independent entities, enters these internal
     states as modulating factors in the continuum of behavior. This
     requires an anatomical and functional internal reflection so that
     the internal organization of the nervous system can project itself
@@ -1078,28 +1255,28 @@ entities, there are two consequences:
     the organism on its own states of nervous activity.
 
 
-:   *(d)* The closed nature of the functional organization of the
+> *(d)* The closed nature of the functional organization of the
     nervous system (open only to modulations through interactions) is
     particularly evident in systematic observations that explicitly show
     the subordination of conduct to the correlation of activity between
-    the receptor and effector surfaces \[Cf. Held and Hein, 1963\] .
+    the receptor and effector surfaces [Cf. Held and Hein, 1963] .
     Experiments such as those of Held and Hein show that a cat does not
     learn to control its environment visually if raised in darkness and
     carried about only passively, by another cat, when under light. From
-    these observations, it is apparent that the \'visual handling\' of
+    these observations, it is apparent that the 'visual handling' of
     an environment is no handling of an environment, but the
     establishment of a set of correlations between effector (muscular)
     and receptor (proprioceptor and visual) surfaces, such that a
     particular state in the receptor surfaces may cause a particular
     state in the effector surfaces that brings forth a new state in the
-    receptor surfaces \... and so on. Behavior is like an instrumental
+    receptor surfaces ... and so on. Behavior is like an instrumental
     flight in which the effectors (engines, flaps, etc.) vary their
     state to maintain constant, or to change, the readings of the
     sensing instruments according to a specified sequence of variations,
     which either is fixed (specified through evolution) or can be varied
     during the flight as a result of the state of the flight (learning).
     The same is apparent in the experiments with innate perception of
-    depth \[Cf. Gibson, 1950\] that show that there is an innate system
+    depth [Cf. Gibson, 1950] that show that there is an innate system
     of correlations between certain states of the receptor and effector
     surfaces. The reference to a pre-established perception of depth is
     a description that lies in the cognitive domain of the observer, and
@@ -1110,7 +1287,7 @@ entities, there are two consequences:
 
 ### DESCRIPTION
 
-\(1) A living system, due to its circular organization, is an inductive
+(1) A living system, due to its circular organization, is an inductive
 system
 
  
@@ -1146,8 +1323,8 @@ organism. The same is true for behavior in general; the present state is
 always specified from the previous state that restricts the field of
 possible modulations by independent concomitances. If a given state of
 relative activity in the nerve cells originates a given behavior, a
-recurrence of the \'same state\' of relative activity should give rise
-to the \'same behavior\' no matter how the recurrence originates. The
+recurrence of the 'same state' of relative activity should give rise
+to the 'same behavior' no matter how the recurrence originates. The
 relevance of such a behavior is determined by the significance that it
 has for the maintenance of the living organization, and it is in
 relation to this relevance that any subsequent behaviors are the same.
@@ -1157,10 +1334,10 @@ different kinds of behavior are relevant to the maintenance of the basic
 circularity of the living organization through different domains of
 interactions, and hence, different fields of causal relations.
 
-\(2) Since the niche of an organism is the set of all classes of
+(2) Since the niche of an organism is the set of all classes of
 interactions into which it can enter, and the observer beholds the
 organism in an environment that he defines, for him any one of the
-organism\'s behaviors appears as an actualization of the niche, that is,
+organism's behaviors appears as an actualization of the niche, that is,
 as a first order description of the environment (henceforth denoted by a
 capital D: Description) This Description, however, is a description in
 terms of behavior (interactions) of the observed organism, not of
@@ -1168,18 +1345,18 @@ representations of environmental states, and the relation between
 behavior and niche lies exclusively in the cognitive domain of the
 observer.
 
-\(3) An organism can modify the behavior of another organism in two basic
+(3) An organism can modify the behavior of another organism in two basic
 ways:
 
 
-:   *(a)* By interaction with it in a manner that directs both organisms
+> *(a)* By interaction with it in a manner that directs both organisms
     toward each other in such a way that the ensuing behavior of each of
     them depends strictly on the following behavior of the other, e.g.:
     courtship and fight. A chain of interlocked behavior can thus be
     generated by the two organisms.
 
 
-:   *(b)* By orienting the behavior of the other organism to some part
+> *(b)* By orienting the behavior of the other organism to some part
     of its domain of interactions different from the present
     interaction, but comparable to the orientation of that of the
     orienting organism. This can take place only if the domains of
@@ -1208,7 +1385,7 @@ ways:
  
 
 
-:   this case no interlocked chain of behavior is elicited because the
+> this case no interlocked chain of behavior is elicited because the
     subsequent conduct of the two organisms depends on the outcome of
     independent, although parallel, interactions.
 
@@ -1247,10 +1424,10 @@ domain of interactions with representations of behavior (interactions),
 orienting interactions included, as if these representations were
 independent entities within the niche: the *linguistic* domain.
 
-\(5) If an organism can generate a communicative *description* and then
+(5) If an organism can generate a communicative *description* and then
 interact with its own state of activity that represents this
 *description*, generating another such *description* that orients
-towards this representation \..., the process can in principle be
+towards this representation ..., the process can in principle be
 carried on in a potentially infinite recursive
 
  
@@ -1283,11 +1460,11 @@ Furthermore: if such an observer through orienting behavior can orient
 himself towards himself, and then generate communicative *descriptions*
 that orient him towards his *description* of this self-orientation, he
 can, by doing so recursively, *describe* himself *describing* himself
-\... endlessly. Thus discourse through communicative *description*
+... endlessly. Thus discourse through communicative *description*
 originates the apparent paradox of self-description:
 *self-consciousness*, a new domain of interactions.
 
-\(6) A nervous system capable of recursively interacting with its own
+(6) A nervous system capable of recursively interacting with its own
 states as if these were independent entities can do so regardless of how
 these states are generated, and in principle can repeat these recursive
 interactions endlessly. Its only limitation lies in the need that the
@@ -1302,7 +1479,7 @@ interactions of the organism.
 
 ### THINKING
 
-\(1) I consider that in a state-determined nervous system, the
+(1) I consider that in a state-determined nervous system, the
 neurophysiological process that consist in its interacting with some of
 its own internal states as if these were independent entities
 corresponds to what we call thinking. Such internal states of nervous
@@ -1343,10 +1520,10 @@ projection (possibly multiply) onto itself.
 
  
 
-\(2) The process of thinking as characterized above is necessarily
+(2) The process of thinking as characterized above is necessarily
 independent of language. That this is so even for what we call
-\'abstract thinking\' in man is apparent from the observations of humans
-with split brains \[Cf. Gazzaniga, Bogen and Sperry, 1965\]. These
+'abstract thinking' in man is apparent from the observations of humans
+with split brains [Cf. Gazzaniga, Bogen and Sperry, 1965]. These
 observations show that the inability of the non-speaking hemisphere to
 speak does not preclude in it operations that the observer would call
 abstract thinking, and that the lack of language only implies that it
@@ -1361,7 +1538,7 @@ makes these *descriptions* possible.
 
 ### NATURAL LANGUAGE
 
-\(1) Linguistic behavior is orienting behavior; it orients the orientee
+(1) Linguistic behavior is orienting behavior; it orients the orientee
 within his cognitive domain to interactions that are independent of the
 nature of the orienting interactions themselves. To the extent that the
 part of its cognitive domain toward which the orientee is thus oriented
@@ -1375,7 +1552,7 @@ organisms able to develop some conventional, but specific, system of
 communicative *descriptions* to orient each other to cooperative classes
 of interactions that are relevant for both.
 
-\(2) The understanding of the evolutionary origin of natural languages
+(2) The understanding of the evolutionary origin of natural languages
 requires the recognition in them of a basic biological function which,
 properly selected, could originate them. So far this understanding has
 been impossible because language has been considered as a denotative
@@ -1424,17 +1601,17 @@ recursive application gives rise. Widespread among animals other than
 man-orienting interactions are particularly evident in primates, in
 which it is easy to see how the audible and visible behavior of one
 individual orients others within their respective cognitive domains
-\[Cf. Jay, 1968\], and in dolphins which seem to have evolved a rich and
-efficient system of auditive cooperative interactions \[Cf. Lilly,
-1967\]. In accordance with all this I maintain that learned orienting
+[Cf. Jay, 1968], and in dolphins which seem to have evolved a rich and
+efficient system of auditive cooperative interactions [Cf. Lilly,
+1967]. In accordance with all this I maintain that learned orienting
 interactions, coupled with some mode of behavior that allowed for an
 independent recursive expansion of the domain of interactions of the
-organism, such as social life \[Cf. Gardner and Gardner, 1969\] and/or
+organism, such as social life [Cf. Gardner and Gardner, 1969] and/or
 tool making and use, must have offered a selective basis for the
 evolution of the orienting behavior that in hominids led to our
 present-day languages.
 
-\(3) Behavior (function) depends on the anatomical organization
+(3) Behavior (function) depends on the anatomical organization
 (structure) of the living system, hence anatomy and conduct cannot
 legitimately be separated and the evolution of behavior is the evolution
 of anatomy and vice versa; anatomy provides the basis for behavior and
@@ -1486,22 +1663,22 @@ interactions toward which man can be oriented has increased through a
 concomitant expansion of the internal projection of the brain onto
 itself, by means of new interconnections between different cortical
 areas (as compared with other primates), between cortical areas and
-subcortical nuclei \[Cf. Geschwind, 1964\], and possibly also between
+subcortical nuclei [Cf. Geschwind, 1964], and possibly also between
 different cortical layers and cellular systems within the cortex itself.
 
-\(4) So long as language is considered to be denotative it will be
+(4) So long as language is considered to be denotative it will be
 necessary to look at it as a means for the transmission of information,
 as if something were transmitted from organism to organism, in a manner
-such that the domain of uncertainties of the \'receiver\' should be
-reduced according to the specifications of the \'sender\'. However, when
+such that the domain of uncertainties of the 'receiver' should be
+reduced according to the specifications of the 'sender'. However, when
 it is recognized that language is connotative and not denotative, and
 that its function is to orient the orientee within his cognitive domain
 without regard for the cognitive domain of the orienter, it becomes
 apparent that there is no transmission of information through language.
 It behooves the orientee, as a result of an independent internal
 operation upon his own state, to choose where to orient his cognitive
-domain; the choice is caused by the \'message\', but the orientation
-thus produced is independent of what the \'message\' represents for the
+domain; the choice is caused by the 'message', but the orientation
+thus produced is independent of what the 'message' represents for the
 orienter. In a strict sense then, there is no transfer of thought from
 the speaker to his interlocutor; the listener creates information by
 reducing his uncertainty through his interactions in his cognitive
@@ -1547,14 +1724,14 @@ information in ordinary parlance, this is so
 
 because the speaker tacitly assumes the listener to be identical with
 him and hence as having the same cognitive domain which he has (which
-never is the case), marveling when a \'misunderstanding\' arises. Such
+never is the case), marveling when a 'misunderstanding' arises. Such
 an approach is valid, for man created systems of communication where the
 identity of sender and receiver is implicitly or explicitly specified by
 the designer, and a message, unless disturbed during transmission,
 necessarily selects at the reception the same set of states that it
 represents at the emission, but not for natural languages.
 
-\(5) It behooves the interlocutor to choose where to orient in his
+(5) It behooves the interlocutor to choose where to orient in his
 cognitive domain as a result of a linguistic interaction. Since the
 mechanism of choice, as in every neuronal process, is state-dependent,
 the state of activity from which the choice (new state of neuronal
@@ -1570,22 +1747,22 @@ is strictly deterministic for both orienter and orientee,
 notwithstanding the different backgrounds of the two processes. It is
 only for the observer that there is any ambiguity in a linguistic
 interaction that he observes; this is because he has no access to the
-context in which it occurs. The sentence, \'They are flying planes,\' is
+context in which it occurs. The sentence, 'They are flying planes,' is
 unambiguous for both interlocutors, regardless of the subsequent
 behavior which it originates in each of them; for the observer, however,
 who wants to predict the course of the ensuing interactions, it is
 ambiguous.
 
-\(6) If one considers linguistic interactions as orienting interactions
+(6) If one considers linguistic interactions as orienting interactions
 it is apparent that it is not possible to separate, functionally,
 semantics and syntax, however separable they may seem in their
 *description* by the observer. This is true for two reasons:
 
 
-:   *(a)* A sequence of communicative *descriptions* (words in our case)
+> *(a)* A sequence of communicative *descriptions* (words in our case)
     must be expected to cause in the orientee a sequence of successive
     orientations in his cognitive domain, each arising from the state
-    left by the previous one. \'They are flying planes\' clearly
+    left by the previous one. 'They are flying planes' clearly
     illustrates this; each successive word orients the listener to a
     particular interaction in his cognitive domain that is relevant in a
     particular manner (apparent in the conduct it generates) that
@@ -1616,7 +1793,7 @@ semantics and syntax, however separable they may seem in their
  
 
 
-:   lexical functions, rather than by specifying the nature of the
+> lexical functions, rather than by specifying the nature of the
     orientation that it causes (in terms of conduct or interactions),
     should not obscure the problem. The observer speaks, and any
     explanation of the word *are* that he may give lies in the
@@ -1625,7 +1802,7 @@ semantics and syntax, however separable they may seem in their
     *his* cognitive domain.
 
 
-:   *(b)* An entire series of communicative *descriptions* can itself be
+> *(b)* An entire series of communicative *descriptions* can itself be
     a communicative *description*: the whole sequence once completed may
     orient the listener from the perspective of the state to which the
     sequence itself has led him. The limit to such complications lies
@@ -1633,10 +1810,10 @@ semantics and syntax, however separable they may seem in their
     between its own discriminable internal states, and to interact with
     them as if with independent entities.
 
-\(7) Linguistic behavior is an historical process of continuous
+(7) Linguistic behavior is an historical process of continuous
 orientation. As such, the new state in which the system finds itself
 after a linguistic interaction emerges from the linguistic behavior. The
-rules of syntax and generative grammar \[Cf. Chomsky, 1968\] refer to
+rules of syntax and generative grammar [Cf. Chomsky, 1968] refer to
 regularities that the observer sees in the linguistic behavior (as he
 *would* see in any behavior) which, arising from the functional
 organization of the system, specify the interactions that are possible
@@ -1648,7 +1825,7 @@ give rise. Any correlation between different domains of interactions
 lies exclusively in the cognitive domain of the observer, as relations
 emerging from his simultaneous interactions with both.
 
-\(8) The coordinated states of neuronal activity which specify a conduct
+(8) The coordinated states of neuronal activity which specify a conduct
 as a series of effector and receptor states whose significance arises in
 a consensual domain, does not differ in its neurophysiological
 generation from other coordinated states of neuronal activity which
@@ -1686,25 +1863,25 @@ which they acquire their relevance.
 
  
 
-\(9) Orienting behavior in an organism with a nervous system capable of
+(9) Orienting behavior in an organism with a nervous system capable of
 interacting recursively with its own states expands its cognitive domain
 by enabling it to interact recursively with *descriptions* of its
 interactions. As a result:
 
 
-:   *(a)* Natural language has emerged as a new domain of interaction in
+> *(a)* Natural language has emerged as a new domain of interaction in
     which the organism is modified by its *descriptions* of its
     interactions, as they become embodied in states of activity of its
     nervous system, subjecting its evolution to its interactions in the
     domains of observation and self-consciousness.
 
 
-:   *(b)* Natural language is necessarily generative because it results
+> *(b)* Natural language is necessarily generative because it results
     from the recursive application of the same operation (as a
     neurophysiological process) on the results of this application.
 
 
-:   *(c)* New sequences of orienting interactions (new sentences) within
+> *\(c\)* New sequences of orienting interactions (new sentences) within
     the consensual domain are necessarily understandable by the
     interlocutor (orient him), because each one of their components has
     definite orienting functions as a member of the consensual domain
@@ -1712,7 +1889,7 @@ interactions. As a result:
 
 ### MEMORY AND LEARNING
 
-\(1) Learning as a process consists in the transformation through
+(1) Learning as a process consists in the transformation through
 experience of the behavior of an organism in a manner that is directly
 or indirectly subservient to the maintenance of its basic circularity.
 Due to the state determined organization of the living system in
@@ -1725,7 +1902,7 @@ organism is thus in a continuous process of becoming that is specified
 through an endless sequence of interactions with independent entities
 that select its changes of state but do not specify them.
 
-\(2) Learning occurs in a manner such that, for the observer, the learned
+(2) Learning occurs in a manner such that, for the observer, the learned
 behavior of the organism appears justified from the past, through the
 incorporation of a representation of the environment that acts,
 modifying its present behavior by recall; notwithstanding this, the
@@ -1762,7 +1939,7 @@ can only be determined *a posteriori*, as a result of the actual
 behaving of the organism subservient to the maintenance of its basic
 circularity.
 
-\(3) The learning nervous system is a deterministic system with a
+(3) The learning nervous system is a deterministic system with a
 relativistic self-regulating organization that defines its domain of
 interactions in terms of the states of neuronal activity that it
 maintains constant, both internally and at its sensory surfaces, and
@@ -1781,20 +1958,20 @@ nervous system in its structural dynamism, that which at that moment is
 congruent with its continued operation subservient to the basic
 circularity of the organism. Otherwise the organism disintegrates.
 
-\(4) The analysis of the nervous system made earlier indicated that the
+(4) The analysis of the nervous system made earlier indicated that the
 states of neuronal activity that arise in it through each interaction
 embody the relations given in the interaction, and not representations
 of the niche or the environment as the observer would describe them.
 This analysis also indicated that functionally such embodiments
 constitute changes in the reactivity of the nervous system, as a system
 closed on itself, to the modulating influences of further interactions.
-Consequently what the observer calls \'recall\' and \'memory\' cannot be
+Consequently what the observer calls 'recall' and 'memory' cannot be
 a process through which the organism confronts each new experience with
 a stored representation of the niche before making a decision, but the
 expression of a modified system capable of synthesizing a new behavior
 relevant to its present state of activity.
 
-\(5) It is known that many neurons change their transfer functions as a
+(5) It is known that many neurons change their transfer functions as a
 result of the different concomitances of activity that occur in the
 neuropils of their collector and effector areas. Although it is not
 known what these changes are (development of new synapses or changes in
@@ -1835,7 +2012,7 @@ themselves after a certain number of interactions, but which are being
 locally triggered and selected through the actual concomitances of
 activity taking place in the neuropil itself.
 
-\(6) All changes in the nervous system during learning must occur without
+(6) All changes in the nervous system during learning must occur without
 interference with its continued functioning as a self-regulating system;
 the unity that the observer sees in a living system throughout its
 continuous transformation is a strictly functional one. Accordingly,
@@ -1855,7 +2032,7 @@ as a storage of representations of the environment to be used on
 different occasions in recall does not exist as a neurophysiological
 function.
 
-\(7) It is sufficient for a system to change its state after an
+(7) It is sufficient for a system to change its state after an
 interaction in a manner such that whenever a similar interaction recurs
 some internally determined concomitant state does not recur, although
 the same overt behavior is reenacted for it to treat two otherwise
@@ -1868,7 +2045,7 @@ henceforth to treat differently (as known) all recurrent interactions of
 the same class. I maintain that modifications of this sort in the
 reactivity of the nervous system constitute the basis for the
 unidirectional ordering of experiences in a living system through
-\'recognition\' without any storage of representations of the niche.
+'recognition' without any storage of representations of the niche.
 First interactions that by error of the system are not accompanied by
 the above mentioned concomitant internal state (emotional connotation of
 uncertainty) would be treated as if known, as
@@ -1900,7 +2077,7 @@ suppression of the concomitant state of activity corresponding to this
 emotional connotation would result in the treatment of any recurrent
 interaction as if new (loss of recent memory).
 
-\(8) If such a system is capable of discourse, it will generate the
+(8) If such a system is capable of discourse, it will generate the
 temporal domain through the ascription of a unidirectional order to its
 experiences as they differ in their emotional connotations, and although
 it will continue to function in the present as an atemporal system, it
@@ -1912,11 +2089,11 @@ cognitive domain of the observer.
 
 ***Epistemological and Ontological Implications***
 
-\(1) The cognitive domain is the entire domain of interactions of the
+(1) The cognitive domain is the entire domain of interactions of the
 organism. The cognitive domain can be enlarged if new modes of
 interactions are generated. Instruments enlarge our cognitive domain.
 
-\(2) The possibility of enlargement of the cognitive domain is unlimited;
+(2) The possibility of enlargement of the cognitive domain is unlimited;
 it is a historical process. Our brain, the brain of the observer, has
 specialized during evolution as an instrument for the discrimination of
 relations, both internally and externally generated relations, but
@@ -1971,7 +2148,7 @@ result new relations are necessarily created in each interaction and,
 embodied in new states of activity, we interact with them in a process
 that repeats itself as a historical and unlimited transformation.
 
-\(3) The observer generates a spoken *description* of his cognitive
+(3) The observer generates a spoken *description* of his cognitive
 domain (which includes his interactions with and through instruments).
 Whatever *description* he makes, however, that *description* corresponds
 to a set of permitted states of relative activity in his nervous system
@@ -1985,20 +2162,20 @@ organization, and hence, embodies an inescapable logic: that logic which
 allows for a match between the organization of the living system and the
 interactions into which it can enter without losing its identity.
 
-\(4) The observer can *describe* a system that gives rise to a system
+(4) The observer can *describe* a system that gives rise to a system
 that can *describe*, hence, to an observer. A spoken explanation is a
 paraphrase, a *description* of the synthesis of that which is to be
 explained; the observer explains the observer. A spoken explanation,
 however, lies in the domain of discourse. Only a full reproduction is a
 full explanation.
 
-\(5) The domain of discourse is a closed domain, and it is not possible
+(5) The domain of discourse is a closed domain, and it is not possible
 to step outside of it through discourse. Because the domain of discourse
 is a closed domain it is possible to make the following ontological
 statement: *the logic of the* description *is the logic of the*
 describing *(living) system (and his cognitive domain).*
 
-\(6) This logic demands a substratum for the occurrence of the discourse.
+(6) This logic demands a substratum for the occurrence of the discourse.
 We cannot talk about this substratum in absolute terms, however, because
 we would have to *describe* it, and a *description* is a set of
 interactions into which the *describer* and the listener can enter, and
@@ -2008,7 +2185,7 @@ although this substratum is required for epistemological reasons,
 nothing can be said about it other than what is meant in the ontological
 statement above.
 
-\(7) We as observers live in a domain of discourse interacting with
+(7) We as observers live in a domain of discourse interacting with
 *descriptions* of our *descriptions* in a recursive manner, and thus
 continuously generate
 
@@ -2039,7 +2216,7 @@ systems modulated by interactions through which we define independent
 entities whose only reality lies in the interactions that specify them
 (their Description).
 
-\(8) For epistemological reasons we can say: there are properties which
+(8) For epistemological reasons we can say: there are properties which
 are manifold and remain constant through interactions. The invariance of
 properties through interactions provides a functional origin to entities
 or units of interactions; since entities are generated through the
@@ -2070,7 +2247,7 @@ reductionism is possible*.
 
 ## PROBLEMS IN THE NEUROPHYSIOLOGY OF COGNITION
 
-\(1) The observer can always remain in a domain of interactions
+(1) The observer can always remain in a domain of interactions
 encompassing his own interactions; he has a nervous system capable of
 interacting with its own states, which, by doing so in a functional
 context that defines these states as representations of the interactions
@@ -2082,10 +2259,10 @@ activity, and because each one of its specific states of activity is
 specifiable only in reference to other states of activity of the system
 itself.
 
-\(2) An organism with a nervous system capable of interacting with its
+(2) An organism with a nervous system capable of interacting with its
 own states is capable of *descriptions* and of being an observer if its
 states arise from learned orienting interactions in a consensual domain:
-it can *describe* its describing \[Cf. Gardner and Gardner, 1969\].
+it can *describe* its describing [Cf. Gardner and Gardner, 1969].
 Through *describing* itself in a recursive manner, such an organism
 becomes a self-observing system that generates the domain of
 self-consciousness as a domain of self-observation. Self-consciousness
@@ -2095,7 +2272,7 @@ self-orienting behavior and lies entirely in the linguistic domain. The
 implications are twofold:
 
 
-:   *(a)* The linguistic domain as a domain of orienting behavior
+> *(a)* The linguistic domain as a domain of orienting behavior
     requires at least two interacting organisms with comparable domains
     of interactions, so that a cooperative system of consensual
     interactions may be developed in which the emerging conduct of the
@@ -2135,7 +2312,7 @@ implications are twofold:
  
 
 
-:   interactions of the organism with relations and the complexity of
+> interactions of the organism with relations and the complexity of
     the patterns of orienting interactions that it can distinguish, and
     on the other hand because the necessary subservience of the
     linguistic domain to the maintenance of the basic circularity of the
@@ -2157,7 +2334,7 @@ implications are twofold:
 
 
 
-:   *(b)* Since self-consciousness and the linguistic domain in general
+> *(b)* Since self-consciousness and the linguistic domain in general
     are not neurophysiological phenomena, it is impossible to account
     for them in terms of excitation, inhibition, networks, coding, or
     whatever else is the stuff of neurophysiology. In fact, the
@@ -2172,35 +2349,29 @@ implications are twofold:
     explain
 
 
-    :   *(i) how does the nervous system interact with its own states
+    > *(i) how does the nervous system interact with its own states
         and is modified by them as if they were independent entities?*
 
 
-    :   *(ii) how are these states specified neurophysiologically if
+    > *(ii) how are these states specified neurophysiologically if
         they are defined by their own effectiveness in bringing forth
         certain internal or sensory states in the system?*
 
 
-    :   *(iii) how is a given effector performance synthesized that is
+    > *(iii) how is a given effector performance synthesized that is
         defined by the relative states of activity that it generates in
         the sensory surfaces and in the system itself?* ; and
 
 
-    :   *(iv) how do the double or triple internal anatomical
-        projections*
-
-     
+    > *(iv) how do the double or triple internal anatomical
+        projections*   
 
 
-
-:   
-
-
-    :   *of the nervous system onto itself determine its capacity to
+    > *of the nervous system onto itself determine its capacity to
         single out some of its own states and interact with them
         independently?.*
 
-\(3) At any moment each nerve cell responds in a deterministic manner,
+(3) At any moment each nerve cell responds in a deterministic manner,
 and according to well defined transfer functions to classes of
 spatio-temporal activity caused at its collector area by the afferent
 influences impinging upon it; this occurs independently of how these
@@ -2224,7 +2395,7 @@ activity. In this context the following considerations about its
 functional organization are significant:
 
 
-:   *(a)* The nervous system can be described as a system that has
+> *(a)* The nervous system can be described as a system that has
     evolved to specialize in the discrimination between states of
     neuronal relative activity (particularly in man) each of which is
     defined by the behavior it generates. This is valid for innate and
@@ -2234,7 +2405,7 @@ functional organization are significant:
     surfaces.
 
 
-:   *(b)* The basic connectivity of the nervous system, and the original
+> *(b)* The basic connectivity of the nervous system, and the original
     reactive capacity of the nerve cells, with which any animal is
     endowed by development, secures a basic pattern of flow for the
     nervous activity originating at any point in it. Thus, development
@@ -2245,7 +2416,7 @@ functional organization are significant:
     historical transformation of behavior \[Cf. Lorenz, 1966\].
 
 
-:   *(c)* Any modification of the transfer function of a nerve cell,
+> *\(c\)* Any modification of the transfer function of a nerve cell,
     resulting
 
  
@@ -2271,7 +2442,7 @@ functional organization are significant:
  
 
 
-:   from new concomitances of activity, occurs modifying a preexisting
+> from new concomitances of activity, occurs modifying a preexisting
     behavior in a system that operates through maintaining invariant its
     definitory internal relations. In fact, any local change that would
     lead to the synthesis of a modified conduct by the organism, must be
@@ -2284,7 +2455,7 @@ functional organization are significant:
     of the conduct for future action.
 
 
-:   *(d)* It is apparent that the nervous system cannot determine in
+> *(d)* It is apparent that the nervous system cannot determine in
     advance the concomitances of activity under which it should change
     in a permanent manner; for it to satisfy future needs of the
     organism, it must operate under non-predictive changes continuously
@@ -2310,7 +2481,7 @@ functional organization are significant:
     through the converging transformation of behavior itself.
 
 
-:   *(e)* Since the nervous system is an inferential system, that is,
+> *(e)* Since the nervous system is an inferential system, that is,
     since it functions as if any state that occurred once will occur
     again, a significant feature of its organization must be its
     necessary and continuous transformation as a function of the new
@@ -2344,7 +2515,7 @@ functional organization are significant:
  
 
 
-:   corresponding post-synaptic neurons are activated. Such can occur if
+> corresponding post-synaptic neurons are activated. Such can occur if
     the probability of spike invasion at the branching points of the
     afferent axons in the neuropils is permanently modified in one
     direction or another by the coincident novel activity in the
@@ -2354,25 +2525,25 @@ functional organization are significant:
     were the case four things would occur:
 
 
-    :   *(i)* The state of the nervous system would change, and hence,
+> *(i)* The state of the nervous system would change, and hence,
         also its conduct, according to the new concomitances of activity
         produced in the neuropils through its different interactions.
 
 
-    :   *(ii)* Each state of activity of the system (as a state of
+> *(ii)* Each state of activity of the system (as a state of
         relative neuronal activity) would be defined by the
         concomitances of activity in the neuropil that generate it, such
         that if they recur, it recurs.
 
 
-    :   *(iii)* Each new functional state of the neuropils would
+> *(iii)* Each new functional state of the neuropils would
         necessarily constitute the basis for their further modification,
         in such a manner that their morphological and functional
         organization would be under continuous historical
         transformation.
 
 
-    :   *(iv)* These changes in the neuropils would change the
+> *(iv)* These changes in the neuropils would change the
         participation of the different neurons in the synthesis of
         behavior, independently of whether or not there are also changes
         in their transfer functions, by changing the circumstances of
@@ -2385,7 +2556,7 @@ functional organization are significant:
         interactions, the internal and sensory motor correlations that
         maintain its identity.
 
-\(4) Learning is not a process of accumulation of representations of the
+(4) Learning is not a process of accumulation of representations of the
 environment; it is a continuous process of transformation of behavior
 through continuous change in the capacity of the nervous system to
 synthesize it. Recall does not depend on the indefinite retention of a
@@ -2398,28 +2569,28 @@ process must answer two basic questions:
 
 
 
-:   *\'What changes can a neuron undergo (in any of its component parts)
-    > which it can maintain constant for a certain time, and*
+> *'What changes can a neuron undergo (in any of its component parts)
+> which it can maintain constant for a certain time, and*
 
-     
+   
 
 
 
-:   *\'What organization of the nervous system would permit continuous
-    > changes in the relative activity of its anatomical components, as
-    > a result of different concomitances in their activity, and still
-    > permit the synthesis of a conduct that is defined only by the
-    > states of relative neuronal activity that it generates, and not by
-    > the components used?\'.*
+> *'What organization of the nervous system would permit continuous
+> changes in the relative activity of its anatomical components, as
+> a result of different concomitances in their activity, and still
+> permit the synthesis of a conduct that is defined only by the
+> states of relative neuronal activity that it generates, and not by
+> the components used?'.*
 
-\(5) The nervous system is a strictly deterministic system whose
+(5) The nervous system is a strictly deterministic system whose
 structure specifies the possible modes of conduct that may emerge (be
 synthesized) from its functioning in a manner that varies according to
 the species, and the reactive perspective from which these modes of
 conduct may emerge. The reactive perspective, which the observer would
 call the emotional tone, does not specify a particular conduct, but
 determines the nature (aggressive, fearful, timid, etc.) of the course
-of the interaction \[Cf. Kilmer, McCulloch and Blum, 1968\]. Changes
+of the interaction [Cf. Kilmer, McCulloch and Blum, 1968]. Changes
 during development, maturation, hormonal action, drugs, or learning, do
 not modify the deterministic character of this organization but change
 the capacity that the system has at any moment to synthesize behavior.
@@ -2435,8 +2606,8 @@ the operation of the nervous system. Nor is the functional unity of the
 nervous system attained through a specific feature of its organization,
 but emerges from the functioning of its components (whatever these may
 be), each one to its own accord, under circumstances that define the
-ensemble as a unit of interactions in a particular domain \[Cf.
-Lindauer, 1967, as an example in a social organism\], and has no reality
+ensemble as a unit of interactions in a particular domain [Cf.
+Lindauer, 1967, as an example in a social organism], and has no reality
 independent of these circumstances. Thus there is no peculiar
 neurophysiological process that could be shown to be responsible for
 this unity and to explain it. Furthermore, in a strict sense, although
@@ -2532,9 +2703,9 @@ generating, through orienting interactions with other, similar, systems
 and with itself, both a consensual linguistic domain and a domain of
 self-consciousness, that is: I have shown the emergence of the observer.
 This result alone satisfies the fundamental demand put forth at the
-outset: *\'The observer is a living system and any understanding of
+outset: *'The observer is a living system and any understanding of
 cognition as a biological phenomenon must account for the observer and
-his role in it\'*, and proves the validity of this analysis.
+his role in it'*, and proves the validity of this analysis.
 
 Although the answers to the various questions posed in the introduction
 and the fundamental implications of the analysis are to be found in the
@@ -2543,7 +2714,7 @@ development, there are several conclusions that I would like to state
 explicitly:
 
 
-:   *(i)* The living organization is a circular organization which
+> *(i)* The living organization is a circular organization which
     secures the production or maintenance of the *components* that
     specify it in such a manner that the product of their functioning is
     the very same organization that produces them. Accordingly, a living
@@ -2587,7 +2758,7 @@ explicitly:
  
 
 
-:   a living system into parts that he defines, the *description* of
+> a living system into parts that he defines, the *description* of
     these parts does not and cannot represent a living system. In
     principle a part should be definable through its relations within
     the unit that it contributes to form by its operation and
@@ -2610,7 +2781,7 @@ explicitly:
     does not reflect the nature of its composition.
 
 
-:   *(ii)* For every living system its particular case of self referring
+> *(ii)* For every living system its particular case of self referring
     circular organization specifies a closed domain of interactions that
     is its cognitive domain, and no interaction is possible for it which
     is not prescribed by this organization. Accordingly, for every
@@ -2659,13 +2830,13 @@ explicitly:
  
 
 
-:   itself. Inductive inference as a structural property of the living
+> itself. Inductive inference as a structural property of the living
     organization and of the thinking process, is independent of history,
     or of the relations between past and present that belong only to the
     domain of the observer.
 
 
-:   *(iii)* Linguistic interactions orient the listener within his
+> *(iii)* Linguistic interactions orient the listener within his
     cognitive domain, but do not specify the course of his ensuing
     conduct. The basic function of language as a system of orienting
     behavior is not the transmission of information or the description
@@ -2675,7 +2846,7 @@ explicitly:
     of interactions.
 
 
-:   *(iv)* Through language we interact in a domain of *descriptions*
+> *(iv)* Through language we interact in a domain of *descriptions*
     within which we necessarily remain even when we make assertions
     about the universe or about our knowledge of it. This domain is both
     bounded and infinite; bounded because everything we say is a
@@ -2689,7 +2860,7 @@ explicitly:
     recursive self-descriptions is thus also bounded and infinite.
 
 
-:   *(v)* A living system is not a goal-directed system; it is, like the
+> *(v)* A living system is not a goal-directed system; it is, like the
     nervous system, a stable state-determined and strictly deterministic
     system closed on itself and modulated by interactions not specified
     through its conduct. These modulations, however, are apparent as
@@ -2705,7 +2876,7 @@ explicitly:
     the observer.
 
 
-:   *(vi)* It is tempting to talk about the nervous system as one would
+> *(vi)* It is tempting to talk about the nervous system as one would
     talk about a stable system with input. This I reject because it
     misses entirely the point by introducing the distortion of our
     participation as observers into the explanation of systems whose
@@ -2735,7 +2906,7 @@ explicitly:
 
 
 
-:   self-referring. What occurs in a living system is analogous to what
+> self-referring. What occurs in a living system is analogous to what
     occurs in an instrumental night where the pilot does not have access
     to the outside world and must function only as a controller of the
     values shown in his flight instruments. His task is to secure a path
@@ -2749,7 +2920,7 @@ explicitly:
     limits, a task which is in no way represented by the *description*
     that his friends (observers) make of his conduct.
 
-    In terms of their functional organization living systems do not have
+> In terms of their functional organization living systems do not have
     inputs and outputs, although under perturbations they maintain
     constant their set states, and it is only in our *descriptions*,
     when we include them as parts of larger systems which we define,
@@ -2767,7 +2938,7 @@ explicitly:
     the understanding of the organization of living systems.
 
 
-:   *(vii)* The cognitive domain of the observer is bounded but
+> *(vii)* The cognitive domain of the observer is bounded but
     unlimited; he can in an endless recursive manner interact with
     representations of his interactions and generate through himself
     relations between otherwise independent domains. These relations are
@@ -2806,7 +2977,7 @@ explicitly:
  
 
 
-:   *(viii)* The logic of the *description* and, hence, of *behavior* in
+> *(viii)* The logic of the *description* and, hence, of *behavior* in
     general is, necessarily, the logic of the describing system; given
     *behavior as a referential and deterministic sequence of states of
     nervous activity in which each state determines the next one within
@@ -2837,7 +3008,7 @@ explicitly:
     unchanged.
 
 
-:   *(ix)* Due to the nature of the cognitive process and the function
+> *(ix)* Due to the nature of the cognitive process and the function
     of the linguistic interactions, we cannot say anything about that
     which is independent of us and with which we cannot interact; to do
     that would imply a *description* and a *description* as a mode of
@@ -2878,11 +3049,11 @@ explicitly:
  
 
 
-:   linguistic interactions to what we deem are sensory experiences of
+> linguistic interactions to what we deem are sensory experiences of
     concrete entities, but which have turned out to be, as are thoughts
     and *descriptions*, states of relative activity between neurons that
-    generate new *descriptions*. The question, *\'What is the object of
-    knowledge?\'* becomes meaningless. There is no object of knowledge.
+    generate new *descriptions*. The question, *'What is the object of
+    knowledge?'* becomes meaningless. There is no object of knowledge.
     To know is to be able to operate adequately in an individual or
     cooperative situation. We cannot speak about the substratum in which
     our cognitive behavior is given, and about that of which we cannot
@@ -2905,16 +3076,16 @@ explicitly:
 
 
 
-:   *(x)* The genetic and nervous systems are said to code information
+> *(x)* The genetic and nervous systems are said to code information
     about the environment and to represent it in their functional
     organization. This is untenable; the genetic and nervous systems
     code processes that specify series of transformations from initial
     states, which can be decoded only through their actual
     implementation, not *descriptions* that the observer makes of an
-    environment which lies exclusively in *his* cognitive domain \[Cf.
-    Bernal, 1965\]. The following is an illustration of the problem:
+    environment which lies exclusively in *his* cognitive domain [Cf.
+    Bernal, 1965]. The following is an illustration of the problem:
 
-    Let us suppose that we want to build two houses. For such a purpose
+> Let us suppose that we want to build two houses. For such a purpose
     we hire two groups of thirteen workers each. We name one of the
     workers of the first group as the group leader and give him a book
     which contains all the plans of the house showing in a standard way
@@ -2951,14 +3122,14 @@ explicitly:
 
 
 
-:   structions. These instructions do not contain words such as house,
+> structions. These instructions do not contain words such as house,
     pipes, or windows, nor do they contain drawings or plans of the
     house to be constructed; they contain only instructions of what a
     worker should do in the different positions and in the different
     relations in which he finds himself as his position and relations
     change.
 
-    Although these books are all identical the workers read and apply
+> Although these books are all identical the workers read and apply
     different instructions because they start from different positions
     and follow different paths of change. The end result in both cases
     is the same, namely, a house. The workers of the first group,
@@ -2993,7 +3164,7 @@ explicitly:
     the resultant systems with which he interacts. In what sense could
     one then say that the genetic and nervous systems code information
     about the environment? The notion of information refers to the
-    observer\'s degree of uncertainty in his behavior within a domain of
+    observer's degree of uncertainty in his behavior within a domain of
     alternatives defined by him, hence the notion of information only
     applies within his cognitive domain. Accordingly, what one could at
     most say is that the genetic and nervous systems generate
@@ -3022,11 +3193,11 @@ explicitly:
  
 
 
-:   self-specification when witnessed by the observer as if in their
+> self-specification when witnessed by the observer as if in their
     progressive self-decoding into growth and behavior.
 
 
-:   *(xi)* There are different domains of interactions, and these
+> *(xi)* There are different domains of interactions, and these
     different domains cannot explain each other because it is not
     possible to generate the phenomena of one domain with the elements
     of another; one remains in the same domain. One domain may generate
@@ -3142,7 +3313,7 @@ implications; in the present case the following deserve special
 attention:
 
 
-:   *(i)* Man is a deterministic and relativistic self-referring
+> *(i)* Man is a deterministic and relativistic self-referring
     autonomous system whose life acquires its peculiar dimension through
     self-consciousness; ethic and morality arise as commentaries that he
     makes on his behavior through self-observation. He lives in a
@@ -3161,7 +3332,7 @@ attention:
     domain are necessarily relative.
 
 
-:   *(ii)* Language does not transmit information and its functional
+> *(ii)* Language does not transmit information and its functional
     role is the creation of a cooperative domain of interactions between
     speakers through the development of a common frame of reference,
     although each speaker acts exclusively within his cognitive domain
@@ -3174,7 +3345,7 @@ attention:
     implicitly in his ultimate body of beliefs.
 
 
-:   *(iii)* Man is a rational animal that constructs his rational
+> *(iii)* Man is a rational animal that constructs his rational
     systems as all rational systems are constructed, that is, based on
     arbitrarily accepted truths (premises); being himself a relativistic
     self-referring deterministic system this cannot be otherwise. But if
@@ -3205,7 +3376,7 @@ attention:
  
 
 
-:   frame of reference for his system of values. This task he has always
+> frame of reference for his system of values. This task he has always
     avoided by resorting to god as an absolute source of truth, or to
     self-delusion through reason, which can be used to justify anything
     by confusing the frames of reference and arguing in one domain with
@@ -3220,3 +3391,4 @@ attention:
     in which he wants to live.
 
 This text is a transcription of: http://bit.ly/altsilversurfer2A
+The original
