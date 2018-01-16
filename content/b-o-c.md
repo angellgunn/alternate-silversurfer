@@ -3391,4 +3391,5 @@ attention:
     in which he wants to live.
 
 This text is a transcription of: http://bit.ly/altsilversurfer2A
-The original
+
+The original text was posted in html format with permission of the author and that version is copyrighted. This version was written in [Markdown](https://daringfireball.net/projects/markdown/) and posted in this static page with help of [Hugo](gohugo.io). No copyright claim is made.
