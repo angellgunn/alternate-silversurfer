@@ -19,10 +19,36 @@ Dito isto (como agora é moda, imitando desavergonhadamente os americanos), decl
   - Dependência do panorama: todas as operações lógicas de manipulação do conhecimento, por mais "objetivas" que pareçam, dependem da lógica do sistema onde o conhecimento está inserido, e mais, dependem de como o indivíduo se posiciona e quais as suas motivações dentro deste sistema.
 - A analogia que me vêm à mente é a de um peixe no aquário: o que conhecemos é o nosso mundo particular e apenas temos contato "indireto" com "o mundo lá fora" e nem mesmo sua realidade pode ser certa para nós, quanto mais suas características.
 
-A minha tese é diretamente influenciada pelo trabalho de Humberto Maturana, sobre a Biologia do Conhecimento [1]. Seu trabalho é independente de correntes tradicionais anteriores da filosofia e inspirado em resultados de estudos clássicos de neurofisiologia. O trabalho citado como o original de suas idéias parece ser uma comunicação interna do laboratório onde ele trabalhava. Ele foi um dos co-autores do famoso trabalho _What the frog’s eye tells the frog’s brain_, um dos mais citados de toda a história do _Science Citation Index_ e que tornou-se a principal obra de seu autor principal, o neurofisiologista Jerome Lettvin, com quem Maturana trabalhou. Seu trabalho inicial, apesar de aventurar-se pela epistemologia, cita fontes científicas da neurofisiologia e não declara influências de outros autores da filosofia.
+A minha tese é diretamente influenciada pelo trabalho de [Humberto Maturana][maturana], sobre a Biologia do Conhecimento [1]. Seu trabalho é independente de correntes tradicionais anteriores da filosofia e inspirado em resultados de estudos clássicos de neurofisiologia. O trabalho citado como o original de suas idéias parece ser uma comunicação interna do laboratório onde ele trabalhava. Ele foi um dos co-autores do famoso trabalho [_What the frog’s eye tells the frog’s brain_][frogeye], um dos mais citados de toda a história do _Science Citation Index_ (2300+ citações segundo o Google Acadêmico) e que tornou-se a principal obra de seu autor principal, o neurofisiologista [Jerome Lettvin][lettvin], com quem Maturana trabalhou. Seu trabalho inicial, apesar de aventurar-se pela epistemologia, cita fontes científicas da neurofisiologia e não declara influências de outros autores da filosofia.
 
-Apesar disso, o trabalho de Maturana tem sido discutido pelos intelectuais da escola do _construtivismo_, ou _construcionismo_, e estudiosos apontam sua relação com os conceitos de Jacob von Uexküll. 
+Apesar disso, o trabalho de Maturana tem sido associado ao [_construtivismo_][construct], ou _construcionismo_, uma corrente filosófica da epistemologia, em especial ao _construtivismo radical_ de [Ernst von Glasersfeld][glasersfeld]. A semelhança de suas idéias com os conceitos de vários outros autores já foi apontada, entre os mais influentes, [Jacob von Uexküll][uexkull], [Heinz von Foerster][foerster] e [Gordon Pask][pask], expoentes da semiótica e cibernética. As idéias de Maturana influenciaram outros autores como [Alfredo B. Ruiz][ruiz], [Jane Cull][cull], [William P. Hall][hall], [Peter M. Hejl][hejl], [Paul Pangaro][pangaro], [Nelson Monteiro Vaz][vaz], [Luiz Antonio Botelho Andrade][andrade], [Ximena Yáñez Dávila][davila], [Miriam Graciano][graciano], e vários outros [2].
+
+Dessa forma, o _corpus_ da obra de Maturana e suas idéias, embora não estejam firmemente ancoradas em conceitos da linha de pensamento da filosofia, constitui uma referência importante da epistemologia, e pode ser considerada uma escola em si, comumente chamada de abordagem da _Biologia do Conhecimento_, inscrevendo-se no âmbito da teoria epistemológica do _construtivismo radical_ e tendo conexões amplas com várias ramificações do pensamento moderno, como a _cibernética_, _economia_, _sociologia_, _psicologia_, _educação_, entre muitas outras [2].
+
+Maturana trabalhou com Francisco Varela na criação do conceito de [_autopoiese_][auto]. _Autopoiese_ é definida como a propriedade de um sistema vivo de construir e determinar a si mesmo, independente do meio ambiente, embora interagindo com este. O conceito tem sido amplamente usado, especialmente depois de sua apropriação pelo sociólogo [Niklas Luhmann][luhmann], pelo filósofo [Felix Guattari][guattari] e por outros estudiosos das ciências sociais e humanas. Interessantemente, Maturana e Varela desaprovaram inicialmente a expansão da utilização do conceito de _autopoiese_ para além das biologia. Curiosamente, nos dias atuais o conceito sobrevive proincipalmente nas ciências humanas, uma vez que foi amplamente criticado nas ciências biológicas e classificado como uma mera justificativa de um sistema filosófico solipsista [3]
 
 1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
+2. Bunnell P. & Riegler A. (2011) Maturana across the disciplines. Constructivist Foundations 6(3): 287–292. http://constructivist.info/6/3/287
+3. Fanaya, Patrícia M. S. Fonseca. Autopiese, semiose e tradução: vias para a subjetividade nas redes digitais. 2014. 152 f. Tese (Doutorado em Comunicação) - Pontifícia Universidade Católica de São Paulo, São Paulo, 2014.
 
 [biocog]:{{< relref "b-o-c.md">}}
+[lettvin]: https://en.wikipedia.org/wiki/Jerome_Lettvin
+[construct]: https://en.wikipedia.org/wiki/Constructivist_epistemology
+[maturana]: https://en.wikipedia.org/wiki/Humberto_Maturana
+[frogeye]: https://hearingbrain.org/docs/letvin_ieee_1959.pdf
+[uexkull]: https://en.wikipedia.org/wiki/Jakob_von_Uexküll
+[foerster]: https://en.wikipedia.org/wiki/Heinz_von_Foerster
+[glasersfeld]: https://en.wikipedia.org/wiki/Ernst_von_Glasersfeld
+[ruiz]: https://www.inteco.cl/alfredo-ruiz/curriculum-vitae/informacion-biografica/
+[cull]: https://www.janecull.com/bio/
+[hall]: https://www.findanexpert.unimelb.edu.au/display/person142685#tab-overview
+[hejl]: http://www.univie.ac.at/constructivism/journal/authors/peter-m-hejl
+[pangaro]: http://www.pangaro.com/conversation-theory-in-one-hour.html
+[pask]: https://en.wikipedia.org/wiki/Gordon_Pask
+[vaz]: http://www.univie.ac.at/constructivism/journal/authors/nelson-monteiro-vaz
+[andrade]: http://www.univie.ac.at/constructivism/journal/authors/luiz-antônio-botelho-andrade
+[davila]:http://www.univie.ac.at/constructivism/journal/authors/ximena-yáñez-dávila
+[graciano]: http://sbi.org.br/hoje-ofereco-voces-um-texto-de-miria/
+[auto]: https://en.wikipedia.org/wiki/Autopoiesis
+[luhmann]: https://en.wikipedia.org/wiki/Niklas_Luhmann
+[guattari]: https://en.wikipedia.org/wiki/Félix_Guattari
