@@ -29,7 +29,9 @@ Maturana trabalhou com seu aluno Francisco Varela na criação do conceito de [_
 
 P. Luisi atribui a falta de aceitação inicial e a longo prazo do conceito de autopoiese pelas ciências biológicas a vários fatores, resumidamente no fato de que a conceituação dos autores prescinde de pontos de contato com o paradigma de "mundo de ARN/ADN" que tem dominado a biologia e disciplinas afins nos últimos 50 ou mais anos [5]. Segundo ele, o pano de fundo conceitual da Teoria da Autopoiese é o de uma teoria da informação nos seres vivos (_bio-lógica_), aproximando-se, então, mesmo inadvertidamente, da cibernética. Varela, o autor principal do trabalho original sobre autopoiese, teria sido influenciado grandemente pela "Biologie et connaissance" de Piaget e pelo contato pessoal com Heinz von Foerster [5]. O manuscrito original, escrito em 1971, foi rejeitado por várias revistas da área e finalmente publicado em 1974 [3]. Apesar de ter chegado a ser usado em obras populares de biólogos famosos como Lynn Margulis, o conceito nunca passou de aceitação marginal, sendo considerado trivial ou pouco científico por muitos [6]. Nos últimos 15 anos, todavia, um interesse renovado tem ocorrido devido a possíveis aplicações do conceito de _autopoiese_ na Biologia de Sistemas e Sistemas Complexos [5,6].
 
-A minha visão é a de que o paradigma de "mundo de ARN/ADN", que também constitui um paradigma de Darwinismo molecular, está chegando ao fim de seu ciclo de expectativa (_hype cycle_), com o reconhecimento de que o mapeamento puro e simples do conjunto completo do genoma de várias espécies abriu mais questões do que respondeu e do crescimento em importância de campos de pesquisa _pós-genômicos_, como a _epigenômica_ e a _proteômica_. Além disso, o aumento de interesse em campos como _biologia sintética_ e _exobiologia_ renova a discussão sobre a definição de organismo vivo. A definição simplista atual, baseada na replicação molecular, está encontrando uma nova oportunidade de revisão, na qual o conceito de autopoiese pode ser encaixado e encontrar aceitação mais ampla.
+A minha visão é a de que o paradigma de "mundo de ARN/ADN", que também constitui um paradigma de Darwinismo molecular, está chegando ao fim de seu ciclo de expectativa (_hype cycle_), com o reconhecimento de que o mapeamento puro e simples do conjunto completo do genoma de várias espécies abriu mais questões do que respondeu e do crescimento em importância de campos de pesquisa _pós-genômicos_, como a _epigenômica_ e a _proteômica_ [7]. Além disso, o aumento de interesse em campos como _biologia sintética_ e _exobiologia_ renova a discussão sobre a definição de organismo vivo. A definição simplista atual, baseada na replicação molecular, está encontrando uma nova oportunidade de revisão, na qual o conceito de autopoiese pode ser encaixado e encontrar aceitação mais ampla.
+
+[![Gráfico por Pedro Beltrão](/img/bio_hype.png)][biohype]
 
 1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
 2. Bunnell P. & Riegler A. (2011) Maturana across the disciplines. Constructivist Foundations 6(3): 287–292. http://constructivist.info/6/3/287
@@ -39,6 +41,7 @@ A minha visão é a de que o paradigma de "mundo de ARN/ADN", que também consti
 Feb;90(2):49-59.
 6. Razeto-Barry P. Autopoiesis 40 years later. A review and a reformulation. Orig
 Life Evol Biosph. 2012 Dec;42(6):543-67.
+7. Guttinger, Stephan and Dupré, John, "Genomics and Postgenomics", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/genomics/>.
 
 [biocog]:{{< relref "b-o-c.md">}}
 [lettvin]: https://en.wikipedia.org/wiki/Jerome_Lettvin
@@ -61,3 +64,4 @@ Life Evol Biosph. 2012 Dec;42(6):543-67.
 [auto]: https://en.wikipedia.org/wiki/Autopoiesis
 [luhmann]: https://en.wikipedia.org/wiki/Niklas_Luhmann
 [guattari]: https://en.wikipedia.org/wiki/Félix_Guattari
+[biohype]: http://www.evocellnet.com/2007/04/
