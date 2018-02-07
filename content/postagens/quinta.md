@@ -31,6 +31,8 @@ P. Luisi atribui a falta de aceitação inicial e a longo prazo do conceito de a
 
 A minha visão é a de que o paradigma de "mundo de ARN/ADN", que também constitui um paradigma de Darwinismo molecular, está chegando ao fim de seu ciclo de expectativa (_hype cycle_), com o reconhecimento de que o mapeamento puro e simples do conjunto completo do genoma de várias espécies abriu mais questões do que respondeu e do crescimento em importância de campos de pesquisa _pós-genômicos_, como a _epigenômica_ e a _proteômica_ [7]. Além disso, o aumento de interesse em campos como _biologia sintética_ e _exobiologia_ renova a discussão sobre a definição de organismo vivo. A definição simplista atual, baseada na replicação molecular, está encontrando uma nova oportunidade de revisão, na qual o conceito de autopoiese pode ser encaixado e encontrar aceitação mais ampla.
 
+O meu objetivo, no entanto, não inclui uma crítica mais profunda ao conceito de autopoiese, nem do ponto de vista biológico, nem epistemológico, mas sim a exploração do relacionamento do modelo de _biologia do conhecimento_ de Maturana com as tradições da epistemologia. Para tanto, farei um corte longitudinal através da história da epistemologia, tentando entrever onde se enraízam as idéias propostas por Maturana. Dessa forma, poderei analisar este modelo e, com ele, propor uma teoria epistemológica com as características que enumerei.
+
 [![Gráfico por Pedro Beltrão](/img/bio_hype.jpg)][biohype]
 
 1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
