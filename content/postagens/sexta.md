@@ -2,7 +2,6 @@
 title: "Sexta"
 date: 2018-02-25T23:04:12-03:00
 keywords: patologia, câncer, reconhecimento de padrões, metologia científica, ética científica, cortes no orçamento, C&T, foraTemer
-author: João Calangro
 ---
 
 Meu amigo Silver Surfer me convidou para escrever uma postagem em seu blog perdido nos confins da rede. Por que resolvi aceitar? Parafraseando [Sabine Hossenfelder](bee), "para manter minha sanidade". Possivelmente, precisarei escrever muitas postagens mais, se tiver oportunidade, para conseguir isso.
