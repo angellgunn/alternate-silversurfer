@@ -22,11 +22,11 @@ postagens = "postagens/:slug/"
 [params]
 dateform = "2 Jan, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "um não blog"
+description = "um nï¿½o blog"
 copyright = "Copyright 2017 silversurfer, using theme Cocoa EH (with enhancements)"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.png"
-faviconfile = "img/favicon.ico"
+faviconfile = "favicon.ico"
 highlightjs = true
 progressively = true
 share = true
