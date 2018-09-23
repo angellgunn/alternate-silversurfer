@@ -1,0 +1,11 @@
+{
+    "name": "João Calangro",
+    "bio": "João Calangro define-se como um trabalhador braçal da área da saúde afinidade por problemas insolúveis. Ele escreve sobre a experiência dele e de outras pessoas, geralmente comaurorização delas.",
+    "image": "/media/authors/jcalangro.png",
+    "weight": 1,
+    "social": {
+        "twitter": "jcalangro",
+        "github": "https://www.github.com/jcalangro",
+        "website": "https://www.jcalangro.com"
+    }
+}
