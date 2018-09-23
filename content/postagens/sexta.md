@@ -1,4 +1,5 @@
 ---
+author: "João Calangro"
 title: "Sexta"
 date: 2018-02-24T23:04:12-03:00
 keywords: patologia, câncer, reconhecimento de padrões, metologia científica, ética científica, cortes no orçamento, C&T, foraTemer
