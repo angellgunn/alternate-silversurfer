@@ -9,11 +9,14 @@ publishdir = "public"
 languageCode = "pt-br"
 DefaultContentLanguage = "pt-br"
 title = "uma pagina livre"
-author = "silversurfer"
+#author = "silversurfer"
 disqusshortname = ""
 pluralizelisttitles = false
 preserveTaxonomyNames = true
 removePathAccents = true
+
+[taxonomies]
+author = "authors"
 
 [permalinks]
 blog = "blog/:slug/"
