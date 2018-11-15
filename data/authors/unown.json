@@ -1,0 +1,11 @@
+{
+    "name": "Unown",
+    "bio": "Unown é um pokémon lendário que às vezes bloga de outra dimensão.",
+    "image": "/media/authors/unown.png",
+    "weight": 1,
+    "social": {
+        "twitter": "unown",
+        "github": "https://www.github.com/unown",
+        "website": "https://www.unown.com"
+    }
+}
