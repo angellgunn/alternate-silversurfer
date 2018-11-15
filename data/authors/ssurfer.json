@@ -1,0 +1,11 @@
+{
+    "name": "Silver Surfer",
+    "bio": "Silver Surfer é uma entidade extraterrestre aprisionada a contragosto nesta orbe suburbana.",
+    "image": "/media/authors/ssurfer.png",
+    "weight": 1,
+    "social": {
+        "twitter": "AltSilverSurfer",
+        "github": "https://www.github.com/ssurfer",
+        "website": "https://www.ssurfer.com"
+    }
+}
