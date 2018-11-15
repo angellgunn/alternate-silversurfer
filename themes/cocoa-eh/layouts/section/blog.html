@@ -5,6 +5,13 @@
             <div class="posts">
                 <div class="page-heading">Blog</div>
                 <ul>
+                    {{ if isset .Params "author" }}
+                        {{ $author := index .Site.Data.authors .Params.author }}
+                        {{ $author.name }}
+                    {{ else }}
+                        Unknown
+                    {{ end }}
+                    
                     {{ range .Data.Pages.GroupByDate "Jan, 2006" "desc"}}
                         <li class="groupby">{{ .Key }}</li>
                         {{ range .Pages.ByPublishDate }}
