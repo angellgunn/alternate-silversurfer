@@ -4,13 +4,14 @@
 {{ else }}
     {{ .Title }}
 {{ end }}
-<small>
-<i> por </i>
+
+<span> - por </span>
+
 {{ if isset .Params "author" }}
     {{ $author := index .Site.Data.authors .Params.author }}
     {{ $author.name }}
 {{ else }}
-    Unknown
+    Unown
 {{ end }}
 </small>
 </div>
