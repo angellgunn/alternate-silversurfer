@@ -35,8 +35,6 @@ Nos últimos 2 anos, o atual governo cometeu o [maior corte][corte] de recursos 
 
 Do ponto de vista da pesquisa clínica em nosso país, ela é praticamente inexistente. Não apenas isso, mas existe uma cultura disseminada de que ela é secundária. Há algum tempo atrás, tive oportunidade de presenciar uma frase disparada por uma colega durante uma reunião da minha especialidade em meu serviço: "não me importa saber biologia molecular, apenas me importa como usá-la na prática". Dessa forma, sedimenta-se um futuro no qual o papel principal de nosso país será o de _consumidor de tecnologia_, em todas as áreas, incluindo a clínica, perdendo-se a capacidade de _produzirmos tecnologia_. São os tristes trópicos. Entrementes, sempre haverão alunos de pós-graduação querendo realizar algum "trabalho" com "sobras" de recursos dispendiosos desperdiçados em algum lugar.
 
-Por **João Calangro**
-
 ## Referências:
 
 1. Goldstein DA, Hirsch A. A Policy That Encourages Wastage of Expensive Medications—The JW Modifier. JAMA Oncol. 2018;4(2):155–156. doi:10.1001/jamaoncol.2017.3997
