@@ -63,6 +63,8 @@ statement = "#ff8e91"
   [languages.pt-br]
     title = "uma pagina livre"
     weight = 1
+    contentDir = "content/pt-br"
+    languageName = "Português brasileiro"
   [languages.dt]
     title = "jin seris ase"
     weight = 2
