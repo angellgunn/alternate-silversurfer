@@ -66,3 +66,6 @@ statement = "#ff8e91"
   [languages.dt]
     title = "jin seris ase"
     weight = 2
+    contentDir = "content/dt"
+    languageName = "Dothraki"
+    
