@@ -1,5 +1,6 @@
 +++
 title = "Asshekh azzafra"
+slug = "zafra"
 date = "2017-10-31"
 keywords = "azzafra, tat, seris"
 tags = ["asto"]
