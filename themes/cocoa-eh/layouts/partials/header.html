@@ -11,9 +11,12 @@
 <section class="header header-home">
 {{ end }}
     <div class="container">
-        <a href="{{ .Site.BaseURL }}"><img class="logo" src="{{ .Site.Params.logofile | absURL }}" alt="logo" /></a>
+        <a href="{{ .Site.BaseURL }}/{{ .LanguagePrefix }}"><img class="logo" src="{{ .Site.Params.logofile | absURL }}" alt="logo" /></a>
         <div class="content">
-            <a href="{{ .Site.BaseURL }}"><div class="name"><h1>{{ .Site.Title }}</h1></div></a>
+            <a href="{{ .Site.BaseURL }}/{{ .LanguagePrefix }}"><div class="name"><h1>{{ .Site.Title }}</h1></div></a>
+          <nav>
+            {{ partial "allLanguages.html" . }}
+          </nav>
             <nav>
                 <ul>
                     {{ if ne (len (where .Site.RegularPages "Section" "blog")) 0 }}
@@ -22,7 +25,7 @@
                     {{ range $.Site.Home.Sections }}
                         {{ range first 1 (where .Pages "Section" "ne" "")}}
                             {{ if ne .Section "blog"}}
-                            <a href="{{ .Section | urlize | absURL }}"><li>{{ .Section }}</li></a>
+                            <a href="{{ .Section | urlize | absLangURL }}"><li>{{ .Section }}</li></a>
                             {{ end }}
                         {{ end }}
                     {{ end }}

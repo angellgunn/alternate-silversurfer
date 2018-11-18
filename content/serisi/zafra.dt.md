@@ -1,0 +1,25 @@
++++
+title = "Asshekh azzafra"
+date = "2017-10-31"
+keywords = "azzafra, tat, seris"
+tags = ["asto"]
+translationKey = "escravo"
++++
+
+Jin okeo anni tat finne jin bed center, jin division ki state health department.  Arrekoon fin anha tiholat, mae assignment ajjin tat ezat "the davra place ha each patient".  Vosma haji vo fin jin text ajjin about.  Anha disse add, ven jin curiosity, rek anna okeo confirmed rek jin central et loy places ha jin havazh ki ​​requests (no surprise finne ei).
+
+jin purpose ki jin digression, vosma, ajjin tat comment she description ki request ha hospitalization ki jin particular patient, reported tat anna ki anna okeo.  Anha tikh vo elat into detail here, ki course, tat vijazerat jin identities involved.  Jin case ajjin at elderly gentleman, ma jin history ki many days ki at illness consumptiva, ma progressive loss ki mae capacities, tat point ki being jin poor lord bedridden, unable tat walk, nor speak, emaciated akka very weak.  She jin extremely distressing melikh, akka here anha introduce anna griffin, jin patron ki patient, jin rural worker she mae estate, mae sought mae family tat take care ki mae.
+
+ven chek? ki jin patient vo ma family? hash yer ma boss? she fin melikh? akka kifindirgi tikh jin boss, fin jin patient (apparently) reside she mae rhaesh estate finne mae worked, tat vo seek medical care ha mae "employee"? laz believers kijinosi modern akka cruel "naivety" ki system shillolat rek vosi laz tikh proved ki jin story, vosma, she anna tihikh, kisha hash facing vosma eshna modern misfortune: jin return ki slavery.
+
+modern slavery ajjin different arrekoon jin foz.  Instead ki chains akka slaves, jin alikh subtle model ki incarceration: workers receive jin wage, vosma mori zhorre tat jerat their zhorre hadaen, necessities, akka jin place tat remekat (that's right, jin employee pays tat get finne mithri).  Ma jin simple akka premeditated mel equation, fin jin workers pay comes quickly tat pass she fin mori earn, making eyak.  debtors! thus, owing alikh akka alikh money, mori hash deceived into thinking rek mori eth always tat harder tat pay their "debts. " kijinosi nakho, mori leave ma absolutely vosi, vo product ki their hard tat.  Seriously, she zhille minimally developed rhaesh akka kijinosi yothnhare ki zhille minimally human voj jini complete absurdity.
+
+fin jin iron chains hash replaced ki jin fraudulent cash book, jin lashes akka physical punishments hash akka replaced ki modern versions.  Capangas, remote facilities she rural properties, gerikh ki contact ki zhille kind ma outside world, veiled threats (or vo ma san) tat family akka loved ones, hash jin modern version.  Zala adakha alikh allayafi those classic psychological horror movies ki private jail?
+
+chek, here she kishi rhaesh jin ase "slavery" seems tat zhorre been informally banned arrekoon jin media (conveniently controlled ki large corporate groups) akka arrekoon legal jargon, replaced ki jin term "politically incorrect" - analogous tat slavery.  Hora, jin famous first-century syrian physician (descendant ki greeks), luke, davra known ha having written ato ki tor gospels accepted ki jin christian canon, ki jin zafra.  Serving jin noble roman, mae ki jin atthirar full ki perks, vosma mae ki neither possessions nor seris.  Vo ato seems tat zhorre san doubt she calling their labor condition ki slavery.  Fin jin current brazilian euphemism hash accepted finne jin kashi, neither lucas nor most ki famous christians tikh zhorre been considered jin zafra.  Mori tikh zhorre worked disse she conditions analogous tat slavery, simple ven rek.  Jin cara de pau medal ha those fin created jin infamous expression, qafat!
+
+akka cruelty disse increases: akka ma jin haze ki euphemisms shrouding mae tawak nature, modern brazilian slaveowners hash vo satisfied, akka she collusion ma corrupt brazilian legal system akka legislative power, mori kis tat "wash" their hands once akka ha ei allayafi pilate tat, tat continue kijinosi biblical analogies.  Arrogant, being above laws (we chose jin president akka ministers, ast jin powerful senator / laird she jin television show) akka zhille justice, mori intend tat transform zhille attempt tat denounce their abusive practices she complete futility, akka condemn their "workers kijinosi melikh analogous tat slavery" tat athdrivar she anonymous servitude.
+
+ma kisha return tat kishi lonely patient waiting ha jin vacancy kijinosi failed health care system.  Poor mahrazh, fin tikh look after mae after sacrificing mae better years akka mae health ven jin zafra tat at unscrupulous landowner, fin tikh make jin early christians nauseous? fin tikh tikh ma mae while mae dies poor akka lonely, after being deceived ha years akka years ki jin brazilian "meritocracy system"? fin tikh raise jin tir finne least vi jin?
+
+![liberdade](https://pbs.twimg.com/media/Crl-OyYWgAAejm4?format=jpg&name=small)

@@ -62,12 +62,22 @@ statement = "#ff8e91"
 [languages]
   [languages.pt-br]
     title = "uma pagina livre"
-    weight = 10
-    contentDir = "content/portugues"
+    weight = 1
+#    contentDir = "content/portugues"
     languageName = "Português brasileiro"
+    [[languages.pt-br.menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 0
+
   [languages.dt]
     title = "jin seris ase"
-    weight = 20
-    contentDir = "content/dothraki"
+    weight = 2
+#    contentDir = "content/dothraki"
     languageName = "Dothraki"
-    
+    [languages.dt.Taxonomies]
+      "opiniões" = "serisi"
+    [[languages.en.menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 0
