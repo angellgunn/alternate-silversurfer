@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://alternate-silversurfer.bitbucket.io/"
 theme = "cocoa-eh"
 builddrafts = false
 buildExpired = true
