@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 languageCode = "pt-br"
 DefaultContentLanguage = "pt-br"
-title = "uma pagina livre"
+#title = "uma pagina livre"
 #author = "silversurfer"
 disqusshortname = ""
 pluralizelisttitles = false
@@ -58,3 +58,11 @@ type = "#97d28b"
 special = "#ffcb8d"
 value = "#96c2d7"
 statement = "#ff8e91"
+
+[languages]
+  [languages.pt-br]
+    title = "uma pagina livre"
+    weight = 1
+  [languages.dt]
+    title = "jin seris ase"
+    weight = 2
