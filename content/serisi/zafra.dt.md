@@ -6,7 +6,7 @@ tags = ["asto"]
 translationKey = "escravo"
 +++
 
-Jin okeo anni tat finne jin chilak vitihirak, jin sacheya ki athkoalar khasari.  Arrekoon fin anha tiholat, mae assignment ajjin tat ezat "davra chilak ha athkoalarmen".  Vosma haji vo fin jin serisir ajjin.  Anha disse add, ven jin curiosity, rek anna okeo confirmed rek jin central et loy places ha jin havazh ki ​​requests (no surprise finne ei).
+Jin okeo anni tat finne jin _chilak_ _vitihirak_, jin sacheya ki _athkoalar_ _khasari_.  Arrekoon fin anha tiholat, mae _athari_ ajjin tat ezat "davra _chilak_ ha _zhikhat voj_".  Vosma haji vo fin jin _serisir_ ajjin. Anha disse add, ven jin _arannen_, rek anna okeo _tawaka_ rek jin khasar et loy gache ha jin havazh ki _qaf_ (vos _athidirolar_ finne ei).
 
 jin purpose ki jin digression, vosma, ajjin tat comment she description ki request ha hospitalization ki jin particular patient, reported tat anna ki anna okeo.  Anha tikh vo elat into detail here, ki course, tat vijazerat jin identities involved.  Jin case ajjin at elderly gentleman, ma jin history ki many days ki at illness consumptiva, ma progressive loss ki mae capacities, tat point ki being jin poor lord bedridden, unable tat walk, nor speak, emaciated akka very weak.  She jin extremely distressing melikh, akka here anha introduce anna griffin, jin patron ki patient, jin rural worker she mae estate, mae sought mae family tat take care ki mae.
 
