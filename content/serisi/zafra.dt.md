@@ -22,4 +22,4 @@ akka cruelty disse increases: akka ma jin haze ki euphemisms shrouding mae tawak
 
 ma kisha return tat kishi lonely patient waiting ha jin vacancy kijinosi failed health care system.  Poor mahrazh, fin tikh look after mae after sacrificing mae better years akka mae health ven jin zafra tat at unscrupulous landowner, fin tikh make jin early christians nauseous? fin tikh tikh ma mae while mae dies poor akka lonely, after being deceived ha years akka years ki jin brazilian "meritocracy system"? fin tikh raise jin tir finne least vi jin?
 
-![liberdade](https://pbs.twimg.com/media/Crl-OyYWgAAejm4?format=jpg&name=small)
+![liberdade](/img/Hunger-Games-unite-salute.png)

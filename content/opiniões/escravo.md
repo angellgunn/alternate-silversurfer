@@ -22,4 +22,4 @@ E a crueldade apenas aumenta: mesmo com uma bruma de eufemismos encobrindo sua v
 
 Assim, voltamos a nosso solitário paciente aguardando uma vaga num sistema de saúde falido. Pobre homem, quem olhará por ele após ter sacrificado seus melhores anos e sua saúde trabalhando como escravo para um latifundiário sem escrúpulos, que daria náuseas nos primeiros cristãos? Quem estará com ele enquanto morre pobre e só, após ter sido enganado por anos e anos pelo "sistema da meritocracia" brasileiro? Quem levantará um dedo ao menos contra isso?
 
-![liberdade](https://pbs.twimg.com/media/Crl-OyYWgAAejm4?format=jpg&name=small)
+![liberdade](/img/Hunger-Games-unite-salute.png)
