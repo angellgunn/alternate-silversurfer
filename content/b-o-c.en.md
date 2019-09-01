@@ -1,6 +1,6 @@
 +++
 date = "2018-01-11"
-title = "Biologia da Cognição"
+title = "Biology of Cognition"
 author = "Maturana"
 +++
 
