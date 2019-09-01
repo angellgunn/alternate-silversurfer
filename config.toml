@@ -87,7 +87,7 @@ statement = "#ff8e91"
     weight = 2
 #    contentDir = "content/english"
     languageName = "English"
-    [languages.dt.Taxonomies]
+    [languages.en.Taxonomies]
       "opiniões" = "opinions"
     [[languages.en.menu.main]]
     url    = "/"
