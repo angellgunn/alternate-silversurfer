@@ -77,6 +77,7 @@ statement = "#ff8e91"
     languageName = "Dothraki"
     [languages.dt.Taxonomies]
       "opiniões" = "serisi"
+      "postagens" = "movelak"
     [[languages.dt.menu.main]]
     url    = "/"
     name   = "Home"
@@ -89,6 +90,7 @@ statement = "#ff8e91"
     languageName = "English"
     [languages.en.Taxonomies]
       "opiniões" = "opinions"
+      "postagens" = "posts"
     [[languages.en.menu.main]]
     url    = "/"
     name   = "Home"
