@@ -4,4 +4,4 @@ title = "qisi"
 translationKey = "sobre"
 +++
 
-criada para nada em especial
+nakhaan ha vosi

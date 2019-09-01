@@ -26,7 +26,7 @@ postagens = "postagens/:slug/"
 dateform = "2 Jan, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "um n�o blog"
-copyright = "Copyright 2017 silversurfer, using theme Cocoa EH (with enhancements)"
+copyright = "Copyright 2017-9 silversurfer, using theme Cocoa EH (with enhancements)"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.png"
 faviconfile = "favicon.ico"
@@ -77,6 +77,18 @@ statement = "#ff8e91"
     languageName = "Dothraki"
     [languages.dt.Taxonomies]
       "opiniões" = "serisi"
+    [[languages.dt.menu.main]]
+    url    = "/"
+    name   = "Home"
+    weight = 0
+
+  [languages.en]
+    title = "a free page"
+    weight = 2
+#    contentDir = "content/english"
+    languageName = "English"
+    [languages.dt.Taxonomies]
+      "opiniões" = "opinions"
     [[languages.en.menu.main]]
     url    = "/"
     name   = "Home"
