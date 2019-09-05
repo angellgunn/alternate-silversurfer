@@ -6,12 +6,16 @@ author = "ssurfer"
 
 This is a suggestion for words that I did not find in the [Unnoficial Dictionary](https://docs.dothraki.org/Dothraki.pdf). I  am experimenting with root derivation of new words, and will try to post in the [forum](https://forum.dothraki.org/) or [discord](https://discordapp.com/invite/punTtWF).
 
-**_slavery_**: the dictionary has zafra (slave), azzafrolat (to enslave), and azzafrok (slaver), but not slavery. My proposal is azzafrakhi.
+**_slavery_**: the dictionary has _zafra_ (slave), _azzafrolat_ (to enslave), and _azzafrok_ (slaver), but not slavery. My proposal is _azzafrakhi_.
 
->I also used the word asshek (today) meaning "modern" to write the title of a blog post: _asshek azzafrakhi_ (modern slavery).
+<dl>
+<dd>I also used the word asshek (today) meaning "modern" to write the title of a blog post: _asshek azzafrakhi_ (modern slavery).</dd>
+</dl>
 
-**_bed_**: the dictionary has chilat (to lie down), chilay (lying), and athchilar (lay). My proposal is chilak.
+**_bed_**: the dictionary has _chilat_ (to lie down), _chilay_ (lying), and _athchilar_ (lay). My proposal is _chilak_.
 
->I used the word vitihirak (watch, guard) meaning "control" to create the expression _chilak vitihirak_ (bed control) for a hospital bed management control, part of the medical control authority that oversees bed allocation.
+<dl>
+<dd>I used the word vitihirak (watch, guard) meaning "control" to create the expression _chilak vitihirak_ (bed control) for a hospital bed management control, part of the medical control authority that oversees bed allocation.</dd>
+</dl>
 
-**_health_**: the dictionary has sharat (healthy). My proposal is sharak.
+**_health_**: the dictionary has _sharat_ (healthy). My proposal is _sharak_.
