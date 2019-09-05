@@ -4,14 +4,14 @@ title = "Lekh Dothraki"
 author = "ssurfer"
 +++
 
-Hi, I am trying to translate a few blog pages, and of course I came upon non-existing words. I  am experimenting with root derivation of new words, and would like to post here (is this topic all right for this?) for other people give their opinion.
+This is a suggestion for words that I did not find in the [Unnoficial Dictionary](https://docs.dothraki.org/Dothraki.pdf). I  am experimenting with root derivation of new words, and will try to post in the [forum](https://forum.dothraki.org/) or [discord](https://discordapp.com/invite/punTtWF).
 
-[i]slavery[/i]: the dictionary has [desc=slave]zafra[/desc], [desc=enslave]azzafrolat[/desc], and [desc=slaver]azzafrok[/desc], but not slavery. My proposal is [desc=slavery]azzafrakhi[/desc].
+_slavery_: the dictionary has zafra (slave), azzafrolat (to enslave), and azzafrok (slaver), but not slavery. My proposal is azzafrakhi.
 
-I also used the word [desc=today]asshek[/desc] meaning "modern" to write the title of a blog post: [desc=modern slavery]asshek azzafrakhi[/desc].
+I also used the word asshek (today) meaning "modern" to write the title of a blog post: asshek azzafrakhi (modern slavery).
 
-[i]bed[/i]: the dictionary has [desc=to lie down]chilat[/desc], [desc=lying]chilay[/desc], and [desc=lay]athchilar[/desc]. My proposal is [desc=bed]chilak[/desc].
+_bed_: the dictionary has chilat (to lie down), chilay (lying), and athchilar (lay). My proposal is chilak.
 
-I used the word [desc=watch, guard]vitihirak[/desc] meaning "control" to create the expression [desc=bed control]chilak vitihirak[/desc] for a hospital bed management control, part of the medical control authority that oversees bed allocation.
+I used the word vitihirak (watch, guard) meaning "control" to create the expression chilak vitihirak (bed control) for a hospital bed management control, part of the medical control authority that oversees bed allocation.
 
-[i]health[/i]: the dictionary has [desc=to be healthy]sharat[/desc]. My proposal is [desc=health]sharak[/desc].
+_health_: the dictionary has sharat (healthy). My proposal is sharak.
