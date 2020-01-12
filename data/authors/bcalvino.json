@@ -1,0 +1,11 @@
+{
+    "name": "Baldolino Calvino",
+    "bio": "Baldolino Calvino é um mentiroso, e isso é tudo que há para saber sobre ele.",
+    "image": "/media/authors/bcalvino.png",
+    "weight": 1,
+    "social": {
+        "twitter": "bcalvino",
+        "github": "https://www.github.com/bcalvino",
+        "website": "https://www.bcalvino.com"
+    }
+}
