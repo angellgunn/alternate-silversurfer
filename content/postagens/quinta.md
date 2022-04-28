@@ -1,6 +1,6 @@
 ﻿---
 title: "Quinta"
-author: "ssurfer"
+author: "bcalvino"
 date: 2018-01-12T23:04:12-03:00
 keywords: epistemologia, Maturana, filosofia, modernidade líquida, foraTemer
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title: "Quarta"
-author: "ssurfer"
+author: "bcalvino"
 date: 2017-11-30T23:04:12-03:00
 keywords: blockchain, ciência, ciência aberta, confiança, revisão por pares, financiamento da pesquisa, conflito de interesses, foraTemer
 ---

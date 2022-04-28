@@ -1,5 +1,6 @@
 +++
 title = "A escravidão moderna"
+author = "bcalvino"
 date = "2017-10-31"
 keywords = "escravidão, trabalho, direitos"
 tags = ["opiniões"]
