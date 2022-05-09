@@ -4,9 +4,10 @@ date = "2017-10-31"
 keywords = "slavery, labor, rights"
 tags = ["opinions"]
 translationKey = "escravo"
+author = "bcalvino"
 +++
 
-A friend of mine works at the Hospital Bed Control, a part of the State Department of Health. From what I understand, it oversees the allocation of hospital beds all over the state. As they say, their job is to find "the best bed for each patient." But this is not what this text is about. Just add, as a curiosity, that my friend confirmed that the Central has few bed posts for a sea of requests (no surprise at that).
+A friend of mine works at the Medical Control Authority, a part of the State Department of Health. From what I understand, it oversees the allocation of hospital beds all over the state. As they say, their job is to find "the best allocation for each patient." But this is not what this text is about. Just add, as a curiosity, that my friend confirmed that the Central has few allocation slots for a sea of requests (no surprise at that).
 
 The purpose of this digression, however, is to comment on the description of a particular patient's request for hospitalization, reported to me by my friend. I will not go into detail here, of course, to protect the identities involved. The case is an elderly gentleman, with a history of many days of a consuming disease, with progressive disability, to a point where the poor man is bedridden, unable to walk or speak, emaciated and very weak. In this extremely difficult situation, and here I introduce my emphasis, "the patient's boss, the owner of the farm where he is a worker, sought his family to take care of him."
 
