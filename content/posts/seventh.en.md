@@ -2,7 +2,7 @@
 author: "bcalvino"
 title: "Seventh"
 date: 2018-02-24T23:04:12-03:00
-keywords: , eleNão
+keywords: bitcoin, energy, decentralization, eleNão
 ---
 
 So, Bitcoin (BTC) wastes a ton of electricity. A headline that made the world news says that trading a single BTC uses the amount of energy an average home consumes in a month. That piece of information came from a [2017 post][post] from the dutch bank ING's Head Economist, Teunis Brosens. He based his opinion in a [Digiconomist's Bitcoin Energy Comsumption Index][index]. According to this source, one single BTC transaction uses over 200 kWh, using the total BTC hashrate as input, and assuming most miners use the same kind of machine to do the computation workload. Is this really a lot? For comparison, the author shares its weekly home consumption: 45 kWh. Big deal, apparently. Additionally, he states that a traditional payment network (VISA) uses a veru small fraction of that energy (0.01 kWh) per transaction. 
@@ -11,8 +11,7 @@ Bitcoin was created by an anonimous figure by the name of *Satoshi Nakamoto* to 
 In July 2017, BTC value was circa 3k and its estimated annual energy consumption was 15 TWh. At this moment, as BTC rovers at 8k, its estimated annual energy consumption is 50 TWh, an increase of 3.3 times the energy comsumption to increase its value by 2.6 times. if this relation mantains roughly linear, in 2023 BTC will consume 1,650 TWh, and have a value of 208k USD! Will this naive prediction hold? Probably not! BTC has cyclic behavior and pass through periods of low value and activity ("bear markets"), and technological inovations in the wake of [Moore's Law][moore] are certain to bring more efficient and less energy consuming computational equipment. However, it may be taken as an upper bound to the possible energy-value relation of BTC.
 My proposal is that the value locked in BTC is actually this energy, the value of energy used to enforce its immutability, its security (its main utility). In this regard, besides being considered _digital gold_, BTC could as well be considered _stored energy_. The other aspect of the energy consumed ("stored") by BTC is its equivalence in carbon footprint. This is really a problem that must be addressed, but its solution is rather simple. If BTC is stored energy, it carries within it the carbon footprint of the energy that it uses. Utilization of renewable and low carbon energy sources will render BTC as clean and green as it can be.
 
-
 [post]: https://think.ing.com/opinions/why-bitcoin-transactions-are-more-expensive-than-you-think
 [index]: https://digiconomist.net/bitcoin-energy-consumption
-[block]:{{< relref "fourth.en.md">}}
+[block]: {{< relref "fourth.en.md">}}
 [moore]: https://en.wikipedia.org/wiki/Moore%27s_law
