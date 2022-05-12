@@ -1,6 +1,6 @@
 ---
 title: "Third"
-author: "ssurfer"
+author: "bcalvino"
 date: 2017-11-07T23:04:12-03:00
 keywords: macbook pro, dGPU, arch linux, efi vars, force iGPU, hack of the year, outTemer
 ---
