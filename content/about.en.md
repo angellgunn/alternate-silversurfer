@@ -1,7 +1,7 @@
 +++
 date = "2017-10-20"
 title = "about"
-translationKey = "sobre"
+translationKey = "about"
 +++
 
 created for nothing special

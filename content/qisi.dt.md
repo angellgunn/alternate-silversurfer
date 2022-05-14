@@ -1,7 +1,7 @@
 +++
 date = "2017-10-20"
 title = "qisi"
-translationKey = "sobre"
+translationKey = "about"
 +++
 
 nakhaan ha vosi

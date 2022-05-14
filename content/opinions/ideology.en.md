@@ -4,7 +4,7 @@ title = "There is no gender"
 keywords = "ideology, gender, freedom, prejudice"
 tags = ["opinions"]
 author = "jcalangro"
-translationKey = "ideologia"
+translationKey = "ideology"
 +++
 
 I am not an expert in gender ideology, nor in the social sciences. My formal education and my work took me to different areas: my initial interests were in the exact sciences, and I ended up working in the biomedical field. So, in this short text, I basically go with my opinion, the way I understand this issue, but not an erudite, or even a professional approach.

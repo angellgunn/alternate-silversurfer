@@ -3,7 +3,7 @@ title = "Modern slavery"
 date = "2017-10-31"
 keywords = "slavery, labor, rights"
 tags = ["opinions"]
-translationKey = "escravo"
+translationKey = "slave"
 author = "bcalvino"
 +++
 

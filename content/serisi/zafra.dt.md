@@ -3,8 +3,10 @@ title = "Asshekh azzafrakhi"
 date = "2017-10-31"
 keywords = "azzafrakh, tat, seris"
 tags = ["asto"]
-translationKey = "escravo"
+translationKey = "slave"
 +++
+
+UNDER CONSTRUCTION
 
 Jin okeo anni tat finne jin _chilak_ _vitihirak_, jin sacheya ki _athkoalar_ _khasari_.  Arrekoon fin anha tiholat, mae _athari_ ajjin tat ezat "davra _chilak_ ha _zhikhat voj_".  Vosma haji vo fin jin _serisir_ ajjin. Anha disse add, ven jin _arannen_, rek anna okeo _tawaka_ rek jin khasar et loy gache ha jin havazh ki _qaf_ (vos _athidirolar_ finne ei).
 
