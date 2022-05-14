@@ -9,7 +9,7 @@ publishdir = "public"
 #languageCode = "pt-br"
 DefaultContentLanguage = "en"
 #title = "uma pagina livre"
-#disqusshortname = ""
+disqusshortname = ""
 pluralizelisttitles = false
 preserveTaxonomyNames = true
 removePathAccents = true
@@ -94,3 +94,4 @@ statement = "#ff8e91"
     url    = "/"
     name   = "Home"
     weight = 0
+
