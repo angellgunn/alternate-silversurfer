@@ -1,4 +1,4 @@
-﻿baseURL = "https://alternate-silversurfer.bitbucket.io/"
+baseURL = "https://alternate-silversurfer.bitbucket.io/"
 theme = "cocoa-eh"
 builddrafts = false
 buildExpired = true
@@ -94,4 +94,3 @@ statement = "#ff8e91"
     url    = "/"
     name   = "Home"
     weight = 0
-
