@@ -19,6 +19,6 @@ Minha proposta é que o valor bloqueado no BTC seja na verdade essa energia, o v
 
 [post]: https://think.ing.com/opinions/why-bitcoin-transactions-are-more-expensive-than-you-think
 [indice]: https://digiconomist.net/bitcoin-energy-consumption
-[block]: {{< relref "fourth.en.md">}}
+[block]: {{< relref "quarta.pt-br.md">}}
 [moore]: https://en.wikipedia.org/wiki/Moore%27s_law
 [energia]: https://en.wi
