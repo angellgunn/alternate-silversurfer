@@ -1,8 +1,8 @@
 ﻿---
-autor: "bcalvino"
-título: "Sétima"
-data: 2018-03-16T13:00:00-00:00
-palavras-chave: bitcoin, energia, descentralização, eleNao
+author: "bcalvino"
+title: "Sétima"
+date: 2018-03-16T13:00:00-00:00
+keywords: bitcoin, energia, descentralização, eleNao
 ---
 
 Então, o Bitcoin (BTC) desperdiça uma enorme quantidade de eletricidade. Uma manchete que virou notícia mundial diz que negociar um único BTC usa a quantidade de energia que uma casa média consome em um mês. Essa informação veio de um [post][post] de 2017 do economista-chefe do banco holandês ING, Teunis Brosens. Ele baseou sua opinião no [índice de consumo de energia Bitcoin do Digiconomist][indice]. De acordo com essa fonte, uma única transação BTC usa mais de 200 kWh, usando o hashrate total do BTC e assumindo que a maioria dos mineradores usa o mesmo tipo de máquina para fazer a computação. Isso é realmente muito? Para efeito de comparação, o autor compartilha seu consumo doméstico semanal: 45 kWh. É muita coisa, aparentemente. Além disso, ele afirma que uma rede de pagamento tradicional (VISA) usa uma fração muito pequena dessa energia (0,01 kWh) por transação.

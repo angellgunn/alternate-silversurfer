@@ -1,8 +1,8 @@
 ﻿---
-autor: "bcalvino"
-título: "Oitava"
-data: 2018-12-20T13:00:00-00:00
-palavras-chave: algoritmo, liberdade, preconceito, internet, bolha, Cambridge Analytica, eleNao
+author: "bcalvino"
+title: "Oitava"
+date: 2018-12-20T13:00:00-00:00
+keywords: algoritmo, liberdade, preconceito, internet, bolha, Cambridge Analytica, eleNao
 ---
 
 Este ano uma profecia foi cumprida. Em 2011, [Eli Pariser][pariser], autor, ativista, empresário, publicou um livro best-seller do New York Times, _The Filter Bubble: What the Internet Is Hiding from You_. Ele introduziu este novo conceito de *[bolha de filtro][bolha]* criado por [algoritmos][algoritmo] dos serviços de mídia da Internet. Ele previu que esse fenômeno prejudicaria a sociedade, a democracia e, finalmente, a humanidade como um todo. Isso já aconteceu. Em março, [Christopher Wylie][wylie] divulgou documentos de seu ex-empregador, a empresa [Cambridge Analytica][analytica] que revelaram uma operação secreta para usar dados pessoais de milhões de usuários do Facebook para influenciar eleições nos EUA e possivelmente processos de votação em todo o mundo. como o [referendo do Brexit][brexit].
