@@ -15,6 +15,8 @@ In July 2017, BTC value was circa 3k and its estimated annual energy consumption
 
 My proposal is that the value locked in BTC is actually this energy, the value of energy used to enforce its immutability, its security (its main utility). In this regard, besides being considered _digital gold_, BTC could as well be considered _stored energy_. The other aspect of the energy consumed ("stored") by BTC is its equivalence in carbon footprint. This is really a problem that must be addressed, but its solution is rather simple. If BTC is stored energy, it carries within it the carbon footprint of the energy that it uses. Utilization of renewable and low carbon energy sources will render BTC as clean and green as it can be.
 
+![](/img/bitcoin.jpg)
+
 [post]: https://think.ing.com/opinions/why-bitcoin-transactions-are-more-expensive-than-you-think
 [index]: https://digiconomist.net/bitcoin-energy-consumption
 [block]: {{< relref "fourth.en.md">}}

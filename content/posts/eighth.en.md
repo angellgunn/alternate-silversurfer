@@ -1,7 +1,7 @@
 ---
 author: "bcalvino"
 title: "Eighth"
-date: 2018-12-24T13:00:00-00:00
+date: 2018-12-20T13:00:00-00:00
 keywords: algorithm, liberty, bias, internet, bubble, Cambridge Analytica, eleNao
 ---
 
@@ -29,8 +29,8 @@ The Facebook-Cambridge Analytica data scandal is only the herald of a potentiall
 [wylie]: https://en.wikipedia.org/wiki/Christopher_Wylie
 [analytica]: https://en.wikipedia.org/wiki/Cambridge_Analytica
 [brexit]: https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
-[echo] https://en.wikipedia.org/wiki/Echo_chamber_(media)
-[rct] https://en.wikipedia.org/wiki/Realistic_conflict_theory
+[echo]: https://en.wikipedia.org/wiki/Echo_chamber_(media)
+[rct]: https://en.wikipedia.org/wiki/Realistic_conflict_theory
 [campbell]: https://en.wikipedia.org/wiki/Realistic_conflict_theory
 [zero-sum]: https://en.wikipedia.org/wiki/Zero-sum_game
 [tribalism]: https://en.wikipedia.org/wiki/Tribalism

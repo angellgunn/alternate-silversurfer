@@ -19,4 +19,4 @@ Today, I see the subject more clearly and, even without having a formal knowledg
 
 There is more, however: I have never seriously believed in universal good and evil, but not only do I believe, but I fear the evil that human beings are capable of. And, in my view, much of what lies behind prejudice and the attempt to control others is the evil of humanity, pure and simple. I'd rather be good, and not be prejudiced, and support gender ideology.
 
-![equality](http://dralisonblock.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-07-at-9.19.04-AM.png)
+![equality](/img/equality)
