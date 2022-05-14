@@ -1,6 +1,6 @@
 +++
 title = "Asshekh azzafrakhi"
-date = "2017-10-31"
+date = "2017-09-15"
 keywords = "azzafrakh, tat, seris"
 tags = ["asto"]
 translationKey = "slave"
