@@ -108,7 +108,7 @@ $ git remote add origin https://<user>@bitbucket.org/<user>/<user>.bitbucket.io.
 $ git push -u origin master
 ```
 
-As _just the contents of the ** public ** folder should be served, I created a new branch of the repository by filtering the folder in question:
+As _just the contents of the **public** folder_ should be served, I created a new branch of the repository by filtering the folder in question:
 
 ```git
 $ git subtree split --branch deploy --prefix public /
