@@ -9,7 +9,7 @@ E o Brasil pegou fogo, literalmente. Em 2019, as duas primeiras semanas de agost
 
 ![](/img/sao_paulo_escuro.jpg)
 ![](/img/TransporteFumaca_AmericaDoSul.jpg)
-![](/img/imagem-CPTEC)
+![](/img/1.jpg)
 
 Mas o apagão do Brasil não ocorreu agora, e sim nas últimas eleições presidenciais, quando Jair Bolsonaro foi eleito. Uma figura populista, caracterizado por discurso extremista, homofóbico, misógino, preconceituoso com negros, nordestinos e outros brasileiros fora do eixo Rio-São Paulo. Ele montou um governo de pessoas despreparadas, polêmicas, associados com processos por corrupção, igualmente extremistas e defensores de posições preconceituosas. Já ocorreram reversões de conquistas históricas da sociedade brasileira em questões como política ambiental, indígenas, questões trabalhistas, educação, saúde e até mesmo o orçamento para ciência e tecnologia. Este novo governo dá mostras de que não vai deixar pedra sobre pedra.
 

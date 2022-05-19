@@ -1,4 +1,4 @@
----
+﻿---
 Author: "bcalvino"
 title: "Ninth"
 date: 2019-08-30T13:00:00-00:00
@@ -9,7 +9,7 @@ And Brazil literally caught fire. In 2019, the first two weeks of August had dar
 
 ![](/img/sao_paulo_escuro.jpg)
 ![](/img/TransporteFumaca_AmericaDoSul.jpg)
-![](/img/image-CPTEC.png)
+![](/img/1.jpg)
 
 The blackout in Brazil did not begin now, but in the last year when Jair Bolsonaro was elected president. A populist man, extremist, homophobic, misogynistic, prejudiced towards blacks, northeasterners and other Brazilians outside the Rio-São Paulo axis. He set up a government of unprepared people, polemic ridden, associated with corruption, and equally extremists with prejudiced positions. As it unfolds, this government resets environmental and indigenous  policy issues, labour, education, health, and even science and technology budgets. This new government shows that it will leave no stone unturned.
 
