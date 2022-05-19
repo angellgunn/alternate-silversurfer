@@ -18,7 +18,7 @@ However, this definition fails in capturing the social human dimension of econom
 One of the key concepts in this framework is that of “maximum sustainable yield” (MSY), developed in the 30s regarding fisheries management [4]. However, the concept of _sustainability_ appeared much more earlier, in the XVIIIth century works of Hans Carl von Carlowitz [5]. It can be related to a class of applied mathematical models. The key concept is that populations of organisms grow to replace losses and reach an equilibrium population size (carrying capacity), in the process producing a surplus that can be sustainably harvested. 
 The simplest way to model MSY is modifying a logistic equation to account for continuous removal of individuals from the population. The equilibrium point is semi-stable, and small decreases in the population can lead to a positive feedback loop and extinction if harvesting is not reduced. Thus, harvesting at the MSY is unsafe, and the best regimen is approximating an _optimum sustainable yield_, the largest economical yield of a renewable resource achievable over a long time period without decreasing the ability of the population or its environment to support the continuation of this level of yield [6].
 
-![](/img/2.png)
+![](/img/2.jpg)
 
 Again, this simplistic approach does not include the complexities of social interaction. Cavalcanti has insisted that _well being_ of human populations has to be accounted for in any successful theory of sustainable economy [7]. Ecological economics is a new and growing multidisciplinary field, and has already driven a number of modifications in the way we perceive and relate to the environment as a society and as an economical species. 
 
