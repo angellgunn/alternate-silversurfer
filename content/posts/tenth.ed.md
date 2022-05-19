@@ -24,10 +24,16 @@ Again, this simplistic approach does not include the complexities of social inte
 
 ## References:
 
-Georgescu-Roegen, N. 1971, The Entropy Law e the Economic Process, Harvard Universidade Press.
-Passet, R. 1979, L’Économique et le Vivant, 2nd ed. 1996, Economica, Paris.
-Daly H.E. (1990). Toward Some Operational Principles of Sustainable Development, Ecological Economics, 2, 1-6.
-Russell, E. S. (1931). "Some theoretical Considerations on the "Overfishing" Problem". ICES Journal of Marine Science. 6 (1): 3–20.
-Hans Carl von Carlowitz. 1713, Sylvicultura oeconomica, oder haußwirthliche Nachricht und Naturmäßige Anweisung zur wilden Baum-Zucht.
-Clark, C.W. (1990), Mathematical Bioeconomics: The Optimal Management of Renewable Resources, 2nd ed. Wiley-Interscience, New York
-Cavalcanti. C. (2010) Conceptions of Ecological Economics: its Relationship with Mainstream and Environmental Economics. Estudos Avançados. 24 (68): 53
+1. Georgescu-Roegen, N. 1971, The Entropy Law e the Economic Process, Harvard Universidade Press.
+
+2. Passet, R. 1979, L’Économique et le Vivant, 2nd ed. 1996, Economica, Paris.
+
+3. Daly H.E. (1990). Toward Some Operational Principles of Sustainable Development, Ecological Economics, 2, 1-6.
+
+4. Russell, E. S. (1931). "Some theoretical Considerations on the "Overfishing" Problem". ICES Journal of Marine Science. 6 (1): 3–20.
+
+5. Hans Carl von Carlowitz. 1713, Sylvicultura oeconomica, oder haußwirthliche Nachricht und Naturmäßige Anweisung zur wilden Baum-Zucht.
+
+6. Clark, C.W. (1990), Mathematical Bioeconomics: The Optimal Management of Renewable Resources, 2nd ed. Wiley-Interscience, New York
+
+7. Cavalcanti. C. (2010) Conceptions of Ecological Economics: its Relationship with Mainstream and Environmental Economics. Estudos Avançados. 24 (68): 53
