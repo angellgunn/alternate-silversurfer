@@ -1,0 +1,11 @@
+{
+    "name": "Hagemanto",
+    "bio": "Hagemanto é um consumidor insaciável de animes e mangás; diz-se artista."
+    "image": "/media/authors/hmanto.png",
+    "weight": 1,
+    "social": {
+        "twitter": "hagemanto",
+        "github": "https://www.github.com/hmanto",
+        "website": "https://www.hmanto.com"
+    }
+}
