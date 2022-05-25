@@ -1,8 +1,10 @@
 +++
 date = "2018-01-11"
-title = "Biologia da Cognição"
+title = "Cognição"
 author = "Maturana"
 +++
+
+**_Biologia da Cognição_**
 
 **Humberto R. Maturana**
 
