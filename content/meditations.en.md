@@ -1,5 +1,5 @@
 +++
-title = "The Meditations"
+title = "Meditations"
 author = "Marcus Aurelius"
 date = "2019-03-01"
 
