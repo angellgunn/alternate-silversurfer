@@ -1,0 +1,11 @@
+{
+    "name": "Antônio Conselheiro",
+    "bio": "Antônio Conselheiro é um místico do sertão e filósofo da mente.",
+    "image": "/media/authors/aconselheiro.png",
+    "weight": 1,
+    "social": {
+        "twitter": "aconselheiro",
+        "github": "https://www.github.com/aconselheiro",
+        "website": "https://www.aconselheiro.com"
+    }
+}
