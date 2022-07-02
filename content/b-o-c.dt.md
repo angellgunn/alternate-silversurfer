@@ -1,7 +1,7 @@
 +++
 date = "2018-01-11"
 title = "Tiralekh ki Dirghah"
-author = ""
+author = "aconselheiro"
 +++
 
 **Humberto R. Maturana**
