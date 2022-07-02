@@ -1,7 +1,7 @@
 +++
 date = "2018-01-11"
 title = "Cognition"
-author = "a.conselheiro"
+author = "aconselheiro"
 +++
 
 **_Biology of Cognition_**
