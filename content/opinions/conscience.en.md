@@ -3,7 +3,7 @@ date = "2022-06-28"
 title = "Can an AI gain conscience?"
 keywords = "artificial intelligence, linguistics, conscience, self-awareness"
 tags = ["opinions"]
-author = "aconselhiro"
+author = "aconselheiro"
 translationKey = "conscience"
 +++
 
