@@ -1,10 +1,10 @@
 +++
-title = "A escravidão moderna"
-author = "bcalvino"
+title = "Modern slavery"
 date = "2017-10-31"
 keywords = "escravidão, trabalho, direitos"
 tags = ["opiniões"]
 translationKey = "slave"
+author = "jcalangro"
 +++
 
 Um amigo meu trabalha na Central de Leitos, uma repartição da Secretaria de Saúde do Estado. Do que entendo, sua atribuição é encontrar "a melhor vaga para cada paciente".  Mas não é sobre isso que versa este texto. Apenas acrescento, como curiosidade, que meu amigo confirmou que a Central tem poucas vagas para um mar de solicitações (nenhuma surpresa nisso).

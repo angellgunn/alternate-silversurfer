@@ -4,7 +4,7 @@ date = "2017-10-31"
 keywords = "slavery, labor, rights"
 tags = ["opinions"]
 translationKey = "slave"
-author = "bcalvino"
+author = "jcalangro"
 +++
 
 A friend of mine works at the Medical Control Authority, a part of the State Department of Health. From what I understand, it oversees the allocation of hospital beds all over the state. As they say, their job is to find "the best allocation for each patient." But this is not what this text is about. Just add, as a curiosity, that my friend confirmed that the Central has few allocation slots for a sea of requests (no surprise at that).

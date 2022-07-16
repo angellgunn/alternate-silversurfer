@@ -4,6 +4,7 @@ date = "2017-09-15"
 keywords = "azzafrakh, tat, seris"
 tags = ["asto"]
 translationKey = "slave"
+author = "jcalangro"
 +++
 
 UNDER CONSTRUCTION
