@@ -1,5 +1,5 @@
 +++
-title = "Modern slavery"
+title = "Escravidão moderna"
 date = "2017-10-31"
 keywords = "escravidão, trabalho, direitos"
 tags = ["opiniões"]
