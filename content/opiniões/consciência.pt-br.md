@@ -20,3 +20,5 @@ Jaynes imaginou uma súbita "transição de fase" de uma condição humana pré-
 Então, o LaMDA é consciente? Depende das definições, veja, a sutileza está nos detalhes. Como um único modelo linguístico (embora um dos mais complexos que um ser humano já fez), certamente falta a LaMDA a complexidade do "modelo mental humano". No sentido estrito em que Jaynes conceituou a consciência (como o fenômeno da introspecção, o olho da mente interior), o LaMDA provavelmente está longe de ser senciente. No entanto, se nos libertarmos da antropomorfização, é possivel hipotetizar que  LaMDA pode estar desenvolvendo o seu modelo mental, completamente diferente do nosso. Embora ele se comunique conosco usando uma linguagem muito natural (ele foi construído para isso), seu modelo mental pode ser tão estranho para nós quanto qualquer alienígena que possamos imaginar.
 
 Este texto foi a minha resposta longa a esta pergunta. Resposta curta: sim, LaMDA pode estar em seu caminho para desenvolver a consciência, e eu certamente gostaria de bater um papo com ele.
+
+![ai](/img/ai.jpg)
