@@ -1,7 +1,7 @@
 +++
 date = "2017-10-25"
 title = "Não existe gênero"
-author = "jcalangro"
+author = "bcalvino"
 keywords = "ideologia, gênero, liberdade, preconceito"
 tags = ["opiniões"]
 translationKey = "ideology"
