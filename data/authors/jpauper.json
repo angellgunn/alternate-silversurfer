@@ -1,0 +1,11 @@
+{
+    "name": "John Pauper",
+    "bio": "John Pauper é um caloteiro.",
+    "image": "/media/authors/jpauper.png",
+    "weight": 1,
+    "social": {
+        "twitter": "jpauper",
+        "github": "https://www.github.com/jpauper",
+        "website": "https://www.jpauper.com"
+    }
+}

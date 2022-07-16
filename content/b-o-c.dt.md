@@ -1,6 +1,6 @@
 +++
 date = "2018-01-11"
-title = "Tiralekh ki Dirghah"
+title = "Thiralekh ki Dirghah"
 author = "aconselheiro"
 +++
 

@@ -5,3 +5,5 @@ translationKey = "about"
 +++
 
 criada para nada em especial
+
+somos um coletivo de heterônimos

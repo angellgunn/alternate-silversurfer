@@ -3,6 +3,7 @@ title: "First"
 author: "bcalvino"
 date: 2017-09-15T23:04:12-03:00
 keywords: Hugo, Bitbucket, static, deploy, Cocoa EH, theme, outTemer
+authors: "bcalvino, jcalangro, aconselheiro, ffelix, hagemanto, ssurfer, unown"
 ---
 
 This is the initial post on this page, which I'm still not sure if it will be a blog, a site, a portal, a service,

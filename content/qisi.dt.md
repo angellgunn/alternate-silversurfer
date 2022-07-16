@@ -5,3 +5,5 @@ translationKey = "about"
 +++
 
 nakhaan ha vosi
+
+kisha khasat esinahake
