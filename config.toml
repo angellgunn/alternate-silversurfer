@@ -80,7 +80,7 @@ statement = "#ff8e91"
     weight = 2
 #    contentDir = "content/dothraki"
     languageName = "Dothraki"
-    [languages.pt-br.Params]
+    [languages.dt.Params]
     description = "jin vo sanase"
     [languages.dt.Taxonomies]
       "opinions" = "dirge"
