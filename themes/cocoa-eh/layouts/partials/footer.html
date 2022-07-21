@@ -50,8 +50,8 @@
             </a>
         {{ end }}
 
-        {{ if .Site.RSSLink }}
-            <a href="{{ .Site.RSSLink }}">
+        {{ if .Site.{{ with .OutputFormats.Get “RSS” }}{{ .RelPermalink }}{{ end }} }}
+            <a href="{{ .Site.{{ with .OutputFormats.Get “RSS” }}{{ .RelPermalink }}{{ end }} }}">
                 <img class="icon" src="/img/rss.svg" alt="rss" />
             </a>
         {{ end }}
