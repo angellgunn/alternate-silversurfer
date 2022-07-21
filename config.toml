@@ -90,8 +90,7 @@ statement = "#ff8e91"
     weight = 1
 #    contentDir = "content/english"
     languageName = "English"
-    [languages.en.Taxonomies]
-    author = "authors"
+#    [languages.en.Taxonomies]
 #      "opiniões" = "opinions"
 #      "postagens" = "posts"
     [[languages.en.menu.main]]
