@@ -61,9 +61,12 @@ statement = "#ff8e91"
 [languages]
   [languages.pt-br]
     title = "uma pagina livre"
-    weight = 1
+    weight = 2
 #    contentDir = "content/portugues"
     languageName = "Português brasileiro"
+    [languages.pt-br.Taxonomies]
+      "opinions" = "opiniões"
+      "posts" = "postagens"
     [[languages.pt-br.menu.main]]
     url    = "/"
     name   = "Home"
@@ -75,8 +78,8 @@ statement = "#ff8e91"
 #    contentDir = "content/dothraki"
     languageName = "Dothraki"
     [languages.dt.Taxonomies]
-      "opiniões" = "serisi"
-      "postagens" = "movelak"
+      "opinions" = "serisi"
+      "posts" = "movelak"
     [[languages.dt.menu.main]]
     url    = "/"
     name   = "Home"
@@ -84,12 +87,12 @@ statement = "#ff8e91"
 
   [languages.en]
     title = "a free page"
-    weight = 2
+    weight = 1
 #    contentDir = "content/english"
     languageName = "English"
-    [languages.en.Taxonomies]
-      "opiniões" = "opinions"
-      "postagens" = "posts"
+#    [languages.en.Taxonomies]
+#      "opiniões" = "opinions"
+#      "postagens" = "posts"
     [[languages.en.menu.main]]
     url    = "/"
     name   = "Home"
