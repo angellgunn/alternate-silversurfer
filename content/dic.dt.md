@@ -26,7 +26,7 @@ I used both words to refer to a Health Department (most a medical affairs depart
 
 **_patient_**: in the medical sense, a sick person under the care of a health practitioner; the dictionary has the words _athzhikhar_ (sickness), and _zhikat_ (to be sick). I propose _zhikat voj_.
 
-**_post_**: the dic has _movelat_: create, make by hand. My proposal is _movelak_.
+**_post_**: the dic has _san_: much, many, and _ase_: word. My proposal is _sanase_. It can also be used meaning **_text_**, or **_blog_**.
 
 **_to be a collective, a group_**: the dic has _khas_, short for _khasar_, small group of protectors. My proposal is _khasat_.
 
@@ -34,7 +34,7 @@ I used both words to refer to a Health Department (most a medical affairs depart
 
 **_biology_**: the dic has _atthirar_, life, and _lekh_, language. My proposal is _thiralekh_.
 
-**_knowledge_**: the dic has _dirgat_, to think. My proposal is _dirghah_.
+**_knowledge_**: the dic has _nesikh_, information. It can be used meaning knowledge.
 
 **_digression_**: the dic has _esina_, different, and _lekh_, language. My proposal is _esinalekh_.
 
@@ -49,3 +49,5 @@ I used both words to refer to a Health Department (most a medical affairs depart
 **_hospitalization_**: My proposal is _okrekolakak_, and _okrekolakat_ would be **_to hospitalize, to place in a hospital for treatment_**.
 
 **_particular_**: the dic has _chomak_, respectful one (can be derogatory). My proposal is _athchomak_, meaning distinctive, noteworthy (can be used in a negative way).
+
+**_opinion_**: the dic has _dirge_, thought, idea. It can be used meaning opinion.

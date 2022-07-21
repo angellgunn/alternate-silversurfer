@@ -1,10 +1,10 @@
 +++
 date = "2018-01-11"
-title = "Dirghah"
+title = "Nesikh"
 author = "aconselheiro"
 +++
 
-**_Thiralekh ki Dirghah_**
+**_Thiralekh ki Nesikh_**
 
 **Humberto R. Maturana**
 
