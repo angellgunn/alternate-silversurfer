@@ -1,7 +1,7 @@
 {
     "name": "Baldolino Calvino",
-    "bio": "Baldolino Calvino é um mentiroso, e isso é tudo que há para saber sobre ele.",
-    "image": "/media/authors/bcalvino.png",
+    "bio": "Baldolino Calvino é um mentiroso, e isso é tudo que há para saber sobre ele. Supostamente é um economista ecológico, ou ecólogo econômico. Não se sabe ao certo.",
+    "image": "/static/authors/bcalvino.jpg",
     "weight": 1,
     "social": {
         "twitter": "bcalvino",
