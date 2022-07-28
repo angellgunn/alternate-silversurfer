@@ -1,0 +1,11 @@
+{
+    "name": "Neuralyzer",
+    "bio": "Neuralyzer é uma neurocientista. Ela é uma mulher trans.",
+    "image": "/media/authors/neuralyzer.png",
+    "weight": 1,
+    "social": {
+        "twitter": "_neuralyzer",
+        "github": "https://www.github.com/neuralyzer",
+        "website": "https://www.neuralyzer.com"
+    }
+}
