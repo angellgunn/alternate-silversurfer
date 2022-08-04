@@ -3,9 +3,9 @@ date = "2022-08-04"
 title = "test"
 translationKey = ""
 +++
-{: style="text-align: center"}
-#My Title
-{: style="text-align: left"}
+
+#My Title{: style="text-align: center"}
+
 ## Introduction
 Some text here
 ## Methods
