@@ -5,7 +5,9 @@ translationKey = ""
 +++
 
 #My Title
+
 {: style="text-align: center"}
+
 ## Introduction
 Some text here
 ## Methods
