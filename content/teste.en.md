@@ -1,3 +1,8 @@
++++
+date = ""
+title = ""
+translationKey = ""
++++
 {: style="text-align: center"}
 #My Title
 {: style="text-align: left"}
