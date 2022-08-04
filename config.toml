@@ -101,27 +101,27 @@ statement = "#ff8e91"
     [[languages.en.menu.main]]
     url    = "/"
     name   = "Home"
-    weight = 0
+    weight = 1
 
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      linkifyProtocol = 'https'
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      autoHeadingID = true
-      autoHeadingIDType = 'github'
+
+
+
+
+
+
+
+
+
+
+    
+
+
       [markup.goldmark.parser.attribute]
-        block = 
+        block = true
         title = true
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
+
+
+
+
