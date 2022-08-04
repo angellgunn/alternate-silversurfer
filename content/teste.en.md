@@ -4,8 +4,8 @@ title = "test"
 translationKey = ""
 +++
 
-#My Title{: style="text-align: center"}
-
+#My Title
+{: style="text-align: center"}
 ## Introduction
 Some text here
 ## Methods
