@@ -1,0 +1,11 @@
+{
+    "name": "Angell Gunn",
+    "bio": "Angell Gunn é uma andróide de batalha.
+    "image": "/media/authors/angellgunn.png",
+    "weight": 1,
+    "social": {
+        "twitter": "angellgunn",
+        "github": "https://www.github.com/angellgunn",
+        "website": "https://www.angellgunn.com"
+    }
+}
