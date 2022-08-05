@@ -141,7 +141,7 @@ section.header .content {
   align-items: center;
 }
 section.header .container .logo {
-  max-width: 100px;
+  max-width: 80%;
   margin-left: -2em;
 }
 section.header .name {
