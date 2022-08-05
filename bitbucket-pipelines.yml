@@ -1,4 +1,4 @@
-image: andthensome/alpine-hugo-git-bash
+image: andthensome/alpine-hugo-surge-git-bash
 
 pipelines:
   # Master branch deployment to live - no drafts
