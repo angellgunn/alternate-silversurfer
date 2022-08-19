@@ -28,31 +28,23 @@ Sempre o Lacan...
 Estava com minha mulher, estávamos bem. Ela estava feliz, sentindo-se bem, curtindo. Valeu ter esquecido o hospital e os pacientes. Bem, depois de chegar em casa não me controlei e ainda liguei para a enfermaria e para a pediatra da neurocirurgia, sob o olhar reprovador de Freud, Nietzsche e Schopenhauer.
 
 Bem, algum dia chego lá.
-* * * * * * * * * * * * * * * * * * * * * * * * * *
-Torna-te quem tu és.
+
+> "Torna-te quem tu és"
 
 - Nietzsche
 
-* * * * * * * * * * * * * * * * * * * * * * * * * *
 Continuo com o pensamento assombrado pela aniquilação da morte. Uma revista popular trouxe uma reportagem sobre pensamento mágico. Diz que os homens que sobreviveram à idade do gelo foram apenas os que desenvolveram fé e religião. Religare - a comunicação não com um deus, mas consigo mesmo. Então, meu "anjinho" é um neandertal temente a seus deuses e respeitador dos antepassados. E ele está zangado!
 
-* * * * * * * * * * * * * * * * * * * * * * * * * *
-Amamos mais o desejo do que o ser desejado.
+> "Amamos mais o desejo do que o ser desejado"
 
 - Nietzsche
-
-* * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ## Saint Patrick - Triad
 
-Tabhair dom ghrása,
-
-Fíormhac Dé.
-
-Tabhair dom do neartsa,
-
-An ghrair  gheal glé.
-
+>* Tabhair dom ghrása,
+>* Fíormhac Dé.
+>* Tabhair dom do neartsa,
+>* An ghrair  gheal glé.
 
 (Dê-me o seu amor,
 Filho verdadeiro de Deus.
@@ -73,6 +65,7 @@ Voltei a ler física quântica. Mas dessa vez ela não está me acalmando como f
 
 Praia. Tudo de bom.
 Nós seres humanos sempre nos sentimos tranquilos e bem na praia, ou quase sempre. Essa é uma resposta meio que inata. Nossos antepassados sabiam que o litoral normalmente significava segurança e fartura. Sempre o neandertal. Ele está por trás de quase tudo o que achamos bom e nos acalma ou satisfaz?
+
 O que em nós é biológico e o que é social? E o social, o que é? Por que temos consciência?
 Coloquei "proof of life after death" no google. Minha obsessão continua. Os filósofos balançavam a cabeça, desaprovadoramente. Um site tem fotos antigas de ectoplasmas "materializados". Se depender destas fotos, meu ceticismo é inabalável.
 
@@ -81,7 +74,9 @@ Um sujeito colocou na net sua "prova lógica" da vida após a morte. O problema 
 # 20 de fevereiro
 
 Dia de preguiça e shopping center.
+
 Mais pesquisa - Parapsicologia
+
 Dois fenômenos parecem ter "comprovação científica" em metanálises de
 estudos pequenos: Ganzfeld - experimento de telepatia e microPK
 (micropsicocinese) - experimento de psicocinese com máquinas
@@ -92,6 +87,7 @@ relativamente discretos, apesar de homogêneos.
 Outra coisa, uma das principais críticas atuais é de que o pequeno
 efeito aparentemente visto em Ganzfeld não pode ser interpretado como
 prova de telepatia!
+
 Atualmente, contam-se várias centenas de pequenos experimentos de
 Ganzfeld realizados por bem poucos grupos experimentais contabilizados
 nas meta-análises. Creio que qualquer pequeno efeito mostrado neste
@@ -106,11 +102,11 @@ trabalhos, que evaporam-se em trabalhos de maior envergadura.
 
 Estou entrando no plantão. Começo com citações:
 
-"Onde a morte está, eu não estou. Onde estou, a morte não está." 
+> "Onde a morte está, eu não estou. Onde estou, a morte não está." 
 
 - Lucrécio
 
-"Acredito que a vida seja uma centelha entre dois vácuos idênticos: a
+> "Acredito que a vida seja uma centelha entre dois vácuos idênticos: a
 escuridão antes do nascimento e aquela após a morte." 
 
 - Irvin D. Yalom
@@ -122,85 +118,46 @@ quando era aluno de medicina.
 
 ## MERCY STREET (Peter Gabriel, Album: So)
 
-looking down on empty streets, all she can see
-
-are the dreams all made solid
-
-are the dreams all made real
-
-all of the buildings, all of those cars
-
-were once just a dream
-
-in somebody's head
-
-she pictures the broken glass, she pictures the steam
-
-she pictures a soul
-
-with no leak at the seam
-
-let's take the boat out \ (twice)
-
-wait until darkness comes /
-
-nowhere in the corridors of pale green and grey
-
-nowhere in the suburbs
-
-in the cold light of day
-
-there in the midst of it so alive and alone
-
-words support like bone
-
-dreaming of mercy street
-
-wear your inside out
-
-dreaming of mercy
-
-in your daddy's arm again
-
-dreaming of mercy street
-
-swear they moved that sign
-
-dreaming of mercy
-
-in your daddy's arms
-
-pulling out the papers from the
-
-drawers that slide smooth
-
-tugging at the darkness, word upon word
-
-confessing all the secret things in the warm velvet box
-
-to the priest - he's the doctor
-
-he can handle all the shocks
-
-dreaming of the tenderness - the tremble in the hips
-
-of kissing mary's lips
-
-dreaming of mercy street
-
-wear your insides out
-
-dreaming of mercy
-
-in your daddy's arms
-
-mercy, mercy, looking for mercy (twice)
-
-Anne, with her father is out in the boat
-
-riding the water
-
-riding the waves on the sea
+>* looking down on empty streets, all she can see
+>* are the dreams all made solid
+>* are the dreams all made real
+>* all of the buildings, all of those cars
+>* were once just a dream
+>* in somebody's head
+>* she pictures the broken glass, she pictures the steam
+>* she pictures a soul
+>* with no leak at the seam
+>* let's take the boat out \ (twice)
+>* wait until darkness comes /
+>* nowhere in the corridors of pale green and grey
+>* nowhere in the suburbs
+>* in the cold light of day
+>* there in the midst of it so alive and alone
+>* words support like bone
+>* dreaming of mercy street
+>* wear your inside out
+>* dreaming of mercy
+>* in your daddy's arm again
+>* dreaming of mercy street
+>* swear they moved that sign
+>* dreaming of mercy
+>* in your daddy's arms
+>* pulling out the papers from the
+>* drawers that slide smooth
+>* tugging at the darkness, word upon word
+>* confessing all the secret things in the warm velvet box
+>* to the priest - he's the doctor
+>* he can handle all the shocks
+>* dreaming of the tenderness - the tremble in the hips
+>* of kissing mary's lips
+>* dreaming of mercy street
+>* wear your insides out
+>* dreaming of mercy
+>* in your daddy's arms
+>* mercy, mercy, looking for mercy (twice)
+>* Anne, with her father is out in the boat
+>* riding the water
+>* riding the waves on the sea
 
 Eu tinha esse disco...
 
@@ -231,7 +188,7 @@ Sempre, sempre, lembro de minha mulher, e da oportunidade única e
 individual de termos nos conhecido e nos amado, e de como isso dá valor a
 toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 
-"Haja ou não alguém que a acompanhe, uma pessoa sempre morre sozinha." 
+> "Haja ou não alguém que a acompanhe, uma pessoa sempre morre sozinha." 
 
 - Irvin D. Yalom
 
@@ -241,21 +198,21 @@ toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 
 # 24 de Fevereiro
 
-(...) What if god was one of us
+>* (...) What if god was one of us
 
-Just a slob like one of us
+>* Just a slob like one of us
 
-Just a stranger on the bus trying to make his way home?
+>* Just a stranger on the bus trying to make his way home?
 
-Like a holy rolling stone
+>* Like a holy rolling stone
 
-Back up to heaven all alone
+>* Back up to heaven all alone
 
-Just trying to make his way home
+>* Just trying to make his way home
 
-Nobody calling on the phone
+>* Nobody calling on the phone
 
-Except for the pope maybe in rome
+>* Except for the pope maybe in rome
 
 - Joan Osborne
 
@@ -296,7 +253,7 @@ As crianças acharam o máximo. Os adultos, como sempre, acham que isso faz part
 
 Ver o brilho nos olhos da minha filha e seu encantamento quando cantaram  os parabéns foi o suficiente. Enquanto escrevo estas linhas, dois dias após, lembro que aqueles momentos perduram para mim apenas na memória, e a memória humana não é uma "fotografia" ou uma "filmagem", não tenho detalhes precisos "impressos" em meu cérebro, mas sim uma sofisticada "recriação" virtual a partir das modificações que centenas de milhões de neurônios sofreram naquele dia, induzidas pelas experiências que vivenciei. Resumindo: o cérebro nunca se lembra realmente de nada, ele reconstrói momentos "anteriores" no presente. Essa reconstrução nem sempre é perfeita e pode mudar com o tempo. Por isso não adianta viver de lembranças... isso é ilusão. _Carpe diem!_ Curta a vida, HOJE!
 
-"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser gate. All those moments will be lost in time, like tears in rain. Time to die."
+> "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser gate. All those moments will be lost in time, like tears in rain. Time to die."
 
 - Roy Batty, personagem de Hutger Hower em Blade Runner (1982), no diálogo final
 
@@ -314,19 +271,19 @@ Continuam as anotações de dias pregressos...
 
 Fernando Portela Câmara escreve, no nº 7, volume 10, do Psychiatry on line Brasil, em julho de 2005:
 
-"Somos o resultado inesperado de saltos de qualidade. Por toda a natureza, especialmente no domínio biológico, percebemos estes saltos e seus vestígios em toda sorte de combinações de programas, comportamentos e formas por toda parte. A sociedade humana representa um destes saltos e não pensaríamos, planejaríamos e talvez nem mesmo tivéssemos a linguagem que temos e os meios de comunicação se a vida em sociedade não nos empurrasse um pouco mais para a fronteira do caos."
+> "Somos o resultado inesperado de saltos de qualidade. Por toda a natureza, especialmente no domínio biológico, percebemos estes saltos e seus vestígios em toda sorte de combinações de programas, comportamentos e formas por toda parte. A sociedade humana representa um destes saltos e não pensaríamos, planejaríamos e talvez nem mesmo tivéssemos a linguagem que temos e os meios de comunicação se a vida em sociedade não nos empurrasse um pouco mais para a fronteira do caos."
 
 Teoria da Complexidade explicando a emergência da consciência a partir dos sistemas complexos?
 O psiquiatra Eulen Bleuler chamou de "psicóide" todas as manifestações vitais dotadas de reais analogias com os fenômenos psíquicos. Para ele, a psique humana seria um caso "psicóide" especial.
 Lágrimas na chuva...
 
-"A igreja diz que a Terra é achatada, mas sei que ela é redonda, porque vi a sombra na Lua, e tenho mais fé numa sombra do que na igreja."
+> "A igreja diz que a Terra é achatada, mas sei que ela é redonda, porque vi a sombra na Lua, e tenho mais fé numa sombra do que na igreja."
 
 - Fernão de Magalhães
 
 # 07 de março de 2007
 
-"The world is so exquisite with so much love and moral depth, that there is no reason to deceive ourselves with pretty stories for which there's little good evidence. For better it seems to me, in our vulnerability, is to look death in the eye and to be grateful every day for the brief but magnificent opportunity that life provides."
+> "The world is so exquisite with so much love and moral depth, that there is no reason to deceive ourselves with pretty stories for which there's little good evidence. For better it seems to me, in our vulnerability, is to look death in the eye and to be grateful every day for the brief but magnificent opportunity that life provides."
 
 - Carl Sagan
 
@@ -371,8 +328,11 @@ Aos espiritualistas: uma vez que mais estas características da mente humana for
 
 Tudo o que fizermos, dissermos, mudarmos, jamais mudará nosso destino final, nem reterá qualquer significado para nós ou os outros que amamos. Um  dia, mais cedo ou mais tarde, tudo o que somos, realizamos e sonhamos não fará mais sentido para ninguém.
 Então por que viver, se o destino é a morte?
+
 Amor fati - ama teu destino!
+
 Carpe diem! - aproveita o agora!
+
 Tudo o que nós somos, realizamos e sonhamos faz sentido agora! E isso é só o que importa!
 A vida após a morte - se existisse - seria apenas um triste consolo. E nos privaria da doce irresponsabilidade da deleção completa no futuro.
 
