@@ -5,11 +5,11 @@ date: 2007-02-13T13:00:00-00:00
 keywords: life, death, eternity, soul, 
 ---
 
-On February 13, 2007 I started writing texts motivated by a deep existential anguish that came from the fact that I had (apparently) lost faith in anything. Searching, reasoning, writing, writing down things I saw or heard, I created something that could perhaps be called a diary. The name I give it derives from my current status as a newly self-included among the ranks of atheism. For the religious, I warn you that my blog will not be pleasant and my (in)decision will hardly be returned. For atheists, either, I promise intellectual satisfaction, my condition being probably too transitory to consider myself among them for long. I will start transcribing texts since February 2007, in addition to writing new texts.
+On February 13th, 2007 I started writing texts motivated by a deep existential anguish that came from the fact that I had (apparently) lost faith in anything. Searching, reasoning, writing, writing down things I saw or heard, I created something that could perhaps be called a diary. The name I give it derives from my current status as a newly self-included among the ranks of atheism. For the religious, I warn you that my blog will not be pleasant and my (in)decision will hardly be returned. For atheists, either, I promise intellectual satisfaction, my condition being probably too transitory to consider myself among them for long. I will start transcribing texts since February 2007, in addition to writing new texts.
 
 # February 13th
 
-… and then I wrote the first words. Here I am, it's almost midnight and I'm in bed, starting a 'diary' for the first time. Why diary? Why not a blog? Why not a file on my computer? Why, because… it is precisely to explain the WHY(s) that I started this diary. And I imagined him for the first time with these pages, this black ink and this messy handwriting. Writing has a magic that can hardly ever be rivaled by typing. And look how everyone types these days… I'm not a writer, this isn't a book, or a work of art of any kind. It's just reflection, materialized in this specific form of white pages and black ink. Only that. Although I only superficially understand WHY a journal is written, I know very well WHY to write it. The bottom line is that I have finally become fully and truly ATHEIST. In Nietzsche's words, 'I killed God'. I cannot accept or believe the general religious concepts of life after death, deus ex machina, judgment, heaven, hell, etc. This disturbs me deeply. But at the moment, I'm too sleepy and my light source (the cell phone) is draining. Tomorrow I'll pick up where we left off…
+… and then I wrote the first words. Here I am, it's almost midnight and I'm in bed, starting a 'diary' for the first time. Why diary? Why not a blog? Why not a file on my computer? Why, because… it is precisely to explain the WHY(s) that I started this diary. And I imagined it for the first time with these pages, this black ink and this messy handwriting. Writing has a magic that can hardly ever be rivaled by typing. And look how everyone types these days… I'm not a writer, this isn't a book, or a work of art of any kind. It's just reflection, materialized in this specific form of white pages and black ink. Only that. Although I only superficially understand WHY a journal is written, I know very well WHY to write it. The bottom line is that I have finally become fully and truly ATHEIST. In Nietzsche's words, 'I killed God'. I cannot accept or believe the general religious concepts of life after death, deus ex machina, judgment, heaven, hell, etc. This disturbs me deeply. But at the moment, I'm too sleepy and my light source (the cell phone) is draining. Tomorrow I'll pick up where we left off…
 
 # February 14th
 
@@ -37,6 +37,7 @@ I went back to reading quantum physics. But this time she's not calming me down 
 # February 19th
 
 Beach. All the best.
+
 We human beings always feel peaceful and good at the beach, or almost always. This is kind of an innate response. Our ancestors knew that the coast usually meant safety and plenty.
 
 Always the Neanderthal. Is it behind almost everything we think is good and does it soothe or satisfy us?
@@ -48,7 +49,9 @@ One guy posted his "logical proof" of the afterlife on the net. The problem is t
 # February 20th
 
 Lazy day and shopping mall.
+
 More research - Parapsychology
+
 Two phenomena appear to have "scientific evidence" in meta-analyses of
 small studies: Ganzfeld - telepathy and microPK experiment
 (micropsychokinesis) - psychokinesis experiment with machines
@@ -59,6 +62,7 @@ relatively discrete, although homogeneous.
 Another thing, one of the main current criticisms is that the small
 effect apparently seen in Ganzfeld cannot be interpreted as
 telepathy proof!
+
 Currently, there are several hundred small experiments in
 Ganzfeld performed by very few experimental groups accounted for
 in the meta-analyses. I believe that any small effect shown in this
@@ -73,14 +77,14 @@ works, which evaporate in larger works.
 
 I'm entering the hospital shift. Start with quotes:
 
-"Where death is, I am not. Where I am, death is not." 
+> "Where death is, I am not. Where I am, death is not." 
 
-Lucretius
+- Lucretius
 
-"I believe that life is a spark between two identical vacuums: the
+> "I believe that life is a spark between two identical vacuums: the
 darkness before birth and that after death." 
 
-Irvin D. Yalom
+- Irvin D. Yalom
 (The latter, Yalom must have taken from a thought of Schopenhauer).
 
 I've been listening to a song a lot that I heard the first time over 10 years ago,
@@ -88,48 +92,49 @@ when he was a medical student.
 
 MERCY STREET (Peter Gabriel, Album: So)
 
-looking down on empty streets, all she can see
-are the dreams all made solid
-are the dreams all made real
-all of the buildings, all of those cars
-were once just a dream
-in somebody's head
-she pictures the broken glass, she pictures the steam
-she pictures a soul
-with no leak at the sea
-let's take the boat out \ (twice)
-wait until darkness comes /
-nowhere in the corridors of pale green and gray
-nowhere in the suburbs
-in the cold light of day
-there in the midst of it so alive and alone
-words support like bone
-dreaming of mercy street
-wear your inside out
-dreaming of mercy
-in your daddy's arm again
-dreaming of mercy street
-swear they moved that sign
-dreaming of mercy
-in your daddy's arms
-pulling out the papers from the
-drawers that slide smooth
-tugging at the darkness, word upon word
-confessing all the secret things in the warm velvet box
-to the priest - he's the doctor
-he can handle all the shocks
-dreaming of the tenderness - the tremble in the hips
-of kissing mary's lips
-dreaming of mercy street
-wear your insides out
-dreaming of mercy
-in your daddy's arms
-mercy, mercy, looking for mercy (twice)
-Anne, with her father is out in the boat
-riding the water
-riding the waves on the sea
+> looking down on empty streets, all she can see
+> are the dreams all made solid
+> are the dreams all made real
+> all of the buildings, all of those cars
+> were once just a dream
+> in somebody's head
+> she pictures the broken glass, she pictures the steam
+> she pictures a soul
+> with no leak at the sea
+> let's take the boat out \ (twice)
+> wait until darkness comes /
+> nowhere in the corridors of pale green and gray
+> nowhere in the suburbs
+> in the cold light of day
+> there in the midst of it so alive and alone
+> words support like bone
+> dreaming of mercy street
+> wear your inside out
+> dreaming of mercy
+> in your daddy's arm again
+> dreaming of mercy street
+> swear they moved that sign
+> dreaming of mercy
+> in your daddy's arms
+> pulling out the papers from the
+> drawers that slide smooth
+> tugging at the darkness, word upon word
+> confessing all the secret things in the warm velvet box
+> to the priest - he's the doctor
+> he can handle all the shocks
+> dreaming of the tenderness - the tremble in the hips
+> of kissing mary's lips
+> dreaming of mercy street
+> wear your insides out
+> dreaming of mercy
+> in your daddy's arms
+> mercy, mercy, looking for mercy (twice)
+> Anne, with her father is out in the boat
+> riding the water
+> riding the waves on the sea
 
 I had this disk…
+
 Lacan said that the best age of the human being is when we are 3 years old.
 
 # February 23rd
@@ -150,35 +155,37 @@ of resuscitation, while massaging his precordium, in a frenzy, only
 she could think "I won't lose her, I can't lose her." The worst of all was
 tell the mother right away. I felt miserable all day and I think
 I still feel today.
+
 I can't believe there was something about that girl that survived,
 I can only think of the end of it and the emptiness afterwards. I was afraid of it - of
 contact with death after losing my illusions. Why do we live if we die?
 Why do we die, if we live?
+
 Always, always, I remember Juvenia, my wife, and the unique and
 individual of having known and loved each other, and how that gives value to
 my whole life, my fleeting and otherwise futile existence.
 
-"Whether or not there is someone accompanying you, a person always dies alone." 
+> "Whether or not there is someone accompanying you, a person always dies alone." 
 
-Irvin D. Yalom
+- Irvin D. Yalom
 
-"Amor fati - Love thy fate." 
+> "Amor fati - Love thy fate." 
 
-Nietzsche
+- Nietzsche
 
 # February, 24th
 
-(…) What if god was one of us
-Just a slob like one of us
-Just a stranger on the bus trying to make his way home?
-Like a holy rolling stone
-Back up to heaven all alone
+> (…) What if god was one of us
+> Just a slob like one of us
+> Just a stranger on the bus trying to make his way home?
+> Like a holy rolling stone
+> Back up to heaven all alone
 
-Just trying to make his way home
-nobody calling on the phone
-Except for the pope maybe in rome
+> Just trying to make his way home
+> nobody calling on the phone
+> Except for the pope maybe in rome
 
-Joan Osborne
+- Joan Osborne
 (One of Us, Relish, lyrics and music by Eric Bazilian)
 
 # February 25th
@@ -186,6 +193,7 @@ Joan Osborne
 James Cameron will release tomorrow a documentary and a book "proving" that an archaeological site found in (near) Jerusalem 36 years ago has the remains of Jesus, Mary, Mary Magdalene, as well as Judas, son of Jesus and Magdalene.
 
 Unlikely evidence aside, when there's money in the mix, all sorts of evidence and counter-evidence come out. We will likely see a battle of pseudoscience versus religion. Result: dust of nothing!
+
 Obs.: almost at Easter? what a coincidence!
 
 # February 26th
@@ -216,9 +224,9 @@ The kids enjoyed it the most. Adults, as always, think this is part of it. Adult
 
 Seeing the sparkle in my daughter's eyes and her delight when they sang happy birthday was enough. As I write these lines, two days later, I remember that those moments linger for me only in memory, and human memory is not a "photograph" or a "film", I don't have precise details "imprinted" in my brain, but a sophisticated virtual "recreation" from the modifications that hundreds of millions of neurons underwent that day, induced by the experiences I had. In short: the brain never really remembers anything, it reconstructs "previous" moments in the present. This reconstruction is not always perfect and may change over time. That's why it's no use living on memories… that's an illusion. Carpe diem! Enjoy life TODAY!
 
-"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser gate. All those moments will be lost in time, like tears in rain . Time to die."
+> "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser gate. All those moments will be lost in time, like tears in rain . Time to die."
 
-Roy Batty, Hutger Hower's character in Blade Runner (1982), in final dialogue
+- Roy Batty, Hutger Hower's character in Blade Runner (1982), in final dialogue
 
 Like tears in the rain…, a beautiful metaphor for us and our memories. I never forgot it.
 
@@ -233,20 +241,20 @@ The notes from previous days continue…
 # March 06th
 
 Fernando Portela Câmara writes, in issue 7, volume 10, of Psychiatry on line Brasil, in July 2005:
-"We are the unexpected result of leaps in quality. Throughout nature, especially in the biological domain, we perceive these leaps and their traces in all sorts of combinations of programs, behaviors and forms everywhere. Human society represents one of these leaps and not We would think, plan and maybe not even have the language we have and the means of communication if life in society didn't push us a little further to the edge of chaos."
+> "We are the unexpected result of leaps in quality. Throughout nature, especially in the biological domain, we perceive these leaps and their traces in all sorts of combinations of programs, behaviors and forms everywhere. Human society represents one of these leaps and not We would think, plan and maybe not even have the language we have and the means of communication if life in society didn't push us a little further to the edge of chaos."
 Complexity Theory explaining the emergence of consciousness from complex systems?
 Psychiatrist Eulen Bleuler called "psychoid" all vital manifestations endowed with real analogies with psychic phenomena. For him, the human psyche would be a special "psychoid" case.
 Tears in the rain…
 
-"The church says the earth is flat, but I know it's round, because I've seen the shadow on the moon, and I have more faith in a shadow than in the church."
+> "The church says the earth is flat, but I know it's round, because I've seen the shadow on the moon, and I have more faith in a shadow than in the church."
 
-Ferdinand Magellan
+- Ferdinand Magellan
 
 # March 07th
 
-"The world is so exquisite with so much love and moral depth, that there is no reason to deceive ourselves with pretty stories for which there's little good evidence. For better it seems to me, in our vulnerability, is to look death in the eye and to be grateful every day for the brief but magnificent opportunity that life provides."
+> "The world is so exquisite with so much love and moral depth, that there is no reason to deceive ourselves with pretty stories for which there's little good evidence. For better it seems to me, in our vulnerability, is to look death in the eye and to be grateful every day for the brief but magnificent opportunity that life provides."
 
-Carl Sagan
+- Carl Sagan
 
 The main argument for our real finitude and absence of continuity after death is the one (in my view) that talks about our desire. WE WOULD REALLY LIKE not to die, so WE WOULD REALLY WANT to see evidence of continuity. Nothing in this climate can be considered objective. Our search for the afterlife, through religion, pseudo-science or whatever, serves primarily to fulfill a deep need, not to seek the truth.
 The truth is already there: if even the Universe we know will "die" one day, how can we dare to want to be immortal?
@@ -283,8 +291,11 @@ Coming back to fate and evidence-based medicine, obviously when I talk about you
 
 Whatever we do, say, change, will never change our ultimate destiny, nor will it retain any meaning for us or those we love. One day, sooner or later, everything we are, we do and we dream will no longer make sense to anyone.
 So why live, if destiny is death?
+
 Amor fati - love thy fate!
+
 Carpe diem! - enjoy now!
+
 Everything we are, accomplished and dreamed of makes sense now! And that's all that matters!
 The afterlife - if it existed - would only be a sad solace. And it would deprive us of the sweet irresponsibility of complete deletion in the future.
 
