@@ -1,7 +1,7 @@
 ---
 Author: "jcalangro"
 title: "Diário de um recém ateu"
-date: 2007-02-13T13:00:00-00:00
+date: 2007-12-09T13:00:00-00:00
 keywords: vida, morte, eternidade, alma, 
 ---
 
@@ -41,10 +41,10 @@ Continuo com o pensamento assombrado pela aniquilação da morte. Uma revista po
 
 ## Saint Patrick - Triad
 
->* Tabhair dom ghrása,
->* Fíormhac Dé.
->* Tabhair dom do neartsa,
->* An ghrair  gheal glé.
+> Tabhair dom ghrása,
+> Fíormhac Dé.
+> Tabhair dom do neartsa,
+> An ghrair  gheal glé.
 
 (Dê-me o seu amor,
 Filho verdadeiro de Deus.
@@ -118,46 +118,45 @@ quando era aluno de medicina.
 
 ## MERCY STREET (Peter Gabriel, Album: So)
 
->* looking down on empty streets, all she can see
->* are the dreams all made solid
->* are the dreams all made real
->* all of the buildings, all of those cars
->* were once just a dream
->* in somebody's head
->* she pictures the broken glass, she pictures the steam
->* she pictures a soul
->* with no leak at the seam
->* let's take the boat out \ (twice)
->* wait until darkness comes /
->* nowhere in the corridors of pale green and grey
->* nowhere in the suburbs
->* in the cold light of day
->* there in the midst of it so alive and alone
->* words support like bone
->* dreaming of mercy street
->* wear your inside out
->* dreaming of mercy
->* in your daddy's arm again
->* dreaming of mercy street
->* swear they moved that sign
->* dreaming of mercy
->* in your daddy's arms
->* pulling out the papers from the
->* drawers that slide smooth
->* tugging at the darkness, word upon word
->* confessing all the secret things in the warm velvet box
->* to the priest - he's the doctor
->* he can handle all the shocks
->* dreaming of the tenderness - the tremble in the hips
->* of kissing mary's lips
->* dreaming of mercy street
->* wear your insides out
->* dreaming of mercy
->* in your daddy's arms
->* mercy, mercy, looking for mercy (twice)
->* Anne, with her father is out in the boat
->* riding the water
->* riding the waves on the sea
+> looking down on empty streets, all she can see
+> are the dreams all made solid
+> are the dreams all made real
+> all of the buildings, all of those cars
+> were once just a dream
+> in somebody's head
+> she pictures the broken glass, she pictures the steam
+> she pictures a soul
+> with no leak at the seam
+> let's take the boat out \ (twice)
+> wait until darkness comes /
+> nowhere in the corridors of pale green and grey
+> nowhere in the suburbs
+> in the cold light of day
+> there in the midst of it so alive and alone
+> words support like bone
+> dreaming of mercy street
+> wear your inside out
+> dreaming of mercy
+> in your daddy's arm again
+> dreaming of mercy street
+> swear they moved that sign
+> dreaming of mercy
+> in your daddy's arms
+> pulling out the papers from the
+> drawers that tugging at the darkness, word upon word
+> confessing all the secret things in the warm velvet box
+> to the priest - he's the doctor
+> he can handle all the shocks
+> dreaming of the tenderness - the tremble in the hips
+> of kissing mary's lips
+> dreaming of mercy street
+> wear your insides out
+> dreaming of mercy
+> in your daddy's arms
+> mercy, mercy, looking for mercy (twice)
+> Anne, with her father is out in the boat
+> riding the water
+> riding the waves on the sea
 
 Eu tinha esse disco...
 
@@ -198,21 +197,21 @@ toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 
 # 24 de Fevereiro
 
->* (...) What if god was one of us
+> (...) What if god was one of us
 
->* Just a slob like one of us
+> Just a slob like one of us
 
->* Just a stranger on the bus trying to make his way home?
+> Just a stranger on the bus trying to make his way home?
 
->* Like a holy rolling stone
+> Like a holy rolling stone
 
->* Back up to heaven all alone
+> Back up to heaven all alone
 
->* Just trying to make his way home
+> Just trying to make his way home
 
->* Nobody calling on the phone
+> Nobody calling on the phone
 
->* Except for the pope maybe in rome
+> Except for the pope maybe in rome
 
 - Joan Osborne
 
