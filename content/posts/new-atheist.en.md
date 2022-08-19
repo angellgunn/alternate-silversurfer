@@ -16,9 +16,6 @@ On February 13, 2007 I started writing texts motivated by a deep existential ang
 I wake up at 6 am. The night was not very good. My wife woke up at dawn with a severe migraine. My daughter woke up coughing a lot. The news talks about violence and shows a body wrapped in a sheet. I wanted to spare my daughters these things, but they are present at all times!
 
 Almost 10pm, I'm in the hospital on duty. The same thoughts haunt me. Are we just watches that will one day lose their winding and stop keeping time? I think so, and I can no longer convince myself otherwise. This morning my youngest daughter cried for me to stay with her. I told her to join the group that I would watch for a while from a distance. After an impromptu 'burial' of a dead insect organized by the teacher, she broke away from the group and walked back to the room, crying, obviously looking for me. I called her. Automatically she was calm and then the goodbye was without more crying or trauma. That's why I never lie to them. That's why I never threaten to abandon them, as a joke or to gain obedience. So I think all she needs from us is reassurance and patience. That's why I think these moments are and will be the closest I'll ever get to happiness and eternity.
-I wake up at 6 am. The night was not very good. My wife woke up at dawn with a severe migraine. My daughter woke up coughing a lot. The news talks about violence and shows a body wrapped in a sheet. I wanted to spare my daughters these things, but they are present at all times!
-
-Almost 10pm, I'm in the hospital on duty. The same thoughts haunt me. Are we just watches that will one day lose their winding and stop keeping time? I think so, and I can no longer convince myself otherwise. This morning my youngest daughter cried for me to stay with her. I told her to join the group that I would watch for a while from a distance. After an impromptu 'burial' of a dead insect organized by the teacher, she broke away from the group and walked back to the room, crying, obviously looking for me. I called her. Automatically she was calm and then the goodbye was without more crying or trauma. That's why I never lie to them. That's why I never threaten to abandon them, as a joke or to gain obedience. So I think all she needs from us is reassurance and patience. That's why I think these moments are and will be the closest I'll ever get to happiness and eternity.
 
 # February 16th
 
@@ -26,6 +23,7 @@ Today I ran out of the infirmary, left the troupe of philosophers and therapists
 
 The best thing was to jump with them and then run to the sand, barefoot.
 Always Lacan…
+
 I was with my wife, we were fine. She was happy, feeling good, enjoying herself. She was worth forgetting about the hospital and the patients. Well, after getting home, I couldn't control myself and even called the infirmary and the neurosurgery pediatrician, under the disapproving gaze of Freud, Nietzsche and Schopenhauer.
 
 Well, someday I'll get there.
