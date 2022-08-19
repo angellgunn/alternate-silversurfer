@@ -30,6 +30,7 @@ Estava com minha mulher, estávamos bem. Ela estava feliz, sentindo-se bem, curt
 Bem, algum dia chego lá.
 * * * * * * * * * * * * * * * * * * * * * * * * * *
 Torna-te quem tu és.
+
 - Nietzsche
 
 * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -37,6 +38,7 @@ Continuo com o pensamento assombrado pela aniquilação da morte. Uma revista po
 
 * * * * * * * * * * * * * * * * * * * * * * * * * *
 Amamos mais o desejo do que o ser desejado.
+
 - Nietzsche
 
 * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -44,9 +46,13 @@ Amamos mais o desejo do que o ser desejado.
 ## Saint Patrick - Triad
 
 Tabhair dom ghrása,
+
 Fíormhac Dé.
+
 Tabhair dom do neartsa,
+
 An ghrair  gheal glé.
+
 
 (Dê-me o seu amor,
 Filho verdadeiro de Deus.
@@ -99,11 +105,16 @@ trabalhos, que evaporam-se em trabalhos de maior envergadura.
 ## 20h00
 
 Estou entrando no plantão. Começo com citações:
+
 "Onde a morte está, eu não estou. Onde estou, a morte não está." 
+
 - Lucrécio
+
 "Acredito que a vida seja uma centelha entre dois vácuos idênticos: a
 escuridão antes do nascimento e aquela após a morte." 
+
 - Irvin D. Yalom
+
 (Esta última, Yalom deve ter retirado de um pensamento de Schopenhauer).
 
 Tenho escutado muito uma música que ouvi a primeira vez há mais de 10 anos,
@@ -112,47 +123,87 @@ quando era aluno de medicina.
 ## MERCY STREET (Peter Gabriel, Album: So)
 
 looking down on empty streets, all she can see
+
 are the dreams all made solid
+
 are the dreams all made real
+
 all of the buildings, all of those cars
+
 were once just a dream
+
 in somebody's head
+
 she pictures the broken glass, she pictures the steam
+
 she pictures a soul
+
 with no leak at the seam
+
 let's take the boat out \ (twice)
+
 wait until darkness comes /
+
 nowhere in the corridors of pale green and grey
+
 nowhere in the suburbs
+
 in the cold light of day
+
 there in the midst of it so alive and alone
+
 words support like bone
+
 dreaming of mercy street
+
 wear your inside out
+
 dreaming of mercy
+
 in your daddy's arm again
+
 dreaming of mercy street
+
 swear they moved that sign
+
 dreaming of mercy
+
 in your daddy's arms
+
 pulling out the papers from the
+
 drawers that slide smooth
+
 tugging at the darkness, word upon word
+
 confessing all the secret things in the warm velvet box
+
 to the priest - he's the doctor
+
 he can handle all the shocks
+
 dreaming of the tenderness - the tremble in the hips
+
 of kissing mary's lips
+
 dreaming of mercy street
+
 wear your insides out
+
 dreaming of mercy
+
 in your daddy's arms
+
 mercy, mercy, looking for mercy (twice)
+
 Anne, with her father is out in the boat
+
 riding the water
+
 riding the waves on the sea
 
 Eu tinha esse disco...
+
 Lacan dizia que a melhor idade do ser humano é quando tínhamos 3 anos.
 
 # 23 de fevereiro de 2007
@@ -181,24 +232,33 @@ individual de termos nos conhecido e nos amado, e de como isso dá valor a
 toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 
 "Haja ou não alguém que a acompanhe, uma pessoa sempre morre sozinha." 
+
 - Irvin D. Yalom
 
 "Amor fati - Ama teu destino." 
+
 - Nietzsche
 
 # 24 de Fevereiro
 
 (...) What if god was one of us
+
 Just a slob like one of us
+
 Just a stranger on the bus trying to make his way home?
+
 Like a holy rolling stone
+
 Back up to heaven all alone
 
 Just trying to make his way home
+
 Nobody calling on the phone
+
 Except for the pope maybe in rome
 
 - Joan Osborne
+
 (One of Us, Relish, letra e música de Eric Bazilian)
 
 # 25 de Fevereiro
@@ -261,11 +321,13 @@ O psiquiatra Eulen Bleuler chamou de "psicóide" todas as manifestações vitais
 Lágrimas na chuva...
 
 "A igreja diz que a Terra é achatada, mas sei que ela é redonda, porque vi a sombra na Lua, e tenho mais fé numa sombra do que na igreja."
+
 - Fernão de Magalhães
 
 # 07 de março de 2007
 
 "The world is so exquisite with so much love and moral depth, that there is no reason to deceive ourselves with pretty stories for which there's little good evidence. For better it seems to me, in our vulnerability, is to look death in the eye and to be grateful every day for the brief but magnificent opportunity that life provides."
+
 - Carl Sagan
 
 O principal argumento para a nossa real finitude e ausência de continuidade após a morte é aquele (a meu ver) que fala sobre nosso desejo. NÓS GOSTARÍAMOS MUITÍSSIMO de não morrer, por isso QUEREMOS MUITO ver evidências de continuidade. Nada nesse clima pode ser considerado objetivo. Nossa busca por vida após a morte, através da religião, pseudo-ciência ou seja o que for, serve em primeiro lugar para suprir uma necessidade profunda, não para buscar a verdade.
@@ -282,9 +344,11 @@ O que somos?
 Afinal, somos capazes de sermos mais libidinosos e violentos que nossos antepassados e primos símios propriamente ditos, nunca conseguindo contemplar a natureza  divina que criamos e tentamos incutir nas coisas, apenas a nós mesmos, refletidos no espelho das coisas todas, sem nem mesmo conseguirmos nos guiar pela nossa suposta racionalidade.
 
 O que nos diferencia, então, realmente?
+
 O que nos torna únicos, se é que há?
 
 O SONHO!
+
 (Algum animal sonha?)
 
 Na verdade, animais (mamíferos) também têm sono REM como os humanos, mas quanto ao conteúdo, nada se sabe. Acredito que, provavelmente, os animais também sonhem, sonhos diferentes dos nossos, assim como são diferentes (mais simples) os sonhos das crianças pequenas. Afinal, a filogenia mostra que nenhuma capacidade surge "pronta". Ela vai evoluindo e "aperfeiçoando-se" com o tempo.
