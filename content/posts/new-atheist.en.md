@@ -1,3 +1,10 @@
+---
+Author: "jcalangro"
+title: "Journal of a recently born atheist"
+date: 2007-02-13T13:00:00-00:00
+keywords: life, death, eternity, soul, 
+---
+
 On February 13, 2007 I started writing texts motivated by a deep existential anguish that came from the fact that I had (apparently) lost faith in anything. Searching, reasoning, writing, writing down things I saw or heard, I created something that could perhaps be called a diary. The name I give it derives from my current status as a newly self-included among the ranks of atheism. For the religious, I warn you that my blog will not be pleasant and my (in)decision will hardly be returned. For atheists, either, I promise intellectual satisfaction, my condition being probably too transitory to consider myself among them for long. I will start transcribing texts since February 2007, in addition to writing new texts.
 
 # February 13th
