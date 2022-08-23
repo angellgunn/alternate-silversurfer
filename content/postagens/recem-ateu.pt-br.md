@@ -42,13 +42,19 @@ Continuo com o pensamento assombrado pela aniquilação da morte. Uma revista po
 ## Saint Patrick - Triad
 
 > Tabhair dom ghrása,
+
 > Fíormhac Dé.
+
 > Tabhair dom do neartsa,
+
 > An ghrair  gheal glé.
 
 (Dê-me o seu amor,
+
 Filho verdadeiro de Deus.
+
 Dê-me a força,
+
 O claro Sol brilhante)
 
 - Autoria desconhecida, gravado por Eithne Patricia Ní Bhraonáin (Enya)
@@ -119,43 +125,81 @@ quando era aluno de medicina.
 ## MERCY STREET (Peter Gabriel, Album: So)
 
 > looking down on empty streets, all she can see
+
 > are the dreams all made solid
+
 > are the dreams all made real
+
 > all of the buildings, all of those cars
+
 > were once just a dream
+
 > in somebody's head
+
 > she pictures the broken glass, she pictures the steam
+
 > she pictures a soul
+
 > with no leak at the seam
+
 > let's take the boat out \ (twice)
+
 > wait until darkness comes /
+
 > nowhere in the corridors of pale green and grey
+
 > nowhere in the suburbs
+
 > in the cold light of day
+
 > there in the midst of it so alive and alone
+
 > words support like bone
+
 > dreaming of mercy street
+
 > wear your inside out
+
 > dreaming of mercy
+
 > in your daddy's arm again
+
 > dreaming of mercy street
+
 > swear they moved that sign
+
 > dreaming of mercy
+
 > in your daddy's arms
+
 > pulling out the papers from the
+
 > drawers that tugging at the darkness, word upon word
+
 > confessing all the secret things in the warm velvet box
+
 > to the priest - he's the doctor
+
 > he can handle all the shocks
+
 > dreaming of the tenderness - the tremble in the hips
+
 > of kissing mary's lips
+
 > dreaming of mercy street
+
 > wear your insides out
+
 > dreaming of mercy
+
 > in your daddy's arms
+
 > mercy, mercy, looking for mercy (twice)
+
 > Anne, with her father is out in the boat
+
 > riding the water
+
 > riding the waves on the sea
 
 Eu tinha esse disco...
