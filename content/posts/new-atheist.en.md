@@ -93,44 +93,83 @@ when he was a medical student.
 MERCY STREET (Peter Gabriel, Album: So)
 
 > looking down on empty streets, all she can see
+
 > are the dreams all made solid
+
 > are the dreams all made real
+
 > all of the buildings, all of those cars
+
 > were once just a dream
+
 > in somebody's head
+
 > she pictures the broken glass, she pictures the steam
+
 > she pictures a soul
+
 > with no leak at the sea
+
 > let's take the boat out \ (twice)
+
 > wait until darkness comes /
+
 > nowhere in the corridors of pale green and gray
+
 > nowhere in the suburbs
+
 > in the cold light of day
+
 > there in the midst of it so alive and alone
+
 > words support like bone
+
 > dreaming of mercy street
+
 > wear your inside out
+
 > dreaming of mercy
+
 > in your daddy's arm again
+
 > dreaming of mercy street
+
 > swear they moved that sign
+
 > dreaming of mercy
+
 > in your daddy's arms
+
 > pulling out the papers from the
+
 > drawers that slide smooth
+
 > tugging at the darkness, word upon word
+
 > confessing all the secret things in the warm velvet box
+
 > to the priest - he's the doctor
+
 > he can handle all the shocks
+
 > dreaming of the tenderness - the tremble in the hips
+
 > of kissing mary's lips
+
 > dreaming of mercy street
+
 > wear your insides out
+
 > dreaming of mercy
+
 > in your daddy's arms
+
 > mercy, mercy, looking for mercy (twice)
+
 > Anne, with her father is out in the boat
+
 > riding the water
+
 > riding the waves on the sea
 
 I had this disk…
@@ -176,13 +215,19 @@ my whole life, my fleeting and otherwise futile existence.
 # February, 24th
 
 > (…) What if god was one of us
+
 > Just a slob like one of us
+
 > Just a stranger on the bus trying to make his way home?
+
 > Like a holy rolling stone
+
 > Back up to heaven all alone
 
 > Just trying to make his way home
+
 > nobody calling on the phone
+
 > Except for the pope maybe in rome
 
 - Joan Osborne
@@ -218,8 +263,11 @@ Well, the laws of physics are no longer the same, and the Heisenberg Uncertainty
 But what is the practical impact of these new principles on the question of destiny? In fact, nobody knows! Risking any answer would be a mixture of literature and cheap spirituality. Perhaps, more than that, our own imperfection sabotages fate…
 
 March 2nd was my daughter's birthday party.
+
 One more taste of eternity.
-The best thing was to see her joy (s).
+
+The best thing was to see her joy
+.
 The kids enjoyed it the most. Adults, as always, think this is part of it. Adults don't necessarily have fun at children's parties. I had fun.
 
 Seeing the sparkle in my daughter's eyes and her delight when they sang happy birthday was enough. As I write these lines, two days later, I remember that those moments linger for me only in memory, and human memory is not a "photograph" or a "film", I don't have precise details "imprinted" in my brain, but a sophisticated virtual "recreation" from the modifications that hundreds of millions of neurons underwent that day, induced by the experiences I had. In short: the brain never really remembers anything, it reconstructs "previous" moments in the present. This reconstruction is not always perfect and may change over time. That's why it's no use living on memories… that's an illusion. Carpe diem! Enjoy life TODAY!
