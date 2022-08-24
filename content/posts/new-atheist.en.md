@@ -1,7 +1,7 @@
 ---
 Author: "jcalangro"
 title: "Journal of a recently born atheist"
-date: 2007-02-13T13:00:00-00:00
+date: 2007-12-09T13:00:00-00:00
 keywords: life, death, eternity, soul, 
 ---
 
