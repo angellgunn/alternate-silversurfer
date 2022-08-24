@@ -1,7 +1,7 @@
 ---
 Author: "jcalangro"
 title: "Purposefully untitled"
-date: 2007-04-04T13:00:00-00:00
+date: 2007-04-17T13:00:00-00:00
 keywords: life, death, eternity, soul, 
 ---
 
