@@ -4,5 +4,6 @@ title = "Fernando Pessoa and a broader definition of identity"
 keywords = "dissociative identity disorder, Fernando Pessoa, identity, trauma"
 tags = ["pessoa"]
 author = "neuralyzer"
+draft = "True"
 translationKey = "pessoa"
 +++
