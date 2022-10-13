@@ -1,6 +1,6 @@
 ﻿---
 author: "bcalvino"
-title: "Oitava"
+title: "Profecia cumprida"
 date: 2018-12-20T13:00:00-00:00
 keywords: algoritmo, liberdade, preconceito, internet, bolha, Cambridge Analytica, eleNao
 ---
