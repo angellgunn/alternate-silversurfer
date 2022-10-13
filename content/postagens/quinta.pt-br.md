@@ -1,5 +1,5 @@
 ﻿---
-title: "Quinta"
+title: "Autopoiese da "
 author: "aconselheiro"
 date: 2018-01-12T23:04:12-03:00
 keywords: epistemologia, Maturana, filosofia, modernidade líquida, foraTemer
