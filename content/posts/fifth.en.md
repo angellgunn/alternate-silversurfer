@@ -1,5 +1,5 @@
 ---
-title: "Fifth"
+title: "Epistemology of "
 author: "aconselheiro"
 date: 2018-01-12T23:04:12-03:00
 keywords: epistemology, Maturana, philosophy, liquid modernity, foraTemer
@@ -13,11 +13,11 @@ Not that whatever the effort undertaken will be guaranteed to be creative or to 
 
 That being said (as is now fashionable, shamelessly imitating Americans), I declare that this post is the equivalent of the preamble, or presentation, of my thesis. It will have a formal aspect without straying too far from the traditional, with an introduction, objective, discussion, etc. To begin, I will present the entire premise to be defended, without circumlocution:
 
-- The scientific method is an essentially individual construct of the knowledge agent, and possible knowledge is also an individual construction about a worldview, apparently objective, equally individual, but which is capable of interacting with collective constructs that exist as a part of this individual construction and which can never reach a transcendent objectivity.
+- The scientific method is essentially an individual construct of the agent of knowledge, and the possibility of knowledge is also a construction about a worldview, apparently objective, equally individual, but which is capable of interacting with collective constructs that exist as a part of this individual construction and which can never reach a transcendent objectivity.
 - Scientific knowledge can have these characteristics:
   - Logical integration: obeys a skeleton of previous ideas that we can call logic.
   - Systematic falsifiability: it occurs within the system where the knowledge was generated, but there is no guarantee of any permanence of this characteristic outside this system.
-  - Dependence on the panorama: all the logical operations of manipulation of knowledge, however "objective" they may seem, depend on the logic of the system where the knowledge is inserted, and more, they depend on how the individual positions himself and what his motivations within this system.
+  - Dependence on the panorama: all the logical operations of manipulation of knowledge, however "objective" they may seem, depend on the logic of the system where the knowledge is inserted, and more, they depend on how the individual positions themself and what are their motivations within this system.
 - The analogy that comes to my mind is that of a fish in an aquarium: what we know is our private world and we only have "indirect" contact with "the outside world" and not even its reality can be certain for us, let alone its features.
 
 My thesis is directly influenced by the work of [Humberto Maturana][maturana] on the Biology of Knowledge [1]. His work is independent of earlier traditional streams of philosophy and inspired by findings from classic studies of neurophysiology. The work cited as the source of his ideas appears to be an internal communication from the laboratory where he worked. He was one of the co-authors of the famous work [_What the frog's eye tells the frog's brain_][frogeye], one of the most cited in the entire history of the _Science Citation Index_ (2300+ citations according to Google Scholar) and which became the best known work of its main author, the neurophysiologist [Jerome Lettvin][lettvin], with whom Maturana worked. His early work, despite venturing into epistemology, cites scientific sources from neurophysiology and does not declare influences from other authors in philosophy.
