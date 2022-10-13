@@ -1,4 +1,4 @@
-﻿---
+---
 Author: "bcalvino"
 title: "
 
