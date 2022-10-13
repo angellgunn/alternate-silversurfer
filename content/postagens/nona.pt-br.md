@@ -1,6 +1,6 @@
 ﻿---
 author: "bcalvino"
-title: "Nona"
+title: "E o Brasil pegou fogo"
 date: 2019-08-30T13:00:00-00:00
 keywords: algoritmo, liberdade, preconceito, internet, bolha, Cambridge Analytica, eleNao
 ---
