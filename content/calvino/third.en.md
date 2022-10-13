@@ -1,5 +1,5 @@
 ---
-title: "Early 2011 MacBook hear death and hack"
+title: "Early 2011 MacBook death and hack"
 author: "bcalvino"
 date: 2017-11-07T23:04:12-03:00
 keywords: macbook pro, dGPU, arch linux, efi vars, force iGPU, hack of the year, outTemer
