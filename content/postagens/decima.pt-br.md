@@ -1,11 +1,12 @@
 ﻿---
 Author: "bcalvino"
-title: "Décima"
+title: "
+
+O que é economia ecológica?"
 date: 2019-12-02T13:00:00-00:00
 keywords: 
 ---
 
-O que é economia ecológica?
 
 _É um estudo ambientalmente direcionado das atividades econômicas, com foco na sustentabilidade._ Embora a resposta fácil não esteja totalmente errada, também não está totalmente certa. Na verdade, a economia ecológica é um campo multidisciplinar (ou seja, muitas disciplinas diferentes se misturam a ele) que estuda a economia como um subsistema das ciências naturais aplicadas, vis a vis a ecologia, mas também a biologia, a química e, finalmente, a física. E tem uma participação considerável em matemática, filosofia, sociologia, antropologia, política e um monte de campos.
 
