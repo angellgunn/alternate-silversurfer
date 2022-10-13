@@ -1,5 +1,5 @@
 ---
-title: "Epistemology of "
+title: "Epistemology of objectivity"
 author: "aconselheiro"
 date: 2018-01-12T23:04:12-03:00
 keywords: epistemology, Maturana, philosophy, liquid modernity, foraTemer
