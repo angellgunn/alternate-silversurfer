@@ -1,4 +1,4 @@
-﻿---
+---
 author: "bcalvino"
 title: "Profecia cumprida"
 date: 2018-12-20T13:00:00-00:00
