@@ -1,11 +1,11 @@
 ﻿---
 Author: "bcalvino"
-title: "Tenth"
+title: "What is ecological economics?"
 date: 2019-12-02T13:00:00-00:00
 keywords: 
 ---
 
-What is ecological economics?
+
 
 _It's an environmentally directed study of economic activities, focusing on sustainability._ Although the easy answer is not quite wrong, it is also not completely right. Actually, ecological economics is a multidisciplinary field (meaning a lot of different disciplines intermingle into it) that studies economy as a subsystem of applied natural sciences, vis-à-vis ecology, but also biology, chemistry, and, ultimately, physics. And has a sizable participation of mathematics, philosophy, sociology, anthropology, politics, and an awful lot of fields.
 
