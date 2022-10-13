@@ -1,6 +1,6 @@
 ﻿---
 author: "bcalvino"
-title: "Sétima"
+title: "Bitcoin é energia"
 date: 2018-03-16T13:00:00-00:00
 keywords: bitcoin, energia, descentralização, eleNao
 ---
