@@ -1,5 +1,5 @@
 ﻿---
-title: "Quarta"
+title: "A tecnologia da cadeia de blocos"
 author: "bcalvino"
 date: 2017-12-01T23:04:12-03:00
 keywords: blockchain, ciência, ciência aberta, confiança, revisão por pares, financiamento da pesquisa, conflito de interesses, foraTemer
