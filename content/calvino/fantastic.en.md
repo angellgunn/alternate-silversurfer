@@ -1,6 +1,6 @@
 +++
 date = "2022-09-03"
-title = "What is fantastic natural history? Ensemble of tweets."
+title = "What is fantastic natural history?"
 keywords = ""
 tags = ["opinions"]
 author = "bcalvino"
