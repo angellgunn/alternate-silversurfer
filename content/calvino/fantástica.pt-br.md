@@ -1,6 +1,6 @@
 +++
 date = "2022-09-03"
-title = "O que é história natural fantástica? Tuites reunidos."
+title = "O que é história natural fantástica?"
 author = "bcalvino"
 keywords = "história natural, filosofia, matemática, física, química, biologia, arqueologia, história, economia, política, arte"
 tags = ["opiniões"]
