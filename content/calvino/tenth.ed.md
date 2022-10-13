@@ -1,4 +1,4 @@
-﻿---
+---
 Author: "bcalvino"
 title: "What is ecological economics?"
 date: 2019-12-02T13:00:00-00:00
