@@ -1,6 +1,6 @@
 ---
 author: "jcalangro"
-title: "Resourcefull wasting"
+title: "Resourceful wasting"
 date: 2018-02-24T23:04:12-03:00
 keywords: pathology, cancer, pattern recognition, scientific methodology, scientific ethics, budget cuts, S&T, foraTemer
 ---
