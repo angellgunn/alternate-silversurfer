@@ -1,4 +1,4 @@
-﻿---
+---
 author: "bcalvino"
 title: "Bitcoin é energia"
 date: 2018-03-16T13:00:00-00:00
