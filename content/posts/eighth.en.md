@@ -1,6 +1,6 @@
 ---
 author: "bcalvino"
-title: "Eighth"
+title: "Fullfilled prophecy"
 date: 2018-12-20T13:00:00-00:00
 keywords: algorithm, liberty, bias, internet, bubble, Cambridge Analytica, eleNao
 ---
