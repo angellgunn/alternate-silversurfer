@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A tecnologia da cadeia de blocos"
 author: "bcalvino"
 date: 2017-12-01T23:04:12-03:00
