@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CI with Bitbucket"
 author: "bcalvino"
 date: 2017-11-01T23:04:12-03:00
