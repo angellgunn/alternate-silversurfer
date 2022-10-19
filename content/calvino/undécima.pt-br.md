@@ -18,4 +18,7 @@ O nosso país vive um momento muito crítico de sua história, que talvez vá te
 
 A modernidade, em sua velocidade e liquidez, como aponta Bauman, também um judeu, fez ruir os limites, e já estamos vendo a consequência disso quando robôs governam mais do que os humanos os assuntos da moda. Esse neofascismo pode se tornar muito pior que seus antecessores.
 
+
+A iconografia e a arte dramática (teatro, cinema) do século XX às vezes dão a impressão de que Hitler e os nazistas eram pessoas terríveis e temidas, que espalhavam o caos e a destruição onde passavam, dominando a Alemanha ditatorialmente. Ao contrário, Hitler era idolatrado, multidões se aglomeravam para ouvi-lo, pessoas queriam tocá-lo e apertar suas mãos, as mães davam suas crianças para que ele as segurasse quando ele passava. Os jovens faziam fila para se alistar no partido Nazi ou nas SS, cheios de fervor patriótico. Todos carregavam os símbolos nazistas onde quer que fossem e sua saudação icônica era repetida em todo lugar. A verdade é que a Alemanha apaixonou-se por Hitler e pelo nazismo. Fenômeno semelhante ocorreu em maior ou menor grau em todos os países que caíram nas garras do fascismo, Itália, Espanha, Portugal, etc. Hannah Arendt passou a vida investigando as causas deste tipo de comportamento das massas.
+
 É irônico que, na pátria onde Josef Mengele veio terminar placidamente seus dias, sem nunca ter pago por seus crimes, levanta-se um neofascismo espelhado naquele de seus contemporâneos. Usando uma imagem bíblica, a serpente precisa ser esmagada agora mesmo, antes que seja tarde.
