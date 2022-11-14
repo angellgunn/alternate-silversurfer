@@ -6,8 +6,9 @@ keywords = "história natural, filosofia, matemática, física, química, biolog
 tags = ["opiniões"]
 translationKey = "fantastic"
 +++
-É um campo do conhecimento criado por mim, no qual estudo a natureza inteira em todas as suas expressões, mas do ponto de vista de possibilidades alternativas. Minha formação é de economia ecológica, mas passei a ter interesses amplos.
-Vou trazer alguns temas que podem ser levantados como sendo do interesse da história natural fantástica. Por escala de abrangência ou complexidade, da matemática à política, chegando até a estética e à arte.
+
+É um campo de conhecimento proposto por mim, definido como o estudo da natureza em todas as suas expressões, mas do ponto de vista de possibilidades alternativas não reais. Minha formação é em economia ecológica, mas comecei a ter interesses mais amplos que abrangem outras áreas do conhecimento. No entanto, em vez de me interessar pelo conhecimento tradicional, passei a estudar fatos e conceitos fantásticos (fantasia). Não é (apenas) um empreendimento literário, mas uma tentativa de criar um novo (!?) domínio do conhecimento ao lado da matemática, filosofia e ciência.
+Vou trazer alguns temas que podem ser levantados como sendo de interesse para a história natural fantástica. Por escopo ou complexidade, da matemática à política, à estética e à arte.
 
 O físico Max Tegmark concebeu uma classificação dos níveis do multiverso de acordo com suas origens e criou uma nova idéia sobre múltiplas realidades diferenciadas por sua estrutura matemática. Este poderia ser o foco de uma disciplina de matemática fantástica.
 A Teoria das Supercordas é a melhor candidata à Teoria de Tudo da física. Entretanto, ela permite um grande número de possíveis soluções, da ordem de 10^500. Estudar versões alternativas da física de Cordas pode ser assunto de uma física fantástica.

@@ -6,8 +6,8 @@ tags = ["opinions"]
 author = "bcalvino"
 translationKey = "fantastic"
 +++
-It is a field of knowledge created by me, in which I study the whole of nature in all its expressions, but from the point of view of alternative possibilities. My background is in ecological economics, but I started to have broad interests.
-I will bring up some themes that can be raised as being of interest to fantastic natural history. By scale of scope or complexity, from mathematics to politics, to aesthetics and art.
+It is a field of knowledge proposed by me, defined as the study of nature in all its expressions, but from the point of view of alternative non-real possibilities. My background is in ecological economics, but I started to have broader interests that encompass other fields of knowledge. However, instead of an interest in traditional knowledge, I started to study fantastic facts and concepts (fantasy). It is not (only) a literary endeavor, but an attempt to create a new (!?) realm of knowledge aside mathematics, philosophy, and science.
+I will bring up some themes that can be raised as being of interest to fantastic natural history. By scope or complexity, from mathematics to politics, to aesthetics and art.
 
 Physicist Max Tegmark conceived a classification of the levels of the multiverse according to their origins and created a new idea about multiple realities differentiated by their mathematical structure. This could be the focus of a fantastic math class.
 Superstring Theory is the best candidate for the Theory of Everything in physics. However, it allows for a large number of possible solutions, on the order of 10^500. Studying alternative versions of string physics can be the subject of fantastic physics.
