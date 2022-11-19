@@ -29,14 +29,17 @@ Meus heterônimos seguem essa tradição de Pessoa, tendo surgido aos poucos par
 Esboço a seguir a lista dos heterônimos que [criei] ou descobri até o momento:
 
 Baldolino Calvino: o nome dele tem óbvia inspiração no livro _Baudolino_ de Umberto Eco e na obra do escritor Ítalo Calvino. Ele não poderia deixar de ser, então, um tipo meio surpreendente, inesperado, o qual, mais do que entender em profundidade os assuntos nos quais se envolve, os entende em contínua mutação e interação fluida com muitos tópicos aparentemente não relacionados. Um _filósofo líquido_, um cidadão do mundo Baumaniano. Minha primeira descrição sobre ele:
+
 > Baldolino Calvino é um mentiroso, e isso é tudo que há para saber sobre ele. Supostamente é um economista ecológico, ou ecólogo econômico. Não se sabe ao certo.
 
 E segue a descrição confessional do perfil do Twitter, sua primeira manifestação neste mundo:
+
 > Economista ecológico. Professor de Historia Naturalis Phantastica, Tír na nÓg University, Uí Breasail. Sou um simulacro de terceira ordem e um heterônimo.
 
 O auto-afirmado simulacro Baudrillardiano faz saber que ensina uma disciplina de fantasia, numa universidade de fantasia, numa ilha de fantasia, _Uí Breasail_, ou _Hy-Brasil_, uma ilha que aparece em mapas marítimos desde o século XIII até o XIX. Chamada também de _ilha Brasil_, _ilha de São Brandão_, etc, é definida no [verbete][br] da Wikipedia como "uma ilha fantasma do Oceano Atlântico ligada à tradição de São Brandão das terras afortunadas sitas a oeste do continente europeu". É parte da mitologia celta irlandesa, e a etimologia de _Brasil_ no português teria raízes no gaélico, vindo o próprio nome de nosso país desse significado mitológico, lendário, e não do nome da árvore _Pau-brasil_ de cor avermelhada, como quer o cânone. Baldolino escolheu se definir como um ser fantástico, como o Ariel shakespeariano. Porém, assume uma roupagem moderna (ou hiper-moderna), e faz de sua Hy-Brasil algo mais próximo da visão da ilha descrita no [livro][hy] de Margaret Elphinstone, a escritora britânica que foi ensinar literatura escocesa aos escoceses e transformou a ilha fictícia numa "sátira feliz", uma descrição do que seria Hy-Brasil se existisse em nossa realidade. Ele criou uma nova disciplina, a _História Natural Fantástica_, e a define como sendo diferente da arte, matemática, filosofia e ciência, os outros conhecimentos fundamentais para ele.
 
 Aficionado pela tecnologia de _cadeia de blocos (blockchain)_ e pelos criptoativos, supostamente enriqueceu negociando neste setor. No _gráfico social descentralizado_ [Lens Protocol][l], seu perfil acrescenta:
+
 > Gosto de gatos, longas caminhadas  e sorvete de tapioca. Sou um economista ecológico, criptofilósofo e andarilho intelectual.
 
 Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na forma de uma cena da animação Shrek (aquela onde o espelho mágico apresenta as princesas como se fosse um _reality show_). Imagino Baldolino como uma pessoa de gênero fluido, pele clara, cabelo negro, 1,80 m, 75 kg, nascido na sugestiva data de 01 de abril de 1990 na cidade de Riacho das Almas (PE), vivendo há muitos anos em Hy-Brasil, onde ocupa o endereço da Main Street 101 (na cidade Elphinstoneana de St Brandons).

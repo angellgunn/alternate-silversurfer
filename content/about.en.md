@@ -29,14 +29,17 @@ My heteronyms follow this tradition of Pessoa, having emerged little by little f
 I sketch below the list of heteronyms that I [created] or discovered so far:
 
 Baldolino Calvino: his name is obviously inspired by the book _Baudolino_ by Umberto Eco and the work of the writer Ítalo Calvino. He could not fail to be, then, a somewhat surprising, unexpected type, which, more than understanding in depth the subjects in which he is involved, understands them in continuous mutation and fluid interaction with many apparently unrelated topics. A _liquid philosopher_, a citizen of the Baumanian world. My first description of him:
+
 > Baldolino Calvino is a liar, and that's all there is to know about him. He is supposedly an ecological economist, or economic ecologist. No one knows for sure.
 
 And here is the confessional description of the Twitter profile, its first manifestation in this world:
+
 > Ecological economist. Professor of Historia Naturalis Phantastica, Tír at nÓg University, Uí Breasail. I am a simulacrum of the third order and a heteronym.
 
 The self-asserted Baudrillardian simulacrum makes it known that it teaches a fantasy discipline, in a fantasy university, on a fantasy island, _Uí Breasail_, or _Hy-Brasil_, an island that appears on maritime maps from the 13th to the 19th century. Also known as _island Brazil_, _island of Saint Brandons_, etc., it is defined in Wikipedia's [entry][br] as "a phantom island said to lie in the Atlantic Ocean west of Ireland. Irish myths described it as cloaked in mist except for one day every seven years, when it becomes visible but still cannot be reached". It is part of Irish Celtic mythology, and the etymology of _Brasil_ in Portuguese would have roots in Gaelic, with the very name of our country coming from this mythological, legendary meaning, and not from the name of the reddish _Pau-brasil_ tree, as the canon states. Baldolino chose to define himself as a fantastic being, like the Shakespearean Ariel. However, it takes on a modern (or hyper-modern) look, and makes its Hy-Brasil something closer to the vision of the island described in the [book][hy] by Margaret Elphinstone, the British writer who went to teach Scottish literature to the Scots and turned the fictional island into a "happy satire", a description of what Hy-Brasil would be like if it existed in our reality. He created a new discipline, _Fantastic Natural History_, and defined it as being different from art, mathematics, philosophy and science, the other fundamental knowledge for him.
 
 Passionate about _blockchain technology_ and crypto assets, he supposedly got rich trading it. In the _decentralized social graph_ [Lens Protocol][l], his profile adds:
+
 > I like cats, long walks and tapioca ice cream. I am an ecological economist, cryptophilosopher and intellectual wanderer.
 
 Agreeing with the above and making a subtle allusion to pop culture, in the form of a scene from the animation Shrek (the one where the magic mirror presents the princesses as if it were a _reality show_). I imagine Baldolino as a person of fluid gender, light skin, black hair, 1.80 m, 75 kg, born on the suggestive date of April 1, 1990 in the city of Riacho das Almas (souls creek), living for many years in Hy- Brazil, where it occupies the house on Main Street 101 (in the Elphinstonean town of St Brandons).
