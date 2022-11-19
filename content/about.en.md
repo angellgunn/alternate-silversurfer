@@ -10,6 +10,8 @@ translationKey = "about"
 >
 > - Creation myth of the Desana Kehíripõrã people
 
+![yebaberu](/img/beru.jpg)
+
 This blog is an evolution, or involution, depending on the point of reference, of several works of mine over the last 40 years, or almost. Some notes I'm going to put here were written when I was a teenager. I write these lines in 2022, but these ideas have been floating around in an infinite space of possibilities for quite some time, growing and taking shape. Even without my direct interference, they took shape and surprised me by taking on a life of their own. I am a parthenogenetic father of my "creations", which more appropriately arose spontaneously, as in the cosmogony of the Desana people.
 
 Over time, the texts I wrote formed their writers, before just glimpsed, then clearly outlined through the social network profiles I was creating. Each pseudonym I used gained substance, like the mysterious objects that have always existed in Desana mythology, and that were there when Yebá Buró appeared. More than pseudonyms, they are heteronyms in the tradition of Fernando Pessoa.
