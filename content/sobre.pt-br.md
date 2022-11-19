@@ -44,6 +44,7 @@ Aficionado pela tecnologia de _cadeia de blocos (blockchain)_ e pelos criptoativ
 
 Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na forma de uma cena da animação Shrek (aquela onde o espelho mágico apresenta as princesas como se fosse um _reality show_). Imagino Baldolino como uma pessoa de gênero fluido, pele clara, cabelo negro, 1,80 m, 75 kg, nascido na sugestiva data de 01 de abril de 1990 na cidade de Riacho das Almas (PE), vivendo há muitos anos em Hy-Brasil, onde ocupa o endereço da Main Street 101 (na cidade Elphinstoneana de St Brandons).
 
+![main street](/img/main.jpg)
 
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5

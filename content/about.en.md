@@ -42,7 +42,9 @@ Passionate about _blockchain technology_ and crypto assets, he supposedly got ri
 
 > I like cats, long walks and tapioca ice cream. I am an ecological economist, cryptophilosopher and intellectual wanderer.
 
-Agreeing with the above and making a subtle allusion to pop culture, in the form of a scene from the animation Shrek (the one where the magic mirror presents the princesses as if it were a _reality show_). I imagine Baldolino as a person of fluid gender, light skin, black hair, 1.80 m, 75 kg, born on the suggestive date of April 1, 1990 in the city of Riacho das Almas (souls creek), living for many years in Hy- Brazil, where it occupies the house on Main Street 101 (in the Elphinstonean town of St Brandons).
+Agreeing with the above and making a subtle allusion to pop culture, in the form of a scene from the animation Shrek (the one where the magic mirror presents the princesses as if it were a _reality show_). I imagine Baldolino as a person of fluid gender, light skin, black hair, 1.80 m, 75 kg, born on the suggestive date of April 1, 1990 in the city of Riacho das Almas (souls creek), living for many years in Hy- Brazil, where it occupies the house on 101 Main Street (in the Elphinstonean town of St Brandons).
+
+![main street](/img/main.jpg)
 
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
