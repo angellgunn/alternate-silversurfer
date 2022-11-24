@@ -24,13 +24,15 @@ Assim descreve o autor sobre o surgimento súbito e fantástico de seu heterôni
 
 > A origem dos meus heterónimos é o fundo traço de histeria que existe em mim. Não sei se sou simplesmente histérico, se sou, mais propriamente, um histero-neurasténico. Tendo para esta segunda hipótese, porque há em mim fenómenos de abulia que a histeria, propriarmente dita, não enquadra no registo dos seus sintomas. Seja como for, a origem mental dos meus heterónimos está na minha tendência orgânica e constante para a despersonalização e para a simulação.
 
-Há quem queira enquadrar Pessoa nos atuais diagnóaticos nosológicos da psiquiatria, como um caso de Transtorno de Dissociação de Identidade. Com efeito, sua descrição do modo como seus "sintomas" surgiam, de "despersonalização", o fato de que iniciaram em sua infância, a qual foi triste e marcada pelo impacto emocional da perda do pai - tudo isso pode-se dizer que acrescente para esta similitude. Porém, o caso de Pessoa não preencheria os critérios todos necessários para o diagnóstico de TID, especificamente a perda de memória e a transição entre seus "álteres". Ainda caberia, todavia, um diagnóstico relacionado. Como se compreende hoje em dia, TID é um pólo extremo de um espectro cujo outro pólo é o Transtorno de Estresse Pós-traumático. O TID pode ser encarado como uma forma extrema e crônica e TEPT, causado por um estressor repetitivo, crônico, e inescapável ao paciente, especielmente na infância. Mas esse espectro tem intermediários. A condições intermediárias mais para o pólo do TID incluem as entidade Transtorno de despersonalização/desrealização, Amnésia dissociativa e Outros Transtornos Dissociativos Específicos. A entidade OTDE, recentemente codificada, inclui pacientes que tem álteres, porém não apresentam episódios de "troca" de consciência e nem amnésia. Com o tíbio conjunto de informações presentes, a condição mais próxima da autodescrição de Pessoa é OTDE, na verdade um conjunto pouco definido de pacientes com dissociação episódica crônica, com álteres bem ou mal formados (às vezes, o paciente mal tem consciência de seus "outros").
+Há quem queira enquadrar Pessoa nos atuais diagnósticos nosológicos da psiquiatria, como um caso de Transtorno de Dissociação de Identidade. Com efeito, sua descrição do modo como seus "sintomas" surgiam, de "despersonalização", o fato de que iniciaram em sua infância, a qual foi triste e marcada pelo impacto emocional da perda do pai - tudo isso pode-se dizer que acrescente para esta similitude. Porém, o caso de Pessoa não preencheria os critérios todos necessários para o diagnóstico de TID, especificamente a perda de memória e a transição entre seus "álteres". Ainda caberia, todavia, um diagnóstico relacionado. Como se compreende hoje em dia, TID é um pólo extremo de um espectro cujo outro pólo é o Transtorno de Estresse Pós-traumático. O TID pode ser encarado como uma forma extrema e crônica e TEPT, causado por um estressor repetitivo, crônico, e inescapável ao paciente, especielmente na infância. Mas esse espectro tem intermediários. A condições intermediárias mais para o pólo do TID incluem as entidade Transtorno de despersonalização/desrealização, Amnésia dissociativa e Outros Transtornos Dissociativos Específicos. A entidade OTDE, recentemente codificada, inclui pacientes que tem álteres, porém não apresentam episódios de "troca" de consciência e nem amnésia. Com o tíbio conjunto de informações presentes, a condição mais próxima da autodescrição de Pessoa é OTDE, na verdade um conjunto pouco definido de pacientes com dissociação episódica crônica, com álteres bem ou mal formados (às vezes, o paciente mal tem consciência de seus "outros").
 
 Meus heterônimos seguem essa tradição de Pessoa, tendo surgido aos poucos para mim, antes mesmo que eu lhes desse uma história e personalidade próprias. Poder-se-ia dizer que eu os descobri, não os inventei. Porém, uso a arte e a ciência para dar-lhes profundidade e completitude, para revelá-los, por assim dizer. Na verdade, eles surgiram para mim muito antes que eu soubesse quem foi Fernando Pessoa ou tivesse contato com sua obra. Esse contato, também, até hoje foi superficial. Foi a ocorrência de heterônimos em mim que me levou a conhecer melhor Pessoa, não o oposto.
 
 Esboço a seguir a lista dos heterônimos que [criei] ou descobri até o momento:
 
-Baldolino Calvino: o nome dele tem óbvia inspiração no livro _Baudolino_ de Umberto Eco e na obra do escritor Ítalo Calvino. Ele não poderia deixar de ser, então, um tipo meio surpreendente, inesperado, o qual, mais do que entender em profundidade os assuntos nos quais se envolve, os entende em contínua mutação e interação fluida com muitos tópicos aparentemente não relacionados. Um _filósofo líquido_, um cidadão do mundo Baumaniano. Minha primeira descrição sobre ele:
+## Baldolino Calvino:
+
+O nome dele tem óbvia inspiração no livro _Baudolino_ de Umberto Eco e na obra do escritor Ítalo Calvino. Ele não poderia deixar de ser, então, um tipo meio surpreendente, inesperado, o qual, mais do que entender em profundidade os assuntos nos quais se envolve, os entende em contínua mutação e interação fluida com muitos tópicos aparentemente não relacionados. Um _filósofo líquido_, um cidadão do mundo Baumaniano. Minha primeira descrição sobre ele:
 
 > Baldolino Calvino é um mentiroso, e isso é tudo que há para saber sobre ele. Supostamente é um economista ecológico, ou ecólogo econômico. Não se sabe ao certo.
 
@@ -48,6 +50,33 @@ Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na f
 
 ![main street](/img/main.jpg)
 
+A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p].
+
+## João Calangro:
+
+Esse heterônimo surgiu há muito tempo, sem nome. Ele mesmo o escolheu, como afirmado em um post no Twitter:
+
+> Escolhi o nome de um malfeitor porque eles eram pessoas pobres, sem instrução e sem chance. Como disse Ariano Suassuna, eles eram instrumentos da cólera divina.
+
+Citando o Auto da Compadecida. Em seu perfil no Twitter, ele nos conta sobre mais aspectos de si mesmo.
+
+> Médico não praticante, ex-oncologista, desiludido com a humanidade, casado com uma mulher maravilhosa que luta contra a fibromialgia. Heterônimo.
+
+Diferentemente de Calvino, ele afirma claramente seu pessimismo e comprometimento com a parceira. Ele é um homem de família, que já trabalhou como médico, e perdeu a maior parte de suas expectativas sobre a sociedade, a vida e a humanidade. Ele explica sua escolha profissional em uma série de postagens:
+
+> Por sempre ter sido pobre e seguir teimosamente o "caminho difícil", larguei a medicina e virei investidor. Estou ganhando muito dinheiro, mas não estou enganando a boa fé de ninguém. Não tenho mais registro, não sou "doutor", mas sou honesto.
+Já fui o melhor dos melhores, mas pobre. Agora, sou desconhecido (o que é ótimo), mas sou rico. Mantenho minha honra e retidão, só especulo no mercado financeiro, o que nem é pecado, estou tirando de quem tem dinheiro e não sabe lidar com ele.
+
+Assim, ele professa uma espécie de cinismo ingênuo, ao mesmo tempo em que dá a entender que abandonou o "difícil caminho" da honestidade, afirmando claramente seus limites éticos e pedindo perdão por sua indulgência no mercado financeiro ("Não estou enganando", "sou honesto", "(...) especulo (...), o que nem é pecado"). Afirma ter nascido em 30 de julho de 1978. Seu local de origem é desconhecido (também no Brasil, mas onde?) e ele também mora em Hy-Brasil. Misteriosamente, ele declara que tem algum cargo ali relacionado à medicina, conforme divulgado em seu perfil na Academia.edu.
+
+> Sir João Calangro, Cavaleiro da Real Academia Médica, Universidade _Tir na nÓg_, _Uí Breasail_
+
+Imagino-o como um homem esguio, 1,69 m, óculos redondos, queixo fino, circunspecto, olhar plácido, um tanto melancólico. Ele perdeu um pouco de seu cabelo castanho escuro e gosta de usar chapéus.
+
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
+[t]: https://twitter.com/altsilversurfer
+[tm]: https://tumblr.com/alternate-silversurfer-blog
+[ln]: https://lenster.xyz/u/altsilversurfer.lens
+[p]: https://phaver.app.link/altsilversurfer
