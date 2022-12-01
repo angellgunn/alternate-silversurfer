@@ -50,7 +50,7 @@ Agreeing with the above and making a subtle allusion to pop culture, in the form
 
 ![main street](/img/main.jpg)
 
-Calvino's primary social media account is Twitter [@altsilversurfer][t], but after the purchase of this company by Elon Musk, in protest Calvino reactivated his Tumbler account, [@alternate-silversurfer-blog][tm]. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not so decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@altsilversurfer][p].
+Calvino's primary social media account is Twitter [@altsilversurfer][t], but after the purchase of this company by Elon Musk, in protest Calvino reactivated his Tumbler account, [@alternate-silversurfer-blog][tm]. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not so decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@altsilversurfer][p]. He has also a [Academia.edu][ac] profile, where he publishes quasi-academic papers.
 
 ## João Calangro:
 
@@ -67,7 +67,7 @@ Differently from Calvino, he states clearly his pessimism, and commitment to the
 > Because I was always poor while stubbornly following the "difficult path", I gave up medicine and became an investor. I'm making a lot of money, but I'm not cheating anyone's good faith. I don't have a license anymore, I'm not a "doctor", but I'm honest.
 I was once the best of the best, but poor. Now, I'm unknown (which is great) but I'm rich. I maintain my honor and righteousness, I only speculate in the financial market, which is not even a sin, I'm taking it from those who have money and don't know how to deal with it.
 
-Thus, he professes a kind of naive cynicism, at the same time implying that he abandoned the "difficult path" of honesty, and clearly stating ethical limits and quite asking forgiveness for his indulgence in financial market ("I'm not cheating", "I'm honest", "(...) speculate (...) is not even a sin"). He states his birthdate as July 30th, 1978. His origin place is unknown (also in Brazil, but where?) and he also lives at Hy-Brasil. Misteriously, he declares that has some position there that relates to medicine, as disclosed in his [Academia.edu][ac] profile.
+Thus, he professes a kind of naive cynicism, at the same time implying that he abandoned the "difficult path" of honesty, and clearly stating ethical limits and quite asking forgiveness for his indulgence in financial market ("I'm not cheating", "I'm honest", "(...) speculate (...) is not even a sin"). He states his birthdate as July 30th, 1978. His origin place is unknown (also in Brazil, but where?) and he also lives at Hy-Brasil. Misteriously, he declares that has some position there that relates to medicine, as disclosed in his [Academia.edu][ac2] profile.
 
 > Sir João Calangro, Knight of the Royal Medical Academy, _Tir na nÓg_ University, _Uí Breasail_
 
@@ -76,11 +76,21 @@ Yes, he somewhat reminds me of Fernando Pessoa. However, he actually resembles L
 
 ![Lampião](/img/lampiao.jpg)
 
+Calangro's primary social media account is Twitter [@joaocalangro][j], but, again, after what he calls Elon Musk's "twitterchaos", Calangro reactivated his Pinterest account, [@neurooncologist][no]. Under the influence of Calvino, he made an account on the "I wanna be decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@joaocalangro][p2].
+
+## John Pauper
+
+
+
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
+[j]: https://twitter.com/joaocalangro
 [tm]: https://tumblr.com/alternate-silversurfer-blog
+[no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
 [p]: https://phaver.app.link/altsilversurfer
-[ac]: https://independent.academia.edu/Jo%C3%A3oCalangro
+[p2]: https://phaver.app.link/joaocalangro
+[ac]: https://independent.academia.edu/SilverSurfer20
+[ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro

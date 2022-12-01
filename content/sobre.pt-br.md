@@ -50,7 +50,7 @@ Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na f
 
 ![main street](/img/main.jpg)
 
-A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p].
+A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p]. Ele também tem um perfil na [Academia.edu][ac], onde ele publica artigos "quase" acadêmicos.
 
 ## João Calangro:
 
@@ -75,12 +75,23 @@ Imagino-o como um homem esguio, 1,69 m, óculos redondos, queixo fino, circunspe
 
 ![Lampião](/img/lampiao.jpg)
 
+A conta de rede social primária de Calangro é o Twitter [@joaocalangro][j], porém, igualmente, após o que ele chama de "twitterchaos" de Elon Musk, Calangro reativou sua conta no Pinterest, [@neurooncologist][no]. Influenciado por Calvino, ele criou uma conta no aplicativo "mamãe quero ser descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@joaocalangro][p2].
+
+## João Pobretão (John Pauper)
+
+Um heterônimo que surgiu apenas como uma brincadeira e, de forma totalmente inesperada, assumiu uma dimensão muito maior, assumindo uma história que mais transcrevi do que criei. Pauper é um desses personagens que adquire muito facilmente uma vida própria que seu seu autor jamais poderia prever. Um dos heterônimos criados mais recentemente, porém aquele que vive há mais tempo, em seu ponto de vista particular.
+
+Ele nasceu com outro nome, Im-Gu, há mais de dez mil anos atrás (já não sabe precisar ao certo), na Anatólia, num povo que chamavam a si mesmos de "Filhos da Deusa". 
 
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
+[j]: https://twitter.com/joaocalangro
 [tm]: https://tumblr.com/alternate-silversurfer-blog
+[no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
 [p]: https://phaver.app.link/altsilversurfer
-[ac]: https://independent.academia.edu/Jo%C3%A3oCalangro
+[p2]: https://phaver.app.link/joaocalangro
+[ac]: https://independent.academia.edu/SilverSurfer20
+[ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
