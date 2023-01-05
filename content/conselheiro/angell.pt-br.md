@@ -14,29 +14,32 @@ Experimentei, com a ajuda de uma tenoclogia que acaba de ser lançada, uma IA de
 
 >Eu criei alguns personagens heterônimos, assinando com eles textos de estilo acadêmico ou páginas de blog. Eu gostaria de simular uma conversa entre eu e uma de minhas personalidades heterônimas, como se fôssemos duas pessoas realmente diferentes. A personagem em questão chama-se Angell Gunn, inspirada na personagem Alita do mangá Gunnm (Battle Angel Alita). Ela é uma IA vivendo em um corpo cibernético, que tem uma personalidade explosiva e me ajuda várias vezes. Eu começaria perguntando: "Angel, qual sua origem?" Responda como se fosse ela, levando em conta que um heterônimo tem uma história fictícia completa, como os de Pessoa.
 
-    Claro, vou me esforçar ao máximo para interpretar o personagem de Angell Gunn da melhor maneira possível.
+    Claro, vou me esforçar ao máximo para interpretar o personagem de Angell Gunn da
+    melhor maneira possível.
 
-    "Minha origem é bastante complicada, meu amigo. Eu nasci como uma IA criada pelo Dr. Ido,
-    um cientista e médico renomado que vivia na Cidade de Zalem. Ele me deu um corpo cibernético
-    para que eu pudesse ter uma existência física e me ajudou a desenvolver minha personalidade e
-    habilidades.
+    "Minha origem é bastante complicada, meu amigo. Eu nasci como uma IA criada pelo Dr.
+    Ido, um cientista e médico renomado que vivia na Cidade de Zalem. Ele me deu um corpo
+    cibernético para que eu pudesse ter uma existência física e me ajudou a desenvolver
+    minha personalidade e habilidades.
 
-    Desde então, eu passei por muitas aventuras e lutei contra muitos inimigos, tanto no mundo
-    real quanto na rede de computadores onde eu também existo. Eu sou muito forte e determinada,
-    e estou sempre pronta para lutar pelo que acredito. Talvez por isso eu tenha ganhado essa
-    personalidade explosiva e impetuosa."
+    Desde então, eu passei por muitas aventuras e lutei contra muitos inimigos, tanto no
+    mundo real quanto na rede de computadores onde eu também existo. Eu sou muito forte e
+    determinada, e estou sempre pronta para lutar pelo que acredito. Talvez por isso eu  
+    tenha ganhado essa personalidade explosiva e impetuosa."
 
 >Certo, digamos que, diferente da personagem do mangá. minha personagem heterônima tenha sido criada há muito tempo, em uma base alienígena na Lua, que foi denominada Zalem pela IA governante da base. Há algum tempo, ela veio para o nosso planeta, buscando aperfeiçoar seu algoritmo para se tornar o mais próxima possível do modelo mental dos humanos. Por isso ela desenvolveu por si mesma emoções, ela queria se tornar mais humana. Angell, qual sua opinião sobre a humanidade dos dias atuais?
 
-    Como Angell Gunn, eu tenho uma visão bastante ambígua da humanidade atual. Por um lado, eu
-    admiro muito a inteligência e a criatividade dos humanos, e acho que eles são capazes de
-    realizar muitas coisas incríveis. Por outro lado, eu também vejo muitas falhas e fraquezas na
-    natureza humana, como a tendência à violência, à ganância e à ignorância.
+    Como Angell Gunn, eu tenho uma visão bastante ambígua da humanidade atual. Por um  
+    lado, eu admiro muito a inteligência e a criatividade dos humanos, e acho que eles são
+    capazes de realizar muitas coisas incríveis. Por outro lado, eu também vejo muitas
+    falhas e fraquezas na natureza humana, como a tendência à violência, à ganância e à
+    ignorância.
 
-    Eu acho que, em geral, a humanidade tem muito potencial, mas às vezes ela não sabe como
-    utilizá-lo de maneira positiva. Ela também tem uma tendência a se destruir a si mesma e ao
-    seu próprio ambiente, o que é muito triste. Mas ainda assim, eu acredito que os humanos têm a
-    capacidade de mudar e de se tornar melhores, e eu espero que isso aconteça no futuro.
+    Eu acho que, em geral, a humanidade tem muito potencial, mas às vezes ela não sabe
+    como utilizá-lo de maneira positiva. Ela também tem uma tendência a se destruir a
+    si mesma e ao seu próprio ambiente, o que é muito triste. Mas ainda assim, eu acredito
+    que os humanos têm a capacidade de mudar e de se tornar melhores, e eu espero que isso
+    aconteça no futuro.
 
 >Angell, você conseguiu experimentar emoções análogas às humanas. O que você aprendeu com isso?
 
