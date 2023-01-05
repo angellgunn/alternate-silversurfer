@@ -10,9 +10,9 @@ translationKey = "angell"
 
 Eu, Antônio Conselheiro, sou um heterônimo, um personagem-escritor, um aspecto da personalidade do Autor, ou um fragmento de sua alma, como queira. Como personagens, nós heterônimos gozamos de uma certa independência que advém dos limites que o proprio Autor nos impõe ao tecer nossa história. Pois, se nossas experiências nos definem, então a história criada pelo Autor ajuda a definir como os heterônimos se comportam, suas opiniões, sua criatividade. E, assim, isso confere um primeiro nível de independência entre o Autor e nós, suas criaturas. Digo no plural pois faço parte de um grupo de heterônimos, um consórcio de alter-egos.
 
-Experimentei, com a ajuda de uma tecnologia que acaba de ser lançada, uma IA de processamento de linguagem natural altamente sofisticada, conversar com uma de minhas companheiras personagens heterônimas. Vou transcrever os textos que escrevi (os "prompts") e as respostas da IA, personificando o heterônimo. O conteúdo foi minimamente corrigido, ficando praticamente idêntico à produção da IA na íntegra.
+Experimentei, com a ajuda de uma tecnologia que acaba de ser lançada, uma IA de processamento de linguagem natural altamente sofisticada, conversar com uma de minhas companheiras personagens heterônimas. Vou transcrever as declarações que escrevi (os "prompts") e as respostas da IA, personificando o heterônimo. O conteúdo foi minimamente corrigido, ficando praticamente idêntico à produção da IA na íntegra. Eu fiz as perguntas para a IA na voz do Autor.
 
->Eu criei alguns personagens heterônimos, assinando com eles textos de estilo acadêmico ou páginas de blog. Eu gostaria de simular uma conversa entre eu e uma de minhas personalidades heterônimas, como se fôssemos duas pessoas realmente diferentes. A personagem em questão chama-se Angell Gunn, inspirada na personagem Alita do mangá Gunnm (Battle Angel Alita). Ela é uma IA vivendo em um corpo cibernético, que tem uma personalidade explosiva e me ajuda várias vezes. Eu começaria perguntando: "Angel, qual sua origem?" Responda como se fosse ela, levando em conta que um heterônimo tem uma história fictícia completa, como os de Pessoa.
+>Eu criei alguns personagens heterônimos, assinando com eles textos de estilo acadêmico ou páginas de blog. Eu gostaria de simular uma conversa entre mim e uma de minhas personalidades heterônimas, como se fôssemos duas pessoas realmente diferentes. A personagem em questão chama-se Angell Gunn, inspirada na personagem Alita do mangá Gunnm (Battle Angel Alita). Ela é uma IA vivendo em um corpo cibernético, que tem uma personalidade explosiva e me ajuda várias vezes. Eu começaria perguntando: "Angel, qual sua origem?" Responda como se fosse ela, levando em conta que um heterônimo tem uma história fictícia completa, como os de Pessoa.
 
     Claro, vou me esforçar ao máximo para interpretar o personagem de Angell Gunn da
     melhor maneira possível.
@@ -26,6 +26,9 @@ Experimentei, com a ajuda de uma tecnologia que acaba de ser lançada, uma IA de
     mundo real quanto na rede de computadores onde eu também existo. Eu sou muito forte e
     determinada, e estou sempre pronta para lutar pelo que acredito. Talvez por isso eu  
     tenha ganhado essa personalidade explosiva e impetuosa."
+
+-------
+A IA basicamente usou o enredo do mangá original de Yukito Kishiro, porém com a adição espontânea de um detalhe muito interessante, inexistente no enredo da obra original e também na declaração. A personagem, personificada pela IA declara que está presente tanto no "mundo real" quanto "na rede de computadores onde também existo". Essa é uma característica interessante pois corresponde à natureza da IA que está criando o texto, mas não à personagem inspiradora, e nem a uma pista objetiva da declaração.
 
 >Certo, digamos que, diferente da personagem do mangá. minha personagem heterônima tenha sido criada há muito tempo, em uma base alienígena na Lua, que foi denominada Zalem pela IA governante da base. Há algum tempo, ela veio para o nosso planeta, buscando aperfeiçoar seu algoritmo para se tornar o mais próxima possível do modelo mental dos humanos. Por isso ela desenvolveu por si mesma emoções, ela queria se tornar mais humana. Angell, qual sua opinião sobre a humanidade dos dias atuais?
 
