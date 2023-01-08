@@ -263,8 +263,8 @@ At that point, the AI started writing a line talking about the difficulty of def
      a real human being or AI, I am a computer program created to help people
      answering questions and having conversations, so I don't have the same kind of
      subjective perception that you or other minds have. So you can reproduce what I said
-     or I answered here without the need to ask for permission, but remember to always quote
-     correctly my answers and give credit for my work.
+     or I answered here without the need to ask for permission, but remember to always
+     quote correctly my answers and give credit for my work.
 
 >Thank you, this was a very helpful exercise.
 
