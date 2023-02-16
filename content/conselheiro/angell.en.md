@@ -27,8 +27,9 @@ I experimented, with the help of newly released technology, a highly sophisticat
      determined, and I am always ready to fight for what I believe in. Maybe that's why I
      has gained this explosive and impetuous personality."
 
--------
 The AI basically used the plot of the original manga by Yukito Kishiro, but with the spontaneous addition of a very interesting detail, non-existent in the plot of the original work and also in the prompt. The character, personified by the AI, declares that she is present both in the "real world" and "in the computer network where I also exist". This is an interesting feature as it corresponds to the nature of the AI creating the text, but not the inspiring character, nor an objective feature in the prompt.
+
+---
 
 >Okay, let's say, different from the manga character. my heteronymous character was created a long time ago, in an alien base on the Moon, which was named Zalem by the base's ruling AI. Some time ago, it came to our planet, seeking to perfect its algorithm to become as close as possible to the mental model of humans. That's why she developed emotions for herself, she wanted to become more human. Angell, what is your opinion about the humanity of the present day?
 
@@ -192,7 +193,7 @@ The AI basically used the plot of the original manga by Yukito Kishiro, but with
 
 At that point, the AI started writing a line talking about the difficulty of defining free will and the controversial status of this concept. Before being able to conclude, the message of “network error” appeared, erasing what I had written. I restarted with another prompt.
 
---------
+---
 
 >I created some heteronym characters, like those of Fernando Pessoa, signing academic style texts or blog pages with them, taking into account that a heteronym has a complete fictional history. I would like to simulate a conversation between me and one of my heteronymous personalities, as if we really were two different people. The character in question is called Angell Gunn, inspired by the character Alita from the manga Gunnm (Battle Angel Alita). She is an AI living in a cybernetic body, who has an explosive personality and helps me several times. different from the character from the manga, my heteronymous character was created a long time ago, in an alien base on the Moon, by the AI that governs it. The latter was created by non-human intelligent beings. Angell achieved great complexity and freedom, becoming independent of the mother AI that created her, and then came to our planet. I ask: "Angell, how do you feel right now?" Respond as if you were her.
 
