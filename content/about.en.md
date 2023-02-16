@@ -54,7 +54,7 @@ Agreeing with the above and making a subtle allusion to pop culture, in the form
 
 ![main street](/img/main.jpg)
 
-Calvino's primary social media account is Twitter [@altsilversurfer][t], but after the purchase of this company by Elon Musk, in protest Calvino reactivated his Tumbler account, [@alternate-silversurfer-blog][tm]. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not so decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@altsilversurfer][p]. He has also a [Academia.edu][ac] profile, where he publishes quasi-academic papers.
+Calvino's primary social media account is Twitter [@altsilversurfer][t], but after the purchase of this company by Elon Musk, in protest Calvino reactivated his Tumbler account, [@alternate-silversurfer-blog][tm]. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not so decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@altsilversurfer][p]. He has also a [Academia.edu][ac], and [SSRN][bcs] profiles, where he publishes quasi-academic papers.
 
 ## João Calangro:
 
@@ -108,15 +108,22 @@ His complexion is that of an emaciated man, 1.63 m, with an aspect that reminds 
 ![Pauper2](/img/pauper2.jpg)
 _John Pauper and a noble man in the 15th century_
 
+Pauper's primary social media account is Twitter [@johnpauper][jp], but, also, after Elon Musk's Twitter blackout, Pauper made an account at the [Hive][h], @jpauper. And he has [Academia.edu][edu] and [SSRN][acs] accounts.
+
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
 [j]: https://twitter.com/joaocalangro
+[jp]: https://twitter.com/johnpauper
 [tm]: https://tumblr.com/alternate-silversurfer-blog
 [no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
 [p]: https://phaver.app.link/altsilversurfer
 [p2]: https://phaver.app.link/joaocalangro
+[h]: https://hivesocial.app
 [ac]: https://independent.academia.edu/SilverSurfer20
 [ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
+[edu]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
+[bcs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
+[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343

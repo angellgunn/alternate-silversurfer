@@ -98,25 +98,31 @@ Eles não sabiam plantar. Por isso, eles invadiam e saqueavam as vilas. Para sob
 Com o tempo, ele fixou-se na região litorânea da Anatólia, onde muito mais tarde teria contato com Pitagóras ho Sámios, o filósofo. Pitágoras foi seu grande mestre, quem lhe ensinou matemática, e a quem seguia cegamente. "Mas não pude segui-lo na morte, pois a morte não me queria", diz John Pauper. Esse nome ele assumiu quando passou a viver na Bretanha, séculos depois. Lá pelo século XVIII, chegou nas praias de Hy-Brasil e de lá nunca mais saiu. "É um lugar mágico".
 
 ![Pauper](/img/pauper.jpg)
-_John Pauper em cena do século XV_
+_John Pauper em cena do século XVII_
 
 Sua figura é de um homem emagrecido, 1,63 m, com um aspecto que lembra talvez Gandalf ou Dumbledore, porém na pobreza. Ele tem longos cabelos e barbas branco-acinzentados, e usa um chapéu velho. "Não é de bruxo, é para pedir esmolas mesmo." Apesar da simplicidade, ele é identificado como uma personalidade acadêmica na Universidade de Tir na nÓg.
 
 > John Pauper ocupa a cátedra Oxalufã de Professor Honorário de Matemática Transdimensional, Instituto para Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg
 
-![Lampião](/img/lampiao.jpg)
+![Pauper2](/img/pauper2.jpg)
+_John Pauper e um nobre no século XV_
 
-A conta de rede social primária de Calangro é o Twitter [@joaocalangro][j], porém, igualmente, após o que ele chama de "twitterchaos" de Elon Musk, Calangro reativou sua conta no Pinterest, [@neurooncologist][no]. Influenciado por Calvino, ele criou uma conta no aplicativo supostamente descentralizado Phaver, com o perfil [@joaocalangro][p2].
+A conta de rede social primária de John Pauper é o Twitter [@johnpauper][jp], porém, mais uma vez, após apagão do Twitter de Elon Musk, ele criou uma conta no [HIVE][h], @jpauper. Ele também tem contas na [Academia.edu][edu] e [SSRN][acs].
 
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
 [j]: https://twitter.com/joaocalangro
+[jp]: https://twitter.com/johnpauper
 [tm]: https://tumblr.com/alternate-silversurfer-blog
 [no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
 [p]: https://phaver.app.link/altsilversurfer
 [p2]: https://phaver.app.link/joaocalangro
+[h]: https://hivesocial.app
 [ac]: https://independent.academia.edu/SilverSurfer20
 [ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
+[edu]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
+[bcs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
+[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
