@@ -378,7 +378,7 @@ próprias palavras, «o mundo é como se fosse uma só cidade»; e assim como,
 para os atenienses, Atenas era a “querida cidade de Cecrops”, para o filósofo, o
 universo é “a querida cidade de Deus”».
 
-## Marco Aurélio António
+## Marco Aurélio António
 
 Marco Annio Vero, o futuro imperador de Roma, nasceu em 26 de Abril de 121 a.
 D. durante o reinado do Imperador Adriano. O pai, Annio Vero, era um nobre
@@ -424,7 +424,7 @@ das armas; nas fronteiras orientais, bandos de ferozes homens tribais do
 Marcomanni (“homens das marcas”), Quadi, e Sarmati invadiram a raia numa
 série de tentativas determinadas de penetrar nas defesas do Império. Perante
 esta ameaça, Marco deixou Roma em 167 para assumir pessoalmente o
-comando das suas legiões depauperadas no Danúbio. Em 169 Vero morreu, e
+comando das suas legiões depauperadas no Danúbio. Em 169 Vero morreu, e
 durante a maior parte dos treze anos seguintes Marco ficou só no seu posto.
 Durante um curto intervalo foi chamado à Ásia, onde o comandante das tropas,
 Avídeo Cássio, se revoltou e se fez proclamar imperador. Mas Cássio foi
@@ -612,7 +612,7 @@ Perante estas e outras afirmações semelhantes de um prelado e doutor da
 Igreja, quem será capaz de negar o direito do Estoicismo de ser chamado, nas
 palavras de um escritor do nosso tempo, «uma raiz do Cristianismo»?
 
--------------------------------------
+-------------------------------------
 ## O HINO DE CLEANTHES
 
 ALTÍSSIMA GLÓRIA DA COMPANHIA DOS CÉUS,
@@ -634,8 +634,7 @@ CANTAR-TE-EI, POIS, LOUVORES, AGORA!
 GLORIFICAREI, POIS, AGORA E PARA SEMPRE, O TEU PODER!
 
 -------------------------------------
-Nota do tradutor
-da versão inglesa
+## Nota do tradutor da versão inglesa
 
 Temos que admitir que esta obra começa logo por uma tradução errada. O título
 grego no topo do livro de Marco não significa de modo nenhum “Meditações”; o
@@ -733,12 +732,10 @@ capacitasse de que não se devem regatear quaisquer despesas para este fim.
 ou o Leve ou o Pesado (2) , na arena; e me incentivou a não recear o trabalho, a
 ser comedido nos meus desejos, a tratar das minhas próprias necessidades, a
 meter-me na minha vida, e a nunca dar ouvidos à má-língua.
-
 >(Comentário em Nota
 12/01/2002 14:42:00
 (1)
 As cores dos aurigários no Circo. O entusiasmo dos romanos por estas corridas não tinha limites; os vencedores ganhavam grandes fortunas e tornavam-se ídolos populares.)
-
 > (Comentário em Nota
 11/01/2002 12:28:36
 (2)
@@ -854,7 +851,7 @@ genuíno afecto pelos meus filhos.
 11/01/2002 12:30:22
 (10)
 Cinna Catulo era outro dos professores que davam lições de filosofia.)
-
+
 14. Com meu irmão Severo (11) aprendi a amar os meus familiares, a amar a
 verdade e a justiça. Por ele tomei conhecimento de Thraseia, Catão, Helvidio,
 Dião e Bruto, e familiarizei-me com a ideia de uma comunidade baseada na
@@ -1025,8 +1022,7 @@ competentes para os meus filhos; e pelos remédios que me eram prescritos em
 sonhos — especialmente nos casos dos escarros de sangue e das vertigens,
 como aconteceu em Caieta e Chrysa. Finalmente, o facto de, dada a minha
 inclinação para a filosofia, não ter ainda assim caído nas mãos de um qualquer
-
-sofista ou ter passado todo o meu tempo agarrado aos livros e às regras da
+sofista ou ter passado todo o meu tempo agarrado aos livros e às regras da
 lógica ou amarrado ao estudo das ciências naturais.
 Por todas estas coisas boas «o homem precisa da ajuda do Céu e do
 Destino». (15)
@@ -1137,7 +1133,7 @@ grave do que aquele que faz sofrer. Num caso, o prevaricador é como um
 homem amarrado a uma perda de controle involuntária; no outro, a ânsia de
 satisfazer o seu desejo leva-o a fazer o mal de sua própria vontade.
 
-11. Em tudo o que fizeres, disseres ou pensares, lembra-te de que está sempre
+11. Em tudo o que fizeres, disseres ou pensares, lembra-te de que está sempre
 na tua mão o poder de te retirares da vida. Se os deuses existem, não tens nada
 a temer em te despedires da humanidade, pois eles não deixarão que te
 aconteça qualquer mal. Mas se não há deuses, ou se eles não se metem nos
@@ -1285,7 +1281,7 @@ morreu. Os Caldeus previram a morte de muita gente, mas o destino apanhou-os
 também a eles. Alexandre, Pompeu e Júlio César devastaram e voltaram a
 devastar cidades inteiras e abateram batalhões de cavalaria e infantaria em
 combate, mas também a sua hora chegou. Heráclito (18) especulava
-interminavelmente sobre a destruição do mundo pelo fogo, mas no fim foi a água
+interminavelmente sobre a destruição do mundo pelo fogo, mas no fim foi a água
 que lhe saturou o corpo e morreu num emplastro de excrementos. Demócrito (19)
 foi destruído por insectos; Sócrates por insectos de outro tipo (20) . E a moral de
 tudo isto? Esta. Embarca-se, faz-se a viagem, chega-se ao porto: desembarca-
@@ -1755,7 +1751,7 @@ xiii, 121))
 
 31. Entrega o teu coração ao que aprendeste, e busca nisso refrigério. Faz por
 passar os dias que te restam como alguém que, em todos eles, se entregou de
-todo o coração aos deuses, e que, portanto, não é dono nem escravo de
+todo o coração aos deuses, e que, portanto, não é dono nem escravo de
 ninguém.
 
 32. Pensa, digamos, nos tempos de Vespasiano; (27) e o que é que vês? Homens
@@ -1910,7 +1906,7 @@ mais que leva à realização da natureza do homem? Eis, então, uma regra a
 recordar no futuro, quando alguma coisa te tentar a sentires-te amargo: não
 «Isto é uma infelicidade», mas «Suportar isto dignamente é uma felicidade».
 
-50. Filosofia à parte, uma efectiva ajuda no sentido de menosprezar a morte é
+50. Filosofia à parte, uma efectiva ajuda no sentido de menosprezar a morte é
 pensar naqueles que se apegaram avidamente às suas vidas. Que vantagem
 tiveram eles sobre os que morreram ainda jovens? A terra cobre-os a todos eles
 algures, em qualquer tempo; Cadiciano, Fábio, Juliano, Lépido e todos os outros
@@ -1974,7 +1970,7 @@ e a minha ama, o leite do meu ser — terra que durante tantos anos me forneceu
 diariamente comida e bebida, e, embora tão atrozmente maltratada, ainda
 permite que eu pise a sua superfície.
 
-5. Nunca serás célebre pela tua sagacidade. Seja; contudo há uma série de
+5. Nunca serás célebre pela tua sagacidade. Seja; contudo há uma série de
 outras qualidades de que não poderás dizer «Não tenho tendência para isso».
 Cultiva-as, pois, porque elas estão totalmente ao teu alcance: a sinceridade, por
 exemplo, e a dignidade; o zelo e a sobriedade. Evita resmungar; sê sóbrio,
@@ -2015,7 +2011,7 @@ planícies de Atenas». As orações, ou não deviam ser ditas, ou então deviam
 tão simples como esta.
 
 8. Assim como nós dizemos, «Esculápio (30) prescrevia exercícios a cavalo, ou banhos frios, ou andar a pé», também a Natureza-Mundo prescreve a doença, as mutilações, as perdas, ou quaisquer outras deficiências. No primeiro caso, prescrever significava ordenar um tratamento específico no interesse da saúde do paciente; da mesma maneira, no segundo caso, são-nos prescritas certas
-ocorrências no interesse do nosso destino. Podem, de facto, dizer-nos que nos
+ocorrências no interesse do nosso destino. Podem, de facto, dizer-nos que nos
 “enquadremos” nestas desgraças no mesmo sentido em que os pedreiros dizem que as pedras quadradas das paredes ou as pirâmides se “enquadram” umas
 nas outras quando estão a ser ajustadas para constituírem um todo unificado.
 Esta integração mútua é um princípio universal. Assim como uma miríade de
@@ -2335,7 +2331,7 @@ acções.
 (37)
 O “velho amigo” fingiu bondosamente partilhar da noção da criança de que o pião era um tesouro apetecível e precioso. Da mesma maneira, diz Marco, devemos ser solidários com a tristeza dos outros, mesmo quando o nosso maior conhecimento nos diz que eles não sofreram nenhum mal real.)
 
--------------------------------------
+-------------------------------------
 ## LIVRO 6
 
 1. A matéria no universo é flexível e dócil, e a Razão que a controla não tem
@@ -2380,7 +2376,7 @@ tomará conta de mim mais tarde ou mais cedo? Mas se a contrária for
 verdadeira, então eu venero, mantenho-me firme e deposito toda a minha
 confiança no Poder director.
 
-11. Quando a força das circunstâncias perturba a tua equanimidade, não percas
+11. Quando a força das circunstâncias perturba a tua equanimidade, não percas
 tempo a recuperar o teu autocontrole e não fiques em dissonância senão durante o tempo que não possas evitar. O regresso habitual à harmonia
 aumentará a tua capacidade de a dominar.
 
@@ -2485,7 +2481,7 @@ receberem os louvores dos antepassados!
 poder dos mortais. Terás de admitir, pelo contrário, que, se uma coisa é
 possível, e própria para o homem fazer, tem de estar dentro das tuas próprias capacidades.
 
-20. Quando um adversário, no ginásio nos fere com as unhas ou nos magoa a
+20. Quando um adversário, no ginásio nos fere com as unhas ou nos magoa a
 cabeça num choque, não protestamos nem ficamos ofendidos, nem passamos
 depois a desconfiar sempre das suas intenções. Contudo passamos a olhá-lo
 com cautela, não com inimizade ou suspeição, mas mantendo-o, com bonomia,
@@ -2576,7 +2572,7 @@ exactamente como os olhaste, olha agora o que os teus olhos despertos vêem.
 indiferente, porque é incapaz de fazer distinções. Ao espírito, as únicas coisas
 que não são indiferentes são as suas próprias actividades, e estas estão todas
 sob o seu controle. Além disso, mesmo em relação a elas, a sua única
-preocupação são as do momento presente; uma vez passadas, ou quando ainda
+preocupação são as do momento presente; uma vez passadas, ou quando ainda
 residem no futuro, elas mesmas passam imediatamente a ser indiferentes.
 
 33. Uma dor numa mão ou num pé não é nada de anti-natural, desde que a mão
@@ -2627,9 +2623,9 @@ quando ele serve o fim para que foi feito, embora neste caso o seu construtor
 não esteja presente. Mas com as coisas feitas pela Natureza, o poder que as
 moldou ainda está com elas e nelas fica a residir. Mais uma razão para que a
 veneres e fiques com a certeza de que só vivendo de acordo com a sua vontade
-
-tu terás as coisas a teu gosto. É esta a maneira como também o universo tem
+tu terás as coisas a teu gosto. É esta a maneira como também o universo tem
 todas as coisas a seu gosto.
+
 41. Se tens a ideia de que uma coisa que está para além do teu controle pode
 ser boa ou má para ti, então o acidente de perder a primeira ou encontrar a
 segunda vai certamente fazer com que fiques ressentido com os deuses e
@@ -2677,7 +2673,7 @@ conta de mim próprio e de olhar pelos meus próprios interesses; e o interesse 
 todas as criaturas reside na conformidade com a sua própria constituição e
 natureza. A minha natureza é racional e cívica; tenho uma cidade e tenho um
 país; como Marco, tenho Roma, e como ser humano, o universo; e
-consequentemente, o que é bom para estas comunidades é o único bem para
+consequentemente, o que é bom para estas comunidades é o único bem para
 mim.
 
 45. Tudo o que acontece ao indivíduo é para bem do todo. Isto é, só por si,
@@ -2729,7 +2725,7 @@ mesmo em relação à medida do tempo.
 se os princípios da justiça assim mandarem. E se alguém usar da força para te
 impedir, segue uma via diferente; deves resignar-te sem angústia e transformar
 o obstáculo numa oportunidade para o exercício de outra virtude. Lembra-te de
-que a tua tentativa esteve sempre sujeita a reservas; tu não estavas a apontar
+que a tua tentativa esteve sempre sujeita a reservas; tu não estavas a apontar
 para o impossível. Então para quê? Simplesmente para a tentativa, ela própria.
 Nisto conseguiste; e com isso atingiste o objectivo da tua existência.
 
@@ -2907,7 +2903,7 @@ que era.
 
 23. Da substância universal, como da cera, a Natureza molda um potro, e
 depois destrói-o e usa a matéria para fazer uma árvore, e depois, um homem, e
-a seguir, outra coisa qualquer; e nenhum destes dura mais do que um breve
+a seguir, outra coisa qualquer; e nenhum destes dura mais do que um breve
 espaço de tempo. Quanto à embalagem propriamente dita, ser partida aos
 bocados não é maior sofrimento do que ser montada.
 
@@ -2952,7 +2948,7 @@ todo naquilo que está a ser feito e também naquilo que o está a fazer.
 com a indiferença por tudo o que fique fora do reino da virtude ou pelo vício.
 Ama a humanidade. Trilha os caminhos de Deus. «Tudo submetido à lei», diz o
 sábio; e que importa que o seu dito se refira só aos átomos? A nós basta-nos
-lembrar que todas as coisas estão de facto submetidas à lei. Três palavras, mas
+lembrar que todas as coisas estão de facto submetidas à lei. Três palavras, mas
 suficientes.
 
 32. Da Morte. Dispersão, se o mundo é uma confluência de átomos: extinção ou
@@ -3162,7 +3158,7 @@ sofreram uma crise idêntica com indignação, espanto e alarido. Onde estão el
 agora? Em parte nenhuma. Então, porquê querer seguir-lhes o exemplo? Deixa,
 antes, os humores dos outros aos seus donos ou servos, e esforça-te por
 transformar o acontecimento numa boa causa. Assim, estarás a utilizá-lo da
-melhor maneira e ele servir-te-á como material de trabalho. Em todos os actos,
+melhor maneira e ele servir-te-á como material de trabalho. Em todos os actos,
 que a tua auto-aprovação seja o único objectivo, tanto do teu esforço como da
 tua intenção, tendo sempre em mente que, em si mesmo, o acontecimento que
 induziu o teu acto é uma coisa sem consequências para nenhuma delas.
@@ -3270,7 +3266,7 @@ dos culpados?
 71. Que ridículo é não fugirmos da nossa própria maldade, o que é possível, e
 tentarmos fugir da dos outros, o que não o é.
 
-72. Tudo aquilo que o raciocínio e o social achem irracional ou não fraternal,
+72. Tudo aquilo que o raciocínio e o social achem irracional ou não fraternal,
 pode por eles ser declarado inferior a eles próprios.
 
 73. Quando tiveres feito uma boa acção, e outra pessoa beneficiar com ela,
@@ -3378,7 +3374,7 @@ o mais agradável.
 13. Habitua-te, se possível, a descobrir o carácter essencial de todas as
 impressões, dos seus efeitos no eu, e a sua reacção a uma análise lógica.
 
-14. Quando conheceres alguém, seja quem for, começa logo por te perguntar,
+14. Quando conheceres alguém, seja quem for, começa logo por te perguntar,
 Quais são as suas opiniões sobre a bondade ou maldade das coisas? Porque,
 assim, se os seus pontos de vista sobre o prazer e a dor e as suas causas, ou
 sobre a boa ou má reputação, ou sobre a vida e a morte são de um determinado
@@ -3476,7 +3472,7 @@ do eu nenhum mal pode abrir caminho à força.
 
 29. Apaga todas as fantasias e insiste em dizer para ti mesmo, «Está na minha
 mão assegurar que nenhum vício, cupidez ou agitação de qualquer espécie se
-aloje nesta minha alma; está ao meu alcance compreender todas as coisas à
+aloje nesta minha alma; está ao meu alcance compreender todas as coisas à
 sua verdadeira luz e tratar cada uma delas como merece». Lembra-te deste
 poder que é uma dádiva da natureza para ti.
 
