@@ -732,14 +732,6 @@ capacitasse de que não se devem regatear quaisquer despesas para este fim.
 ou o Leve ou o Pesado (2) , na arena; e me incentivou a não recear o trabalho, a
 ser comedido nos meus desejos, a tratar das minhas próprias necessidades, a
 meter-me na minha vida, e a nunca dar ouvidos à má-língua.
->(Comentário em Nota
-12/01/2002 14:42:00
-(1)
-As cores dos aurigários no Circo. O entusiasmo dos romanos por estas corridas não tinha limites; os vencedores ganhavam grandes fortunas e tornavam-se ídolos populares.)
-> (Comentário em Nota
-11/01/2002 12:28:36
-(2)
-Num tipo de combate de gladiadiores (o “Trácio”) os contendores eram armados com escudos redondos leves; noutro (o “Samnita”) eles traziam escudos rectangulares pesados.)
 
 6. Graças a Diogneto (3) aprendi a não me deixar absorver por actividades triviais;
 a ser céptico em relação a feiticeiros e milagreiros com as suas histórias de
@@ -748,11 +740,6 @@ distracções semelhantes; a não ficar ofendido com a franqueza; a familiarizar
 com a filosofia, começando por Bacchio e passando depois para Tandasis e
 Marciano; a redigir composições, logo em pequeno; a ser entusiasta do uso do
 leito de tábuas e pele, bem como de outros rigores da disciplina grega.
-
-> (Comentário em Nota
-11/01/2002 12:28:58
-(3)
-Pintor e filósofo a quem Marco, ainda um rapaz de onze anos, ficou a dever os primeiros contactos com o Estoicismo. De Bacchio, Tandasis ou Marciano nada se sabe.)
 
 7. De Rústico (4) obtive a noção de que o meu carácter precisava de treino e
 cuidados, e que não me devia deixar perder no entusiasmo sofista de compor
@@ -768,11 +755,6 @@ meras ideias gerais do seu significado; e não me deixar convencer facilmente
 por pessoas de palavra fácil. Por ele, vim também a conhecer as Dissertações
 de Epicteto, das quais ele me deu uma cópia da sua biblioteca.
 
->(Comentário em Nota
-11/01/2002 12:29:09
-(4)
-Q. Júnio Rústico, um professor estóico que foi tutor de leis e amigo de Marco.)
-
 8. Apolónio (5) convenceu-me da necessidade de tomar decisões por mim
 mesmo, em vez de depender dos acasos da sorte, e nunca, nem por um
 momento, perder de vista a razão. Também me instruiu no sentido de encarar os
@@ -784,11 +766,6 @@ clareza; contudo, era claramente alguém para quem a experiência prática e
 aptidão para ensinar filosofia eram os talentos menos importantes. Foi ele, além
 disso, que me ensinou a aceitar os pretensos favores dos amigos sem me
 rebaixar ou dar a impressão de insensível indiferença.
-
-> (Comentário em Nota
-11/01/2002 12:29:21
-(5)
-Professor de filosofia que veio da Calcedónia para Roma. Quando Marco o chamou pela primeira vez ao palácio, dizem que ele respondeu, «O mestre não deve ir ter com o aluno, mas o aluno com o mestre.»)
 
 9. As minhas dívidas para com Sexto (6) incluem a bondade, a maneira como
 dirigir o pessoal da casa com autoridade paternal, o verdadeiro significado da
@@ -803,11 +780,6 @@ era, ao mesmo tempo, imperturbável e cheio de bondosa afeição. Quando
 manifestava a sua concordância, fazia-o sempre calma e abertamente, e nunca
 fazia alarde do seu saber enciclopédico.
 
-> (Comentário em Nota
-11/01/2002 12:29:43
-(6)
-Oriundo de Caerónia, na Boécia, e neto de Plutarco. Um dos primeiros professores de filosofia de Marco.)
-
 10. Foi o crítico Alexandre (7) que me pôs em guarda contra a crítica supérflua.
 Não devemos corrigir bruscamente as pessoas pelos seus erros gramaticais,
 provincialismos, ou má pronúncia; é melhor sugerir a expressão correcta,
@@ -816,41 +788,20 @@ a uma pergunta, ou na concordância com as suas opiniões, ou numa conversa
 amigável sobre o próprio tema (não sobre a dicção), ou por qualquer outro tipo
 de advertência.
 
-> (Comentário em Nota
-11/01/2002 12:29:51
-(7)
-Reputado erudito grego, conhecido por “o Gramático”)
-
 11. Ao meu conselheiro Fronto (8) devo a percepção de que a maldade, a astúcia
 e a má-fé acompanham o poder absoluto; e que as nossas famílias patrícias
 tendem, na sua maior parte, a carecer de sentimentos de humanidade.
-
-> (Comentário em Nota
-12/01/2002 14:47:38
-(8)
-M. Cornélio Fronto, famoso advogado e professor que dava lições de retórica, e reconhecidamente
-apenas inferior a Cícero, como orador. Foi encarregado da educação dos futuros co-imperadores Marco Aurélio e Lúcio Vero. A publicação da correspondência de Fronto que contém muitas das cartas que lhes escreveu, bem como as suas respostas, lançou muita luz sobre o carácter e os hábitos de Marco, e também revela o afecto que os seus pupilos reais dedicavam ao seu tutor.)
 
 12. O platonista Alexandre (9) acautelou-me contra o uso frequente das palavras
 «Estou muito ocupado» na expressão oral ou na correspondência, excepto em
 casos de absoluta necessidade; dizendo que ninguém deve furtar-se às
 obrigações sociais devidas, com a desculpa de afazeres urgentes.
 
-> (Comentário em Nota
-11/01/2002 12:30:12
-(9)
-Secretário do imperador)
-
 13. O estóico Catulo, (10) aconselhou-me a nunca menosprezar a censura de um
 amigo, mesmo quando pouco razoável, mas em vez disso, fazer o possível por
 voltar a agradar-lhe; a falar pronta e abertamente em louvor dos meus
 instrutores, como se lê nas memórias de Domítio e Athenodoto; e a cultivar um
 genuíno afecto pelos meus filhos.
-
-> (Comentário em Nota
-11/01/2002 12:30:22
-(10)
-Cinna Catulo era outro dos professores que davam lições de filosofia.)
 
 14. Com meu irmão Severo (11) aprendi a amar os meus familiares, a amar a
 verdade e a justiça. Por ele tomei conhecimento de Thraseia, Catão, Helvidio,
@@ -862,15 +813,6 @@ boas acções, da generosidade, de um temperamento cordial, e da confiança no
 afecto dos meus amigos. Recordo, também, a sua franqueza para com aqueles
 que mereciam a sua repreensão, e a maneira como ele não deixava dúvidas aos
 amigos sobre aquilo de que gostava ou que detestava, dizendo-lho claramente.
-
-> (Comentário em Nota
-12/01/2002 14:48:31
-(11)
-Marco não tinha qualquer irmão. A palavra pode ser uma alusão jocosa a Cláudio Severo (cujo filho
-casou com uma das filhas de Marco), uma vez que Marco também se chamara originalmente Severo,
-embora tivesse mais tarde eliminado o nome. Trata-se mais provavelmente de erro do texto. Muitos editores
-preferem o nome Vero, isto é, o Lúcio Vero que, como o próprio Marco, for adoptado pelo Imperador
-António Pio como seu filho; mas o retrato lisongeiro aqui traçado não corresponde de modo nenhum ao que se conhece do carácter de Vero (ver nota 14))
 
 15. Máximo (12) foi o meu modelo de autocontrole, firmeza de intenções e de boa
 disposição em situações de falta de saúde e de outros infortúnios. O seu
@@ -885,11 +827,6 @@ de uma rectidão que lhe era mais inata do que cultivada. Nunca se superiorizava
 a ninguém, e contudo ninguém se atrevia a desafiar a sua superioridade. Era,
 além disso, possuidor de um agradável sentido de humor.
 
-> (Comentário em Nota
-12/01/2002 14:48:49
-(12)
-Cláudio Máximo, filósofo estóico especialmente admirado por Marco. A sua coragem na doença é recordada com gratidão (I,16) e a sua morte, bem como a da mulher, Secunda, lembradas com pena (VIII,25).)
-
 16. As qualidades que eu admirava no meu pai (13) eram a sua brandura, a sua
 firme recusa em se desviar de qualquer decisão a que tinha chegado, a sua
 completa indiferença às falsas honrarias; o seu esforço, a sua perseverança e
@@ -897,12 +834,6 @@ vontade de ouvir atentamente qualquer projecto para o bem comum; a sua
 invariável insistência em que as recompensas devem depender do mérito; o seu
 hábil sentido de oportunidade para puxar ou soltar as rédeas; e os esforços que
 fazia para suprimir a pederastia.
-
->(Comentário em Nota
-11/01/2002 12:30:54
-(13)
-Não o pai natural, Annio Vero, mas o Imperador António Pio, o pai adoptivo.)
-
 Ele tinha consciência de que a vida social tem as suas exigências: os seus
 amigos não tinham qualquer obrigação de se sentarem à sua mesa ou de o
 acompanhar nas suas viagens oficiais, e quando eles eram disso impedidos por
@@ -921,7 +852,6 @@ desprezando tudo o que lhe soasse a ostentação ou moda. Aceitava sem
 complacência ou compunção os bens materiais que a sorte pusera à sua
 disposição; quando estavam à mão aproveitava-os, e quando não estavam, não
 sentia qualquer mágoa.
-
 Não lhe podiam ser apontados quaisquer vestígios dos sofismas dos casuístas,
 do atrevimento do adulador, ou do escrúpulo exagerado do pedante; todos os
 homens lhe reconheciam uma personalidade madura e acabada que era
@@ -995,18 +925,6 @@ desculpa o facto de eu não ter conseguido alcançar esta Vida Natural; e se eu
 estou ainda longe do objectivo, só eu próprio sou responsável por não ter
 tomado atenção aos sinais — melhor, às orientações virtuais — que recebi de
 cima.
-
- > (Comentário em Nota
- 11/01/2002 12:31:11
- (14)
- Lúcio Ceinóio Cómodo, depois conhecido como Lúcio Vero. Foi adoptado por António Pio juntamente
- com Marco, com quem ele foi co-imperador e com cuja filha, Lucila, casou. Homem, a princípio corajoso e
- capaz, Vero veio depois a fraquejar, tornando-se um amante da boa vida. Como comandante dos exércitos
- romanos na guerra Partiana, revelou-se um indolente e um incapaz, e só se salvou da desgraça devido à
- destreza dos seus generais. Quando voltou do Oriente com as suas legiões, estas trouxeram consigo as
- sementes da peste que se propagou, com terríveis efeitos, por todo o Império. Vero morreu em 169 —
- segundo alguns, ás mãos de um envenenador.)
-
 Aos deuses deve ser atribuído o facto de a minha constituição ter sobrevivido
 tanto tempo a este tipo de vida; de nunca me ter envolvido com uma Benedicta,
 nem com uma Theodota, e também de ter saído incólume de outras relações
@@ -1026,13 +944,6 @@ inclinação para a filosofia, não ter ainda assim caído nas mãos de um qualq
 lógica ou amarrado ao estudo das ciências naturais.
 Por todas estas coisas boas «o homem precisa da ajuda do Céu e do
 Destino». (15)
-
->
-(Comentário em Nota
-11/01/2002 12:31:24
-(15)
-Aparentemente uma citação, cuja fonte não foi descoberta.)
-
 Entre os Quadi, no Rio Gran.
 
 -------------------------------------
@@ -1099,11 +1010,6 @@ breve vós já não tereis mais tempo para fazerdes justiça a vós própria. O 
 não tem senão uma vida; e a vossa está já próxima do fim, contudo, continuais a
 não ter olhos para a vossa própria honra e estais a hipotecar a vossa felicidade
 às almas de outros homens. (16)
-
-> (Comentário em Nota
-11/01/2002 15:14:53
-(16)
-Isto é, à decisão dos outros em aprovar ou criticar as tuas acções.)
 
 7. A tua atenção é desviada para preocupações exteriores? Então, concede-te
 um espaço de sossego dentro do qual possas aumentar o conhecimento do bem
@@ -1291,28 +1197,6 @@ não escravos desta embarcação terrena, tão incomensuravelmente mais
 mesquinha do que o seu ministro assistente. Porque um é espírito e divindade; e
 o outro, apenas barro e corrupção.
 
-> (Comentário em Nota
-  12/01/2002 14:50:44
-(17)
-Hipócrates (460-355 a.C.)
-
-> (Comentário em Nota
-12/01/2002 14:51:44
-(18)
-Heráclito (540-475 a.C.), filósofo jónico, ensinava que a essência do Ser é o Devir: isto é, um movimento incessante de mudança pelo qual um aspecto de uma coisa está sempre a levar a uma outra. O tipo deste movimento perpétuo, e a forma primitiva de toda a matéria, é o fogo; e o processo elemental do universo é a passagem do fogo a água e terra e de novo a fogo. «Todas as coisas estão em fluxo» e «Não se pode mergulhar duas vezes na mesma água de um rio» eram dois dos conhecidos ditados em que ele exprimia a
-sua doutrina; e Marco refere-se a outros em IV,46. Muito do posterior sistema estóico da física baseava-se nas teorias de Heráclito.)
-
-> (Comentário em Nota
-12/01/2002 14:52:28
-(19)
-Demócrito, contemporâneo de Hipócrates, afirmava que o universo era formado de combinações
-infinitamente variadas de um número infinito de átomos, crença em que foi depois seguido por Epicuro e a sua escola. Ao contrário do sombrio Heráclito, “o filósofo choroso”, a sua boa disposição trouxe-lhe a alcunha de “o filósofo risonho”. Esta referência de Marco é o nosso único testemunho para esta versão da sua morte.)
-
-> (Comentário em Nota
-12/01/2002 14:53:12
-(20)
-É uma referência ao poeta Mélito, ao curtidor Ânito e ao orador Lycon. Eles fizeram a Sócrates a acusação pela qual ele foi condenado à morte. Pouco depois da sua execução, os Atenienses arrependeram-se da sua injustiça, apedrejaram Mélito até à morte, e baniram Ânio e Lycon.)
-
 4. Não desperdices o que resta da tua vida a especular sobre os teus vizinhos,
 a não ser que tenhas em vista qualquer benefício mútuo. Interrogares-te sobre o
 que fulano está a fazer e porquê, ou sobre o que ele está a dizer ou a pensar ou
@@ -1484,12 +1368,6 @@ estrada em direcção ao fim da vida, onde o dever o manda chegar em pureza e
 em paz, sem relutância em partir, em harmonia perfeita e voluntária com o rateio
 do destino.
 
-> (Comentário em Nota
-12/01/2002 14:54:08
-(21)
-Phalaris, governador de Agrigento, na Sicília, no século VI a. C., ganhou uma reputação proverbial pela sua crueldade desumana. Diz-se que queimou os seus prisioneiros vivos dentro de um touro de bronze, sendo a primeira vítima o seu inventor, Périlo. As apócrifas “Epístolas de Phalaris” são hoje lembradas devido principalmente ao erudito inglês Richard Bentley, que provou, na “Dissertação Imortal” (Porton), que
-lhe deu fama, que elas eram falsificações.)
-
 ----------------------
 ## LIVRO 4
 
@@ -1546,12 +1424,6 @@ que o desassossego só pode resultar de fantasias interiores; e segundo, que
 todos os objectos visíveis mudam num instante e deixam de existir. Pensa nas
 inúmeras mudanças em que tu próprio tomaste parte. Todo o universo é
 mudança, e a própria vida não é senão aquilo que tu acreditas que é (22).
-
-> (Comentário em Nota
-12/01/2002 14:54:50
-(22)
-A própria vida não é senão aquilo que tu acreditas que é. Hamlet (Acto II, cena 2) diz: «There’s nothing either good or bad, but thinking makes it so» (Não há coisa alguma que seja, em si própria, boa ou má, o pensamento é que a faz assim). Marco exprime aqui este pensamento mais sucintamente em duas palavras
-gregas que significam literalmente «[a] vida [é] opinião».)
 
 4. Se o poder do pensamento é universal no género humano, também a posse
 da razão o é, fazendo de nós criaturas racionais. Donde, portanto, que esta
@@ -1676,13 +1548,6 @@ Natureza, tudo o que as vossas estações produzem é fruta para mim. De vós
 vêm, e em vós e para vós são todas as coisas. «Querida Cidade de Deus!» Não
 choremos, mesmo quando o poeta exclama «Querida Cidade de Cecrops!» (23)
 
-> (Comentário em Nota
-11/01/2002 15:53:33
-(23)
-Cecrops foi o lendário fundador de Atenas, mas a fonte desta citação é desconhecida. Na nobre
-expressão de Marco para o universo, «Querida Cidade de Deus», encontrou Santo Agostinho de Hippo o
-seu título, já pronto, para a sua grande obra cristã Civitas Dei.)
-
 24. «Se quiserdes conhecer a satisfação, sede parco nos actos», disse o sábio.
 Melhor ainda, limita-te àqueles que são essenciais, e àqueles que a razão exige
 de um ser social. Isto traz a satisfação que resulta de fazer apenas algumas
@@ -1704,11 +1569,6 @@ tempo; um fio urdido na tua teia particular, como tudo o mais que acontece.
 Numa palavra, a vida é curta; portanto, tira bom proveito da hora que passa,
 obedecendo à razão e procedendo com justiça. Não vergues, mas sê comedido.
 
-> (Comentário em Nota
-11/01/2002 15:55:14
-(24)
-O lado desagradável de um qualquer encontro recente.)
-
 27. Ou um universo que é todo ele ordem, ou então uma balbúrdia atirada ao
 acaso, mas formando um universo. Mas, poderá subsistir alguma ordem em ti
 próprio e ao mesmo tempo a desordem no Todo mais amplo? E isso quando
@@ -1718,12 +1578,6 @@ suas divergências e dispersão?
 28. Um coração negro! (25) Um coração efeminado, obstinado; o coração de uma
 besta, de um animal selvagem; infantil, estúpido e falso; o coração de um
 vigarista, o coração de um tirano.
-
-> (Comentário em Nota
-11/01/2002 15:56:11
-(25)
-Podemos apenas tentar adivinhar a razão desta explosão tão pouco própria do seu carácter. Teria Marco
-andado a reler a vida de Nero?)
 
 29. Se aquele que não sabe o que está no universo é uma pessoa estranha ao
 universo, não o é menos aquele que não sabe o que lá se passa. Uma tal
@@ -1739,15 +1593,6 @@ deriva.
 30. Um filósofo anda sem camisa (26) ; outro sem livros; um terceiro, meio-
 despido, diz, «Pão, não tenho, e mesmo assim apego-me à razão.» Pela minha
 parte, também não tenho o fruto daquilo que aprendi, contudo apego-me a ela.
-
-> (Comentário em Nota
-11/01/2002 15:58:44
-(26)
-Muitos filósofos da escola Cínica defendiam que a virtude era o único objectivo da vida, contentavam-se
-com um mínimo de vestuário e afirmavam que a Natureza era o único livro que um sábio precisava de ler.
-Os Estóicos consideravam o seu próprio sistema como um ramo do Cinismo; o sátiro Juvenal, de facto,
-afirma, gracejando, que só se pode distinguir um estóico de um cínico porque o primeiro usa camisa (Sátira
-xiii, 121))
 
 31. Entrega o teu coração ao que aprendeste, e busca nisso refrigério. Faz por
 passar os dias que te restam como alguém que, em todos eles, se entregou de
@@ -1770,13 +1615,6 @@ da perseguição de qualquer objectivo depende do valor do objectivo perseguido.
 Portanto, se quiseres evitar o desencorajamento, nunca te deixes absorver por
 coisas que não sejam de primeira importância.
 
->
-(Comentário em Nota
-11/01/2002 16:01:52
-(27)
-O Imperador Vespasiano morrera oitenta e dois, e Trajano, quarenta e quatro anos antes de Marco
-ascender ao trono.)
-
 33. Expressões outrora correntes caíram hoje em desuso. Nomes, também, que
 eram antigamente familiares, são hoje virtualmente arcaísmos; Camilo, Caleo,
 Voleso, Dentato; ou, um pouco mais tarde, Scípio e Catão, Augusto, também, e
@@ -1792,11 +1630,6 @@ emana da fonte e origem Única.
 
 34. Submete-te a Clotho (28) de bom grado e deixa-a fiar o teu fio do material que
 ela quiser.
-
-> (Comentário em Nota
-12/01/2002 14:56:03
-(28)
-Clotho, uma das três Fatas, é a que fia o fio da vida dos homens; Lachesis decide do seu destino; Atropos corta o fio quando eles têm de morrer.)
 
 35. Todos nós somos criaturas de um dia; tanto os que recordam como os que
 são recordados.
@@ -1833,11 +1666,6 @@ intricado da meada, na complexidade da teia.
 
 41. «Uma pobre alma que carrega consigo um cadáver» (29) , eis o que Epicteto te
 chama.
-
-> (Comentário em Nota
-12/01/2002 14:56:34
-(29)
-Estas palavras não aparecem em qualquer das obras de Epicteto que chegaram até nós, mas sugeriram a Swinburne o verso, «A little soul for a little bears up this corpse which is man» (uma pequenina alma suporta por pouquinho tempo este cadáver que é o homem) no seu Hymn to Proserpine.)
 
 42. Estar em processo de mudança não é um mal, tanto como não é um bem
 ser um produto de uma mudança.
@@ -2038,11 +1866,6 @@ concatenação — quer das causas, quer de quaisquer outros elementos — é fe
 o todo. E sempre que tu te entregas à insatisfação, estás a provocar, dentro das
 tuas limitadas capacidades, essa separação e desmembramento.
 
-> (Comentário em Nota
-12/01/2002 14:57:57
-(30)
-Com Esculápio, Marco aqui quer dizer qualquer consultor médico. O Esculápio original é mencionado por Homero simplesmente como «um excelente curador» que era pai de Machaon e Podalírio, os dois médicos do exército grego em Troia. Mais tarde ele aparece com a categoria de divindade, presidindo às artes da cura e venerado nos templos em toda a Grécia. As serpentes andavam em toda a parte associadas ao culto de Esculápio (a mudança periódica de pele que acontece com as cobras fez com que ela fosse considerada como um símbolo apropriado de saúde e vigor renovados); e o emblema do deus representando um bastão com uma serpente enrolada era frequentemente aposto pelos médicos no topo das receitas. É hoje muito conhecido como distintivo do Royal Army Medical Corps.)
-
 9. Não te entregues à tristeza nem ao desânimo e não desistas em desespero,
 se de vez em quando a prática ficar aquém da norma. Volta ao ataque depois de
 cada derrota e fica agradecido se globalmente o teu desempenho, na maioria
@@ -2080,12 +1903,6 @@ que não esteja de acordo com a natureza; e segundo, que o poder de me abster
 de agir contra o espírito divino dentro de mim está nas minhas mãos, uma vez
 que não há homem nenhum vivo que me possa obrigar a tal desobediência.
 
-> (Comentário em Nota
-12/01/2002 14:58:31
-(31)
-A referência é à chamada escola “céptica” ou pirrónica de filósofos, fundada por Pirro de Elis. Eles defendiam que as nossas percepções podem apenas mostrar-nos as coisas como elas parecem e não
-como são, e que portanto uma suspensão do julgamento é a única atitude correcta em qualquer caso.)
-
 11. Que uso estou eu agora a dar aos poderes da minha alma? Auto-examina-te
 sobre este ponto a cada passo, e pergunta, «Como é que ela se dá com aquela
 parte de mim a que os homens chamam a parte-mestra? Que alma é que habita. O
@@ -2095,11 +1912,6 @@ tranquilizar o espírito».(Nota do tradutor da presente versão: a palavra port
 corresponde por inteiro à palavra inglesa “goods”))
 o meu corpo neste momento? A de uma criança, a de um rapaz, a de uma
 mulher, a de um tirano, a de um boi mudo, ou a de um animal selvagem?»
-
-> (Comentário em Nota
-12/01/2002 14:59:24
-(32)
-Este parágrafo gira à volta do significado ambíguo da palavra “bens” (“goods” na tradução inglesa)
 
 12. A concepção popular de “bens” pode ser testada desta maneira.32 Se um
 homem, no seu espírito, identifica como “bens” coisas como a prudência, a
@@ -2154,12 +1966,6 @@ solidariedade é o objectivo que está por detrás da criação. (É claramente
 evidente, não é? que enquanto que os inferiores existem para os superiores,
 estes existem uns para os outros. E enquanto que o ser animado é superior ao
 inanimado, o racional é ainda superior àquele.
-
-> (Comentário em Nota
-11/01/2002 16:52:30
-(33)
-Mathew Arnold encontrou nestas palavras a inspiração para o seu soneto que começa, «“Mesmo num
-palácio a vida pode ser bem vivida“; assim falou o sábio imperial, o mais puro dos homens, Marco Aurélio».)
 
 17. Procurar alcançar o inatingível é loucura, contudo, o insensato nunca
 consegue deixar de o fazer.
@@ -2263,11 +2069,6 @@ vida acabou, e o teu serviço está no fim; lembra-te de todas as belas vistas q
 desprezaste, das muitas considerações que mostraste para com os pouco
 atenciosos.
 
-> (Comentário em Nota
-11/01/2002 16:53:37
-(34)
-Homero, Odisseia, iv, 690)
-
 32. Como é que almas sem qualquer competência ou saber são capazes de
 confundir o perito com o sábio? Ah, mas que alma é verdadeiramente perita e
 também sábia? Só a daquele que tem o conhecimento do princípio e do fim, e
@@ -2289,17 +2090,6 @@ Recobra o ânimo e espera pelo fim, seja ele extinção ou transformação. E o 
 ser senão venerar e abençoar os deuses; fazer o bem aos homens; ser
 indulgente; e lembrares-te de que o que quer que esteja para além dos limites
 desta pobre carne e sopro não é teu, nem está no teu poder.
-
-> (Comentário em Nota
-11/01/2002 16:54:37
-35
-Hesíodo, Trabalhos e Dias, v, 197.)
-
-> (Comentário em Nota
-11/01/2002 16:55:14
-36
-De acordo com a crença estóica, a partícula de fogo divino que constitui a alma humana é alimentada
-pelo sangue.)
 
 34. Prossegue vigorosamente, não saias da estrada certa no pensamento e na
 acção, e os teus dias fluirão sempre tranquilamente. A alma do homem, como as
@@ -2325,11 +2115,6 @@ Apesar de banido para não importa que solidões, fui sempre bafejado pela Sorte
 Porque bafejado pela Sorte é aquele que a premeia pelos bons presentes que
 dela recebe — os bons presentes de uma boa disposição, bons impulsos e boas
 acções.
-
-> (Comentário em Nota
-12/01/2002 15:01:44
-(37)
-O “velho amigo” fingiu bondosamente partilhar da noção da criança de que o pião era um tesouro apetecível e precioso. Da mesma maneira, diz Marco, devemos ser solidários com a tristeza dos outros, mesmo quando o nosso maior conhecimento nos diz que eles não sofreram nenhum mal real.)
 
 -------------------------------------
 ## LIVRO 6
@@ -2397,16 +2182,6 @@ dá dignidade. A presunção é o que há de mais enganador, mas nunca ela é ma
 ilusória do que quando tu te convences de que o teu trabalho é muito meritório.
 Repara no que Crates tem a dizer sobre o próprio Xenocrates. (39)
 
-> (Comentário em Nota
-11/01/2002 16:57:30
-(38)
-Vinho famoso da antiga Campânia. (Nota do autor desta versão portuguesa))
-
-> (Comentário em Nota
-11/01/2002 16:58:17
-39
-Referência desconhecida.)
-
 14. As pessoas vulgares limitam a sua admiração principalmente às coisas de
 categoria elementar que existem em virtude de mera coesão ou de processos
 inorgânicos da natureza; coisas de madeira e pedra, por exemplo, ou arvoredos
@@ -2434,11 +2209,6 @@ sangue; (40) e não há verdadeira diferença entre inspirar o ar para logo o so
 para fora, como nós fazemos a cada instante, e receber a faculdade de respirar,
 como fizemos ainda ontem no nosso nascimento, para a devolver um dia à fonte
 onde a fomos buscar.
-
-> (Comentário em Nota
-11/01/2002 16:58:59
-(40)
-Ver nota 36)
 
 16. A transpiração não é coisa para prezar; partilhamo-la com as plantas. Nem a
 respiração; partilhamo-la com os animais dos campos e das florestas. Nem as
@@ -2610,11 +2380,6 @@ consequentemente ligadas por mútua afeição; porque a sua sucessão
 organizada é realizada por acção das correntes de tensão, (41) e pela unidade de
 toda a substância.
 
-> (Comentário em Nota
-12/01/2002 15:07:16
-(41)
-Uma explicação da teoria estóica da “tensão” é dada na introdução, pág. 15.)
-
 39. Adapta-te ao ambiente para onde o teu grupo foi atirado, e mostra um amor
 verdadeiro pelos teus semelhantes mortais de que o destino te rodeou.
 
@@ -2647,11 +2412,6 @@ que tudo rege descobrirá uma qualquer utilidade para ti e atribuir-te-á um lug
 entre os seus colaboradores e companheiros de trabalho. Só tens de cuidar que
 a tua não seja aquela lamentável função que, de acordo com Chrísipo, é
 desempenhada pelo palhaço no palco. (42)
-
-> (Comentário em Nota
-12/01/2002 15:07:41
-(42)
-i. é, fornecer aquele elemento de baixeza contra a qual a nobreza se mostra mais claramente.)
 
 43. Será que o sol pensa fazer o trabalho da chuva? Ou Esculápio, o de
 Demétrio? E as estrelas? Não são elas todas diferentes, e, contudo, não
@@ -2703,12 +2463,6 @@ escola. Medita muitas vezes sobre estes homens há muito desaparecidos. Como
 próprios nomes foram esquecidos? Nesta vida só uma coisa é preciosa: viver os
 nossos dias em verdade e em justiça, e em caridade, mesmo para com os falsos
 e os injustos.
-
-> (Comentário em Nota
-12/01/2002 15:08:44
-(43)
-Filistion, Febo e Origanion são-nos desconhecidos; a linguagem sugere que são pessoas que tinham morrido recentemente. Eudoxo diz-se ter sido erudito em astrologia, medicina e leis. Hiparco foi um matemático de nome. A reputação científica de Arquimedes sobreviveu até aos nossos dias. Sobre o
-filósofo grego Menippo, Diógenes Laertio observa que «ele não publicou nada de memorável, mas os seus escritos estão cheios de humor e riso» (vi,99))
 
 48. Quando te apetecer um tónico para te animar, pensa nas boas qualidades
 dos teus amigos: a capacidade de um, a modéstia doutro, a generosidade de um
@@ -2869,11 +2623,6 @@ boa razão-mestra. Então, vã Fantasia, que andas tu a fazer aqui? Vai-te, em
 nome de Deus, como vieste; não quero nenhuma de vós. Eu sei que o que vos
 traz aqui é um longo hábito, e não vos quero mal; mas ponde-vos a andar.
 
-> (Comentário em Nota
-11/01/2002 17:04:27
-(44)
-Isto é o significado de eudaimonia, a palavra grega para felicidade.)
-
 18. Nós fugimos à mudança; contudo, há alguma coisa que possa nascer sem
 ela? O que é que a Natureza considera de mais querido ou mais próprio para si
 mesma? Poderias tu tomar um banho se a lenha da fogueira não sofresse uma
@@ -2969,11 +2718,6 @@ contemplar todo o tempo e toda a realidade, pode ele olhar a vida humana como
 coisa de grande importância?» — «Não, não pode.» — «Portanto, não pensará
 na morte como qualquer coisa a temer?» — «Não.» (De Platão (45))
 
-> (Comentário em Nota
-11/01/2002 22:15:44
-(45)
-República, 486)
-
 36. «É sina dos príncipes serem criticados por agirem correctamente.» (De
 Anthístenes.)
 
@@ -2984,68 +2728,28 @@ se.
 38. «Não aflijais o vosso espírito no decurso das coisas;
 Elas não cuidam da vossa aflição.» (46)
 
-> (Comentário em Nota
-11/01/2002 22:16:32
-(46)
-Eurípedes, Bellerophon, Frag. 289)
-
 39. «Aos deuses imortais e também a nós próprios dai alegria.» (47)
-
-> (Comentário em Nota
-11/01/2002 22:17:00
-(47)
-Fonte desconhecida)
 
 40. «Tal como as espigas de milho, também as vidas dos homens são ceifadas;
 Esta, poupada e aquela, cortada.» (48)
 
-> (Comentário em Nota
-11/01/2002 22:17:27
-(48)
-Eurípedes, Hypsipyle, Frag. 757)
-
 41. «Se o Céu não cuida de mim nem dos meus dois filhos,
 Deve haver uma boa razão, mesmo para isso.» (49)
 
-> (Comentário em Nota
-11/01/2002 22:18:14
-(49)
-Eurípedes, Antíope, Frag. 207)
-
 42. «A razão e a boa sorte estão ambas do meu lado.» (50)
-
-> (Comentário em Nota
-11/01/2002 22:18:44
-(50)
-Eurípedes, Frag. 910)
 
 43. «Não há lágrimas para aqueles que se lamentam, nem pulsação
 acelerada.» (51)
-
-> (Comentário em Nota
-11/01/2002 22:19:28
-(51)
-Fonte desconhecida)
 
 44. «Eu bem podia responder-lhe, Estás enganado, meu amigo, se pensas que
 um homem de valor deve passar o tempo a pesar as perspectivas da vida e da
 morte. Ele só tem uma coisa a considerar ao praticar qualquer acção, e que é
 esta: se está a agir bem ou mal, como homem bom ou mau.» (De Platão (52))
 
-> (Comentário em Nota
-11/01/2002 22:20:18
-(52)
-Apologia, 28 B)
-
 45. «A verdade da questão é esta, meus senhores. Uma vez ocupado o seu
 lugar, ou porque lhe pareça o melhor para ele, ou por obediência a ordens, creio
 que um homem é obrigado a ficar e enfrentar o perigo, não dando atenção à
 morte ou a qualquer outra coisa, excepto a desonra.» (De Platão (53))
-
-> (Comentário em Nota
-11/01/2002 22:20:52
-(53)
-Apologia, 28 E)
 
 46. «Mas peço-te, meu amigo, que penses que é possível que a nobreza e a
 bondade possam ser uma coisa diferente de nos resguardarmos a nós e aos
@@ -3055,11 +2759,6 @@ quanto tempo pode ter de vida. Que deixe isso à vontade de Deus, na crença de
 que as nossa mulheres têm razão quando nos dizem que nenhum homem pode
 escapar ao seu destino, e ele que se entregue ao problema seguinte, a melhor
 maneira de viver a vida que lhe foi destinada.» (De Platão (54))
-
-> (Comentário em Nota
-11/01/2002 22:21:25
-(54)
-Gorgias, 512 DE)
 
 47. Examina as estrelas que giram, como se tu próprio andasses no meio do
 seu curso. Observa com frequência a dança das mudanças dos elementos.
@@ -3085,37 +2784,15 @@ Tudo o que cresce de semente do céu para o céu voltará». (55)
 — pela desintegração, isto é, da sua estrutura atómica e dispersão dos seus
 elementos indiferentes.
 
-> (Comentário em Nota
-11/01/2002 22:22:02
-(55)
-Eurípedes, Chrísipo, Frag. 836)
-
 51. «O quê, pôr de lado as carnes e as bebidas e as amenidades
 As marés do Destino, e escapar assim à Morte?» (56)
-
-> (Comentário em Nota
-11/01/2002 22:22:30
-(56)
-Eurípedes, Suplicantes, 1110)
 
 «As brisas que sopram de Deus têm de ser encaradas
 Com remos diligentes e corações resignados.» (57)
 
-> (Comentário em Nota
-11/01/2002 22:23:58
-(57)
-Fonte desconhecida)
-
 52. «Mais astuto na arena», (58) sem dúvida — mas não mais dedicado à causa
 pública, mais discreto, mais disciplinado às circunstâncias, mais indulgente para
 com os descuidos do vizinho.
-
-> (Comentário em Nota
-12/01/2002 15:12:50
-(58)
-Em grego, literalmente “melhor derrubador”. A palavra aparece numa das histórias de Plutarco, onde um
-lutador espartano desanimado se queixa de que o seu adversário vitorioso não era «nada mais esperto,
-nem mais forte, apenas melhor derrubador». A história parece ter feito lembrar a Marco uma qualquer figura política da época.)
 
 53. Se um feito pode ser realizado de acordo com aquela razão que os homens
 partilham com os deuses, não há nada a temer. Donde quer que se apresente
@@ -3187,11 +2864,6 @@ virtude. Não há nada que mais precises de ter constantemente em mente do que
 isto; e isso vai ajudar-te a uma maior gentileza em todas as tuas relações com
 as pessoas.
 
-> (Comentário em Nota
-11/01/2002 22:25:31
-(59)
-Platão, citado por Epicteto.)
-
 64. Quando em sofrimento, lembra-te de imediato de que não há nisso nada de
 vergonhoso, nem nada de prejudicial ao espírito timoneiro, que não sofre
 nenhum dano nem no aspecto racional nem no social. Em muitos casos, a
@@ -3218,18 +2890,6 @@ os deuses? Evitava o ressentimento pelos vícios dos outros ou a submissão à
 sua ignorância? Aceitava o que o destino lhe reservava, não o olhando como
 coisa antinatural, nem o sofrendo como uma aflição insuportável, nem deixando
 o espírito ser influenciado por experiências da carne?
-
-> (Comentário em Nota
-12/01/2002 15:13:35
-(60)
-Durante o reinado de terror dos Trinta, que se seguiu ao derrube da democracia em Atenas em 403 a.C., muitas pessoas inocentes foram mortas. Quando ordenaram a Sócrates, e a mais outros quatro, que
-prendessem um cidadão honesto, Leo de Salamis, ele recusou-se firmemente a cumprir a ordem dos
-tiranos.)
-
-> (Comentário em Nota
-11/01/2002 22:27:04
-(61)
-Um dos gracejos de Aristófanes sobre Sócrates (Nuvens, 362))
 
 67. A natureza não misturou o espírito com o corpo tão inextricavelmente que o
 impeça de estabelecer as suas próprias fronteiras e de controlar os seus
@@ -3448,12 +3108,6 @@ lendas. Pensa, pois, que este teu corpo complexo ou tem de se desagregar e
 dispersar, ou o sopro que o anima tem de ser extinto ou removido ou trasladado
 para qualquer outro lugar.
 
-> (Comentário em Nota
-12/01/2002 15:14:43
-(62)
-Lucilla e Vero eram os pais do próprio Marco. Máximo foi o professor a quem ele se referiu com gratidão em I, 15, e Secunda, a mulher desse filósofo. Epitynchano e Diómito são desconhecidos. O imperador
-António, que era casado com Faustina, era pai adoptivo de Marco. Celer era secretário do imperador Adriano. De Chanax não sabemos nada. Com Demétrio, deve talvez referir-se a Demétrio de Faleron, o último dos famosos oradores e homens de estado a quem Marco se refere outra vez em IX, 29. Eudaemon diz-se que foi um astrólogo famoso.)
-
 26. O verdadeiro prazer do homem é fazer aquilo para que foi criado. Ele foi
 criado para mostrar boa vontade para com os seus semelhantes, para
 ultrapassar os impulsos dos sentidos, para distinguir aparências de realidades e
@@ -3487,11 +3141,6 @@ completas — os Pompeus, por exemplo — e a inscrição que vemos nos
 memoriais, «O último da família». Pensa em todos os esforços dos seus
 predecessores para deixarem herdeiro; e contudo, no fim, alguém tem de ser o
 último, e mais uma família desaparece.
-
-> (Comentário em Nota
-12/01/2002 15:15:01
-(63)
-Agripa e Mecenas eram os dois principais ministros de Augusto, dividindo entre si o encargo de gerir quase todos as questões públicas. O filósofo, Areio, era seu amigo pessoal e conselheiro)
 
 32. Cada um dos teus actos, em separado, deve contribuir para uma vida
 integrada; e se cada um deles cumprir, tanto quanto possível, a sua parte até ao
@@ -3544,11 +3193,6 @@ eles também condenados a ficar velhos e a morrer? — e, então, que fariam os
 pranteados quando os seus pranteadores deixassem de existir? E tudo isto para
 nada mais do que um saco cheio de fedor e decomposição.
 
-> (Comentário em Nota
-12/01/2002 15:15:19
-(64)
-Segundo Luciano, Panteia era amante, e Pérgamo um escravo libertado, de Vero, colega imperial de Marco.)
-
 38. Nas palavras do sábio Crito, «Se tendes olhos para ver, pois, vede».
 
 39. Na constituição de um ser racional, não encontro qualquer virtude implantada
@@ -3572,13 +3216,6 @@ frustração é realmente um mal para ti como ser racional. Contudo, uma vez que
 aceites aquela necessidade universal, não podes sofrer mal nenhum nem
 qualquer frustração. Não há ninguém que possa frustrar o espírito dentro do seu
 próprio domínio. O fogo, a espada, a opressão, a calúnia e tudo o mais são. (65)
-
-> (Comentário em Nota
-11/01/2002 22:42:27
-(65)
-Empedocles)
-impotentes para o tocar. «O globo, uma vez em órbita e verdadeiro, continua a
-ser esférico»
 
 42. Eu, que nunca magoei voluntariamente ninguém, não tenho nada que me
 magoar a mim próprio.
@@ -3827,7 +3464,6 @@ tratados e armistícios; e entre as espécies ainda mais elevadas existe mesmo
 uma dimensão de unidade entre os corpos muito afastados uns dos outros —
 como, por exemplo, entre as estrelas. Assim, a subida na escala da criação pode
 induzir sentimentos de simpatia mesmo onde não há proximidade.
-
 Contudo, vê agora o que acontece. Só nós — nós, seres inteligentes — é que
 esquecemos este ardor mútuo de unidade; só entre nós se não vêem as
 correntes a convergir. Porém, embora o homem possa fugir quando quer, ele é
@@ -3938,11 +3574,6 @@ incessantemente, e assim tudo tomará de novo, e por sua vez, o seu lugar, até
 ao fim do mundo. Deixar o espírito repisar nestas vagas giratórias de mudança e
 transformação é conhecer um desprezo por todas as coisas mortais.
 
-> (Comentário em Nota
-12/01/2002 15:15:54
-(66)
-Para cima e para baixo, isto é, mudando sucessivamente de fogo para ar, de ar para água, de água para terra, e depois de novo em sentido inverso, como Heráclito ensinava. (V. nota 18))
-
 29. A Causa primeira é como um rio numa inundação; leva tudo consigo. Que
 ignóbeis são os pequenos homens que brincam à política e se convencem de
 que estão a agir dentro do espírito da filosofia. Crianças que nem sabem assoar
@@ -3960,11 +3591,6 @@ passou de um papel teatral que eles estavam a desempenhar, nenhum tribunal
 me condenou a imitar o seu exemplo. A filosofia é uma ocupação modesta, tudo
 simplicidade e tratamento sério. Nunca tentes seduzir-me para o pretensiosismo
 solene.
-
-> (Comentário em Nota
-11/01/2002 22:45:22
-(67)
-Ver nota 62)
 
 30. Olha do alto os inúmeros rebanhos de humanos com as suas misteriosas
 cerimónias, as suas variadas navegações nas tempestades e na acalmia, e todo
@@ -4246,12 +3872,6 @@ uma lebre, ou outro, de pescar um arenque, ou um terceiro, de capturar javalis
 ou ursos ou Samartianos. (68) Se entrares na questão dos princípios, não serão
 estes simplesmente ladrões?
 
-> (Comentário em Nota
-11/01/2002 22:46:40
-(68)
-Nome genérico dos homens das tribos da região do Danúbio com que Marco e as suas legiões
-mantiveram uma guerra quase contínua.)
-
 11. Cria o hábito de observares regularmente o processo universal da mudança;
 fá-lo com frequência, e instrui-te plenamente neste ramo do estudo; não há nada
 que mais elevação dê ao espírito. Porque quando um homem compreende que
@@ -4325,11 +3945,6 @@ resposta tem de ser, «Como vós amais, também eu amo.» (Não é esta a mesma
 ideia implícita na vulgar expressão que diz que tal ou tal coisa «gosta de
 acontecer»?)
 
-> (Comentário em Nota
-11/01/2002 22:47:39
-(69)
-Eurípedes, Frag. 890)
-
 22. Tu, ou continuas a viver aqui, hábito a que já estás suficientemente
 adaptado; ou mudas-te para qualquer outro sítio, o que farás por tua própria e
 livre iniciativa, ou morres, o que significa que o teu serviço acabou. Outra
@@ -4341,11 +3956,6 @@ seria, quer lá em cima nos montes, quer cá em baixo junto ao mar, ou onde quer
 que queiras. Encontrarás esta mesma ideia em Platão, quando ele fala em viver
 dentro das muralhas da cidade «como se a ordenhar os rebanhos num redil da
 montanha.» (70)
-
-> (Comentário em Nota
-11/01/2002 22:48:16
-(70)
-Theaeteto, 174 D)
 
 24. O que é para mim a minha razão-mestra? O que é que estou a fazer dela
 neste momento? Que uso estou eu a dar-lhe? Será que ela está a revelar-se
@@ -4359,11 +3969,6 @@ pesar, a cólera ou o medo são todos eles rejeições de qualquer coisa que no
 passado, no presente ou no futuro foi decretado pelo poder que rege o universo
 — por outras palavras, pela Lei, que atribui a cada criatura aquilo que lhe é
 devido. (71) Ceder ao medo, ao pesar ou à cólera é, portanto, ser um desertor.
-
-> (Comentário em Nota
-11/01/2002 22:49:26
-(71)
-Supõe-se que a palavra grega para lei (nomos) deriva de um verbo que significa distribuir (nemein).)
 
 26. Um homem deixa uma semente no útero e prossegue o seu caminho;
 depois outra causa pega nela, põe-se a trabalhar, e acaba a formar um bebé —
@@ -4469,11 +4074,6 @@ foges deles, como se eles tivessem que sofrer para toda a eternidade. Dentro
 em pouco, os teus olhos fechar-se-ão; e pelo homem que te levar à sepultura,
 também pouco depois as lágrimas correrão.
 
-> (Comentário em Nota
-11/01/2002 22:50:12
-(72)
-Homero, Ilíada, vi, 147)
-
 35. A função de uns olhos sãos é ver tudo aquilo que é visível, e não exigir que
 tudo seja verde, porque isso é apenas sinal de uma visão doente. Da mesma
 maneira, a audição e o olfacto, se saudáveis, devem estar receptivos a todos os
@@ -4559,11 +4159,6 @@ decisão; uma decisão não instigada por mera contumácia, como acontece com
 os cristãos, (73) mas formada com ponderação e seriedade, e, se tiver de ser
 convincente para os outros, sem grandiloquência.
 
-> (Comentário em Nota
-12/01/2002 15:18:16
-(73)
-Se estas palavras são autênticas e não foram inseridas mais tarde, são a única referência que Marco faz aos cristãos. C. R. Haines, contudo, na edição da Loeb das Meditações, observa que a frase está «marginal à construção, e, de facto, gramaticalmente incorrecta. Tem a forma de nota à margem e todo o aspecto de ser uma anotação acrescentada ao texto.»)
-
 4. Pratiquei uma acção altruísta? Muito bem, já tive a minha recompensa. Tem
 sempre presente este pensamento e continua.
 
@@ -4587,18 +4182,6 @@ Não atormenteis o espírito por causa do curso das coisas
 ou,
 Como as espigas de milho, as vidas dos homens são ceifadas
 e muitas outras deste tipo.
-
-> (Comentário em Nota
-12/01/2002 15:18:47
-(74)
-Na tragédia de Sófocles Rei Édipo, o rei, ao aperceber-se, angustiado, da sua culpa, e com o sangue a correr-lhe dos olhos que ele próprio mutilou, exclama, «Ah, Cithaeron, Cithaeron, por que me protegeste? Por que não me levaste e me mataste logo?» Foi nas montanhas de Cithaeron, perto de Tebas, que ele, ao nascer, fora exposto pela mãe Jocasta.)
-
-> (Comentário em Nota
-12/01/2002 08:42:07
-(75)
-Este, bem como os outros versos aqui transcritos, parecem ter tido um lugar especial na memória de
-Marco, que perdera quatro dos cinco filhos. Já os mencionou antes, em VII, 41.)
-
 Depois da tragédia veio a Comédia Antiga, (76) com uma língua implacável,
 como a de um mestre-escola, mas ministrando, com a sua grande franqueza
 (que até certo ponto foi adoptada por Diógenes com a mesma finalidade) uma
@@ -4608,32 +4191,6 @@ em decadência transformando-se no mero artificialismo do Mimo. (79) Certamente
 que mesmo estes escritores tardios têm algumas coisas boas a dizer, como
 sabemos; mas a que é que monta todo o alcance e intenção de toda a sua
 produção poética e teatral?
-
-> (Comentário em Nota
-12/01/2002 15:19:49
-(76)
-Os três grandes poetas áticos daquilo a que se chama a “Comédia Antiga”, na era de Péricles, foram Cratino e os seus contemporâneos mais novos, Eupolis e Aristófanes. Todas as suas obras, excepto as de Aristófanes, se perderam; e, segundo o historiador Grote, se não tivéssemos estas diante de nós, «teria
-sido impossível imaginar a maneira desmesurada e impiedosa como a Comédia Antiga atacava os deuses,
-as instituições, os políticos, filósofos, poetas, cidadãos particulares e até as mulheres de Atenas.)
-
-> (Comentário em Nota
-12/01/2002 15:20:25
-(77)
-Nos últimos tempos da carreira de Aristófanes, a licenciosidade da Comédia Antiga foi restringida por lei, e os escritores começaram também a dispensar os dispendiosos serviços do coro, abrindo assim caminho à Média Comédia (400-388 a.C), donde já desapareceu o coro e onde os tipos — o soldado, o avarento, o cortesão — tomam o lugar de pessoas vivas como objecto do ridículo. Os autores mais importantes deste período, depois do próprio Aristófanes, diz-se que foram Eubulo, Antiphanes e Alexis.)
-
-> (Comentário em Nota
-12/01/2002 15:21:00
-(78)
-A Comédia Nova nasceu depois de Atenas ter ficado submetida à Macedónia, e foi um desenvolvimento da Média. Os políticos foram excluídos do palco, e as intrigas amorosas de personagens fictícios tornaram-se o tema principal. Neste grupo de escritores, a figura proeminente é Menander, que escreveu para cima de uma centena de comédias e foi confessadamente imitado pelos poetas romanos Plauto e Terêncio.)
-
-> (Comentário em Nota
-12/01/2002 08:46:53
-(79)
-Tanto na Grécia como em Roma, a comédia convencional foi sempre menos popular do que os Mimos,
-em que a acção era retratada pelos movimentos e gestos de um único actor enquanto o coro recitava o
-texto correspondente. Os mimos de Sophron (420 a.C.) foram durante muito tempo o divertimento favorito
-dos gregos; e em Roma, este tipo de diversão tornou-se tão popular no tempo de Augusto e dos seus
-sucessores, que por fim praticamente suplantou o teatro autêntico.)
 
 7. Manifestamente, nenhuma condição de vida podia ser tão adequada à prática
 da filosofia como esta em que o acaso te encontra hoje!
@@ -4683,13 +4240,6 @@ esforçar por qualquer coisa; nem a recolher-se em si própria; nem a disseminar
 se em bocados, nem ainda a mergulhar em colapso; mas banhada numa
 radiação que lhe revele o mundo e ela própria nas suas verdadeiras cores.
 
-> (Comentário em Nota
-12/01/2002 08:47:56
-(80)
-Esta imagem de uma esfera, que simboliza a plenitude e a perfeição, é uma imagem favorita de Marco;
-compare-se VIII, 41, e XII, 3 (onde ele atribui a metáfora a Empedocles). Horácio também descreve de
-maneira semelhante o homem bom como “totus teres atque rotundus” (Sátiras II, 7, 86).)
-
 13. Se alguém escarnece de mim, isso só a ele dirá respeito; a mim competirá
 assegurar que nada do que faça ou diga seja motivo de escárnio. Talvez ele me
 odeie? Uma vez mais, problema dele. O meu, é manter relações de amizade e
@@ -4702,11 +4252,6 @@ um rancor ou de fazer dos seus sofrimentos uma ofensa. Que mal te pode atingir
 se seguires as leis do teu ser e aceitares momento a momento tudo o que a
 grande Natureza considera oportuno, como um verdadeiro homem que se
 esforça por desenvolver por todos os meios o bem estar do mundo?
-
-> (Comentário em Nota
-12/01/2002 15:21:50
-(81)
-General e homem de estado ateniense acusado de traição e condenado à morte pelo povo. Perguntado se tinha uma última palavra a dizer, respondeu; «Apenas que não tenho qualquer rancor contra os atenienses.»)
 
 14. Eles desprezam-se e todavia adulam-se; cada um deles era capaz de
 passar por cima do outro, e contudo aninha-se e abaixa-se diante dele.
@@ -4751,11 +4296,9 @@ manada; ou ainda — voltando aos primeiros princípios — porque o mundo, se
 não for um conjunto de simples átomos, tem de ser governado pela Natureza, e,
 nesse caso, as espécies inferiores da criação têm de existir para as superiores,
 e as superiores têm de existir umas para as outras.
-
 Um Segundo. Pensa nos seus caracteres, à mesa e na cama, e por aí adiante;
 e em particular nas pressões que as suas maneiras de pensar exercem sobre
 eles, e na consequente auto-confiança com que eles agem.
-
 Um Terceiro. Se o que eles estão a fazer está correcto, não tens que te sentir
 magoado; se não está, só pode ter sido sem intenção e inconscientemente.
 Porque, precisamente como «nenhuma alma jamais viola a verdade
@@ -4763,21 +4306,17 @@ voluntariamente», também ninguém nega voluntariamente a outrem o tratamento
 a que ele tem direito; observa a sua indignação quando alguém os acusa de
 injustiça, ingratidão, mesquinhez ou qualquer outro mau comportamento para
 com os seus semelhantes.
-
 Um Quarto. Tu próprio magoas de várias maneiras, e não és diferente de todos
 os outros. Podes evitar certos erros, mas a tendência está lá, mesmo que a
 cobardia ou a preocupação pela tua reputação ou outro motivo ignóbil te inibam
 de imitar as suas más acções.
-
 Um Quinto. Tu não tens a certeza de que eles estejam a proceder mal, porque
 os motivos dos actos dos homens nem sempre são o que parecem. Há
 geralmente muito a aprender antes de se formular com segurança um juízo
 sobre o comportamento de outrem.
-
 Um Sexto. Diz a ti mesmo, quando te sentires exasperado ou sem paciência
 nenhuma, que esta vida mortal não dura mais do que um momento; não falta
 muito para que todos e cada um de nós sejamos postos em repouso.
-
 Um Sétimo. Não são os actos destes homens — que apenas dizem respeito à
 sua razão directora — que são a fonte dos nossos aborrecimentos, mas a cor
 que nós próprios lhes atribuímos. Elimina isto, abandona todos os pensamentos
@@ -4785,15 +4324,8 @@ sobre os seus ódios, e a cólera desaparecerá imediatamente. Como proceder a
 tal apagamento? Reflectindo que pelo menos tu ficas ileso. Porque se não fosse
 verdade que só a desgraça moral é má, tu próprio serias culpado de inúmeros
 procedimentos condenáveis — roubo e todos os outros tipos de vilanias. (82)
-
-> (Comentário em Nota
-12/01/2002 15:22:22
-(82)
-Marco já observou (X, 10) que a supressão dos mais fracos pelos mais fortes é sempre, rigorosamente falando, um acto de roubo; embora possa muitas vezes revestir formas que não são, em sentido nenhum, moralmente vergonhosas. Se tal supressão fosse eo ipso vergonhosa, seria um mal; e o próprio Marco seria culpado de muito mal, no simples desempenho dos seus deveres imperiais como juiz e guerreiro.)
-
 Um Oitavo. A nossa cólera e irritação são mais prejudiciais a nós próprios do
 que as coisas que as provocam.
-
 Um Nono. A bondade é irresistível, se genuína e sem falsos sorrisos ou
 duplicidade. A mais rematada insolência não pode fazer nada se continuares
 persistentemente bom para com quem te ofendeu; admoesta-o gentilmente
@@ -4806,7 +4338,6 @@ ele — mas não o faças com sarcasmo ou espírito recriminatório, antes com r
 afecto e sem rancor; não como um mestre-escola, nem para a admiração dos
 circunstantes, mas, mesmo na presença de outras pessoas, como se tu e ele
 estivessem a sós.
-
 Guarda estes nove conselhos na memória, como outras tantas dádivas das
 Musas; e, enquanto ainda estás vivo, começa finalmente a ser um homem.
 Todavia, ao procurares defender-te contra a cólera em relação aos outros, não
@@ -4821,11 +4352,6 @@ Em aditamento, toma isto, se quiseres, como uma décima dádiva; desta vez, do
 próprio guia (83) das Musas. Esperar que os homens maus nunca façam coisas
 más é insensato; é esperar o impossível. Tolerar as suas ofensas aos outros, e
 não contar com nenhumas a ti próprio é irracional e arbitrário.
-
-> (Comentário em Nota
-12/01/2002 15:22:37
-(83)
-Apolo, deus da lira, presidia às nove Musas que eram as divindades inspiradoras da poesia, da música e das artes.)
 
 19. Há quatro desvios do timoneiro da tua alma contra os quais te deves
 constantemente precaver e suprimi-los quando detectados. Diz-lhos um a um,
@@ -4871,12 +4397,6 @@ mesmo.
 22. Lembra-te do encontro do rato do campo com o rato da cidade (84) e da
 perturbação e agitação em que ele ficou.
 
-> (Comentário em Nota
-12/01/2002 08:51:59
-(84)
-Marco avisa desta maneira os filósofos para não trocarem a tranquilidade das suas próprias almas pelas
-perturbações do mundo.)
-
 23. O nome de Sócrates para o homem da rua era um “papão” para assustar as
 crianças.
 
@@ -4899,68 +4419,28 @@ pureza e a crua simplicidade — porque nenhum véu encobre uma estrela.
 ter levado o manto, e no que ele disse aos amigos quando eles recuaram,
 desconcertados, ao vê-lo assim vestido.
 
-> (Comentário em Nota
-12/01/2002 15:23:37
-(85)
-Nunca se encontrou registo deste episódio. Sabemos, contudo, que Sócrates, coerentemente, recusou as provocações de Xantipe. Segundo Diógenes Laertio, uma vez perguntaram-lhe se ele não achava aquelas suas contínuas censuras intoleráveis. «Achas que o quá-quá dos teus patos é intolerável?» disse ele. «Não,» foi a resposta, «porque eles fornecem-me os ovos e as crias.» «Também ela me dá filhos,» respondeu Sócrates a sorrir. Marco pode estar a referir-se a qualquer exemplo semelhante de tolerância a que ele tão frequentemente se exorta a si mesmo.)
-
 29. Na leitura e na escrita, não se podem estabelecer regras sem primeiro
 aprender a respeitá-las. E na vida ainda menos.
 
 30. «Servil por natureza, a razão não é para ti» (86)
 
-> (Comentário em Nota
-12/01/2002 08:53:22
-(86)
-Fonte desconhecida)
-
 31. «… e depois riu-se o coração dentro de mim.» (87)
-
-> (Comentário em Nota
-12/01/2002 08:53:53
-(87)
-Homero, Odisseia, iv, 413)
 
 32. «A virtude não deixarão eles de violar e de caluniar com amargos
 impropérios.» (88)
 
-> (Comentário em Nota
-12/01/2002 08:54:26
-(88)
-Hesíodo, Obras e Dias, 185 (adaptado))
-
 33. «O tolo procura figos no inverno; assim é quem procura ter filhos depois de
 passar o seu tempo.» (89)
-
-> (Comentário em Nota
-12/01/2002 08:55:57
-(89)
-Epicteto, iii, 24, 87)
 
 34. «Enquanto beijas o teu filho», disse uma vez Epicteto, «murmura baixinho,
 amanhã pode estar morto». «Palavras de mau agoiro», disseram-lhe. «De modo
 nenhum», disse ele, «apenas significam um acto da natureza. Será mau agoiro
 falar da colheita do milho maduro?» (90)
 
-> (Comentário em Nota
-12/01/2002 08:56:22
-(90)
-Epicteto, 91)
-
 35. «Uva verde, cacho maduro, passa de uva; uma mudança a cada passo, não
 para aquilo que não é, mas para aquilo que ainda virá a ser». (91)
 
-> (Comentário em Nota
-12/01/2002 08:57:57
-(91)
-ibid., 92)
-
 36. «O ladrão da tua livre vontade», escreve Epicteto, «não existe». (92)
-
-> (Comentário em Nota
-12/01/2002 08:58:37
-(92)
-ibid., iii, 22, 105)
 
 37. Ele diz também que devemos desenvolver um sistema próprio para usar do
 sancionamento. Em relação aos impulsos, devemos ter o cuidado de os manter
@@ -5194,11 +4674,6 @@ perfeitamente visíveis. (93) Em segundo lugar, também nunca vi a minha alma, e
 no entanto, venero-a. O mesmo se passa com os deuses; é a experiência que
 prova o seu poder em cada dia, e portanto estou contente por eles existirem e
 venero-os.»
-
-> (Comentário em Nota
-12/01/2002 09:00:15
-(93)
-Os Estóicos acreditavam que as estrelas eram divinas.)
 
 29. Para uma vida sã e segura, faz com frequência um exame intelectual
 completo ás coisas e descobre-lhes a essência, a matéria e a causa; põe todo o
