@@ -2516,7 +2516,7 @@ tristes fins eles perseguem, e por que tristes meios! Que depressa o tempo
 apagará todas as coisas! Quantas não apagou ele mesmo agora!
 
 -------------------------------------
-## LIVRO 7
+## LIVRO 7
 
 1. O que é o mal? Uma coisa que tu já viste vezes sem conta. E, tal como em
 relação a todos os outros tipos de ocorrências, lembra-te de pronto que isto
