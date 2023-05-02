@@ -2388,7 +2388,7 @@ quando ele serve o fim para que foi feito, embora neste caso o seu construtor
 não esteja presente. Mas com as coisas feitas pela Natureza, o poder que as
 moldou ainda está com elas e nelas fica a residir. Mais uma razão para que a
 veneres e fiques com a certeza de que só vivendo de acordo com a sua vontade
-tu terás as coisas a teu gosto. É esta a maneira como também o universo tem
+tu terás as coisas a teu gosto. É esta a maneira como também o universo tem
 todas as coisas a seu gosto.
 
 41. Se tens a ideia de que uma coisa que está para além do teu controle pode
