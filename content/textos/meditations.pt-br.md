@@ -3,1007 +3,5581 @@ title = "Meditações"
 date = "2018-01-11"
 author = "bcalvino"
 +++
-Marco Aurélio - Meditações
-
-LIVRO I
-
-1. De Vero, meu avô, a honradez e serenidade.
-
-2. Da reputação e memória de meu genitor, a discrição e virilidade.
-
-3. De minha mãe, a religiosidade, a generosidade e a abstenção não só de praticar o mal mas até de se demorar em semelhante pensamento; ainda, a singeleza do passadio e a distância do teor de vida dos ricos.
-
-4. De meu bisavô, o ter em casa mestres excelentes, em vez de frequentar escolas públicas, e compreender que a instrução requer se despenda largamente.
-
-5. De meu aio, o não me haver tornado partidário dos Verdes ou dos Azuis, nem dos Palmulários ou dos Escutários; o aturar fadigas e precisar de pouco; o executar eu próprio minhas tarefas, o não ser intrometido e a repulsa a intrigas.
-
-6. De Diogneto, o descaso das futilidades; o não crer no que dizem os milagreiros e charlatães sobre encantamentos, expulsão de demônios e similares imposturas; o não criar codornizes nem me entregar a paixões dessa espécie; o suportar franquezas; o familiarizar-me com a Filosofia e ouvir as lições, primeiramente, de Báquio, depois, de Tândasis e Marciano; o ter escrito diálogos na infância; o ter desejado o catre, o pelego e todas as outras simplicidades da educação helênica.
-
-7. De Rústico, a compreensão de que devia corrigir e cultivar o meu caráter; o não me entregar à paixão da sofistica, nem compor tratados teóricos, redigir arengas de exortação ou exibir-me, para suscitar admirações, como pessoa operosa e benfazeja; a abstenção da retórica, da poesia, do preciosismo; o não andar de toga em casa, nem alimentar vaidades que tais; o usar de simplicidade nas minhas cartas, como ele na que mandou de Sinoessa a minha mãe; a presteza em responder ao apelo de reconciliação dos que se irritaram comigo e me ofenderam, tão logo de si mesmos queiram voltar às boas; o ler acuradamente, não me satisfazendo com uma vista d'olhos superficial; o não assentir precipitadamente às indiscrições; o conhecer os comentários de Epicteto, que me emprestou de sua biblioteca.
-
-8. De Apolônio, a independência, a decisão sem longos debates nem recurso à sorte dos lados; o não me orientar, sequer por instantes, senão pela razão; o não me alterar nos sofrimentos agudos, na perda dum filho, nas doenças prolongadas; o ter visto com meus olhos, num exemplo vivo, que o rigor extremo se compadece com a benignidade; o não ser irritadiço nas explicações; o ter visto um homem que manifestamente reputava como o menor de seus dotes o tirocínio e facilidade em transmitir os princípios doutrinários; o ter aprendido como receber as assim consideradas gentilezas dos amigos, sem render-me a elas nem desdenhá-las indelicadamente.
-
-9. De Sexto, a benevolência; o exemplo de casa regida pela tradição; a concepção de como viver segundo a natureza; a gravidade não afetada; a solicitude atenta para com os amigos; a tolerância para com os ignorantes e para com os que opinam sem maduro exame; a boa harmonia com todos, tanto que seu convívio agradava mais que qualquer blandícia, apesar de infundir, ao mesmo tempo, o máximo respeito para com sua pessoa; o atinar arguta e metodicamente com as normas necessárias à vida e ordená-las; o jamais mostrar nem aparência de cólera ou qualquer outra emoção, mas ser ao mesmo tempo muito sereno e muito afetuoso; o elogiar sem espalhafato; a erudição vasta sem alarde.
-
-10. De Alexandre, o gramático, o não criticar, o não vituperar quem profere algum barbarismo, erro gramatical ou cacofonia, mas aduzir aquela única expressão que devia ser dita, jeitosamente, em forma quer de resposta, quer de confirmação ou debate do assunto mesmo, e não de seu enunciado, quer ainda de alguma outra semelhante sugestão casual adequada.
-
-11. De Frontão, o notar quanta inveja, falsidade e hipocrisia há nos tiranos e que esses chamados em Roma patrícios quase sempre são de certo modo bem falhos de afeição.
-
-12. De Alexandre, o platônico, o não dizer ou escrever, amiúde e sem necessidade, que estou ocupado, nem me subtrair assim constantemente aos deveres sociais para com os de minha convivência, a pretexto de fainas prementes.
-
-13. De Catulo, o não desdenhar as queixas dum amigo, embora porventura infundadas, e tratar, ao contrário, de restaurar o bom entendimento habitual; o louvar os mestres com ardor, como se recorda de Domício e Atenódoto; e o amor verdadeiro para com os filhos.
-
-14. De meu irmão Severo, o amor à família, à verdade e à justiça; o ter conhecido por seu intermédio a Tráseas, Helvídio, Catão, Dião, Bruto; a concepção dum poder régio que acima de tudo respeite a liberdade dos súditos; dele, ainda, o culto da Filosofia, constante e sem desfalecimento; a beneficência e a liberalidade copiosa; o bem esperar da afeição dos amigos e confiar nela; a franqueza para com aqueles a quem acaso censurava e o não precisarem os seus amigos conjeturar o que ele desejava ou não desejava, por ser patente.
-
-15. De Máximo, o domínio de si mesmo e o não titubear em matéria nenhuma; a fortaleza nas vicissitudes, notadamente nas enfermidades; a feliz fusão da doçura e da imponência em seu caráter; o cumprimento de suas obrigações sem queixas; o crerem todos que ele pensava como dizia e não havia maldade em seus atos; a ausência de espantos e de medos; o jamais açodar-se ou demorar, embaraçar-se, descoroçoar, ou gargalhar e em seguida entregar-se a cóleras ou suspeitas; a beneficência, a indulgência e a lealdade; o dar antes a impressão de não entortado que de endireitado; que ninguém jamais se imaginaria menosprezado por ele, nem ousaria acreditar-se superior a ele.
-
-16. De meu pai, a placidez e a firmeza inabalável nas decisões, fundadas em exames acurados; a indiferença para com a vaidade de supostas honrarias; o amor ao trabalho e a perseverança; o escutar as pessoas capazes de alguma contribuição para o bem comum; a inflexibilidade no aquinhoar cada um segundo seu mérito; a experiência de quando apertar e quando afrouxar; o ter posto fim à pederastia; a afabilidade; o consentir aos amigos nem sempre jantar em sua companhia nem acompanhá-lo obrigatoriamente nas viagens; o não o acharem mudado os que se houvessem afastado por algum dever; o exame acurado nas deliberações em comum e a persistência, sem abandonar as pesquisas e contentar-se com as ideias óbvias; a conservação das amizades, sem enfado nem exagerado apego; a autossuficiência em tudo e a serenidade; a longa previsão e o arranjo prévio das minúcias, sem teatralidade; o ter coibido as aclamações e toda bajulação de sua pessoa; a vigilância permanente dos interesses do Império; a administração das rendas do erário e a tolerância da crítica em alguns itens administrativos; o não ter superstições em relação aos deuses e, quanto aos homens, não ser bajulador das massas, blandicioso, populista, mas em tudo sóbrio, firme e nunca de mau gosto nem inovador; o uso dos bens que concorrem para a comodidade da vida e a sorte lhos proporcionara copiosamente — sem vaidade e ao mesmo tempo sem pretextos, de modo que, quando os havia, os fruía sem requintes e, quando carecia, passava sem eles; o não poderem chamá-lo trapaceiro, nem chocarreiro, nem pedante, e sim homem amadurecido, completo, inacessível à bajulação, capaz de gerir os seus interesses e os alheios; além disso, as atenções para com os filósofos autênticos e, em relação aos outros, sem todavia ofendê-los, o não se deixar conduzir por eles; ainda, a afabilidade, a amabilidade não fastidiosa; os cuidados comedidos com o seu corpo, que eram os de alguém não apegado à vida, sem tafularia nem desmazelo tampouco; contudo, dado o seu zelo de si mesmo, mínima era sua precisão de médicos-, poções ou emplastros; principalmente, a deferência votada, sem ciúmes, àqueles que tivessem adquirido algum talento, como a oratória, a ciência das leis ou costumes, ou outras disciplinas, e o interesse por que cada um deles gozasse de reputação na medida de seus méritos; seguindo em tudo o costume dos antepassados, o não demonstrar que o seu propósito era esse de preservar a tradição; também o não ser instável e irrequieto, mas demorar nos mesmos lugares e ocupações; o entregar-se às tarefas habituais logo após os acessos de dor de cabeça, refeito e em pleno vigor; o não ter muitos segredos, mas o menos possível e o mais raramente, e isso apenas em questões administrativas; a prudência e comedimento, tanto na celebração de festividades como na construção de obras, na liberalidade oficial e atos desse gênero, como homem que visava àquilo que era mister fazer e não à glória advinda das realizações; o não tomar banho em hora imprópria, não edificar apenas por gosto, não se preocupar com requintes à mesa, nem com o pano e cores da roupa, ou com os dotes físicos dos servos; a ordem dada em Lório que recolheu a maior parte das alfaias da residência da beira-mar e das de Lanúvio; o modo como despachou o pedido do cobrador de impostos de Túsculo e seu procedimento em casos semelhantes; nenhum ato cruel, nem indecoroso, nem violento, nem azo a dizerem alguma vez chegou a suar, mas o cálculo minucioso de tudo, como se o tempo sobrasse, sem confusão, com ordem, solidez e coerência. A ele se ajustaria o que de Sócrates se lembra: podia tanto abster-se como gozar daqueles bens que a maioria, se lhe faltam, debilita-se, se os tem, a eles se rende. A força e firmeza, bem como a continência num caso e no outro, são próprias de homem dotado de alma equilibrada e invencível, como ele o foi na moléstia que o levou.
-
-17. Dos deuses, o ter bons avós, bons pais, uma boa irmã, bons mestres, bons familiares, parentes, amigos quase todos bons; o não ter cometido faltas para com nenhum deles, apesar de ter um temperamento que poderia eventualmente induzir-me a alguma; foi graça dos deuses não ter ocorrido conjuntura que me viesse a pôr à prova; o não ter sido educado em casa da amásia de meu avô por muito tempo; o ter preservado minha juventude e não ter usado a virilidade antes do tempo, tendo-o, ademais, ultrapassado; o ter estado sob as ordens do soberano, meu pai, que havia de extirpar em mim toda presunção e fazer-me compreender que é possível viver na corte sem necessitar de guarda pessoal, nem de roupagens aparatosas, nem lampadários, nem estátuas e objetos desse gênero igualmente faustosos, mas limitando-se quase ao teor de um simples particular, sem por isso rebaixar-se nem desleixar o cumprimento dos deveres de imperador em relação aos interesses do Estado; o deparar um irmão capaz, por seu caráter, de incentivar-me no cuidado de mim próprio, encantando-me, ao mesmo tempo, com sua deferência e estima; não ter tido filhos estúpidos nem deformes; o não me haver avançado excessivamente na oratória, na poética e nas demais disciplinas em que me pudera, talvez, deter, caso sentisse que progredia sem esforço; o ter-me antecipado em conferir a meus aios dignidades a que pareciam aspirar, sem me fiar da esperança de fazê-lo mais tarde, pois ainda eram moços; o ter conhecido a Apolônio, Rústico e Máximo; o ter feito, com clareza e amiúde, a ideia do que é a vida segundo a natureza, e assim, no que depende dos deuses, de suas comunicações, assistência e inspiração, nada daí por diante impede que eu viva segundo a natureza e, das minhas deficiências nesse ideal, o culpado sou eu por não atentar nos avisos, para não dizer nas lições dos deuses; o ter meu físico resistido tão longamente à vida que levo; o não ter tido contato com Benedita nem com Teódoto e o ter-me curado também das paixões amorosas concebidas ao depois; nas minhas frequentes irritações contra Rústico, nada mais ter feito que me houvesse de pesar; o haver morado comigo, ao menos em seus últimos anos de vida, minha mãe, que havia de morrer ainda jovem; nas ocasiões em que desejei acudir alguém em aperturas, ou que me pedia por alguma outra razão, o nunca me responderem que não havia recursos donde tirar; o não ocorrer a mim próprio igual precisão de pedir emprestado a outrem; o ser minha mulher o que é, tão obediente, tão afetuosa, tão simples; o dispor de aios proficientes para meus filhos; a inspiração, em sonhos, de remédios, sobretudo para não escarrar sangue e não ter vertigens, e como que um oráculo, em Caieta, a esse respeito; quando aspirei à Filosofia, o não ter deparado um sofista, nem me sentar a analisar autores ou silogismos, ou aplicar-me ao estudo dos fenômenos celestes. Tudo isso, com efeito, devo aos deuses protetores e à Fortuna.
-No país dos Quados, à margem do Grã.
-
-
-LIVRO II
-
-1. Previne a ti mesmo ao amanhecer: "Vou encontrar um intrometido, um mal-agradecido, um insolente, um astucioso, um invejoso, um avaro". Eles devem todos esses vícios à ignorância do bem e do mal. Eu, porém, que observei ser o belo a natureza do bem e a vergonha a do mal, bem como consistir a natureza do próprio pecador em seu parentesco comigo, não em razão do mesmo sangue ou da mesma semente, mas por ter parte na inteligência e numa parcela da divindade, nenhum dano posso receber deles, pois nenhum me cobrirá de vergonha. Tampouco me posso exacerbar com um parente, nem odiá-lo porque nascemos para a ação conjunta, como os pés, como as mãos, como as pálpebras, como as filas de dentes superiores e inferiores. Por isso, é contra a natureza agir em sentido contrário; agastar-se é agir em sentido contrário.
-
-2. O que sou é carne, alento e o meu guia. Larga os livros e não te deixes mais atrair; não te é lícito; ao invés, como quem está para morrer, despreza a carne — lama de sangue, ossos, renda de nervos, de veias, trança de artérias. Observa, também, o que é o alento: vento, e nem sempre o mesmo, mas a todo momento expelido e de novo aspirado. Em terceiro lugar, enfim, o guia. Pensa nisto: estás velho; não o deixes continuar escravo, titereado pelos impulsos egoístas, enfadado com o destino atual ou apreensivo quanto ao futuro.
-
-3. As obras dos deuses são plenas de providência; as da Fortuna dependem da natureza, ou da trama a e entretecimento do que a Providência dispôs. Tudo dela se origina. Acresce, ainda, o inevitável e o conveniente ao universo, de que és parcela. É um bem para toda parcela da natureza o que a natureza do universo acarreta e o que importa à preservação desta. Preservam o mundo as transformações, tanto dos elementos como dos compostos. Que te bastem essas ideias, adotadas como dogma. Lança de ti a sede de leituras, para não morreres rezingando e sim com real contentamento, agradecendo de coração aos deuses.
-
-4. Lembra-te quanto tempo vens protelando e quantas prorrogações de prazo concedidas pelos deuses deixaste de aproveitar. Precisas compreender duma vez para sempre de que universo és parte, de que regedor do mundo emanaste e, bem assim, que foi circunscrito um limite à tua duração e, se a não usares para serenar-te, ela passará, passarás tu e não haverá outra ocasião.
-
-5. Pensa firmemente, a todo momento, como romano e como varão, em executar o mister que tens nas mãos com gravidade exata e desafetada, com afeto, independência e justiça, e proporcionar a ti mesmo uma folga de todas as demais cogitações. Consegui-lo-ás se desempenhares cada ação de tua vida como se fosse a última, isenta de toda leviandade, de aversão sentida ao arbítrio da razão, de fingimento, de egoísmo e inconformação com o destino. Já vês quão pouco domínio temos de exercer para que nossa vida flua fácil, no temor dos deuses; porque os deuses não exigirão mais de quem observa esses preceitos.
-
-6. Rebaixa-te, minha alma, rebaixa-te! Não terás mais ocasião de honrar a ti mesma, que breve é a vida de cada um, a tua está prestes a terminar e tu, em vez de respeitares a ti mesma, colocas nas almas dos outros a tua felicidade.
-
-7. Não te distraiam os eventos surgidos de fora; arranja vagares para aprenderes mais algo de bom e para de voltear. Guarda-te também, doravante, de outro desvario; desvairam, com efeito, aqueles que, ao cabo de tantas ações, se enfastiam da vida e carecem dum alvo para onde orientar todos os seus impulsos e, numa palavra, as suas cogitações.
-
-8. Dificilmente vemos alguém sofrendo por não ter observado o que se passa na alma de outrem, mas por força há de sofrer quem não anda atento às comoções de sua própria alma.
-
-9. Deves sempre lembrar qual a natureza do universo, qual a minha, qual a relação entre esta e aquela, qual parte sou de qual universo e que ninguém te impede de fazer e dizer o que é consequência da natureza de que és parte.
-
-10. Falando como filósofo, Teofrasto, na comparação dos pecados, disse como se expressaria quem os comparasse pelo senso comum, que são mais graves as faltas causadas pela concupiscência que as causadas pela cólera. Evidentemente, o encolerizado não se afasta da razão sem algum sofrimento, sem um latente aperto no coração, enquanto quem peca por concupiscência, dominado por um prazer, se revela um, tanto incontinente e feminino nos pecados. Tinha, pois, razão ao dizer, em palavras dignas de filósofo, que o pecado cometido com prazer merece mais severa censura do que o cometido com sofrimento. Em suma, num caso, antes parece tratar-se de vítima de injustiça, coagida pelo sofrimento a encolerizar-se, enquanto no outro, de alguém de si mesmo impelido a praticar injustiça, induzido a agir pela concupiscência.
-
-11. Em todos os teus atos, ditos e pensamentos, procede como se houvesses de deixar a vida dentro de pouco. Se os deuses existem, nada há de temeroso em partir dentre os homens; eles não te haveriam de precipitar numa desgraça; mas se eles não existem ou não se importam com os assuntos humanos, que me interessa viver num mundo vazio de deuses ou vazio de providência? Existem, porém, importam-se com os assuntos humanos e deixaram na inteira dependência do homem evitar cair nos verdadeiros males; e se houver algum outro além desses, teriam também providenciado para que dependesse de cada qual não lhe acontecer. Aquilo que não piora o homem, como poderia piorar a vida do homem? A natureza do universo não haveria de tolerar tal situação, quer por ignorância, quer sabendo mas sem poder prevenir ou corrigir, nem cometeria, por impotência ou incapacidade, o grave erro de atribuir aos bons e aos maus, indistintamente, quinhões iguais de bens e de males. A morte e a vida, a fama e o olvido, a dor e o prazer, a riqueza e a pobreza, tudo isso acontece igualmente na Humanidade a bons e maus, sem constituir honra nem labéu; portanto, não são bens nem males.
-
-12. Como tudo desaparece depressa! No espaço, os corpos mesmos; no tempo, sua memória! Assim é com todas as sensações, sobretudo as que atraem porque deleitam ou afugentam porque doem, ou se apregoam a todos os ventos porque envaidecem. Quão insignificantes são, quão desprezíveis, vulgares, perecíveis e mortas, pode compreendê-lo o entendimento. O que são aquelas pessoas cujas opiniões e pronunciamentos propiciam a glória? Que é a morte? E, mais, se a gente a considera em si mesma e, com definir-lhe o conceito, dissipa as fantasias que a envolvem, já não a concebe senão como operação da natureza; quem teme uma operação da natureza é uma criança; aliás, ela não é apenas uma operação; é até uma conveniência da natureza. Como entra o homem em contato com a divindade? Por qual de suas partes e, sobretudo, como está disposta essa parte do homem?
-
-13. Nada mais digno de pena do que aquele que a tudo faz a volta completa, investigando, como diz Píndaro, o âmago da terra e perquirindo, através de ilações, a alma do próximo, sem embargo de sentir que basta dar atenção exclusiva ao deus que traz no seu íntimo e prestar-lhe um culto sincero. Cultuá-lo é preservá-lo de paixões, de leviandades e de inconformação com o que advém dos deuses e dos homens. Afinal, o que advém dos deuses merece respeito por sua virtude; o que advém dos homens, afeto, mercê do parentesco, e às vezes piedade, devido à ignorância do bem e do mal — deficiência essa tão grave quanto aquela que impede a distinção entre o branco e o preto.
-
-14. Mesmo se houveres de viver três mil anos ou dez mil vezes esse tempo, lembra-te de que ninguém perde outra vida senão aquela que está vivendo, nem vive outra senão a que perde. Assim, a mais longa e a mais curta vêm a dar no mesmo. O presente, por sinal, é o mesmo para todos; o perdido, portanto, é igual e assim o que se está perdendo se revela infinitamente pequeno. De fato, não podemos perder o passado nem o futuro; como nos poderiam tirar o que não temos? Lembra-te, pois, sempre destas duas máximas: primeira, que tudo, desde todo o sempre, tem o mesmo aspecto e se renova em ciclos; nenhuma diferença faz verem-se os mesmos fatos por cem anos ou por duzentos, ou eternamente; segunda, que a perda é igual tanto para o de vida mais longa como para quem morre cedo, porquanto o presente é a única coisa de que será desapossado, pois só tem este e não perde o que não tem.
-
-15. Que tudo é opinião. São evidentes as palavras ditas a Mônimo, o Cínico; evidente também o proveito do asserto para quem o degusta dentro dos limites da verdade.
-
-16. A alma do homem a si mesma desonra sobretudo quando se torna, tanto quanto dela depende, um apostema e um como tumor do mundo. Com efeito, agastar-se com um dos acontecimentos é desertar da natureza, que abrange como partes suas as naturezas individuais dos demais seres. Desonra-se, em segundo lugar, quando repele algum ser humano ou avança contra ele para causar-lhe dano, como as almas dos coléricos. Terceiro, desonra a si mesma quando se deixa subjugar pelo prazer ou pela dor. Quarto, quando dissimula, com fingimentos e mentiras, o que faz ou diz. Quinto, quando larga seus atos e impulsos sem nenhum propósito, executando à toa e inconsequentemente seja o que for, quando os mínimos atos cumpre se realizem de acordo com a finalidade. E a finalidade dos viventes racionais é obedecer à razão e às leis da mais venerável das cidades e repúblicas.
-
-17. Da vida humana, a duração é um ponto; a substância, fluida; a sensação, apagada; a composição de todo o corpo, putrescível; a alma, inquieta; a sorte, imprevisível; a fama, incerta. Em suma, tudo que é do corpo é um rio; o que é da alma, sonho e névoa; a vida, uma guerra, um desterro; a fama póstuma, olvido. O que, pois, pode servir-nos de guia? Só e única a Filosofia. Consiste ela em guardar o deus interior livre de insolências e danos, mais forte que os prazeres e mágoas, nada fazendo com leviandade, engano e dissimulação, nem precisando que outrem faça ou deixe de fazer nada, acatando, ainda, os eventos e quinhões que lhe tocam, como vindos da mesma origem qualquer donde vem ele próprio; sobretudo, aguardando de boa mente a morte, qual mera dissolução dos elementos de que se compõe cada um dos viventes. Se os elementos mesmos nada têm a recear da contínua transformação de cada um em outro, por que havemos de temer a transformação e dissolução do todo? Ela é conforme com a natureza e não existe nenhum mal conforme com a natureza.
-Em Carnunto.
-
-
-LIVRO III
-
-1. Não devemos ter em conta somente que, dia a dia, se vai consumindo nossa vida e restando uma parte menor, mas computar também que, se alguém houver de viver mais tempo, não se sabe se ainda terá inteligência bastante ampla para a compreensão das questões e da teoria que aspira ao conhecimento dos assuntos divinos e humanos. Se entrar em senilidade, não lhe faltará a respiração, o nutrimento, a imaginação, os instintos e mais funções congêneres; porém o dispor de si próprio, o acertar na conta das obrigações, o analisar as aparências e, a seu próprio respeito, o examinar seja não será tempo de retirar-se e demais cogitações análogas, que requerem um raciocínio absolutamente exercitado, apagam-se antes. É mister, portanto, apressar-se, não só por estar a morte cada vez mais próxima, mas também por cessarem, antes dela, a percepção e acompanhamento dos fatos.
-
-2. É mister também ter sob as vistas fatos como o seguinte: até os acidentes dos produtos da natureza têm sua graça e sedução. Por exemplo, na assadura, o pão fende-se em alguns lugares; as rachaduras assim formadas, contrárias, de certa maneira, aos propósitos da panificação, têm o seu atrativo e excitam particularmente a vontade de comer. Igualmente, quando bem sazonados, os figos racham; nas azeitonas amadurecidas na planta, a aproximação mesma do apodrecimento confere ao fruto uma beleza particular; as espigas vergadas para baixo, a pele da fronte do leão, a espuma a escorrer do focinho do javali e muitos outros exemplos, embora longe de um belo aspecto quando examinados em si mesmos, não obstante, como consequências de obras da natureza, concorrem para a beleza e atração do conjunto. Assim, a quem tem sensibilidade e inteligência profunda do que há no todo, quase nada, mesmo entre os acidentes advindos como consequências, deixaria de ostentar uma graça peculiar; não menor prazer experimentará contemplando as fauces hiantes das feras na realidade do que nas imitações exibidas pelos pintores e escultores; seus olhos experimentados poderão ver certa perfeição e encanto mesmo nas velhas e nos velhos, e uma graça sedutora nas crianças. Muitos exemplos semelhantes se encontrarão, que não creria um qualquer, senão apenas quem esteja realmente familiarizado com a natureza e suas obras.
-
-3. Hipócrates, após ter curado muitas doenças, adoeceu por sua vez e morreu. Os caldeus, que predisseram a morte de muitas pessoas, foram depois alcançados por sua vez pelo destino. Alexandre, Pompeu e Caio César, depois de tantas vezes destruírem cidades inteiras desde os fundamentos e destroçarem em batalhas campais dezenas e dezenas de milhares de cavaleiros e peões, um dia, por sua vez, partiram desta vida. Heráclito, autor de tratados tão valiosos sobre a destruição do mundo pelo fogo, morreu cheio de água por dentro e todo untado de bosta. Os vermes mataram Demócrito e vermes de outra espécie a Sócrates. A que vem isso? Embarcaste; navegaste, aportaste. Desembarca! Se há de ser para outra vida, nela igualmente nada é vazio de deuses; se é para a insensibilidade, deixarás de suportar dores e prazeres e de servir ao teu invólucro, tão desvalioso que o servidor vale mais, pois este é inteligência e divindade, aquele, terra e lama de sangue.
-
-4. Não gastes a parte restante da vida a cogitar nos outros, salvo quando estiveres promovendo o bem público; ou então ficarás privado de outra atividade, isto é, entregue a cismas sobre o que fulano estará fazendo e por que, o que ele diz, o que ele cogita, o que ele maquina e todas as indagações dessa espécie, que te desnorteiam e distraem da vigilância sobre o teu guia.
-
-Assim, pois, cumpre obstar a entrada, no encadeamento das ideias, da aventura e vaidade, e muito especialmente da futilidade e malícia. Deves acostumar-te a só pensar em assuntos tais que, se perguntarem de improviso em que pensas neste momento?, possas responder prontamente com franqueza: Nisto e naquilo; assim evidenciares direta e imediatamente que tudo em si é singeleza, bondade, dum ser comunicativo e não cuidadoso de sonhos sensuais ou, em suma, voluptuosos, ou de rivalidades, inveja, desconfiança ou algum outro sentimento de que hajas de corar ao confessar que o tens em mente. O homem que assim procede, não mais adiando sua entrada definitiva para o número dos melhores, é um sacerdote, um ministro dos deuses, servidor daquele deus estabelecido em seu âmago; isso o põe a salvo da mácula dos prazeres, incólume a todo sofrimento, imune de todo excesso, inatingível a toda maldade, atleta da luta mais excelsa, para não ser derrubado por nenhuma paixão, profundamente impregnado de justiça, saudando do fundo da alma todos os acontecimentos que constituem o seu quinhão, sem imaginar amiúde, salvo por força maior e no interesse do bem público, o que outrem estará dizendo, fazendo ou cogitando. Desempenhará o seu mister e terá incessantemente no pensamento a parte do todo que para ele foi tecida; de seu mister se desincumbirá nobremente e estará convencido de que seu destino é bom. Com efeito, o quinhão de sorte de cada um convém ao todo e o todo lhe convém. Não esquece que um parentesco liga todos os racionais, que o interesse por toda a Humanidade é conforme com a natureza humana e não deve apegar-se à estima de toda e qualquer pessoa, senão à de quem vive em harmonia com a natureza. Jamais esquece como são, em casa e fora, de noite e de dia, aqueles que assim não vivem. Por isso, não faz caso do louvor de tal gente, até de si mesma insatisfeita.
-
-5. Não haja nos teus atos má vontade, nem egoísmo, nem falta de exame, nem contrariedade. Não embeleze os teus pensamentos a finura; não sejas loquaz nem afanoso. Ademais, seja o deus que há em ti o superior de um ente viril, respeitável, um estadista, um romano, um príncipe que a si próprio tenha disciplinado, como seria quem aguardasse, desprendido, o chamado para deixar a vida, sem precisão nem de juramentos nem de um testemunho humano. Além disso, serenidade, prescindindo de ajuda externa, prescindindo de tranquilidade propiciada por outrem. Cumpre ser direito; não desentortado.
-
-6. Se encontras na vida humana um bem mais valioso do que a justiça, a verdade, a temperança, a coragem, em suma, a satisfação de tua inteligência, de um lado consigo mesma, por prover a que sigas em teus atos a razão reta, e de outro com o teu destino, nos quinhões independentes de teu arbítrio — se divisas, digo, um bem mais valioso, entrega-te a ele de todo coração e desfruta essa ventura suprema que descobriste. Se, porém, nada se te depara mais valioso do que aquele deus alojado em teu íntimo, que reduziu à obediência os teus impulsos, que escruta as ideias, que, no dizer de Sócrates, se arrancou às paixões dos sentidos, que se subordinou aos deuses e cogita do bem da Humanidade; se verificas que tudo mais, comparado com ele, é diminuto e desvalioso, não dês oportunidade a nenhum outro guia que, por te atrair e desviar, impeça continues, sem lutas, a honrar com primazia aquele bem particular, o teu. De fato, não te é lícito, ao bem segundo a razão e os interesses do Estado, opor seja o que for de natureza diversa, como o louvor da multidão, o poder, a riqueza, o gozo dos prazeres. Todos esses objetivos, embora pareçam, por algum tempo, quadrar a tua natureza, costumam assumir de repente o domínio e desencaminhar. Tu, repito, escolhe franca e livremente o mais valioso e apega-te a ele. — Mas o mais valioso é o que dá proveito. — Se tiras proveito como ser racional, adota-o; se como ser animal, confessa-o e guarda modestamente o teu juízo; apenas, cuidado para não te enganares no exame.
-
-7. Jamais aprecies como proveitoso para ti o que algum dia te obrigue a trair a tua fé, a renunciar ao teu pudor, a odiar, suspeitar, maldizer alguém, a fingir, a apetecer o que haja mister de paredes e reposteiros. Quem preferiu a sua própria inteligência, o seu deus e o culto da dignidade deste, não encena dramas, não dá gemidos, prescindirá do isolamento e da multidão; o que é mais, viverá sem perseguir nem fugir. Absolutamente não lhe importa seja maior ou menor o lapso de tempo em que há de usufruir da alma que seu corpo reveste. Se houver de retirar-se já, partirá com o mesmo desembaraço com que iria a qualquer das outras operações que se podem realizar com discrição e decoro. Durante a vida toda não terá outra cautela senão a de preservar sua inteligência de toda alteração imprópria do animal racional e social.
-
-8. Na mente de quem se castigou e purificou, nada se pode encontrar de purulento, nada de sujo, nenhum mal velado por cicatriz. O destino não lhe interrompe a vida em meio, como se diria de um ator que se retira sem terminar, sem representar até o fim o seu papel. Além disso, nenhum servilismo, nenhuma afetação, nenhum liame, nenhuma cisão, nem contas por prestar, nem tocas de refúgio.
-
-9. Venera o poder de opinar. Dele depende inteiramente que não haja nunca em teu guia uma opinião discrepante da natureza e da constituição do vivente racional. Ele assegura a ponderação, as boas relações com os homens e a obediência aos deuses.
-
-10. Recusa tudo mais e retém apenas esses poucos ditames; lembra, ainda, que cada um vive apenas o presente momento infinitamente breve. O mais da vida,ou já se viveu ou está na incerteza. Exíguo, pois, é o que cada um vive; exíguo, o cantinho de terra onde vive; exígua até a mais longa memória na posteridade, essa mesma transmitida por uma sucessão de homúnculos morrediços, que nem a si próprios conhecem, quanto menos a alguém falecido há muito.
-
-11. Aos conselhos já ditos acrescente-se mais um: determinar e definir invariavelmente a imagem percebida, para vê-la tal qual é na essência, nua e por inteiro distinta no seu todo, e dizer, de si para consigo, o nome que a designa, bem como o das partes de que se compõe e em que se dissolverá. Nada concorre tanto para sentimentos elevados como a capacidade de inquirir, com método e veracidade, cada um dos eventos da vida e sempre os olhar de modo que se considere a que mundo trazem proveito, qual o proveito e, dado o proveito, que valor tem, dum lado, em relação ao conjunto e de outro, em relação ao homem como cidadão da cidade suprema, da qual as demais cidades são, por assim dizer, as casas; o que é, de que elementos se compõe, quanto tempo, por sua natureza, deverá perdurar o efeito em mim produzido no momento por essa imagem e que virtude exige de mim, se mansuetude, coragem, lealdade, lhanura, autossuficiência, etc. Daí cumpre dizer em cada caso: isto me vem de um deus; isso decorre das conjunturas, da trama urdida pelos acontecimentos, de tal coincidência fortuita; aquilo procede de um ser de minha espécie, de um parente meu, de um companheiro, que, todavia, ignora o que é conforme com a sua natureza, Eu, porém, não ignoro e por isso o trato com benevolência e justiça, de acordo com a lei natural da comunhão; contudo, nos casos indiferentes, tenho em mira ao mesmo tempo o seu mérito.
-
-12. Se cumprires o dever do momento seguindo a reta razão com zelo, com vigor e de boa vontade, sem intenções secundárias, conservando, porém, em permanente pureza o teu deus, como se estivesses em vias de restituí-lo; se a isso ligares a observância do preceito de nada esperar nem evitar, e sim contentar-te da presente atividade conforme com a natureza e da veracidade dos tempos heroicos em tudo quanto disseres e falares, terás vivido feliz. E não há ninguém capaz de impedi-lo.
-
-13. Os médicos têm sempre à mão os instrumentos e ferros para os casos imprevistos; assim tenhas tu prestes os preceitos com que possas conhecer as coisas divinas e as humanas e proceder em tudo, mesmo nos atos mínimos, como quem não esquece os liames mútuos destas e daquelas; nada realizadas bem na área humana sem uma relação simultânea com a área divina e vice-versa.
-
-14. Não divagues mais. Com efeito, já não hás de reler as tuas notas, nem os feitos dos antigos romanos e gregos, nem os excertos das obras que vinhas reservando para a velhice. Avia-te para o fim; abandona as esperanças ocas e acode a ti mesmo, enquanto podes, se de ti mesmo fazes algum caso.
-
-15. Nem todas as acepções se conhecem por aí dos termos furtar, semear, comprar, repousar, ver o que deve ser feito; isto não se faz com os olhos, mas com certa outra visão.
-
-16. Corpo, alma, mente. Do corpo são as sensações; da alma, os instintos; da mente, os princípios. Receber impressões na imaginação pertence também aos brutos; ser titereado pelos instintos pertence também às feras, aos andróginos, aos Fálaris, aos Neros; o guiar-se pela mente no que se afigura o dever pertence também aos que não creem nos deuses, aos que renegam a pátria e aos que praticam... quando fecham as portas. Se, pois, tudo mais temos em comum com os seres sobreditos, ao bom resta a prerrogativa de amar e de bem acolher os eventos urdidos na trama do destino; não envolver nem perturbar na multidão de ideias o deus alojado dentro do peito, mas preservá-lo propício, na obediência disciplinada à divindade, sem proferir palavra contrária à verdade, sem praticar ato contrário à justiça. Mesmo se toda a Humanidade duvidar que ele viva com singeleza, modéstia e bons sentimentos, com ninguém se zangará, nem se desviará da estrada que leva ao termo da vida, aonde cumpre chegar puro, sereno, solto, ajustado, sem constrangimento, ao seu destino.
-
-
-LIVRO IV
-
-1. Nosso amo interior, quando se conforma com a natureza, tem diante dos acontecimentos um comportamento que lhe faculta sempre, na medida do possível, modificar sem esforço o que se lhe oferece. Não tem predileção a matéria alguma colocada fora de seu alcance; àquilo, porém, que lhe achegam ele se lança com reservas e do que se introduz em substituição faz matéria para si, tal como o fogo quando se apodera do que lhe cai em cima e apagaria uma pequena candeia. O fogo vivo assimila rapidamente o que lhe deitam em cima, consome-o e daí mesmo tira com que se erguer mais alto.
-
-2. Nada executes ao acaso, nem de maneira diversa dos princípios que integram a arte.
-
-3. A gente procura para si retiros nas casas de campo, na beira-mar, nas serras; tu também costumas anelar vivamente por isolamentos desse gênero. Tudo isso, porém, é o que há de mais estulto, quando podes retirar-te em ti mesmo à hora que o desejes. A lugar nenhum se recolhe uma pessoa com mais tranquilidade e mais ócios do que na própria alma, sobretudo quando tem no íntimo aqueles dons sobre os quais basta inclinar-se para gozar, num instante, de completo conforto; por conforto não quero dizer senão completa ordem. Proporciona a ti mesmo constantemente esse retiro e refaze-te; mas haja nele aquelas máximas breves e elementares que, apenas deparadas, bastarão para fechá-lo a todo sofrimento e devolver-te livre de irritação contra o ambiente aonde regressas. Com efeito, com o que te irritas? Com a maldade humana? Reaviva o juízo de que os viventes racionais nasceram uns para os outros; que a paciência é uma parte da justiça; que não pecam por querer; que tantos já, após ódios ferrenhos, suspeitas, rancores, jazem transpassados pela lança e reduzidos a cinza; e sossega, enfim. Porém estás irritado também com os quinhões do todo que te couberam? Recorda a disjuntiva ou uma providência, ou os átomos e todas as provas de que o mundo é como uma cidade. Porém ainda te afetarão os interesses do corpo? Considera que a inteligência não se imiscui nas agitações, suaves ou violentas, do alento, uma vez que, recolhida, haja compreendido o seu poder próprio; recorda, enfim, tudo quanto ouviste e admitiste sobre a dor e o prazer. Porém a gloria vã te fascinará? Volta a atenção para a rapidez com que tudo se esquece, para a extensão do tempo infinito num sentido e no outro, para o vazio da repercussão, para a volubilidade e falta de critério dos aparentes aplausos e na estreiteza do espaço onde se circunscrevem. A terra toda não passa de um ponto, e que diminuto cantinho dela é realmente a parte habitada! E ali quantos são e quem são os que te hão de louvar? Por fim, lembra-te de teu retiro para dentro dessa nesga de terra tua e, antes de tudo, nada de tormentos e contensões; sê livre e encara as coisas como um varão, como um ser humano, como um cidadão, como um vivente mortal. Entre as noções mais à mão, sobre as quais te inclinarás, estejam estas duas: primeira, que as coisas não atingem a alma; param fora, quietas, e os embaraços vêm exclusivamente dos pensamentos de dentro; segunda, que tudo quanto estás vendo se transformará dentro de instantes e deixará de existir. Pensa constantemente em quantas transformações tu mesmo presenciaste. O mundo é mudança; a vida, opinião.
-
-4. Se a inteligência nos é comum, também é comum a razão, em virtude da qual somos racionais; posto isso, a razão determinadora do que devemos ou não devemos fazer é comum; posto isso, a lei também é comum; posto isso, somos cidadãos; posto isso, o mundo é como uma cidade. Com efeito, de que outro organismo político se dirá que todo o gênero humano participa? Daí, dessa cidade comum, deriva nossa mesma inteligência, nossa razão, nossa lei. Senão, de onde? Assim como de alguma terra foi tirado o que há de terreno em mim, de outro elemento o líquido, de alguma fonte o alento e de alguma fonte especial o quente e o ígneo — pois nada procede do nada e tampouco para o nada se vai —, assim também de algum lugar veio a inteligência.
-
-5. Tal qual o nascimento, a morte é um mistério da natureza; nos mesmos elementos de que ele nos compõe, ela nos dissolve. Em suma, não é motivo de vergonha; não é incompatível com a condição do ser inteligente, nem com o plano da estrutura.
-
-6. Essas coisas tinham naturalmente de ser feitas assim por pessoas tais; não o querer é querer que a figueira não tenha látex. Em suma, lembra-te disto: dentro de brevíssimo tempo estareis mortos tu e ele, e logo mais de vós não restará nem o nome.
-
-7. Suprime a opinião e estará suprimido o lesaram-me, suprime o lesaram-me e estará suprimido o dano.
-
-8. Aquilo que não piora o homem mesmo tampouco lhe piora a vida nem lhe causa dano, quer de fora, quer de dentro.
-
-9. A necessidade obrigou a natureza do útil a produzir esse efeito.
-
-10. Todo acontecimento tem sua razão de ser; descobri-lo-ás se o observares acuradamente; não digo apenas que assim é por via de consequência, mas também segundo a justiça e como se alguém atribuísse os quinhões considerando os méritos. Vai, pois, observando, como principiaste, e em tudo quanto fizeres seja o teu propósito seres bom na acepção da palavra. Guarda essa intenção em todos os teus atos.
-
-11. Não sejam tuas opiniões aquelas que o insolente adota ou quer que tu adotes, mas verifica se, em si mesmas, se conformam com a verdade.
-
-12. Deves sempre estar pronto para estas duas decisões: primeira, praticar só e precisamente aquilo que a razão do trono e da lei inspira para o bem da Humanidade; segunda, mudar de orientação, se alguém houver que te corrija e dissuada. Cumpre, porém, se origine sempre a dissuasão nalguma verossimilhança de justiça e de bem comum; as motivações devem ser somente dessa natureza e não o agrado ou a glória aparente.
-
-13. És dotado de razão? — Sou. — Então, por que dela não usas? Se ela desempenha o seu papel, que mais queres?
-
-14. É como parte que existes; desaparecerás no elemento que te gerou; ou melhor, serás retomado na sua razão seminal por via de transformação.
-
-15. Muitos grãos de incenso caem no mesmo altar; uns antes, outros depois, mas isso não faz nenhuma diferença.
-
-16. A esses que hoje veem em ti uma fera e um símio, dentro de dez dias parecerás um deus, se tomares atrás, aos princípios e ao culto da razão.
-
-17. Não procedas como se houvesses de durar dez milênios; o fim inevitável pende sobre ti; enquanto vives, enquanto podes, torna-te um bom.
-
-18. Quantos lazeres ganha quem não olha o que o próximo disse, fez ou pensou, mas apenas o que ele próprio está fazendo, para que sua obra mesma seja justa, santa e integralmente boa. Não fiques em guarda contra a malvadeza; corre para a baliza em linha reta, sem zigue-zagues.
-
-19. Quem se deixa fascinar pela glória póstuma não imagina que cada um dos que o hão de lembrar morrerá logo por sua vez, e depois também quem dele receber a lembrança, até se extinguir toda recordação na sucessão de fachos que se acendem e apagam. Suponhamos, porém, imortais os que hajam de recordar e imortal a memória. Que te adianta isso? Já não digo que não te adianta na morte; mas, em vida, de que te serve o louvor? Salvo, é claro, nos propósitos da governança. Esquece por ora, como intempestivo, o dom da natureza, ligado a outro aspecto.
-
-20. Ademais, toda e qualquer beleza é bela por si mesma e a si mesma se completa, sem compreender o louvor como parte; o que louvamos não piora nem melhora com isso. O mesmo digo também das coisas chamadas vulgarmente belas; por exemplo, os objetos materiais e as produções da arte. O ente deveras belo carece de alguma coisa? Não mais que a lei, não mais que a verdade, não mais que a benevolência ou o pudor. Desses exemplos, qual o louvor embeleza ou a censura enfeia? Desmerece a esmeralda se lhe faltam os elogios? E o ouro? E o marfim? A púrpura? Uma lira? Uma espada? Uma florinha? Uma planta?
-
-21. Se as almas sobrevivem, como pode comportá-las o ar desde a eternidade? E a terra não comporta todos os corpos sepultados desde séculos tão longos? Como aqui a transformação e dissolução de uns após alguma duração abrem lugar para outros cadáveres, assim as almas transferidas para o ar, depois de subsistirem algum tempo, se transformam, se derramam, ardem absorvidas pela razão seminal do universo e dessa maneira deixam lugar às que emigram depois. Essa a resposta na hipótese da sobrevivência das almas. Não basta considerar apenas a multidão dos corpos assim enterrados; cumpre ainda considerar a daqueles de que diariamente nos alimentamos nós e os outros viventes. De fato, que número enorme é assim consumido e, de certo modo, sepultado nos corpos que deles se alimentam! Sem embargo, o espaço os comporta devido à conversão em sangue, à transformação em substância aérea ou ígnea. Qual o meio de investigar aí a verdade? A distinção entre a causa material e a formal.
-
-22. Não te atordoes; a cada impulso, pratica a justiça; a cada ideia, resguarda o intelecto.
-
-23. Adapto-me a tudo que contigo se harmoniza, ó mundo; nada para mim é prematuro ou tardio, se para ti é tempestivo. É fruto para mim tudo quanto produzem as tuas estações, ó natureza; tudo vem de ti, tudo está em ti, tudo volta para ti. Lá dizia aquele: "Ó amada cidade de Cécrops!" E tu não dirás: "Ó amada cidade de Zeus!"?
-
-24. "Ocupa-te de pouco", diz ele, "para viveres satisfeito." Não será melhor, afinal, ocupar-se do necessário e de tudo que a razão do vivente sociável por natureza decide e como o decide? Isso traz não só a satisfação do dever cumprido mas também a de ocupar-se de pouco. Se eliminarmos a maior parte de nossas palavras e ações, não farão falta, e nos sobrarão mais lazeres e sossego. Deves, por isso, de cada vez, lembrar a ti mesmo: Não será isto uma das coisas dispensáveis? Aliás, devemos eliminar não só os atos mas também os pensamentos desnecessários, pois assim tampouco os seguirão os atos que acarretam.
-
-25. Experimenta igualmente como te vai a vida de homem bom que, comprazendo-se com o seu quinhão no conjunto, contenta-se com ser justo nas ações e benévolo nos sentimentos.
-
-26. Viste aquilo? Vê também isto. Não te compliques; faze-te simples. Alguém está pecando? Contra si mesmo peca. Aconteceu-te alguma coisa? Ótimo! Tudo que te acontece estava, desde o início, determinado e urdido para ti no conjunto. Em suma, a vida é breve; é mister desfrutar o presente com prudência e justiça. Sê sóbrio folgando.
-
-27. Ou um mundo organizado, ou uma papa, um amontoado sem ordem. É possível, acaso, subsista alguma ordem em ti, mas desordem no universo, e isso quando tudo se acha tão combinado, tão fundido, tão solidário?
-
-28. Caráter negro, caráter mulheril, caráter árido, feroz, bestial, infantil, indolente, desleal, de histrião, de mercador, de tirano.
-
-29. Se é forasteiro no mundo quem não reconhece o que nele existe, não menos forasteiro quem não reconhece o que nele sucede. É um desterrado quem foge à razão social; cego, quem baixa as pálpebras sobre os olhos da inteligência; mendigo, quem precisa de outrem e não tem em si mesmo o que é útil à vida. Um apostema do mundo, quem se retira e aparta da razão da natureza comum por não se conformar com os acontecimentos; porque a natureza que os traz é a mesma que te trouxe. É membro amputado da cidade quem corta sua própria alma daquela dos racionais, que é uma só.
-
-30. Um vive como filósofo sem túnica; outro, sem livros; esse outro, seminu. "Não tenho pão", diz ele, "mas sou fiel à razão." Já eu não tenho o sustento das ciências e sou fiel.
-
-31. Estima o pouco de ciência que aprendeste e descansa. Passa o resto da vida como quem confiou aos deuses, de todo coração, tudo que é seu e não fez de nenhum homem seu tirano nem seu escravo.
-
-32. Pensa, por exemplo, no tempo de Vespasiano; verás tudo isto: pessoas casando, criando filhos, adoecendo, morrendo, guerreando, festejando, comerciando, trabalhando, adulando, presumindo-se, suspeitando, maquinando, rogando a morte a diversos, queixando-se da situação, amando, amealhando, ambicionando o Consulado, o Império. Pois bem, o mundo vivo daquele tempo já não existe. Passa, agora, ao tempo de Trajano; de novo o mesmo espetáculo; esse mundo também morreu. Examina igualmente as denominações de outras épocas e de povos inteiros e vê quantos, após esforços ingentes, tombaram em breve e se dissolveram em seus elementos. Deves, sobretudo, rever aqueles que conheceste pessoalmente a esfalfar-se em vão, esquecidos das operações próprias de sua constituição, de apegar-se a elas firmemente e com elas contentar-se. É necessário que dessa forma te lembres de que a solicitude empregada em cada ação tem o seu mérito próprio e sua justa medida; pois assim não descoroçoarás, salvo se te ocupares de ninharias mais tempo do que convém.
-
-33. As expressões correntes outrora são hoje arcaísmos; assim também os nomes dos homens muito celebrados outrora estão hoje, de certo modo, arcaizados: Camilo, Cesão, Vóleso, Leonato; dentro em pouco, também Cipião e Catão; depois, Augusto; depois, Adriano e Antonino. Tudo é passageiro, logo se torna lendário, logo o olvido completo o sepulta. Isso digo daqueles que luziram de maneira admirável, porque os demais, apenas morrem, somem, são desconhecidos. Que é, afinal; a memória eterna? Um vazio apenas. Que é, então, o que merece o nosso devotamento? Somente um alvo: mente justa, atuação no bem comum, palavra que jamais engane, disposição a saudar todo evento como coisa necessária, conhecida, emanada do mesmo princípio e da mesma fonte.
-
-34. Entrega-te de bom grado às mãos de Cloto; deixa-a tecer o teu destino com os fatos que houver por bem.
-
-35. Tudo é efêmero, tanto o que memora quanto o memorado.
-
-36. Considera constantemente que tudo procede de transformação; habitua-te a pensar em que a natureza do universo nada aprecia tanto como transformar o que há, para criar novos seres semelhantes. Todo ser é de certa forma a semente do que dele há de vir a ser. Tu, porém, fantasias que semente é só a que se lança na terra ou numa matriz; é o cúmulo da ingenuidade!
-
-37. Logo estarás morto e ainda não és simples, nem tranquilo, nem seguro de não receber dano de fora, nem bondoso para com todos, nem pões a sabedoria apenas na prática da justiça.
-
-38. Investiga os princípios que os guiam, ao que fogem os sábios, o que buscam.
-
-39. Do guia de outrem não procede mal teu; tampouco de qualquer mudança e alteração do meio ambiente. De onde, então? Daquela parte de ti que opina sobre o mal. Que ela, pois, não opine e tudo irá bem. Mesmo que o corpo, seu mais próximo vizinho, seja retalhado, queimado, ou supure, putrifique, ainda assim permaneça tranquila a parte que sobre tais fatos opina; isto é, não julgue um mal nem um bem o que tanto pode ocorrer ao mau como ao bom. Com efeito, o que tanto acontece a quem vive em desacordo com a natureza quanto a quem vive de acordo com ela não é nem conforme nem contrário à natureza.
-
-40. Pensa continuamente no mundo como vivente único, com uma só substância e uma só alma, e em como tudo reverte a uma percepção única, a dele; como tudo ele faz sob um impulso único; como tudo é com causa de todo acontecimento e como é feita a urdidura e a meada.
-
-41. "És uma almazinha carregando um cadáver", dizia Epicteto.
-
-42. Quem se está transformando nenhum mal está padecendo, bem como nenhum bem desfruta em resultar duma transformação.
-
-43. O tempo é um rio formado pelos eventos, uma torrente impetuosa. Mal se avista uma coisa, já foi arrebatada e outra se lhe segue, que será carregada por sua vez.
-
-44. Tudo que acontece é tão corriqueiro e conhecido como a rosa na primavera e as frutas no verão; assim a doença, a morte, a calúnia, a insídia e tudo mais que alegra ou aflige os estultos.
-
-45. Há sempre afinidade entre o que sucede e o que precede; não é como uma série de números separados, que têm apenas o cunho da necessidade, mas uma contextura lógica; assim como os seres estão dispostos numa ordem harmônica, os acontecimentos evidenciam não uma sucessão pura e simples, mas certa afinidade admirável.
-
-46. Lembra sempre o ensinamento de Heráclito: a morte da terra é mudar-se em água; a morte da água é mudar-se em ar; a do ar, mudar-se em fogo, e vice-versa. Lembra-te também daquele que esquece aonde o leva o caminho; recorda a passagem: "Divergem daquilo com que mais continuamente convivem, a razão que governa o universo; os fatos que deparam dia após dia parecem-lhes estranhos"; que "não devemos agir e falar como em sonho" — que também então supomos agir e falar — "nem como os filhos..., isto é, simplesmente, da maneira hereditária".
-
-47. Se um deus te dissesse que morrerás amanhã ou quando muito depois de amanhã, já não estimarias mais fosse depois de amanhã do que amanhã, salvo se fosses o último dos covardes; pois que diferença faz? Do mesmo modo, não consideres grande vantagem morrer daqui a tantos anos em vez de amanhã.
-
-48. Pensa constantemente em quantos médicos morreram, depois de tantas vezes carregarem os sobrolhos à cabeceira dos enfermos; quantos astrólogos, depois de predizerem a morte de outros como se obrassem maravilha; quantos filósofos, após manterem acirradas disputas inúmeras sobre a morte ou a imortalidade; quantos potentados, após mandarem executar a tantos; quantos tiranos, depois de abusarem com tremenda arrogância, como se fossem imortais, do poder de vida e de morte; quantas cidades inteiras, por assim dizer, morreram: Hélice, Pompéia, Herculano e outras inúmeras. Repassa, também, um por um, todos os teus conhecidos. Quem fez as exéquias deste, mais tarde o deitaram num esquife; assim com quem fez as dele. Tudo isso num breve lapso de tempo. Em suma, considera sempre as coisas humanas como efêmeras, desvaliosas; ontem, um pouco de muco, amanhã, múmia ou cinzas. Este átimo de tempo, vive-o segundo a natureza e acaba sem revolta, como cairia a azeitona madura abençoando a terra que a produziu e agradecendo à árvore que a gerou.
-
-49. Ser como o promontório onde se quebram incessantemente as ondas; ele queda-se ereto e a agitação da maré vêm morrer em seu redor. "Infeliz de mim, que tal me aconteceu!" Nada disso e sim: "Feliz de mim, porque, tendo-me isso acontecido, continuo a salvo do sofrimento, sem que me fira o presente nem me atemorize o futuro". O mesmo podia suceder a qualquer, mas nem todos o suportariam sem sofrimento. Então, por que será isto uma desgraça mais do que aquilo uma felicidade? Chamas, em suma, infortúnio humano o que não é um malogro da natureza humana? Consideras malogro da natureza do homem aquilo que não contraria os desígnios da sua natureza? Mas como? Aprendeste quais os desígnios; esse acontecimento te impede acaso de ser justo, magnânimo, temperante, prudente, ponderado, leal, discreto, livre, etc., virtudes de cuja reunião colhe a natureza humana o que é seu? Não te esqueças daqui por diante de recorrer a este princípio em todos os fatos que acarretem sofrimento: isto não é uma desgraça, mas suportá-lo nobremente é uma felicidade.
-
-50. Recurso vulgar, porém eficaz, para o menosprezo da morte é passar em revista os que se demoraram aferrados à vida. Que vantagem tiveram sobre quem morreu prematuramente? Afinal, nalgum lugar jazem Cadiciano, Fábio, Juliano, Lépido e pessoas como eles, que, após enterrarem muitos outros, foram por sua vez enterrados. Em suma, a distância é mínima e se vence através de quais percalços, com quais companheiros e com que corpo! Portanto, não dês importância a isso. Olha o abismo de tempo atrás de ti e o outro infinito à frente. Nessa ordem de coisas, qual a diferença entre o ser que vive três dias e o que vive três vezes a idade de Nestor?
-
-51. Corre sempre ao caminho curto; o caminho curto é o da natureza; assim procederás em todos os atos e ditos da maneira mais sadia. Tal norma de vida livra-te de penas, de campanhas, do peso da administração e dos requintes.
-
-
-LIVRO V
-
-1. Quando te custa levantar de manhã, tem presente este pensamento: desperto para um trabalho de homem. Enfada-me ainda sair para o mister para o qual fui posto no mundo? Ou fui constituído para me aquecer deitado sob as cobertas? — Mas é mais agradável! — Então, nasceste para o deleite? Em suma, não foi para o sofrimento ou para a ação? Não vês as plantas, as avezinhas, as formigas, as aranhas, as abelhas, entregues a suas tarefas, colaborando, com a sua parte, na boa ordem do mundo? Então, não queres tu desempenhar a parte de homem? Não acorres à atividade conforme com a tua natureza? — Mas o descanso também é necessário. — É, concordo; todavia, a natureza pôs também a ele um limite, como ao comer e beber; apesar disso, não estás indo além dos limites, além do suficiente? Quando se trata de agir, já não é assim; ficas aquém do possível. Por não amares a ti mesmo; do contrário, amarias a tua natureza e seus desígnios. Outros, que amam o seu mister, esfalfam-se nas obras que lhes concernem, passando sem banho, passando sem comer; tu estimas a tua natureza menos que o gravador o cinzelar, o bailarino a dança, o avaro o dinheiro, ou o presunçoso a glória vã? Esses, quando os enleva a paixão, a comer e a dormir preferem acrescer o alvo de seu devotamento; tu, porém, achas mais desprezível ou merecedor de menor dedicação o trabalho do bem público?
-
-2. Quão fácil é arredar de si e apagar toda ideia inoportuna ou estranha, e logo experimentar uma calma absoluta!
-
-3. Considera-te digno de toda palavra e ação conformes com a natureza. Não te distraiam a censura ou os comentários por elas suscitados; se agiste e falaste com acerto, não te consideres indigno. Aquelas pessoas têm seu próprio guia e seguem impulsos seus; não te preocupes com elas, mas prossegue, acompanhando a tua natureza e a universal; o caminho de uma e outra é um só.
-
-4. Vou seguindo os roteiros da natureza até cair e descansar, devolvendo meu alento a este ar donde o aspiro dia após dia, tombando sobre esta terra donde recolheu meu pai a semente, minha mãe o sangue e minha ama o leite, e que, dia após dia, por tantos anos, me alimenta e abebera, e sofre que a pise e dela retire tantos benefícios para mim.
-
-5. Não há por que te admirarem a finura? Seja; mas há muitos outros predicados sobre os quais não podes dizer: "Não é de meu feitio". Procura, pois, mostrar os que dependem inteiramente de ti: sinceridade, circunspecção, laboriosidade, temperança, resignação, simplicidade, benevolência, liberdade, comedimento, seriedade, magnanimidade. Não percebes quantos predicados podes desde logo adquirir, para os quais não tens nenhuma desculpa de inaptidão natural, e insuficiência, entretanto ficas voluntariamente aquém? Porventura a razão de murmurares, de mesquinhares, de bajulares, de criminares o teu corpo, de lisonjeares, de futilizares, de tanto te agitares na alma, é uma inaptidão natural de tua constituição? Não, pelos deuses! Ao contrário, há muito te podias ter libertado desses defeitos e apenas, se tanto, ser acusado de um pouco lento de espírito e distraído. E nisso deves exercitar-te, em vez de tolerar essa preguiça mental ou comprazer-te nela.
-
-6. Fulano, quando presta um benefício a alguém, dispõe-se a cobrar-lhe a gratidão. Sicrano não se dispõe a fazê-lo, mas lá consigo o imagina um seu devedor, e sabe o que fez. Beltrano, de certo modo, nem sabe o que fez; é semelhante à videira, que deu uva e, uma vez produzido o fruto que lhe compete, nada mais indaga; como o cavalo que correu, o cão que rasteou, a abelha que melificou. Um homem, depois de praticar uma boa ação, não a puxa para si, mas volta-se para outra, como a videira se volta para de novo dar uva na estação. — Devemos, então, colocar-nos entre os que, de certo modo, fazem o bem sem o notar? — Sim. — Mas á isso mesmo é que é mister prestar atenção; por ser próprio do ser social, diz ele, sentir que sua atividade é social e, por Zeus!, querer que o sinta a sociedade. — E verdade o que dizes, mas interpretaste mal o que estamos dizendo; serás por isso um daqueles atrás referidos, igualmente transviados por uma aparência de razão. Se queres, porém, compreender o sentido daquelas palavras, não tenhas o receio de, com isso, negligenciar alguma tarefa de interesse da comunidade.
-
-7. Prece dos atenienses: "Chove, chove, ó amado Zeus, sobre as aradas dos atenienses e nas planícies". Ou não devemos orar, ou devemos orar assim, ingênua e livremente.
-
-8. Tal como se diz: Asclépio prescreveu a fulano a equitação, ou banhos frios, ou andar descalço, assim se diz: A natureza prescreveu a sicrano uma doença, um aleijão, uma perda ou infortúnio semelhante. Naquele caso, prescreveu significa mais ou menos isto: ordenou isto a fulano como adequado ao seu estado de saúde; neste, o que acontece a cada um lhe foi, de certo modo, ordenado como adequado ao seu destino. Assim é que dizemos que um fato calhou, como das pedras de cantaria dizem os pedreiros que calharam bem nos muros e nas pirâmides, quando se ajustam entre si em tal ou qual colocação. Em suma, há uma só harmonia e como o mundo se inteira de todos os corpos num tão grande corpo, assim também o destino se inteira de todas as causas numa tão grande causa. Mesmo os completamente ignaros entendem isto que assevero, pois dizem: Estava-lhe destinado. Logo, isto estava destinado a este e isto estava prescrito àquele. Aceitemos, portanto, os fatos como os tratamentos que Asclépio prescrevia; nestes há, sem dúvida, muito de desagradável, mas acatamo-los pela esperança da cura. Considera algo como a tua saúde o acabamento e perfeição dos decretos da natureza comum e saúda como tal todo acontecimento, ainda quando pareça um tanto árduo, porque conduz à saúde do mundo, ao bom andamento e bom êxito de Zeus. Ele não teria trazido a tal pessoa tal sucesso, se não conviesse ao todo; nem traz qualquer natureza nada que não seja correspondente ao ser por ela regido. Portanto, deves conformar-te com o que te acontece, por duas razões: primeira, porque foi feito para ti, prescrito para ti e, de certo modo, se relacionava contigo desde o alto, na urdidura das causas mais veneráveis; segunda, porque o que acontece a cada um em particular assegura a quem rege o conjunto o bom andamento, a perfeição e, por Zeus!, a própria coexistência. Com efeito, é mutilar o todo amputar-lhe seja o que for do complexo e coesão tanto das causas como das partes e, quando não te conformas, tu, no que de ti depende, estás amputando e, de certo modo, destruindo.
-
-9. Não te aborreças, nem desanimes, nem desistas, se, em tuas ações, nem sempre consegues seguir os princípios corretos; após cada malogro, recomeça e rejubila-te se as mais das vezes te sais como convém ao homem; tem afeição àquilo a que tornas; não voltes à Filosofia como quem torna ao mestre-escola, mas como os oftálmicos voltam à esponja e ao ovo, como outros doentes ao cataplasma, à compressa. Assim não farás ostentação da obediência à razão, mas nela repousarás. Lembra-te de que a Filosofia quer apenas os dons que a tua natureza quer, ao passo que tu quiseras outra coisa não concorde com a natureza. Que há, com efeito, mais atraente que eles? Não é com seus atrativos que o prazer ilude? Bem, examina se não são mais atraentes a grandeza de alma, a liberdade, a lhanura, a nobreza de sentimentos, a piedade. Que há mais fascinante que a própria sabedoria, quando refletimos nos passos em tudo firmes e prósperos da faculdade de observar e conhecer?
-
-10. As coisas se acham de certo modo veladas, de sorte que a filósofos, não poucos nem quaisquer, pareceram absolutamente ininteligíveis; menos aos estoicos, e estes mesmos julgam-nas ao menos difíceis de apreender. E toda adesão nossa às percepções sói mudar. Onde, com efeito, o homem imutável? Passemos aos objetos perceptíveis em si; quão passageiros, triviais e acessíveis ao invertido, à meretriz, ao salteador! Passemos em seguida ao caráter das pessoas de teu convívio; mesmo a mais simpática te custa suportar, para não dizer que a ela mesma custa aguentar-se. Em semelhante escuridão e imundície, em tal fluxo da substância, do tempo, do movimento e dos seres movidos, não concebo o que possamos distinguir com estima ou, em suma, o que valha um esforço. Ao invés, temos de exortar-nos a nós mesmos e aguardar a dissolução natural, sem lastimar a demora, mas repousando apenas nestes pensamentos: primeiro, nada me sucederá que não esteja de acordo com a natureza universal; segundo, é-me dado nada fazer em desacordo com a minha divindade e o meu deus. Porque ninguém me forçará a transgredir seus ditames.
-
-11. Em que ando empregando agora as faculdades de minha alma? Perguntar isso a mim mesmo a todo instante e indagar: o que tenho agora naquela parte de meu ser a que chamam guia? De que tenho agora a alma? Duma criança? Dum adolescente? Duma mulherzinha? Dum tirano? Duma rês? Duma fera?
-
-12. O que vem a ser o que a maioria considera como bem pode-se verificar deste modo: quem reputasse verdadeiros bens certos dons reais, como a sensatez, a temperança, a justiça, a coragem, não mais poderia, concebida essa ideia, compreender aquele verso: Por causa dos bens. . ., que será um contrassenso; mas, concebida a ideia de bens como os entende a maioria, compreendê-lo-á bem e admirará facilmente a justeza da expressão do poeta cômico. Tão bem imagina a maioria a diferença. Com efeito, o verso não pareceria estranho e impróprio; ao contrário, aplicado à riqueza e às venturas do luxo e da glória vã, admitimos a propriedade e finura da passagem. Prossegue, pois, e indaga se devemos estimar e supor sejam bens coisas tais que, assim consideradas, concluiríamos naturalmente que o possuidor, devido à abundância, não sabe onde aliviar-se.
-
-13. Consisto em causa formal e material; das duas, nenhuma se desfará no não ser, assim como não proveio do não ser. Logo, cada parte de meu ser irá localizar-se, por via de transformação, numa parte do universo; esta, por sua vez, se mudará numa outra parte do universo e assim infinitamente. Por via de semelhante transformação surgi eu, bem como meus genitores; poder-se-ia remontar a outro infinito, pois nada impede se afirme isso, ainda que seja regido o universo por períodos delimitados.
-
-14. A razão e a lógica são forças que bastam a si mesmas e às operações de seu âmbito. Partem, efetivamente, de um ponto inicial próprio; caminham ao fim predeterminado; por esse motivo se chama retidão aquele procedimento, significando a direitura do seu caminho.
-
-15. Não deve o homem observar nenhuma das coisas que não competem ao homem como homem. Não são das que se requeiram dum homem, nem as promete a natureza humana, nem são perfeições da natureza humana. Portanto, tampouco reside nela a finalidade do homem, nem aquilo que preenche a sua finalidade, o bem. Ademais, se alguma delas competisse ao homem, não lhe competiria menosprezá-la ou contra ela insurgir-se; tampouco mereceria louvores quem lograsse delas prescindir; não seria um homem bom quem tendesse a diminuir o seu quinhão nalguma, caso fossem bens. Na verdade, porém, quanto mais uma pessoa delas se despoja, ou de outras da mesma espécie, ou, ainda, quanto mais suporta ser despojada de alguma delas, tanto melhor homem é.
-
-16. Quais sejam tuas ideias mais frequentes, tal será a tua inteligência, pois a alma se embebe das ideias. Embebe-a, pois, com o hábito de ideias tais como estas: onde se pode viver, pode-se viver bem; pode-se viver na corte; logo, pode-se viver bem na corte. E ainda: cada ser é levado ao fim para o qual e em vista do qual foi constituído; para onde é levado, aí está sua finalidade; onde está sua finalidade, ali está sua conveniência e seu bem, e o bem do ser racional é a sociedade. Que fomos feitos para a sociedade está há muito demonstrado; não é acaso evidente que os seres inferiores existem em vista dos superiores e estes em vista uns dos outros? Ora, os seres animados são superiores aos inanimados e os racionais aos animados.
-
-17. Desejar o impossível é loucura; impossível é absterem-se os maus de praticar ações más.
-
-18. Nada acontece a ninguém que sua natureza não suporte. Acontecem as mesmas coisas a outrem e, seja por ignorar que elas acontecem, seja por ostentação de altivez, mantém-se firme e permanece ileso. É estranho possam mais a ignorância e a presunção do que a sabedoria.
-
-19. As coisas mesmas absolutamente não atingem a alma, não têm por onde chegar à alma, não podem fazê-la mudar, nem mesmo mover. Só ela mesma a si faz mudar e mover; quais sejam os juízos de que acredita ser digna, tais conforma, para si mesma, as contingências.
-
-20. Por outra razão é o homem o que mais de perto nos toca: à medida que devemos fazer-lhe o bem e suportá-lo; mas na medida em que alguns estorvam os trabalhos que me competem, o homem se torna para mim tão indiferente como o sol, o vento, os brutos. Estes podem impedir alguma atividade minha, mas não há o que impeça meus impulsos e minhas disposições, graças à minha retração e à reversão. A inteligência, com efeito, reverte todo empecilho à sua atividade, transmuda-o em algo que lhe abra o caminho, e o que empeça a ação passa a favorecê-la, o que barrava o caminho, a facultá-lo.
-
-21. Respeita o que há de mais poderoso no universo; é a força que de tudo se serve e tudo regula. Respeita igualmente o que de mais poderoso há em ti; é congênere daquela. Porque dependes do poder que dos outros seres se serve e tua vida é regida por ele.
-
-22. O que não é daninho à cidade tampouco lesa o cidadão. Toda vez que tiveres a impressão de seres lesado, aplica esta regra: se à cidade isso não causa dano, tampouco sofri eu. — Mas se a cidade é lesada, não devo irar-me contra quem a está lesando? — O que estás esquecendo?
-
-23. Reflete amiúde com que rapidez os seres e os fatos passam e se esvaecem. A substância é como um rio num fluxo perene; as forças estão em transformações contínuas, as causas em mudanças incontáveis; quase nada é estável; aí perto está o infinito abismo do passado e o do futuro, onde tudo desaparece. Não é louco, pois, quem, em meio a isso, se infla ou se arrepela, ou se lastima como se algo o estivesse incomodando por algum tempo, ou mesmo por longo tempo?
-
-24. Recorda a substância toda, da qual és mínima parte, e o tempo todo, do qual te foi asse-lado um lapso breve, infinitamente pequeno; e do destino, do qual és parte... de que tamanho?
-
-25. Alguém comete falta contra mim? Isso é lá com ele; ele tem o seu gênio, a sua atividade. Eu tenho agora o que a natureza comum quer que eu tenha agora, e faço o que a minha natureza quer que eu faça agora.
-
-26. Permaneça a parte de tua alma que guia e senhoreia inabalável às comoções, brandas ou violentas, que há na carne, e não se envolva; ao contrário, circunscreva a si mesma e limite essas afecções aos membros. Quando, pela solidariedade recíproca, elas se comunicam à inteligência, como num corpo unido, então não se há de tentar obstar a sensação, que é da natureza; não acrescente, porém, o guia, por sua iniciativa, a opinião de que seja um bem ou um mal.
-
-27. Conviver com os deuses! Convive com os deuses quem lhes mostra constantemente a alma satisfeita com o seu quinhão, praticando tudo quanto quer o deus dado a cada um como protetor e guia por Zeus, fragmento dele mesmo. Este deus é a mente e razão de cada um.
-
-28. Tu te irritas com quem tresanda bodum? Tu te irritas com quem tem mau hálito? Que queres que ele faça? Sua boca é assim; suas axilas são assim; tais partes hão de ter por força tais exalações. — Mas, dirão, o homem é dotado de razão e, refletindo, pode dar-se conta de seu desmazelo. — Bravo! Por conseguinte, tu também és dotado de razão; suscita com a tua faculdade racional a sua faculdade racional, demonstra-lhe, lembra-lhe. Se te der ouvido, curá-lo-ás e será escusada a irritação. Nem ator trágico, nem meretriz.
-
-29. Como pensas viver depois que te vás, assim podes viver aqui mesmo. Se não to consentem, deixa a vida, certo, porém, de nada estares padecendo. Fumaça; vou-me embora. Por que veres nisso um problema? Enquanto nenhuma razão semelhante me induz a sair, permaneço livremente e ninguém me impedirá de fazer o que desejo. E meus desejos quadram à minha natureza de vivente racional e social.
-
-30. A mente do universo é social. Ela criou os seres inferiores em vista dos superiores e ajustou estes entre si. Vês como subordinou, como coordenou, como atribuiu quinhões a cada qual segundo o seu valor e conciliou os seres superiores em mútua concordância?
-
-31. Como tens procedido até aqui com os deuses, os pais, os irmãos, a esposa, os filhos, os mestres, os aios, os amigos, os familiares, os fâmulos? Tens seguido até o presente, para com todos, o preceito de a ninguém fazer nem dizer nada de maldoso? Recorda os transes que passaste, as provações que lograste suportar, que teu conhecimento da vida é já profundo, que tua missão está cumprida, quantos bons exemplos deste, quantos prazeres e mágoas desprezaste, quantas ocasiões de glória desdenhaste, a quantos mal-agradecidos trataste com benevolência.
-
-32. Por que almas incapazes e ignorantes confundem uma pessoa capaz e sábia? Que alma é capaz e sábia? A que conhece o princípio e o fim, a razão que se difunde por toda a substância e rege o universo, através de todo o tempo, segundo períodos ordenados.
-
-33. Pouco falta para seres cinza, ou esqueleto, talvez um nome, ou sequer um nome; e o nome, um som vago, um eco. O que tanto se estima na vida: vazios, podridões, ninharias, cães que se mordem, crianças briguentas, que riem e logo estão chorando. A lealdade, o pudor, a justiça, a verdade, emigrados desta terra de largos caminhos para o Olimpo. Que há que ainda te retenha por aqui, se as coisas sensíveis são mudáveis, inconstantes, os sentidos embotados, sujeitos a falsas impressões, a alma mesma uma evaporação do sangue, e a boa reputação entre tal gente um vácuo? E daí? Aguardarás de bom grado quer a extinção, quer a transmutação. Até que venha a ocasião dela, que nos basta? Que mais, senão venerar e louvar os deuses, fazer bem aos homens, suportá-los, não os tocar? Tudo que há para dentro dos limites da carne e do espírito, lembra-te, nem te pertence nem depende de ti.
-
-34. Podes ter sempre um curso de vida próspero, já que podes seguir um bom caminho e, seguindo-o, opinar e agir. Há duas coisas comuns à alma dos deuses, à do homem e de todo vivente racional: o não ser estorvado por outrem e o situar o bem nos sentimentos e atos justos, a isso reduzindo os desejos.
-35. Se não se trata de um vício meu, nem de atividade decorrente de vício meu, nem é lesada a comunidade, por que me afligir com isso? Qual o dano da comunidade?
-
-36. Ser arrebatado de envolta com a imaginação, não; sim, socorrer na medida em que podes e merecem, mesmo quando a perda é medíocre. Todavia, não imagines se trate duma perda; é esse um mau costume. Como o velho que reclamava, ao retirar-se, a entrega do pião do aluno, sem esquecer que também um pião, assim também neste caso... — Homem, esqueceste o que isso era? — Sim, mas eles o tomam tão a sério! — É isso razão para enlouqueceres também tu? Outrora, em qualquer momento que me surpreendessem, eu era um homem ditoso. Ditoso significa quem atribui a si mesmo um bom quinhão; bom quinhão são as boas tendências da alma, os bons impulsos, as boas ações.
-
-
-LIVRO VI
-
-1. A substância do universo é dócil e maleável; a razão que a rege não tem em si nenhum motivo de fazer o mal; não tem maldade, não faz mal nenhum e dela nada recebe nenhum dano. Tudo se produz e completa de acordo com ela.
-
-2. Quando cumpres o teu dever, não faça diferença que sintas frio ou calor, que estejas sonolento ou tenhas dormido bastante, que te censurem ou gabem, que morras ou faças outra coisa. Com efeito, um dos atos da vida é também esse no qual morremos. Basta, portanto, dispor bem o presente também para esse ato.
-
-3. Vê o fundo; não te passe despercebida, em coisa alguma, sua qualidade própria, nem seu valor.
-
-4. Tudo que aí está em breve será transformado e ou evaporará, se a substância é simples, ou se dispersará.
-
-5. A razão que rege sabe como está disposta, o que faz e com que matéria.
-
-6. A melhor maneira de arredá-los é não parecer com eles.
-
-7. Tenhas um só deleite e contentamento, o de passar dum ato social a outro ato social, com o pensamento em Deus.
-
-8. O guia é o que a si mesmo desperta, modifica e amolda como quiser, e faz que todo acontecimento apareça tal como ele o quer.
-
-9. Tudo se cumpre segundo a natureza do universo; não pode ser segundo outra natureza, que, ou seria externa e o conteria, ou seria interna e por ele contida, ou seria exterior e sem ligação.
-
-10. Ou uma papa, enleio e dispersão, ou coesão, ordem e providência. Na primeira alternativa, por que desejar eu uma longa permanência numa aglomeração casual e em semelhante mixórdia? Que outra coisa me importa senão como tornar-me terra um dia? Por que me conturbo? O dia da dispersão chegará para mim, faça eu o que fizer. Na segunda alternativa, venero, tenho firmeza e confiança em quem rege.
-
-11. Quando a força das circunstâncias te deixar como que transtornado, volta depressa a ti mesmo; não fiques fora do ritmo além do necessário, porque serás tanto mais senhor da harmonia quanto mais frequentemente voltares a ela.
-
-12. Se tivesses ao mesmo tempo uma madrasta e uma mãe, sem embargo de tuas atenções para com a primeira, seriam constantes os teus retornos para junto de tua mãe. O mesmo se dá agora com a corte e a Filosofia; volta assim com frequência a repousar nesta, porque graças a ela a vida te é suportável na outra e tu és suportável naquele meio.
-
-13. Assim como, dos pratos de carne e outros alimentos, o pensar que um é o cadáver dum peixe, outro o cadáver duma galinha ou dum leitão; igualmente, do Falerno, que é o suco duma uva e, da toga, que é o pelo duma ovelha tinto com o sangue dum molusco, e, ainda, da copulação, que não passa de fricção do ventre e ejeção de muco acompanhada de algum espasmo; assim como essas ideias atingem as coisas em si e as penetram até ver o que elas são afinal, assim devemos agir durante toda a vida; quando mais fidedignas se afiguram as coisas, despi-las, contemplar a sua vulgaridade e suprimir os comentários que a esta conferem imponência. Porque a presunção é uma embusteira formidável e quando mais te imaginas entregue a tarefas sérias, aí é que estás sendo mais ludibriado. Vê o que diz Crates do próprio Xenócrates.
-
-14. Do que o vulgo admira, prende-se ao gênero mais amplo a maior parte, constituída por um estado ou natureza: pedras, madeira, figueiras, vinhas, oliveiras; outra parte, constituída por seres um pouco menos brutos, prende-se à espécie animal, como os rebanhos e manadas; uma terceira, de constituição ainda mais delicada, à espécie da alma racional, não admirada por ser racional, mas por habilidades ou préstimos quaisquer, ou apenas por representar a posse dum grande número de escravos. Quem, porém, preza a alma racional, universal e sociável, já não dá atenção aos demais seres; antes de tudo, preserva os sentimentos e movimentos racionais e sociáveis de sua própria alma e ajuda o seu parente a igual preservação.
-
-15. Continuamente umas coisas se apressam a ser, outras se apressam a passar, e, do que vem a ser, uma parte já se extinguiu. Escoamentos e transformações renovam o mundo incessantemente, como o fluxo ininterrupto das eras faz sempre novo o tempo infinito. Das coisas que passam a correr nesse rio, qual podemos distinguir com nossa estima, se não nos é dado firmar-nos em nenhuma? É como se alguém começasse a amar um dos pardais que passam a voar e ei-lo já fora de vista. A vida mesma de cada um é algo como a evaporação do sangue e a inalação de ar; o mesmo que aspirar o ar uma vez e expirá-lo, como fazemos a todo momento, é devolver à fonte donde primeiro a hauriste toda a faculdade respiratória que adquiriste ontem ou anteontem, ao nascer.
-
-16. O que tem valor não é o transpirar como as plantas, nem o respirar como os animais de criação e as feras, nem o colher impressões pela imaginação, nem o ser titereado pelos impulsos, nem o ser apascentado, nem o alimentar-se; isso vale tanto quanto a expulsão dos resíduos da alimentação. — Então, o que tem valor? As palmas? — Não. Nem, portanto, as palmas das línguas, pois os louvores da multidão são línguas batendo palmas. — Eliminaste também a glória vã; que resta que tenha valor? — A meu ver é o mover-se e parar de acordo com a própria constituição e a isso nos conduzem os estudos e as artes. Com efeito, o fito de toda arte é que esteja bem apropriado ao efeito para o qual foi preparado aquilo que ela prepara. Isso é o que têm em mira o cultivador que trata da vinha, o domador de cavalos e o tratador de cães. A pedagogia e a didática a que se devotam? Eis, pois, o que tem valor. Se nisso te saíres bem, não diligenciarás obter mais nada. Não cessarás de dar valor a muitas outras coisas? Então, não serás livre, autossuficiente e isento de paixão; sentirás necessariamente invejas, ciúmes, suspeitas das pessoas capazes de tomar-te aquilo a que dás valor e tramarás contra quem o detém. Em suma, quem é carecido de algum daqueles bens há de por força andar perturbado e ainda com muitas queixas, até dos deuses. Já o respeito e o apreço da tua inteligência te farão contente contigo mesmo, bem adaptado à sociedade e concorde com os deuses, isto é, grato por todos os quinhões por eles distribuídos, por todos os postos por eles determinados.
-
-17. Os elementos se movimentam para cima, para baixo, em círculo. O movimento da virtude, porém, não segue nenhuma dessas direções; é algo de divino e marcha com felicidade para diante, por um caminho difícil de conceber.
-
-18. Como é estranha sua atitude! Não querem louvar os homens que vivem na mesma época e em sua própria companhia, mas dão grande importância a terem o louvor da posteridade, que jamais viram nem hão de ver. É quase o mesmo que te afligires por não terem tecido louvores teus as gerações anteriores.
-
-19. Se achas demasiado árdua para ti uma empresa, nem por isso a suponhas impossível ao homem; ao contrário, se algo é possível e próprio de homem, considera-o acessível também a ti.
-
-20. Nos ginásios, se alguém nos arranha com as unhas e nos acerta uma cabeçada violenta, não reclamamos, não nos ofendemos, nem o suspeitamos de futuras insídias. Precavemo-nos, por certo; não, porém, como dum inimigo, nem com desconfiança, mas com uma esquiva isenta de malquerença. Seja mais ou menos assim nos outros setores da vida; relevemos muitas faltas desses como que nossos parceiros de luta; podemos, como dizia, esquivar-nos sem desconfianças nem ressentimentos.
-
-21. Se alguém pode confundir-me e provar que estou errado em minhas opiniões ou atos, eu mudarei com prazer. Procuro a verdade; ela jamais causou dano a ninguém; dano sofre quem persiste no seu engano e ignorância.
-22. Eu cumpro o meu dever. Os outros seres não me inquietam; ou são inanimados, ou irracionais, ou vagantes que desconhecem o caminho.
-
-23. Como ente dotado de razão, trata, nobre e livremente, como entes desprovidos dela, os viventes irracionais e, em geral, as coisas e matérias; aos homens, trata-os como entes racionais, como sócios. A todo momento invoca os deuses e não te importe quanto tempo despenderás nisso; bastam, com efeito, três horas assim passadas.
-
-24. Alexandre da Macedônia e seu arrieiro igualaram-se na morte, porque ou foram recolhidos pejas mesmas razões seminais do mundo, ou se dissiparam de modo igual no seio dos átomos.
-
-25. Considera quantas coisas, na mesma parcela infinitamente pequena do tempo, ocorrem simultaneamente quer no teu corpo, quer no teu espírito; assim não te admirarás de que muitas mais, ou melhor, tudo quanto se produz nesse todo único, que chamamos universo, exista simultaneamente.
-
-26. Se alguém te perguntasse como se escreve o nome de Antonino, haverias de proferir aos brados cada uma das letras? E então, se ficam irritados, vais irritar-te também? Não enumerarias com calma, seguidamente, letra após letra? Assim também agora lembra-te de que todo dever se compõe de determinadas contas; cumpre observá-las sem te perturbares, nem te acerbares por tua vez com os que se acerbam, para executares com método a tarefa proposta.
-
-27. Que crueldade não permitir aos homens que se atirem ao que lhes parece natural e conveniente! Todavia, de certo modo não consentes que o façam quando te agastas porque pecam; com efeito, eles deixam-se levar absolutamente como as coisas naturais e convenientes a eles. — Mas não são! — Então, ensina-os, mostra-lhes, sem te agastares.
-
-28. A morte é o descanso das repercussões sensórias, do titerear dos impulsos, das divagações do intelecto e dos serviços à carne.
-
-29. É uma vergonha seja tua alma a primeira a descoroçoar duma vida a que teu corpo ainda não renunciou.
-
-30. Cuidado para não te cesarizares, para não te imbuíres; isso costuma acontecer. Preserva-te simples, bom, puro, grave, desafetado, amigo da justiça, piedoso, benévolo, afetuoso, firme no cumprimento do dever. Luta por permaneceres tal qual te quis formar a Filosofia. Venera os deuses, socorre os homens. A vida é breve; fruto único da existência sobre a terra são os sentimentos santos e a prática do bem comum. Sê, em tudo, um discípulo de Antonino, com a sua tenacidade nos empreendimentos planejados, a sua equanimidade em todas as circunstâncias, a sua piedade, o seu rosto sereno, a sua brandura, a sua ausência de vanglória, o seu pundonor em bem apreender as questões. Recorda como ele jamais abandonava nada sem ter examinado a fundo e compreendido claramente; como suportava, sem retaliar, as censuras improcedentes; como por nada se açodava; como não dava guarida a calúnias; com que minúcias examinava os caracteres e as ações; quão avesso era a ofensas, a temores, a suspeitas, a intrujices; com quão pouco se satisfazia, por exemplo, em questão de moradia, de leitos, de roupas, de pratos, de criadagem; que disposição para as fadigas, que perseverança; quão capaz de permanecer no mesmo lugar até o anoitecer, graças a uma dieta simples, sem precisar aliviar-se dos resíduos da alimentação fora da hora habitual; a firmeza e constância de suas opiniões, e sua satisfação quando lhe demonstravam outra melhor; como era piedoso sem superstições — para que assim, ao chegar tua última hora, encontre a tua consciência pura, como a dele.
-
-31. Recobra os sentidos, reanima-te e, sacudido o sono, compreendendo que eram sonhos o que te molestava, olha de novo as coisas desperto, como as costumavas olhar.
-
-32. Sou formado de corpo e alma. Ao corpo, tudo é indiferente, porque não pode inquietar-se. À inteligência tudo que não é operação sua é indiferente; tudo, porém, que é operação sua depende dela. Ainda, neste seu âmbito, ela se interessa apenas pelo presente; as mesmas suas atividades futuras e passadas lhe são indiferentes agora.
-
-33. O trabalho da mão ou do pé não é contrário à natureza enquanto o pé executar o mister do pé e a mão o da mão. Assim também o trabalho do homem, como homem, não é contrário à natureza enquanto executar o seu mister de homem. Ora, se não é contrário à sua natureza tampouco é um mal para ele.
-
-34. Que prazeres enormes terão experimentado os bandoleiros, os devassos, os parricidas, os tiranos!
-
-35. Não vês como os artífices, com se adaptarem em certa medida aos profanos, nem por isso deixam de ater-se aos princípios de sua arte e não suportam afastar-se deles? Não é estranho respeitem o arquiteto e o médico a razão de sua arte mais do que o homem à sua própria, que lhe é comum com os deuses?
-
-36. A Ásia, a Europa, são cantos do mundo; o mar todo, uma gota do mundo; o monte Atos, um terrão do mundo; todo o presente, um ponto da eternidade. Tudo é pequeno, mudável, evanescente. Tudo provém de lá, ou por ter recebido impulso daquele princípio diretor comum, ou por via de consequência. Portanto, até as fauces do leão, até o veneno e todo malefício, como os espinhos, como o lodo, são resultados do que lá existe de augusto e de belo. Não os imagines, pois, estranhos àquele ser que veneras, mas tem em conta a fonte de tudo.
-
-37. Quem viu o presente viu tudo, não só o que existiu desde a eternidade como tudo o que haverá no tempo infinito, pois tudo tem a mesma origem e o mesmo aspecto.
-
-38. Reflete amiúde na ligação e relação mútua de tudo que há no mundo. De certo modo, todas as coisas estão entretecidas e, por esse motivo, são amigas umas das outras; com efeito, uma se segue à outra graças à coordenação do movimento e ao concerto, bem como à coesão da substância.
-
-39. Ajusta-te às coisas cujo destino é ligado ao teu; estima os homens cuja sorte está unida à tua; porém, com sinceridade.
-
-40. Um instrumento, uma ferramenta, qualquer aparelho, quando prestam, fazem aquilo para que foram fabricados; todavia, quem os fabricou está ausente. Já nos seres que uma natureza constituiu, a força que os formou está no seu interior e ali permanece. Por conseguinte, deves respeitá-la mais e pensar que, se tu mesmo te comportas e vives segundo os desígnios dela, tudo contigo se passa a contento. Igualmente se passa a contento no universo tudo que lhe concerne.
-
-41. Se consideras para ti um bem ou um mal alguma das coisas que não são de teu arbítrio, fatalmente, conforme esse mal te ocorra ou esse bem te falte, te queixarás dos deuses e odiarás os homens causadores ou suspeitos de causadores possíveis da falta ou da ocorrência. Cometemos muitas injustiças por causa de disputas a esse respeito. Se, porém, considerarmos como bens ou males apenas o que de nós depende, nenhum motivo resta quer de acusar os deuses, quer de manter uma atitude hostil para com o homem.
-
-42. Todos colaboramos numa única realização, uns consciente e inteligentemente, outros sem o perceberem. Isso, penso, significava Heráclito ao dizer que até os que dormem são obreiros e colaboradores dos acontecimentos do mundo. Cada qual colabora a seu modo, mesmo, de sobejo, quem critica e quem tenta sabotar e destruir os resultados, pois até de tal gente precisaria o mundo. Resta veres de qual dos lados te vais alinhar. Aquele que rege o universo te empregará muito bem e acolherá como parte entre os seus ajudantes e cooperadores. Tu, porém, não sejas parte à maneira daquele verso cômico e tolo no drama, a que alude Crisipo.
-
-43. Acaso o sol se mete a fazer o mister da chuva? Acaso Esculápio o de Ceres Frugífera? Que dizer de cada um dos astros? Não são eles, conquanto diferentes, colaboradores da mesma obra?
-
-44. Se os deuses tomaram decisões a meu respeito e sobre o que deve acontecer-me, decidiram bem, pois é até difícil conceber um deus mal intencionado. Que razão os impeliria a fazer-me mal? Que proveito tirariam disso, quer para si, quer para a comunidade, sua máxima preocupação? Se não tomaram decisões em particular a meu respeito, fizeram-no a respeito da comunidade, afinal de contas, e devo saudar e estimar o que me acontece como uma consequência. Se, porém, eles não deliberaram sobre nada — o que é impiedade admitir, aliás não houvéramos de imolar, nem de orar, nem de jurar, nem praticar outros ritos, cada um dos quais praticamos na crença de estarem os deuses presentes em nosso convívio — se, pois, eles não deliberaram sobre nada do que nos concerne, então posso decidir sobre mim próprio, cabe a mim examinar os meus interesses. Ora, o interesse de cada um vai com sua constituição e natureza; a minha é racional e social. Como um Antonino, minha cidade e minha pátria é Roma; como homem, o mundo. Logo, só é um bem para mim o que for útil a essas cidades.
-
-45. O que a cada um acontece é útil ao todo. Isso bastaria; observando, porém, verás mais que, em geral, o que é útil a um homem é útil também aos outros. Tome-se aqui a palavra útil na acepção mais ampla, como se aplica às coisas indiferentes.
-
-46. Assim como te enfadam as funções no anfiteatro e lugares semelhantes, por se exibirem sempre as mesmas coisas e porque a uniformidade torna tedioso o espetáculo, assim deves sentir a respeito do curso todo da vida, pois tudo, de alto a baixo, são os mesmos efeitos das mesmas causas. Até quando?
-
-47. Reflete assiduamente em quantos homens, de toda e qualquer profissão, de raças de toda sorte, estão mortos; recua até o tempo de Filistião, Febo, Origanião. Passa agora às outras espécies. Temos, por certo, de emigrar para onde se foram tantos oradores disertos, tantos filósofos graves — Heráclito, Pitágoras, Sócrates —, tantos heróis antes deles e tantos generais e tiranos depois. Além desses, Eudoxo, Hiparco, Arquimedes, outras naturezas penetrantes, altivas, infatigáveis, ousadas; motejadores presunçosos da própria vida humana perecível e efêmera, como Menipo e tantos seus iguais. Reflete em que todos eles jazem há muito. Que de terrível para eles há nisso? Que dizer dos que nem sequer são nomeados? Assim, uma só coisa existe de grande valor: passar a vida na prática da verdade e da justiça, sem querer mal aos mentirosos e injustos.
-
-48. Quando quiseres alegrar-te, põe-te a pensar nos méritos das pessoas de teu convívio; por exemplo, a eficiência desta, o decoro daquela e a liberalidade daquela outra e outras serventias de outras mais. Nada nos alegra tanto como os exemplos de virtudes manifestados nos costumes dos conviventes, reunidos em número tão grande quanto é possível. Por isso, devem ser mantidos à mão.
-
-49. Acaso te agastas por pesares tantas libras e não trezentas? Tampouco, então, por teres de viver tal número de anos e não mais. Assim como te contenta o volume de substância a ti atribuído, satisfaze-te também com a medida de tempo.
-
-50. Procura convencê-los; procede até contra a sua vontade, quando a razão da justiça o reclamar. Se, porém, alguém se opuser recorrendo à força, passa a uma atitude cordial e sem mágoa; vale-te do obstáculo para exercitar outra virtude e lembra-te de que tomaras a iniciativa sob reserva e não aspiravas ao impossível. — Ao que, então? — A uma iniciativa análoga. Esse objetivo alcançaste; aquilo que iniciamos já é uma realização.
-
-51. Quem ama a glória situa o seu bem numa atividade alheia; quem ama o prazer, em suas próprias sensações; quem tem inteligência, em seus próprios atos.
-
-52. É lícito não formar opinião a este respeito e não sofrer atribulações da alma; as coisas em si mesmas não têm natureza capaz de criar nossos juízos.
-
-53. Habitua-te a dar plena atenção ao que outrem diz e, quanto possível, penetrar na alma de quem fala.
-
-54. O que não convém ao enxame não convém tampouco à abelha.
-
-55. Se os marujos insultassem o piloto ou os doentes o médico, cuidariam estes dois de outra coisa senão de como levar a efeito a preservação dos navegantes ou a cura dos pacientes?
-
-56. Quantos com quem entrei no mundo, já se foram!
-
-57. Aos ictéricos o mel sabe amargo; aos hidrófobos a água mete medo; às crianças a bola parece bonita. Por que, pois, me enfurio? Achas que o engano tem menos força que a bile no ictérico ou o vírus no hidrófobo?
-
-58. Ninguém te impedirá de viver segundo a razão de tua natureza e nada te acontecerá contra a razão da natureza comum.
-
-59. Como são aquelas pessoas a quem se quer agradar? Quais os resultados em vista? Quais os meios empregados? Quão depressa o tempo tudo ocultará e quanta coisa já ocultou!
-
-
-LIVRO VII
-
-1. Que é o vício? Aquilo que viste tantas vezes. A todo acontecimento, tem presente a ideia de que é o que muitas vezes viste. Em suma, de alto a baixo, encontrarás os mesmos fatos de que andam cheias as histórias, quer antigas, quer intermédias, quer recentes, de que andam cheias hoje as cidades e as casas. Nada há de novo; tudo é corriqueiro, tudo é efêmero.
-
-2. Os dogmas vivem. Como, aliás, poderiam morrer sem se extinguirem as ideias que a eles correspondem? Depende de ti reavivar incessantemente as chamas destas. Eu posso formar ideias sobre o que é necessário; se posso, por que me perturbar? O que há fora de meu intelecto absolutamente não existe em relação ao meu intelecto. Aprende esse princípio e estás de pé. És capaz de reviver; vê de novo as coisas como as vias; nisso consiste o reviver.
-
-3. Vão açodamento pelas pompas; encenação de dramas; rebanhos; manadas; corpos varados de lanças; ossos atirados a cães; migalhas de pão deitadas em viveiro de peixes; azáfama de formigas carregando os seus fardos; correria de camundongos espavoridos; bonecos movidos por cordéis. . . Cumpre, pois, suportar tudo isso com benevolência, sem refugar, advertindo, todavia, que cada qual vale tanto quanto vale o alvo de seus esforços.
-
-4. É mister acompanhar o que se diz, palavra por palavra, e, de cada impulso, o resultado. Neste caso, ver o escopo visado; naquele, atentar no significado.
-
-5. Basta a minha inteligência para isto, ou não? Se basta, sirvo-me dela no trabalho como dum instrumento fornecido pela natureza universal; senão, ou passo a tarefa a quem possa desincumbir-se melhor, se não convier doutra forma, ou executo-a como possa, tomando como colaborador quem for capaz de realizar, com ajuda do meu guia, o que, neste momento, for oportuno e útil à comunidade. Tudo quanto eu fizer, quer por mim mesmo, quer com ajuda alheia, deve tender a um objetivo único: o que é útil e ajustado à comunidade.
-
-6. Quantos homens celebrados em hinos já caíram no esquecimento! Quantos, que os celebravam, partiram há muito!
-
-7. Não te acanhes de receber auxílio; tens que cumprir a missão determinada, como o soldado no assalto à muralha. Como farias, se tu, coxeando, não pudesses galgar as ameias sozinho, mas fosse possível fazê-lo com ajuda?
-
-8. Não te inquiete o futuro; a ele chegarás, se for preciso, levando a mesma razão de que ora te vales nas questões presentes.
-
-9. Todas as coisas estão entretecidas; seus laços são sagrados, e, a bem dizer, não há uma estranha a outra; estão coordenadas e, juntas, compõem a ordem do próprio mundo. O mundo é único, composto de todas as coisas; única a divindade, disseminada por todas as coisas; única a substância; única a lei; comum a razão de todos os viventes inteligentes; única a verdade,posto que única a perfeição dos seres da mesma espécie e dos viventes que compartilham a mesma razão.
-
-10. Tudo que é material se esvaece rapidamente na substância universal; toda causa é rapidamente recolhida na razão do universo e a memória de cada um sepulta-se rapidamente na eternidade.
-
-11. No vivente racional, ato natural e ato racional é tudo um.
-
-12. Ou direito, ou em vias de endireitar-se.
-
-13. O que são os membros do corpo nos seres unos são, nos seres distintos, as faculdades racionais, constituídas para uma atuação conjunta e única. A compreensão disso te será mais óbvia se disseres a ti mesmo amiúde: "Sou um membro do corpo formado pelos seres racionais". Mas se, trocadas as letras, disseres que és uma parte, ainda não amas de coração a Humanidade, ainda não te alegra evidentemente o bem fazer; ainda o praticas como uma simples obrigação, não como um benefício para ti mesmo.
-
-14. Que suceda o acidente de origem externa que quiser aos seres capazes de sofrer suas consequências. Tais seres que se queixem, se quiserem, de tais acidentes; de minha parte, basta que não julgue um mal o sucedido, já não sofri dano; e posso não o julgar.
-
-15. Façam o que fizerem, digam o que disserem, eu tenho de ser bom; é como se o ouro, a esmeralda ou a púrpura vivessem repetindo: "Façam o que fizerem, digam o que disserem, eu tenho de ser esmeralda e ter a minha cor própria".
-
-16. Meu guia não se molesta a si mesmo; quero dizer, não cria para si temores a seu talante. Se alguém mais pode causar-lhe temores e aflições, que o faça; ele a si mesmo, por suas opiniões, não se lança em tais vicissitudes. Cuide o corpo por si de não sofrer nada, se puder; se sofrer, que o diga. A alma, quando tentam assustá-la, afligi-la, basta, em suma, que forme juízo a esse respeito e nada há de sofrer; ela não está obrigada a admiti-lo. O guia, no que dele depende, não tem precisões, salvo se criar para si alguma necessidade; por isso mesmo está livre de perturbações e embaraços, a menos que a si próprio perturbe e embarace.
-
-17. Felicidade é um bom deus tutelar ou um bom. . . Que fazes aqui, ó imaginação? Vai-te, pelos deuses te peço, como vieste; não preciso de ti. Vieste por um velho hábito. Não me agasto contigo; apenas, vai-te.
-
-18. As mudanças assustam? Mas pode alguma coisa ocorrer sem que haja mudança? Que há de mais caro e familiar à natureza universal? Tu próprio podes tomar banho sem que a lenha seja transformada? Podes comer sem que sejam transformados os alimentos? Pode-se realizar alguma outra ação útil sem transformação? Não vês, então, que as mudanças em ti mesmo são fatos semelhantes e semelhantemente necessários à natureza universal?
-
-19. Todos os corpos passam na substância do universo como numa torrente, unificados com o todo e com ele colaborando, como nossos membros uns com os outros. Quantos Crisipos, quantos Sócrates, quantos Epictetos já não tragou a eternidade! O mesmo pensamento te ocorra a respeito de todo e qualquer homem ou coisa.
-
-20. Tenho só uma preocupação; o temor de fazer o que a constituição do homem não consente, ou da maneira que ela não consente, ou o que ela não consente neste momento.
-
-21. Perto estás de esquecer tudo e de ser esquecido de todos.
-
-22. É próprio do homem amar até os que o magoam. Isso conseguirás se te ocorrer a lembrança de que são teus parentes; que erram por ignorância e sem querer; que, dentro em pouco, tu e eles estareis mortos e, sobretudo, que não te causaram dano, pois ao teu guia não tornaram inferior ao que era antes.
-
-23. Da substância universal, como duma cera, a natureza universal plasma agora um cavalo, depois o derrete e usa a sua matéria para uma plantinha, em seguida para um homúnculo, depois para outra coisa. Cada uma dessas formas subsistiu por um rápido momento. Para o escrínio nada há de terrível em ser desfeito, como nada havia em ser formado.
-
-24. Um rosto irado é por demais contrário à natureza. Quando frequente, a beleza do rosto fenece ou por fim se apaga de tal maneira que lhe é absolutamente impossível reacender-se. Este ponto é que deves tentar compreender: que é contrário à razão, pois, se a consciência do erro se vai, qual o motivo de continuar vivendo?
-
-25. A natureza que rege o universo mudará num instante tudo quanto vês, de sua substância criará outros seres e, depois, da substância destes, ainda outros, para que o mundo esteja sempre novo.
-
-26. Quando alguém falta para contigo, pensa imediatamente que ideia do bem ou do mal o levou a cometer a falta; quando o tiveres verificado, passarás a ter pena dele e não sentirás surpresa nem cólera. Com efeito, ou tu mesmo continuarás pensando sobre o bem de maneira igual ou semelhante e, portanto, deves perdoar-lhe, ou já não formas ideias iguais sobre o bem e o mal e mais fácil te será a complacência para com o seu engano.
-
-27. Não considerar presentes as coisas ausentes; das presentes, computar as que são mais propícias e, por isso, imaginar como seriam procuradas, se não estivessem presentes. Ao mesmo tempo, contudo, toma cautela para não te acostumares, pela satisfação que experimentas, a dar-lhes tão subido valor que sua falta eventual possa conturbar-te.
-
-28. Recolhe-te em ti mesmo; o guia da razão, por sua natureza, a si mesmo se basta quando pratica a justiça e por isso mesmo desfruta de calma.
-
-29. Apaga a imaginação. Para o jogo de títeres. Circunscreve o momento presente. Toma conhecimento do que acontece a ti ou a outrem. Separa e divide o objeto considerado em causa formal e material. Reflete sobre a hora derradeira. O pecado de fulano, deixa-o lá onde foi cometido.
-
-30. Compara, lado a lado, o pensamento e a expressão. Mergulha a mente nos efeitos e suas causas.
-
-31. Exorna-te com a simplicidade, com o decoro e com a indiferença a quanto está situado entre a virtude e o vício. Ama o gênero humano. Toma um deus como teu guia. Fulano afirma que tudo é convencional e, na realidade, só os elementos existem. Basta, porém, lembrar que tudo se comporta como convencional; pouco já é demais.
-
-32. Sobre a morte: ou é dispersão, se somos átomos; se somos um todo uno, ou extinção ou transmigração.
-
-33. Sobre a dor: o que é insuportável mata; o que dura é suportável. A inteligência, retraindo-se, conserva a sua serenidade e o guia não sofre dano. As partes maltratadas pela dor, se o puderem, que se manifestem sobre ela.
-
-34. Sobre a glória: verifica os pensamentos deles, quais são, do que fogem, o que perseguem. E mais, que assim como os montes de areia, à medida que uns se depositam sobre os outros vão escondendo os primeiros, assim na vida as camadas precedentes são logo encobertas pelas que vêm depois.
-
-35. "A uma inteligência dotada de altivez e duma visão total do tempo e da substância, crês acaso que a vida do homem se afigure valiosa? — Impossível, disse ele. — Portanto, a uma pessoa assim tampouco parecerá terrível a morte? — Absolutamente não."
-
-36. "É próprio dos reis fazerem o bem e serem malsinados."
-
-37. É uma vergonha que o rosto se preste docilmente a moldar-se e compor-se ao mando da inteligência e esta a si mesma não se molde e componha.
-
-38. "Não adianta agastar-se com as coisas; elas não fazem caso nenhum."
-
-39. "Oxalá dês alegrias aos deuses imortais e a nós."
-
-40. "Segar a vida como espiga rica de grãos, e que um viva e o outro não."
-
-41. "Se os deuses se descuidaram de mim e de meus filhos, isso também tem sua razão."
-
-42. "Comigo estão o bem e a justiça."
-
-43. Não tomar parte em seus lamentos e convulsões.
-
-44. "Eu lhe daria esta resposta justa: Estás enganado, homem, se cuidas que um varão de algum préstimo deve pesar as possibilidades de vida e morte, em vez de considerar apenas este aspecto de seus atos: se o que faz é justo ou injusto, de homem de brio ou covarde."
-
-45. "A verdade, atenienses, é esta: quando a gente ocupa um posto, seja por o considerar o melhor, seja porque tal foi a ordem do comandante, aí, na minha opinião, deve permanecer diante dos perigos, sem pesar o risco de morte ou qualquer outro, salvo o da desonra."
-
-46. "Mas, meu caro, vê lá se a nobreza e o bem não diferem de salvar do perigo outras pessoas e a própria; essa preocupação de quantos anos viver, um homem deveras homem deve pô-la de lado, em vez de apegar-se à vida; deve confiar esse cuidado à divindade, crer nas mulheres quando dizem que ninguém escapa à sua sina e examinar o corolário, isto é, qual a maneira mais digna de viver esse tempo que vai viver."
-
-47. Observa o curso dos astros como se os acompanhasses no giro e reflete assiduamente nas mútuas conversões dos elementos. Esses pensamentos lavam a impureza da vida terrena.
-
-48. Bela esta reflexão de Platão. Por certo, quem discorre sobre a Humanidade deve examinar também o que há sobre a terra, como se a contemplasse do alto duma elevação: rebanhos, exércitos, lavouras, casamentos, divórcios, nascimentos, mortes, vozearia dos tribunais, regiões desertas, diversidade de povos bárbaros, festas, lutos, feiras, a mixórdia e a boa ordem formada dos contrários.
-
-49. Revendo o passado e as múltiplas transformações do que existe no presente, podemos antecipar a contemplação do futuro, pois será absolutamente semelhante e incapaz de sair do ritmo dos fatos atuais. Daí, tanto faz estudar a vida humana por quarenta anos como por dez milênios. Com efeito, o que verás a mais?
-
-50. "E o que da terra nasceu à terra volta; o que brotou dum germe do éter, à abóbada celeste." Em outras palavras: o desmanchar dos entretecimentos existentes, em átomos, e uma dispersão análoga dos elementos impassíveis.
-
-51. Também: "Vão desviando o curso do tempo com alimentos, bebidas, e sortilégios, a fim de não morrer". — "O vento que os deuses desencadeiam, temos de suportá-lo entre sofrimentos, sem queixas."
-
-52. Melhor na luta, sim, porém não mais votado ao bem comum, nem mais discreto, nem mais disciplinado em face dos acontecimentos, nem mais indulgente para com os enganos do próximo.
-
-53. Quando se pode desempenhar um mister segundo a razão comum dos deuses e dos homens, nada há que temer, pois quando podemos ser úteis graças a uma atividade próspera, desenvolvida de acordo com a nossa constituição, então nenhum dano é de recear.
-
-54. Em toda parte e continuamente de ti depende dar bom acolhimento, em respeito aos deuses, às conjunturas presentes, tratar com justiça os homens presentes e esmerar-te no pensamento presente para que nele nada se insinue que não compreendas.
-
-55. Não distraias a tua atenção para veres os guias alheios, mas atenta diretamente para este ponto: para onde te encaminham não só a natureza universal, por meio do que te acontece, como também a tua, por meio das tarefas que te impõe? Da constituição de cada um decorre o seu mister; ora, os demais seres foram constituídos em vista dos racionais e, em todos os outros casos, os seres inferiores o foram em vista dos superiores, e os racionais em vista uns dos outros. Na constituição do homem predomina a sociabilidade. Em segundo lugar vem a não sujeição às paixões corpóreas, que é próprio do movimento da razão e da inteligência circunscrever-se e não se deixar vencer quer pelo movimento dos sentidos, quer pelo dos instintos; com efeito, um e outro são de natureza animal, enquanto o intelectual quer primar e não ser submetido àqueles. E com razão, pois é de sua natureza servir-se de ambos. Em terceiro lugar, na constituição racional, vem o dom de não precipitar os juízos e não se deixar embair. Que o teu guia siga por um caminho direto, firmado nesses dotes, e terá o que lhe pertence.
-
-56. Deves viver conforme a natureza o tempo excedente que te resta, como se já estivesses morto, terminada aqui tua vida.
-
-57. Preza apenas o que te acontece, urdido na trama do teu destino. Que se ajusta melhor a ti?
-
-58. A cada evento, tem diante dos olhos aqueles a quem sucedeu o mesmo e, sofrendo, agastados e surpresos, reclamavam. Onde estão eles agora? Em parte alguma. E então? Queres imitá-los? Não queres deixar as vicissitudes alheias a seus causadores e vítimas, e empregar todos os teus esforços em como tirar proveito delas? Tirarás, com efeito, excelente proveito e será matéria tua, se te aplicares, com decisão, a ser bom em tudo o que fazes e tiveres presentes estes dois princípios: que é indiferente o momento da ação. . .
-
-59. Cava fundo; no fundo está a fonte do bem, capaz de jorrar perenemente, basta que não pares de cavar.
-
-60. Cumpre que o corpo também esteja firme e não descaia para um e outro lado, quer quando em movimento, quer quando em repouso. O mesmo que a inteligência faz ao rosto, mantendo-o constantemente composto e de nobre aspecto, deve-se exigir do corpo todo. Deve-se manter tudo isso sob vigilância, com naturalidade.
-
-61. A arte de viver é mais semelhante à luta que à dança em nos mantermos eretos e preparados para os acontecimentos imprevistos.
-
-62. Reflete assiduamente em quem são as pessoas cujo testemunho desejas e quais os seus guias; assim não te queixarás dos que erram sem querer, nem precisarás de seu testemunho quando olhares para as fontes de suas opiniões e impulsos.
-
-63. É sem querer, diz ele, que toda alma se priva da verdade; igualmente, portanto, da justiça, da temperança, da benevolência e de toda virtude. É sumamente necessário te lembres disso continuamente; serás assim mais brando para com todos.
-
-64. A cada sofrimento, lembra que não traz vergonha nem causa dano à inteligência que te rege, por que não a corrompe enquanto racional, nem enquanto social. Na maioria dos sofrimentos, ademais, acuda-te a máxima de Epicuro: a dor não é insuportável nem eterna, se te lembrares dos seus limites e não a ampliares com a imaginação. Lembra-te igualmente que muitas coisas aborrecidas, sem que o percebamos, são o mesmo que a dor, como a sonolência, o calor ardente e a falta de apetite. Por isso, quando passares por um desses dissabores, dize a ti mesmo que cedes a uma dor.
-65. Toma cuidado para não sentires para com os misantropos o mesmo que os misantropos sentem para com a Humanidade.
-66. Como saber se Telauges não tinha disposições melhores que as de Sócrates? Não basta haja Sócrates morrido de maneira mais gloriosa, discutido com os sofistas com maior sutileza, suportado melhor a vigília noturna sob a geada, demonstrado mais nobreza desatender à ordem de ir buscar o Salamínio, nem que caminhasse pelas ruas empertigado — sobre o que valeria bem a pena deter a atenção, se é que é verdade. O que cumpre investigar é que disposições de espírito tinha Sócrates, se podia contentar-se com ser justo para com os homens e piedoso para com os deuses, sem se agastar com os vícios daqueles, nem escravizar-se à ignorância de nenhum, nem receber com estranheza qualquer parcela de seu quinhão no conjunto, nem sofrê-la como intolerável, nem solidarizar sua inteligência com as paixões da carne.
-
-67. A natureza não te fundiu na composição a ponto de não permitir que te estremes e possuas o que é teu. Ao homem é sumamente possível ser como um deus sem ser reconhecido de ninguém. Lembra-te sempre disso e igualmente que a vida feliz depende de mui pouco; por desesperares de ser competente na dialética e na física não é que hás de renunciar a ser livre, modesto, social e submisso à divindade.
-
-68. Passa a tua vida a salvo de violências, na mais completa alegria do coração, ainda que todos clamem o que quiserem e as feras espostejem os pobres membros dessa massa que nutres em torno de ti. Realmente, que impede que, em meio a tudo isso, a tua mente se conserve calma, com discernimento correto do que a circunda e pronta a tirar proveito do que se lhe oferece? Desse modo, dirá o discernimento ao que depara: Tu, por tua essência, és isto, embora a opinião te apresente como outro. O aproveitamento dirá ao que depara: Eu estava à tua procura, pois o que me está à mão é sempre matéria de virtude racional e social e, em geral, de arte humana ou divina. Tudo quanto acontece à divindade ou ao homem se toma habitual e já não é novo nem difícil de manejar, mas conhecido e fácil de trabalhar.
-
-69. É da perfeição moral passar cada dia como se fosse o último, sem comoções, nem torpores, nem fingimento.
-
-70. Os deuses, que são imortais, não se amofinam por terem de suportar por tantos séculos, inevitável e constantemente, seres inferiores tais e tantos; ademais, zelam por eles de todas as maneiras. Tu, porém, descoroçoas, tu, que estás em vias de partir, e isso quando és um desses seres inferiores?
-
-71. É cômico não fugir à própria maldade — o que é possível; e querer fugir à dos outros — o que é impossível.
-
-72. A faculdade racional e social, com boas razões, considera inferior a si tudo quanto se lhe depara não inteligente nem social.
-
-73. Quando tiveres a satisfação de prestar um benefício, e outrem a de tê-lo recebido, para que ainda procuras, como os insensatos, uma terceira, a de saberem que fizeste o bem ou a de receberes a paga?
-
-74. Ninguém se cansa de receber ajuda. A ajuda é uma ação conforme com a natureza. Não te canses, pois, de recebê-la ao mesmo tempo que a dás.
-
-75. Foi a natureza universal que decidiu formar o mundo. Logo, ou todo acontecimento se dá por via de consequência, ou são absurdos até os objetivos mais importantes a que se impele em especial o guia do mundo. A evocação desse pensamento te dará maior serenidade em muitas contingências.
-
-
-LIVRO VIII
-
-1. Um dos fatos que contribuem para a despretensão é o de já não depender de ti o teres vivido toda a existência ou, pelo menos, desde a juventude, como filósofo; ao contrário; aos olhos de muitos outros e aos teus próprios, é evidente que andas longe da Filosofia. Estás, pois, desmentido e já não te é fácil granjear a fama de filósofo; até as bases se opõem. Se enxergas deveras onde reside a questão, desinteressa-te da fama e contenta-te com viveres como quer a natureza o resto de tua vida, dure o que durar. Procura entender o que ela quer e nada mais te aflija. Sabes por experiência, após quantos erros, que não deparaste a felicidade nenhures, nem nos silogismos, nem na riqueza, nem na glória, nem nos deleites, em nada. — Onde, pois, está? — Em realizar o que a natureza do homem reclama. — Como, então, realizá-lo? — Possuindo os princípios que regem os impulsos e as ações. — Que princípios? — Os do bem e do mal, quais sejam: nada é bom para o homem, se não o torna justo, temperante, viril, livre, e nada é mau, se não lhe infunde os vícios opostos às mencionadas virtudes.
-
-2. A cada ação, pergunta a ti mesmo: Que efeitos terá para mim? Não me trará arrependimento? Em breve estarei morto e tudo haverá desaparecido. Se o que estou fazendo é de um ser inteligente, social e com regalias divinas, que mais procuro?
-
-3. O que são Alexandre, Caio e Pompeu ao lado de Diógenes, Heráclito e Sócrates? Estes viram as coisas, suas causas, sua matéria, e tais conhecimentos eram os seus guias; naqueles, porém, a ignorância de quantos fatos! A sujeição a quantos amos!
-
-4. Ainda que arrebentes, nem por isso deixarão de fazer o que fazem.
-
-5. Em primeiro lugar, não te perturbes; tudo obedece à natureza do universo e em breve não serás ninguém em parte alguma, como Adriano e Augusto. Depois, olhos postos em teu mister, observa-o e, lembrado da obrigação de seres um homem bom e do que a natureza humana reclama, cumpre-o sem desvios e tal como te parece justo; apenas, faze-o de bom grado, com modéstia e sinceridade.
-
-6. O mister da natureza universal é transpor para lá o que está aqui, transformá-lo, erguê-lo dali e levá-lo para acolá. Tudo são mudanças, mas não há razão de se temerem novidades; tudo é corriqueiro e, ademais, os quinhões se equivalem.
-
-7. Toda natureza satisfaz-se com seguir bem o seu caminho. A natureza racional segue bem o seu caminho quando, nos pensamentos, não assente ao falso e ao dúbio; nos impulsos, tende apenas para as obras do bem comum; nos desejos e aversões, atém-se ao que depende de nos, acatando de bom grado tudo que a natureza comum lhe atribui. Porque ela é uma parte desta, como a natureza da folha o é da natureza da planta. A diferença está em que, no caso da folha, sua natureza é parte duma natureza desprovida de sentidos e de razão, possível de ser empecida, enquanto a do homem é parte duma natureza sem empecilhos, inteligente e justo, que atribui a cada qual segundo o mérito equitativas parcelas de tempo, substância, causa, energia e acidentes. Examina, pois, não se vais encontrar igualdade nos quinhões ponto por ponto, mas sim no confronto da soma de tudo que é de um com a reunião do que é de outro.
-
-8. Não podes ler. Mas podes refrear os excessos; podes suplantar os prazeres e dores; podes alçar-te acima da glória vã; podes não te irritar com os insensíveis e ingratos e, de sobejo, zelar por eles.
-
-9. Que ninguém te ouça mais lastimar a vida na corte, nem tu mesmo.
-
-10. O arrependimento é como uma repreensão a si mesmo por ter negligenciado algo útil. O bem é necessariamente alguma coisa útil e o homem bom deve dedicar-se a ele. Nenhum homem de bem se arrependeria de ter negligenciado um prazer; logo, o prazer não é nem útil, nem um bem.
-
-11. Que é isto em si mesmo, pela sua própria constituição? Qual é sua substância e sua matéria? Qual a causa formal? Que faz no mundo? Quanto tempo dura?
-
-12. Quando te custa despertar do sono, lembra-te de que conforme à tua constituição e à natureza humana é prestar serviços à comunidade, enquanto o dormir é comum também aos viventes irracionais; o que é conforme à natureza de cada um lhe é mais adequado, mais natural e, portanto, também mais agradável.
-
-13. Constantemente e, se possível, a cada ideia, aplica a ciência da natureza, a das paixões, a dialética.
-
-14. Quando deparas seja quem for, dize logo a ti mesmo: Que princípios sobre o bem e o mal segue esse homem? Com efeito, se segue tais e tais princípios sobre o prazer, a dor, as causas desta e daquele, bem como sobre a glória, a obscuridade, a morte e a vida, não acharei esquisito ou estranho que pratique determinados atos e lembrar-me-ei de que tem de proceder necessariamente assim.
-
-15. Lembra-te de que fica tão mal estranhar que a figueira dê figos, como que o mundo dê os frutos de que é produtor. Igualmente ao médico e ao piloto fica mal estranharem que alguém tenha febre ou que um vento sopre contrário.
-
-16. Lembra-te de que mudar de opinião e seguir a quem te corrige são igualmente atos livres, pois é atividade tua, desenvolvida de acordo com um impulso ou julgamento teu e naturalmente também de acordo com a tua inteligência.
-
-17. Se depende de ti, por que o fazes? Se de outrem, a quem inculpas? Os átomos? Os deuses? Em ambos os casos, ê insensatez. A ninguém deves culpar, pois, se podes, corrige-o; se a ele não podes, corrige ao menos o fato; se este tampouco, que adianta ainda queixares-te? Nada se deve fazer sem propósito.
-
-18. Aquilo que morre não cai fora do mundo. Se aqui fica, aqui também se transforma e se decompõe nos elementos próprios, que são os do mundo e os teus. Os elementos mesmo se trans formam e não resmungam.
-
-19. O cavalo, a vinha, cada ser nasceu para um fim. Do que te admiras? O sol também, dirá, para algum fim nasceu, bem como os outros deuses. Tu, pois, para que nasceste? Para o prazer? Vê se essa concepção resiste.
-
-20. A natureza de cada um tem em mira não menos o seu fim que o seu começo e o decurso de sua vida; é como quem atira a bola. Que bem há para a bola em subir, ou que mal em descer e mesmo em cair? Que bem há para a bolha em ser formada ou que mal em ser desfeita? Iguais perguntas sobre a candeia.
-
-21. Dá-lhe uma volta e vê o que é, o que fica com a velhice, com a doença, com a prostituição. Efêmero é tanto quem louva como o louvado, tanto quem lembra como o lembrado; ademais, num canto desta parte do mundo! Mesmo aí nem todos concordam; nem sequer concorda alguém consigo mesmo, e a terra toda não passa dum ponto!
-
-22. Atenta no objeto, ou na atividade, ou no preceito, ou no significado. Sofres o que mereces, mas preferes ser bom amanhã a sê-lo hoje.
-
-23. Faço alguma coisa? Faço-a tendo em vista o bem da Humanidade. Acontece-me alguma coisa? Acolho-a tendo em vista os deuses e a fonte de tudo, desde a qual se enovela tudo que ocorre.
-
-24. Tal como vês o banho — óleo, suor, sujeira, água viscosa, tudo asqueroso —, tal é toda parte da vida e todo objeto deparado.
-
-25. Lucila pranteou Vero; depois foi a vez de Lucila; Secunda, Máximo; depois a vez de Secunda; Epitincano, Diotimo; depois a vez de Epitincano; Antonino, Faustina; depois, a vez de Antonino. Assim é tudo. Céler, Adriano; depois, a vez de Céler. Aqueles célebres pela sutileza, ou pelas previsões, ou pela ufania, onde estão? (Sutis são, por exemplo, Córax, Demétrio Platônico, Eudêmon e outros como eles.) Tudo efêmero, morto há muito; vários nem por pouco tempo lembrados; outros convertidos em lenda e outros lendas já extintas. Lembra-te, pois, disto: necessariamente se dispersará o composto que és, o teu alento se extinguirá, transmigrará e se localizará alhures.
-
-26. A alegria do homem consiste em fazer o que é próprio de homem. Próprio de homem é querer bem ao seu semelhante, desprezar as comoções dos sentidos, distinguir as ideias fidedignas, contemplar a natureza do universo e os acontecimentos conformes com ela.
-
-27. Três ordens de relações: uma com o estojo que nos reveste; outra com a causa divina, origem de tudo que a todos acontece; e outra com os conviventes.
-
-28. A dor ou é um mal para o corpo — portanto, ele que se manifeste — ou para a alma; mas esta pode preservar sua própria serenidade e calma, não admitindo que seja um mal. Com efeito, todo juízo, impulso, desejo ou aversão estão no âmago e nada penetra até lá.
-
-29. Apaga as fantasias dizendo a ti mesmo continuamente: Depende de mim neste momento que nesta alma não haja maldade alguma, desejo algum, em síntese, perturbação alguma; ao invés, vendo tudo como é, trato cada coisa segundo o seu valor. Lembra-te dessa faculdade que tens segundo a natureza.
-
-30. Falar, quer no Senado, quer na presença de quem for, com apuro e clareza; usar uma linguagem sã.
-
-31. Corte de Augusto: esposa, filha, netos, ascendentes, irmã, Agripa, parentes, familiares, amigos, Areu, Mecenas, médicos, sacrificadores. A morte de toda a corte. Passa depois às outras não a morte de cada homem, por exemplo a dos Pompeus. Leva em conta igualmente aquela inscrição dos túmulos: Último de sua linhagem. Quanto se afligiram os seus antepassados para deixar após si um herdeiro e, afinal, era fatal que algum fosse o último! Novamente, aqui, a morte de toda uma linhagem.
-
-32. Deves organizar tua vida ato por ato e dar-te por satisfeito se cada um deles alcança o seu fim tanto quanto possível; ninguém pode impedir que leves cada ato a alcançar o seu fim. — Mas surgirão obstáculos de fora. — Nenhum, pelo menos, que te impeça a justiça, a temperança, a prudência. — Mas talvez me impeça alguma outra atividade. — Talvez; porém, com a boa acolhida ao obstáculo mesmo e com a sábia mudança para uma atividade não obstada, a primeira ação é imediatamente substituída por outra, que quadra à organização a que aludi.
-
-33. Ganhar sem orgulho e perder com abnegação.
-
-34. Viste alguma vez uma mão amputada, ou um pé, ou uma cabeça decepada, caída algures longe do resto do corpo? Mais ou menos isso faz de si, quanto dele depende, quem, recusando os acontecimentos, se desmembra do bem comum ou age contra ele. Estás expulso da unidade natural, pois nasceste como parte dela e agora tu mesmo te amputaste. Mas o admirável nisto é que te podes reintegrar. A divindade não concedeu a nenhuma outra parte o privilégio de voltar a juntar-se depois de se haver separado e amputado. Considera, pois, a benignidade com que ela distinguiu o homem, deixando ao seu arbítrio não só o não se arrancar absolutamente do todo mas também o retornar depois de arrancado, reincorporando-se e retomando o seu lugar de parte.
-
-35. Assim como a natureza dos racionais deu a cada um dos seres racionais as demais faculdades, assim também dela recebemos a seguinte: da mesma forma que ela converte, entrosa na ordem de seu destino, integra em si mesma como parte tudo que a obsta e contraria, assim também o vivente racional pode mudar todo empecilho em material seu e utilizá-lo, seja qual for o desígnio primitivo.
-
-36. Que não te transtornem as conjeturas sobre o desenrolar de tua vida. Não imagines em conjunto quais e quantas canseiras é de crer te sobrevenham, mas, a cada uma que surge, pergunta a ti mesmo: Que de insuportável e intolerável há nesse trabalho? Terás vergonha de confessá-lo. Em seguida, recorda que não é tampouco o passado que te aflige, mas sempre o presente. E este se apouca, desde que o isoles e desmintas a tua inteligência de que não pode arrostá-lo só.
-
-37. Acaso Pantéia ou Pérgamo estão agora sentados junto ao esquife de Vero? — E daí? — E Cábrias ou Diotimo junto ao de Adriano? — Ridículo! E daí? — Se estivessem ali sentados, haveriam estes de notá-lo? — E daí? — Se o notassem, haveriam de gostar? — E daí? — Se gostassem, haveriam aqueles de ser imortais? Não estava assim determinado, que deviam primeiro envelhecer e depois morrer? O que, pois, iam aqueles outros fazer mais tarde, quando estes morressem? Bodum tudo isso, odre cheio de lama de sangue.
-
-38. Se tens vista aguda, olha e julga com o ânimo mais sábio.
-
-39. Virtude sublevada contra a justiça não vejo na constituição do vivente racional; contra o prazer, vejo a temperança.
-
-40. Se suprimires tua opinião sobre o que aparentemente te aflige, tu mesmo te colocas na máxima segurança. — A quem te referes? — À tua razão. — Mas eu não sou a razão. — Bem; então, que tua razão não aflija a si mesma; se outra coisa está mal em ti que forme opinião sobre si mesma.
-
-41. Um empecilho à sensação é um mal para uma natureza animal; um empecilho ao instinto é igualmente um mal para uma natureza animal. Existe alguma outra coisa igualmente empecilho e mal para a constituição vegetal. Da mesma forma, portanto, um empecilho da inteligência será um mal para uma natureza inteligente. Transpõe isso tudo para o teu caso. Toca-te uma dor, um prazer? Que a sensibilidade se encarregue. Um obstáculo se opôs a um impulso? Se te entregaste sem reserva ao impulso, então é um mal enquanto és ser racional; se, porém, eximiste a inteligência, já não sofreste dano nem impedimento. Ao que é próprio da inteligência, nenhum outro ente sói empecer; não a toca o fogo, nem o ferro, nem o tirano, nem a calúnia, nada de nada; uma vez tornada esfera perfeita, assim fica?
-
-42. Não tenho o direito de magoar a mim mesmo, pois jamais magoei a outrem por querer.
-
-43. Cada qual tem o seu deleite. O meu é quando o meu guia goza de bem-estar, sem aversão a nenhuma pessoa ou a nenhum dos acontecimentos que ocorrem aos homens, tudo vendo com olhos benevolentes, dando a cada coisa boa acolhida e tratando-a pelo que vale.
-
-44. Concede a ti mesmo este momento presente. Quem aspira de preferência à celebridade no futuro não leva em conta que os homens de então hão de ser tais quais os de agora, que mal suporta; aqueles também serão mortais. Que te importa, em suma, que eles façam eco a tais ou quais vozes ou tenham tal ou qual opinião a teu respeito?
-
-45. Toma-me e atira-me onde quiseres; ali manterei jovial o meu deus, isto é, satisfeito de encontrar-se e agir da maneira que convém à sua própria constituição. Isto merece, acaso, que, por sua causa, minha alma sofra e se rebaixe, humilhada, prostrada, submersa, amedrontada? E o que acharás que valha tanto?
-
-46. A homem nenhum pode suceder nada que não seja contingência humana; nem ao boi, que não seja de boi; nem à vinha, que não seja de vinha; nem à pedra, que não seja próprio de pedra. Se, pois, a cada qual acontece o que lhe é costumeiro e natural, por que te agastares? A natureza comum nada trouxe de insuportável para ti.
-
-47. Se uma causa exterior te magoa, não é ela que te molesta, mas o juízo que dela fazes. Está em tuas mãos apagá-lo prontamente. Se alguma das tuas próprias disposições te aflige, quem impede que retifiques o teu critério? Igualmente, se te pesa de não realizares determinado propósito que te parece são, por que não o realizas em vez de te afligires? — É que um obstáculo mais forte se opõe. — Então, não te aflijas, pois não é tua a culpa de não o realizares. — Mas não vale a pena viver sem que se realize. — Então, deixa a vida de bom grado, tal como morre também quem realiza, mas sem rancor aos obstáculos.
-
-48. Lembra-te de que o guia se torna inexpugnável quando, recolhido em si, contenta-se de não fazer o que não quer, mesmo quando se põe em guarda sem raciocínios. Que será quando, cercado de precauções e raciocínios, formar juízo de alguma coisa? Por isso a inteligência isenta de paixões é uma fortaleza; o homem não tem abrigo mais fortificado onde se refugie e se livre, para o futuro, de cair prisioneiro. Quem não o viu é um ignorante; quem viu e não se refugiou, um infeliz.
-
-49. Não digas a ti mesmo nada em acréscimo ao que revelam as ideias que se apresentam. Comunicaram-te que fulano fala mal de ti. Comunicaram isso; que ficasses prejudicado não comunicaram. Vejo que o filho está doente. Vejo-o; mas que esteja em perigo não vejo. Fica, pois, assim, sempre nas primeiras ideias, sem ajuntar nada de teu, e nada te acontece. Antes, ajunta que reconheces cada um dos fatos que ocorrem no mundo.
-
-50. O pepino amarga? Deixa-o. Há espinheiros no caminho? Esquiva-te. Basta. Não acrescentes a pergunta: Por que existem essas coisas no mundo? Aliás, rirá de ti o estudioso da natureza, como ririam o marceneiro e o sapateiro, se os repreendesses por veres em suas oficinas raspas e aparas de seus trabalhos. Em verdade, eles têm onde as despejar, enquanto a natureza universal não tem lugar fora; o admirável no seu mister é que, tendo traçado seus próprios limites, tudo quanto dentro deles parece estragado, velho e imprestável, ela o transmuda em si própria e dessas mesmas coisas de novo cria outras novas, e assim não precisa de substâncias estranhas nem de lugar onde despejar as podridões. Basta-lhe, portanto, seu próprio espaço, sua própria matéria, seu próprio engenho.
-
-51. Não sejas vagaroso em teus atos, confuso em tuas conversas, errante em tuas ideias; não te encolhas duma vez em tua alma nem te projetes fora, nem passes a vida absorvido no trabalho. Matam-te, espostejam-te, perseguem-te com maldições? Que há nisso que impeça tua mente de conservar-se pura, sensata, prudente, justa? É como se alguém, parado junto duma fonte clara e doce, a insultasse: ela não deixaria de manar sua água boa de beber. Que lhe atire lama, estrume, que seja; ela prestes o dissolverá e lavará, sem tingir-se de modo algum. Como, pois, terás uma fonte inexaurível e não um poço? Cresce a todo momento em independência, com bondade, singeleza, recato.
-
-52. Quem não sabe o que é o mundo não sabe onde está; quem não sabe para o que nasceu não sabe o que é, nem o que o mundo é. Quem negligenciou uma dessas noções não poderia dizer sequer para o que existe. Que te parece quem foge ou teme o louvor dos que o aplaudem, ou os que ignoram onde estão e o que são?
-
-53. Queres ser louvado por um homem que se maldiz três vezes por hora? Queres agradar a um homem que de si mesmo não se agrada? Agrada-se de si mesmo quem se arrepende de quase tudo que faz?
-
-54. Não te limites a respirar com os outros o ar circundante, mas doravante pensa em conjunto com a inteligência que tudo envolve; a força intelectiva está tão derramada em toda parte e tão distribuída a quem pode sorvê-la quanto o ar a quem o pode aspirar.
-
-55. O vício não causa nenhum dano ao mundo em geral: em particular, não causa nenhum dano a outrem, mas só é prejudicial àquele a quem é facultado livrar-se dele tão cedo o queira.
-
-56. O livre arbítrio de meu próximo é tão indiferente ao meu livre arbítrio quanto o seu espírito e a sua carne. Com efeito, embora tenhamos sido criados tanto quanto possível uns para os outros, cada um de nossos guias é senhor de si. Doutra forma, o vício do próximo haveria de ser mal meu, o que não houve por bem a divindade, para que não estivesse em poder de outrem causar a minha desventura.
-
-57. A luz do sol parece despejada e está difundida por tudo; não, porém, esgotada; é que esse difundir é um prolongar. Sua luminosidade chama-se actínia pelo fato de se alongar. Podemos verificar o que vem a ser um raio de luz, quando observamos a do sol penetrar numa sala escura por uma abertura estreita; ela se alonga em linha reta e como que se apoia no primeiro objeto sólido que aparece barrando-lhe a passagem para o ar além; ali para, sem escorregar nem cair. Assim se deve a inteligência derramar e difundir, nunca se exaurindo, mas alongando-se, sem bater com violência ou ímpeto nos obstáculos apresentados, nem tampouco cair, mas parando e iluminando aquilo que a recebe. Por si mesmo se privará do brilho aquilo que não o refletir.
-
-58. Quem teme a morte teme ou a ausência dos sentidos, ou sentir de outra maneira. Ora, ou não haverá mais sensação e tampouco sentirás nenhum mal, ou adquirirás sensibilidade de outra natureza e serás um vivente de outra espécie, não terás cessado de viver.
-
-59. Os homens foram feitos uns para os outros; ensina-os, pois, ou suporta-os.
-
-60. Dum modo voa a flecha, doutro a inteligência; mas não menos voa em linha reta e sobre o alvo a inteligência quando se previne e quando se detém no exame.
-
-61. Penetra até o guia de cada um e deixa todos os outros penetrarem até o teu.
-
-
-LIVRO IX
-
-1. Quem pratica injustiça comete impiedade. Como a natureza universal constituiu os viventes racionais uns em vista dos outros, para se ajudarem mutuamente segundo seu mérito e não se prejudicarem de modo nenhum, quem transgride esse decreto comete impiedade, evidentemente, perante a mais augusta das divindades. Também quem mente comete impiedade para com a mesma divindade; a natureza do universo é a natureza das realidades e as realidades têm parentesco com as coisas existentes. Ademais, ela se chama também Verdade e é a causa primeira de todas as verdades. Portanto, quem mente por querer comete impiedade, pois, enganando, pratica injustiça. Também quem o faz sem querer, na medida em que destoa da natureza universal e a desordena combatendo a natureza do mundo. Sim, combate-a quem, malgrado seu, é levado para o lado oposto à verdade; recebeu da natureza recursos, mas negligenciou-os e por isso é incapaz de discernir entre a verdade e a mentira. Igualmente comete impiedade quem procura os prazeres como bens e foge das dores como de males. Com efeito, pessoa que age assim há de necessariamente acusar amiúde a natureza comum de injustiça nos quinhões atribuídos aos biltres e aos honrados, porque muitas vezes os biltres gozam prazeres e conseguem aquilo que os produz, enquanto os honrados deparam o sofrimento e suas causas. Além disso, quem teme o sofrimento há de temer um dia algum dos eventos do mundo: já nisso há impiedade. Quem vai em busca de prazeres não se absterá da injustiça; aí está uma impiedade evidente. Há opostos a que a natureza comum é indiferente — e não teria criado uns e outros se não fosse indiferente a uns e outros; quanto a eles quem deseja seguir a natureza, afinando por ela os seus sentimentos, deve também sentir indiferença. Quem, pois, não é indiferente à dor e ao prazer, à morte e à vida, à glória e à obscuridade, que a natureza universal trata com indiferença, comete, é claro, impiedade. Dizer que a natureza comum os trata com indiferença é como dizer que eles acontecem indiferentemente, decorrendo dos fatos e de suas consequências graças a um impulso inicial da Providência, pelo qual. a partir de certo momento, ela deu começo à presente organização do mundo, compondo determinadas razões das coisas futuras e separando certas forças geradoras de substâncias, transformações e sucessões como as de que se trata.
-
-2. Seria mais próprio de pessoa culta partir dentre os homens sem ter provado o gosto da mentira, de toda simulação, sensualidade e orgulho; contudo, um roteiro de emergência é exalar o último alento enfastiado desses vícios. Acaso preferes apegar-te ao vício e ainda não te persuadiu a experiência a fugir dessa peste? Peste, com efeito, é a corrupção da inteligência muito mais do que uma análoga má composição e alteração do ar respirável em torno de nós. Esta é a peste para os viventes enquanto viventes; aquela, dos homens enquanto homens.
-
-3. Não desprezes a morte; dá-lhe boa acolhida, como a uma das coisas que a natureza quer. A decomposição é em si mesma um fenômeno como a juventude, a velhice, o crescimento, a maturidade, o aparecimento dos dentes, da barba, das cãs, a fecundação, a gravidez, o parto e quantas outras operações naturais trazem as quadras da tua vida. Portanto, diante da morte, a atitude do homem que raciocina não é recebê-la com revolta, violência ou soberba, mas aguardá-la como uma das operações naturais. Como aguardas agora que o nascituro saia um dia do ventre de tua esposa, assim acolhe a hora em que tua alma escapará desse invólucro Se queres um preceito simples, que toque o coração, nada te conformará melhor com a morte do que examinar de que objetos te vais separar e com quais caracteres deixará de estar misturada tua alma. Não é absolutamente mister te desavenhas com eles, mas que zeles por eles e os suportes com brandura, não esquecendo, embora, que os homens que deixarás não cultivam os teus princípios. Com efeito, se algo te pode reter e prender à vida, seria apenas a concessão de conviveres com pessoas de princípios iguais. Vês, porém, quanto exaure a divergência de vistas no convívio, a ponto de dizeres: Oxalá mais cedo venhas, ó morte, para que eu não acabe por me esquecer de mim mesmo!
-
-4. Quem peca contra si peca; quem comete injustiça a si agrava, porque a si mesmo perverte.
-
-5. Muitas vezes comete injustiça quem omite, não apenas quem faz alguma coisa.
-
-6. Basta o juízo evidente do momento, a ação de interesse social do momento, a disposição do momento, de bem acolher todo acontecimento produzido pela causa exterior.
-
-7. Delir a imaginação; reprimir o impulso; apagar o desejo; dominar o guia.
-
-8. Entre os viventes irracionais foi distribuída uma alma única; aos racionais foi partilhada uma alma inteligente única, como única é a terra de todos os seres terrenos, por uma luz única enxergamos e um ar único respiramos todos quantos temos vista e respiração.
-
-9. Todos os seres que compartilham algo em comum anseiam por seus semelhantes. Tudo que é terreno pende para a terra; todo líquido conflui; igualmente o aeriforme, de sorte que é preciso recorrer a barragens e violência. O fogo tende a subir graças ao fogo elementar; tão pronto está a conflagrar com todo fogo daqui, que todo material um tanto mais seco é inflamável devido a menor grau de combinação com aquilo que impeça o acendimento. Desse modo, tudo que participa da natureza inteligente comum anseia, igualmente e até mais, por seus semelhantes. Quanto mais excele sobre os outros seres, tanto mais prontamente se mistura e confunde com o seu semelhante. Entre os irracionais não custa notar enxames, manadas, ninhadas e como que amores; porque neles já existem almas e se encontra no ser superior o instinto gregário intenso, qual não há nos vegetais, nem nas pedras e paus. Entre os viventes racionais verificam-se regimes políticos, amizades, famílias, reuniões, bem como, nas guerras, tratados e tréguas. Entre os seres ainda superiores, conquanto distantes, de certo modo subsiste uma união, por exemplo entre os astros. Assim, o esforço para ascender a grau mais elevado pode operar solidariedade mesmo em seres distantes. Observa, pois, o que ora sucede: apenas os seres inteligentes andam agora esquecidos da atração mútua e da tendência à união e somente neles não se vê confluência. Contudo, por mais que fujam, são detidos de todos os lados, pois pode mais a natureza; verás o que digo, se prestares atenção. Mais depressa se poderá achar um objeto de terra sem contato com nenhum objeto de terra do que um homem desligado da Humanidade.
-
-10. O homem, a divindade, o mundo, dão fruto; na quadra própria cada qual dá fruto. Se o uso aplica o termo, no sentido próprio, à vinha e outras plantas, não importa; a razão dá um fruto, tanto comum como particular, do qual provêm outros semelhantes, de natureza igual à da razão mesma.
-
-11. Se podes, corrige; senão, lembra-te de que para isso te foi dada a bondade. Os deuses mesmos são bondosos para com tais pessoas; ajudam-nas até na obtenção de alguns desejos, como o de saúde, riqueza, glória; tão bondosos são. Tu também o podes ser; senão, dize-me: quem to proíbe?
-
-12. Trabalha, não como um coitado, nem como quem quer inspirar dó ou ser admirado; deseja, sim, apenas uma coisa: andar e parar como determinar a razão política.
-
-13. Hoje saí de todos os embaraços; ou melhor, expulsei todos os embaraços; pois não se achavam fora de mim, mas cá dentro, nas opiniões.
-
-14. Tudo isso é, na experiência, vulgar; na duração, efêmero; na matéria, grosseiro. Tudo hoje é tal qual era no tempo daqueles que sepultamos.
-
-15. As coisas, por si mesmas, param do lado de fora, sem nada saberem de si e nada manifestarem. Quem se manifesta a respeito delas? O nosso guia.
-
-16. O bem e o mal do ser racional e social não estão no que sente, mas no que faz, como sua virtude ou vício tampouco estão no que sente, mas no que faz.
-
-17. Para a pedra atirada, cair não é um mal, nem subir um bem.
-
-18. Penetra-os até o guia e verás que juízes temes e que juízes são de si mesmos!
-
-19. Tudo está em transformação. Tu próprio estás numa alteração contínua e, em certo sentido, perecendo; todo o universo também.
-
-20. O pecado de outrem cumpre deixá-lo onde está.
-
-21. O fim da atividade, a cessação e como que morte dum impulso, duma opinião, não constituem nenhum mal. Passa agora às idades, ou seja, à infância, à adolescência, à juventude, à velhice; toda mudança desses estados também é morte. É de temer? Passa agora à vida com teu avô, com tua mãe e por fim com teu pai; achando aí outras muitas destruições, transformações e cessações, pergunta a ti mesmo se eram de temer. Assim, pois, tampouco o será o fim, a cessação, a transformação de toda a tua vida.
-
-22. Penetra até o teu guia, até o do universo e o dessa pessoa; o teu, para criar nele uma mente justiceira; o do universo, para te lembrares de que todo és parte; o dessa pessoa, para saberes se é ignorância ou juízo formado e ao mesmo tempo levares em conta que é teu parente.
-
-23. Assim como tu mesmo integras a comunidade social, assim integre toda ação tua a vida social. Ação tua sem relação, próxima ou remota, com o bem comum lacera a vida, impede que seja una, é sediciosa como quem numa república isolasse dessa espécie de sinfonia a sua parte individual.
-
-24. Cóleras e brinquedos infantis, almas que carregam cadáveres, que nos trazem à lembrança, com mais vida, a Evocação dos Mortos.
-
-25. Atenta na qualidade da causa formal e examina-a abstraída da causa material; em seguida, delimita também o tempo máximo que, por sua natureza, subsiste esta individualidade.
-26. Sofreste milhares de penas por não te satisfazeres com que teu guia exerça o mister para que foi constituído. Basta, porém!
-
-27. Quando outrem te censura ou odeia, ou quando clamam contra ti similares insultos, busca-lhes a alma, penetra e vê como são. Verás que é escusado te esfalfes por que tenham de ti uma opinião boa ou má. Não obstante, deves ser benevolente para com eles, por natureza teus amigos. Os próprios deuses ajudam-nos de todas as maneiras, por meio de sonhos, de oráculos, naquilo justamente por que eles se atormentam.
-
-28. Os ciclos do mundo são esses, de alto a baixo, século após século. Ou a inteligência do universo age por um impulso em cada caso — e, se assim é, acolhe tu seu movimento; ou teve um impulso único, derivando o resto por via de consequência, e uma coisa contém a outra, pois de certo modo são átomos ou indivisos. Em suma, se há um Deus, tudo está bem; se reina o acaso, não obres tu ao acaso. Em pouco, a terra nos cobrirá a todos; depois, ela, por sua vez, se transformará e o resultado, por sua vez, se transformará indefinidamente e o novo resultado, por sua vez, se transformará indefinidamente. Quem considerar as vagas sucessivas de transformações e mudanças, bem como sua rapidez, desprezará tudo que é mortal.
-
-29. A causa universal é uma torrente; tudo ela carrega. Quão vulgares esses estadistas anãos, que supõem praticar a Filosofia! Recheados de muco! Homem, que fazer? Faze o que agora a natureza requer. Começa, se deixam, e não olhes em tomo a ver se alguém o saberá. Não esperes a república de Platão; satisfaze-te com um progresso ainda que mínimo; considera que não é pouca coisa o resultado desse progresso. Quem lhes mudará um dos princípios? Sem mudança de princípios, que mais haverá, senão servidão de lamurientos a fingir que obedecem? Aduze Alexandre e Filipe, cita-me Demétrio de Falera. Eu os seguirei, caso tenham visto o que a natureza comum queria e o tenham ensinado a si mesmos; mas, se encenaram papéis, ninguém me condenou a imitá-los. A obra da Filosofia é singela e modesta; não me induzas a exibir grandezas.
-
-30. Contemplar, do alto, rebanhos aos milhares, ritos aos milhares, barcos de todo gênero nas tempestades e nas calmas, diversidade de pessoas nascendo, convivendo, desaparecendo. Imagina também a vida que outros viveram outrora, a que se viverá depois de ti e a que se vive agora entre as nações bárbaras; quantos sequer sabem o teu nome, quantos logo o esquecerão, quantos ora te louvam e talvez em breve te maldigam; como não é digna de menção a memória, nem a glória, enfim, nada de nada.
-
-31. Impassibilidade em face dos acontecimentos oriundos da causa exterior; justiça nas obras oriundas da causa que vem de ti; isto é, impulsos e atos confinados exclusivamente ao mister do bem comum, que isso é conforme com a tua natureza.
-
-32. Podes eliminar muitas coisas supérfluas que te incomodam e subsistem inteiramente de tua opinião, e abrir a ti mesmo, daí por diante, largo espaço para abarcar com o pensamento o universo inteiro, para meditar sobre o tempo infinito e considerar a rápida transformação de cada coisa em particular, sobre quão breve o que vai do nascimento à dissolução, que infinito precedeu o nascimento e quão igualmente imenso o que vem após a dissolução.
-
-33. Cedo estará destruído tudo que vês; as testemunhas da destruição, por sua vez, serão destruídas; quem morre em extrema velhice e o morto prematuro se acharão em situação idêntica.
-
-34. Quais os guias dessa gente, o alvo de seus esforços, o móvel de seu afeto e sua estima? Imagina que estás vendo suas almas nuas. Quando supõem ferir com suas críticas ou servir com seus louvores, que pretensão!
-
-35. A perda nada mais é que mudança. Nesta se compraz a natureza universal; segundo seus desígnios tudo com acerto se produz, se vem produzindo desde a eternidade sem variar de aspecto e se reproduzirá infinitamente em outros seres semelhantes. Qual a razão, pois, de dizeres que tudo saiu errado e que tudo sairá sempre errado e nenhum poder se encontrou jamais, entre tantos deuses, que venha a corrigi-lo, e que o mundo está condenado a afundar em misérias perpétuas?
-
-36. A podridão da matéria que é substância de cada ser é água, pó, ossos, ranço; ou, ainda: calos da terra são os mármores; sedimentos, o ouro, a prata; pelos, as roupas, sangue, a púrpura, e assim tudo mais. O alento também é coisa da mesma sorte, que passa de um a outro desses estados.
-
-37. Basta dessa existência lastimável, de resmungos, de macaquices. Por que te transtornas? Que há nisso de novo? O que te desvaira? A causa? Examina-a. A matéria? Examina-a. Fora delas nada existe. Mas torna-te, afinal, mais simples e melhor perante os deuses. Tanto faz observar isso durante um século como por três anos.
-
-38. Se pecou, o mal é seu; quiçá não tenha pecado.
-
-39. Ou tudo procede, como num só corpo, duma única fonte inteligente e a parte não deve queixar-se do que ocorre para o bem do todo, ou o que há são átomos, nada mais do que papas e dispersão. Por que, pois, te transtornas? Estás dizendo a teu guia: Estás morto, destruído; viraste uma fera, um comediante; entraste num rebanho, pastas.
-
-40. Os deuses ou nada podem ou podem. Se não podem, por que rezas? Se podem, por que não lhes rogas a graça de não temer nem cobiçar nada disso, nem sofrer por nada disso, em vez de pedir que uma dessas coisas se te depare ou não depare? Afinal, se podem ajudar aos homens, podem ajudá-los também nesses pedidos. Dirás, talvez: "Os deuses deixaram isso nas minhas mãos". Então, não é melhor usares tuas forças com liberdade em vez de lutares com o que de ti não depende, com servidão e aviltamento? E quem te disse que os deuses não nos ajudam no que está em nossas mãos? Começa a orar por isso e verás. Fulano roga: "...que fulana me receba". Roga tu: "...que eu não deseje ser recebido por ela". Outro: "...que eu fique livre de beltrano". Tu: "...que eu não precise livrar-me dele". Outro: "...que eu não perca o meu filho". Tu: "...que eu não sinta o medo de perdê-lo". Em suma, passa a rezar assim e observa o resultado.
-
-41. Conta Epicuro: "Na doença, meus assuntos não eram os sofrimentos físicos, nem conversava sobre doenças com as visitas; continuava nos meus estudos anteriores da natureza e aplicava-me em especial a esta questão: como a inteligência, embora envolvida em semelhantes agitações da carne, preserva, sem se perturbar, o seu bem próprio? Tampouco", prossegue, "dava azo aos médicos de se envaidecer da importância de seu mister, mas minha vida decorria feliz e digna". Que sintas como ele na doença, se adoeceres, e em qualquer circunstância. Não abandonar a Filosofia em nenhuma conjuntura, nem disparatar com leigos em pontos de ciência natural, são preceitos comuns a todas as seitas; atentar somente no que se está fazendo e no instrumento com que se faz.
-
-42. Quando esbarrares com a impudência de alguém, pergunta logo a ti mesmo: Podia não haver impudentes no mundo? Não podia. Não reclames, portanto, o impossível; esse é um daqueles impudentes que há necessariamente no mundo. Recorre ao mesmo pensamento ao deparar um celerado, um desleal, um culpado do que for. Com a lembrança de que é impossível não existir essa espécie de gente, serás mais indulgente para com cada um. Eficaz, também, é pensar em qual virtude deu a natureza ao homem para suportar determinada falta, pois ela deu como antídoto da ingratidão a paciência e de outros vícios outras virtudes. Em suma, tens o direito de ensinar a quem se transvia; todo pecador é alguém que erra a meta e se transvia. Aliás, que mal te fez? Verificarás que, dentre as pessoas com quem te acerbas, nenhuma fez nada que redunde em detrimento de tua inteligência, e neste apenas consiste para ti todo mal e todo dano. Que de mau e estranho há em proceder o inculto como inculto? Vê se não deves recriminar antes a ti por não teres previsto que ele cometeria essa falta. A razão te dá elementos para entenderes provável que tal pessoa incorra em tal pecado; tu, não obstante, o esqueces e estranhas que o pratique. Sobretudo, quando te queixas dum desleal ou ingrato, volta os olhos para ti mesmo; evidentemente é culpa tua se acreditaste que um homem dessa índole manteria a palavra ou se, ao consideres uma mercê, o fizeste com reservas e com o intuito de recolher prontamente todo o fruto de teu próprio ato. Que mais queres quando fizeste o bem a uma pessoa? Não te basta haveres procedido conforme à tua natureza? Ainda procuras a recompensa? É como se os olhos reclamassem a paga de verem e os pés a de andarem. Assim como esses órgãos foram feitos para essas funções e alcançam o seu fim quando as desempenham segundo sua constituição própria, assim o homem, feito para a beneficência, quando pratica algum benefício ou apenas colabora num trabalho indiferente, desempenhou o mister para que foi constituído e alcançou o seu fim.
-
-
-LIVRO X
-
-1. Serás, minha alma, algum dia boa, simples, una, nua, mais visível do que o corpo que te envolve? Provarás algum dia o sabor de sentimentos amoráveis e resignados? Estarás alguma vez saciada, sem precisão nem saudade, nem desejo de coisa alguma, animada ou inanimada, para desfrutar deleites? Nem de tempo para os desfrutar mais longamente, nem de lugar, nem de espaço, nem de clima propício, nem de boa harmonia das pessoas? Estarás satisfeita com a situação, contente com tudo que te acontece, convencida de que tudo vai bem para ti e é graça dos deuses, de que estará bem tudo que a eles apraz e tudo que hão de outorgar para a salvação do vivente perfeito, bom, belo, que gera, une, envolve e abraça tudo quanto se desfaz para o nascimento de outros seres iguais? Serás um dia tal que habites a mesma cidade que os deuses e os homens, sem deles te queixares nem lhes dares razão de queixa?
-
-2. Observa o que a natureza exige de ti como de um ser só por ela governado; depois, cumpre-o e sê submisso para não vir tua natureza de vivente a sofrer detrimento em suas disposições. Em seguida, deves observar o que de ti exige a tua natureza de vivente e aceitá-lo integralmente, para não vir tua natureza de vivente racional a sofrer detrimento em suas disposições. Porém, o racional é desde logo social. Segue estas regras e não desperdices os teus esforços.
-
-3. Todo acontecimento ocorre de maneira que tua natureza ou o suporte ou não. Se te acontece o que a tua natureza suporta, não te rebeles; suporta-o como a tua natureza pode. Se acontecer o que tua natureza não suporta, não te rebeles, porque tanto mais cedo te há de exaurir. Lembra-te, porém, de que tua natureza suporta tudo que de tua opinião depende tornar suportável e tolerável, bastando imaginares que é de tua conveniência ou de teu dever fazê-lo.
-
-4. Se ele se engana, ensina-o com bondade e mostra-lhe o erro. Se não o podes, culpa a ti mesmo ou nem sequer a ti mesmo.
-
-5. O que quer que te aconteça estava para ti preparado desde a eternidade, e a urdidura das causas desde o tempo infinito havia entretecido a tua substância com a sua ocorrência.
-
-6. Quer sejam os átomos, quer seja a natureza, admita-se em primeiro lugar ser eu uma parte do todo regido pela natureza; depois, ter eu certo parentesco com as partes de igual origem. Lembrado disso, na minha qualidade de parte, não me hei de contrariar com nenhum quinhão do todo, pois nada prejudica uma parte, se convém ao todo. O todo, com efeito, nada tem que lhe não convenha; isso é comum a todas as naturezas, mas a do mundo goza ainda da vantagem de não ser forçada por nenhuma causa exterior a produzir nada que lhe seja nocivo. Lembrando-me de que sou uma parte de semelhante todo, acolherei de bom grado tudo que acontecer. Como sou de certo modo aparentado com as partes de igual origem, nada farei contrário à comunidade; antes, visarei ao bem de meus semelhantes, dirigirei todos os meus impulsos no sentido da conveniência comum e os desviarei do rumo oposto. Assim realizados esses propósitos, minha vida necessariamente correrá com felicidade, tal como se imaginaria o curso feliz da vida dum cidadão que, na sequência de seus atos, fosse útil aos concidadãos e saudasse de bom grado as partes que a cidade lhe distribuísse.
-
-7. É fatal que se deteriorem as partes do todo, quero dizer, tudo que o mundo abrange; entenda-se no sentido de que se alterem. Mas, digo, se isso for para elas um mal inevitável, o todo não pode estar bem dirigido, uma vez que as partes caminham para a alteração e estão diversamente constituídas para a deterioração. Acaso a natureza empreendeu arruinar suas próprias partes, criando-as sujeitas a cair no mal e necessariamente inclinadas para o mal, ou não percebeu que assim acontecia? Não; ambas as hipóteses são incríveis. Se, dispensando a natureza, se interpretasse o fato pela constituição das coisas, que ridículo seria afirmar, de um lado, que as partes do todo estão constituídas para se transformar e admirar-se, de outro, indignar-se como se fosse um acontecimento fora do natural, principalmente quando a decomposição as resolve naqueles elementos de que cada qual é composta! Ou há uma dispersão dos elementos componentes, ou a transformação da parte sólida em terra e do alento em ar, para que também estes sejam recolhidos pela razão do universo, quer seja este consumido periodicamente pelo fogo, quer se renove por meio de mudanças perpétuas. Não penses que tua parte sólida e teu alento são os de quando nasceste; pois isso tudo se acresceu afluindo dos alimentos e do ar inalado a partir de ontem ou anteontem. É, pois, a massa adquirida que se transforma e não a que a mãe deu à luz. Supõe, ao contrário, que a esta estás estreitamente ligado pela individualidade, que nada significa, a meu ver, na tese que ora exponho.
-
-8. Depois de teres atribuído a ti mesmo os qualificativos de bom, grave, veraz, prudente, cordato, altivo, cuidado para não mudares jamais de qualificativos e, se vieres a perder esses, regressa a eles depressa. Lembra-te de que prudente significa em ti a atenção minuciosa e cuidadosa a cada pormenor; cordato, a aceitação espontânea dos quinhões distribuídos pela natureza comum; altivo, a supremacia da parte pensante sobre as emoções brandas ou violentas da carne, sobre a glória vã, a morte, etc. Se te conservares nesses qualificativos sem anelar que tos atribuam as outras pessoas, serás outro e encetarás uma outra vida. O permaneceres tal qual tem sido até agora e te deixares nessa vida lacerar e conspurcar é próprio de indivíduo grosseiro e apegado à vida, parecido com aqueles lutadores semidevorados, que, embora cobertos de ferimento e de sangue, ainda assim pedem que os guardem até amanhã, para serem, como estão, atirados às mesmas garras e colmilhos. Monta, pois, nesses poucos qualificativos; se te puderes manter neles, mantém-te como se tivesses emigrado para umas Ilhas Afortunadas, se perceberes, porém, que estás caindo e já não dominas, aparta-te, animoso, para algum recanto onde possas dominar, ou então deixa definitivamente a vida, sem cólera, com singeleza, liberdade e modéstia, tendo realizado na vida pelo menos uma façanha, a de sair assim. Contudo, muito te ajudaria a lembrar-te dos qualificativos a lembrança dos deuses e a de que estes não querem ser adulados e sim que todos os seres racionais a eles se igualem, que a figueira faça o mister de figueira, o cão o de cão, a abelha o de abelha e o homem o de homem.
-
-9. A farsa, a guerra, o terror, o torpor, a servidão, apagarão em ti, dia após dia, todos aqueles princípios sagrados que concebes no estudo da natureza e transmites. Deves, porém, tudo ver e fazer de tal maneira que, além de levar a cabo tuas volumosas tarefas, ponhas em prática a teoria, e preserves, despercebida, não oculta, a confiança emanada da ciência de cada questão. Quando te deleitarás com a singeleza? Quando com a circunspecção? Quando com o conhecimento de cada ser, do que é sua essência, que lugar ocupa no mundo, quanto tempo por sua natureza deve durar, de que elementos se compõe, quem o deve possuir, quem o pode dar e tomar?
-
-10. Enfatua-se a aranha de ter caçado a mosca; este, de uma lebre; aquele, de uma anchova na rede: outro, de javardos; outro, de ursos; outro, de sármatas. Se investigarmos seus princípios, não são todos eles salteadores?
-
-11. De que modo se transformam todas as coisas umas nas outras? Procura um método de investigá-lo, presta atenção constante e trata de exercitar-te nesse particular: nada contribui tanto para a elevação dos sentimentos. Despiu-se do corpo e advertindo que, dentro em pouco, terá de deixar tudo isto e partir dentre os homens, confiou-se todo à justiça no tocante a suas ações e à natureza universal no tocante aos outros acontecimentos. Do que dirão ou pensarão a seu respeito, ou do que farão contra ele, nem sequer cogitará, contentando-se com estes dois pontos: praticar a justiça no que está fazendo agora e acolher de bom grado o seu quinhão presente; deixou de lado todas as outras ocupações e fainas, e nada mais quer senão palmilhar a estrada direita da lei e seguir a divindade que palmilha a estrada direita.
-
-12. Que necessidade há de conjeturas, quando podes examinar o que cumpre fazer e, se tudo abarcas com a vista, seguir nesse rumo de boa mente e sem olhar para trás? Se não abarcas, podes parar para ouvir os melhores conselheiros e, se a isso outras causas se opõem, prosseguir, atido ao que parecer mais justo à luz dos cálculos que fizeres com base nas conjunturas do momento. O mérito está em ser bem sucedido nesses cálculos, porque deles costuma vir o malogro, quem obedece à razão em tudo é alguém tranquilo, apesar de móbil; jovial, apesar de retraído.
-
-13. Pergunta a ti mesmo, assim que despertas do sono: acaso te importa que outrem pratique a justiça e o bem? Não importa. Acaso esqueceste como procedem no leito e à mesa aqueles que elogiam ou censuram os outros com arrogância, o que fazem, o que evitam, o que buscam, o que furtam, o que roubam, não com as mãos e os pés, mas com sua parte mais nobre, aquela onde, quando se quer, há lealdade, pudor, verdade, a lei, o bom deus?
-
-14. À natureza que tudo dá e toma, diz o homem instruído e modesto: "Dá o que queres e toma o que queres". Diz isso não de atrevido, mas apenas por ser obediente e ter bons sentimentos para com ela.
-
-15. O que resta de tua vida é breve; vive-o como numa montanha. Não importa estar aqui ou ali, quando, seja onde for, vivemos no mundo como numa cidade. Veja a Humanidade, conheça um homem que vive deveras segundo a natureza. Se não o suportam, matem-no, que é preferível a viver ao modo deles.
-
-16. Não mais se trata, de modo algum, de discutir o que é um homem de bem, mas de sê-lo.
-
-17. Imagina, assiduamente, em sua totalidade, o tempo e a substância, e que cada ser em particular é, diante da substância, uma semente de figo; diante do tempo, uma torcida de broca.
-
-18. Detém-te sobre cada ser sob teus olhos e reflete que já se está dissolvendo, já entrou numa transformação, por exemplo, em putrefação ou dispersão, ou na espécie de morte natural a cada um.
-19. Vê-los quando comem, quando dormem, quando copulam, quando defecam, etc. Depois, vê-los quando impam e se ensoberbecem, ou quando zangam e ralham autoritários! Todavia, a quantos há pouco se escravizavam, e por que!, e, dentro em breve, a que condições estarão reduzidos!
-
-20. A cada um convém o que a natureza universal traz a cada um, e convém na hora em que ela o traz.
-
-21. "A terra ama a chuva; o Éter venerável também ama"; o mundo ama criar o que há de ser. Digo, pois, ao mundo: Temos o mesmo amor. Não é assim que se diz que tal coisa ama acontecer?
-
-22. Ou vives aqui, e já te acostumaste; ou escapas para fora, e era o que querias; ou morres, e tua missão está terminada; além dessas, não há outra hipótese. Portanto, coragem!
-
-23. Fique sempre claro que o campo é outro tanto. E como tudo aqui é o mesmo que no campo, na montanha, na praia, onde quiseres! Encontrar-te-ás, com efeito, diante do que diz Platão: "Fechando-se em cercados na montanha", diz ele, e também "ordenhando ovelhas que balam".
-
-24. Que é para mim o meu guia? Que feitio lhe estou agora dando? Para que dele agora me sirvo? Não estará vazio de inteligência? Solto e arrancado da comunidade? Não está fundido e misturado com a carne de sorte que sofra as mesmas alterações?
-
-25. Quem foge a seu amo é fujão. A lei é o amo; o fora da lei é o fujão. Ao mesmo tempo, quem se aflige, se irrita, ou teme, não deseja que tenha acontecido, esteja acontecendo ou venha a acontecer alguma das determinações de quem tudo rege, a lei que distribui os quinhões que tocam a cada um. Portanto, quem teme ou se aflige ou se irrita é fujão.
-
-26. Quem depositou o sêmen na matriz retira-se; daí por diante outra causa se encarrega de completar e acabar o nascituro. O que foi e o que é! Ao depois, deitam-lhe alimento garganta abaixo; daí por diante, outra causa se encarrega de criar nele a sensação, os impulsos, em suma, a vida, a força, quais e quantos efeitos! Contempla, pois, essas maravilhas realizadas em tamanho arcano e vê essa força como vemos o peso e a força de ascensão, se não com os olhos, com a mesma clareza.
-
-27. Adverte amiúde como as coisas que ora acontecem já ocorreram antes tais- e quais; e adverte que voltarão a ocorrer. Põe diante dos teus olhos os dramas inteiros e as cenas iguais, que conheces de experiência própria ou de narrativas mais antigas; por exemplo, toda a corte de Adriano, toda a corte de Antonino, toda a corte de Filipe, de Alexandre, de Creso; eram todas cenas tais quais estas; os atores apenas eram outros.
-
-28. Imagina que todo aquele que se aflige ou se rebela contra seja o que for é semelhante ao leitão imolado, a escoicinhar, a cuinchar. Semelhante também quem, deitado na cama, só e em silêncio, lamenta nossos percalços. Adverte que só ao vivente racional foi dado acompanhar os acontecimentos de bom grado, quando todos os mais os têm de acompanhar simplesmente.
-
-29. A cada um de teus atos em particular, detém-te e pergunta a ti mesmo se a morte é de temer por te privar dele.
-30. Quando o pecado de alguém te mortifica, afasta-te logo e avalia que pecados equivalentes cometes; por exemplo, quando julgas um bem o dinheiro, ou o prazer, ou a glória vã, e similares. Atentando nisso, depressa esquecerás tua ira, por advertires que ele está sendo constrangido. O que pode ele fazer? Então, se podes, livra-o da força que o constrange.
-
-31. Quando vires a Satirão, imagina que é um socrático, ou Êutiques, ou Hímem; quando vires a Eufrates, imagina que é Eutiquião ou Silvano; quando vires a Álcifron, imagina que é Tropioforo; quando vês a Severo, imagina que é Xenofonte ou Critão e, volvendo os olhos para ti. imagina que és um dos Césares, e de igual modo em cada caso. Depois, que te ocorra esta ideia: onde andam eles? Em lugar nenhum, ou pouco importa onde. Assim verás continuamente o fumo e o nada que são as coisas humanas, tanto mais quando te lembrares juntamente de que nunca mais existirá no tempo infinito aquilo que uma vez se transformou. Por que, pois, essa tensão? Por que não te contentas com chegar airosamente ao termo deste breve prazo? Que matéria e que hipótese evitas? Que é tudo isso senão temas de exercício duma razão que viu, com precisão de naturalista, o que se passa na vida? Continua, pois, até haveres assimilado tais pensamentos, como um estômago forte tudo assimila, como o fogo ardente, do que quer que lhe atirem, formará chama e luz.
-
-32. A ninguém assista razão de dizer que não és simples ou que não és homem de bem; minta quem de ti formar tal opinião. Isso depende exclusivamente de ti, pois quem impede sejas bom e simples? Basta decidires não mais viver se não o fores, pois nem a razão exige que vivas sem que o sejas.
-
-33. Nesta matéria, o que de mais sadio se pode dizer ou fazer? Seja o que for, tens o direito de fazê-lo ou dizê-lo, e não alegues que to impedem. Não pararás de gemer enquanto, ao fazeres, da matéria que se te apresentar ou deparar, o que é próprio da constituição do homem, não sentires o mesmo deleite que os voluptuosos sentem nos prazeres. Tens de achar um prazer todo mister que podes desempenhar conforme a tua natureza, e isso é possível em toda parte. Não é dado ao rolão levar para toda parte seu movimento próprio; nem à água, nem ao fogo, nem a nada de quanto é governado por uma natureza ou vida irracional, pois os obstáculos e impedimentos são muitos. Mas a mente e a razão podem atravessar tudo quanto se lhes assemelha, segundo faculta a sua natureza e segundo queiram. Tendo diante dos olhos essa faculdade, mediante a qual a razão será levada através de tudo, como o fogo para cima, como a pedra para baixo, como o rolão obliquamente, não reclames mais nada. Os demais obstáculos ou são do corpo, do cadáver, ou — salvo ilusão e abandono da razão mesma — não causam ferimento nem mal de espécie alguma; aliás, quem o sofresse depravar-se-ia imediatamente. No caso de todas as demais constituições, acontecendo o mal que for a qualquer delas, o próprio ser que o sofre, por efeito dele, se deprava; mas no caso presente, se é mister dizê-lo, fica melhor e mais digno de elogios o homem que aproveita bem os obstáculos. Em suma, lembra-te de que ao cidadão por natureza nada causa dano se não o causar à cidade; nem à cidade, se não à lei. Desses pretensos infortúnios, nenhum causa dano à lei. Ora, o que não faz dano à lei tampouco o faz à cidade, nem ao cidadão.
-
-34. A quem foi mordido dos princípios verdadeiros basta a citação mais breve e mais óbvia para lembrar a insensibilidade à dor e ao medo. Por exemplo: O vento espalha as folhas pelo chão; assim as gerações humanas... São folhas os teus filhos, folhas também esses que em voz alta lealmente te glorificam ou, pelo contrário, te amaldiçoam, ou então, em voz baixa, te censuram ou escarnecem; folhas igualmente os que hão de recolher tua fama na posteridade. Pois todos eles brotam na primavera; depois o vento os derruba; depois a selva cria outros em seu lugar. A efemeridade é comum a todas as coisas, mas tu a todas foges e a todas buscas como se houvessem de existir eternamente. Em pouco cerrarás os olhos e quem te sepultar será logo por sua vez pranteado por outro.
-35. Um olho são deve ver tudo quanto é visível e não dizer quero o verde, que isso é de quem sofre de oftalmia. O ouvido e olfato sãos devem estar prontos para todo som e cheiro; o estômago são deve comportar-se de modo igual para com todo alimento, como a mó para com tudo quanto foi constituído para moer. Por conseguinte, a inteligência sã deve estar pronta para todos os eventos; mas aquela que diz: Que se salvem meus filhos e Louvem todos o que eu fizer é um olho em busca do verde, ou dentes em busca de algo tenro.
-
-36. Ninguém é tão ditoso que à cabeceira de seu leito de morte não velem alguns jubilosos com o triste acontecimento. Era sisudo e sábio; no último momento haverá quem diga de si para consigo: "Vamos, afinal, respirar livres desse pedagogo? Ele, de fato, não molestava a nenhum de nós, mas eu sentia que, lá consigo, nos condenava". Isso a respeito do homem sisudo; quanto a nós, quantas outras razões para quererem muitos livrar-se de nós. Pensarás nisso na hora da morte e partirás mais conformado, se refletires assim: "Deixo uma vida de tal valor que os meus companheiros mesmos, por quem tanto lutei, tanto orei, tanto me preocupei, são justamente os que desejam desfazer-se de mim, esperando daí quiçá alguma outra folga". Por que, pois, se haveria de ter apego a uma permanência mais longa aqui? Nem por isso, todavia, tenhas ao partires, menos benevolência para com eles, mas, conservando o teu caráter, sê amistoso, bondoso, caroável. Tampouco te vás como que arrancado; qual acontece a quem tem uma boa morte, cuja alma deixa placidamente o envoltório do corpo, tal deve ser tua partida dentre eles, porque com eles te prendeu e misturou a natureza. — Mas agora desliga! — Desligo-me como de parentes, mas não arrastado, nem com violência, pois é este também um dos fatos conformes com a natureza.
-
-37. Acostuma-te, quanto possível, cada vez que alguém pratica uma ação, a indagar de ti para contigo: "A que refere ele esse ato?" Começa por ti mesmo e examina a ti mesmo em primeiro lugar.
-
-38. Lembra-te! Quem move o títere é aquele poder oculto em teu íntimo; a eloquência é ele, a vida é ele, o homem, já que é mister dizê-lo, é ele. Não o envolvas na ideia do invólucro que o reveste e desses órgãos plasmados em redor. Porque eles são semelhantes a instrumentos, com a única diferença de serem congênitos. Com efeito, sem a causa que as move e freia, nenhuma dessas partes é mais útil que a lançadeira à teceloa, a pena a quem escreve e o relho ao cocheiro.
-
-
-LIVRO XI
-
-1. Propriedades da alma racional: vê a si mesma, analisa a si mesma, molda-se como quer, colhe ela própria os frutos que produz — pois os frutos das plantas e produtos análogos dos animais são outros que colhem —, alcança seu próprio fim, chegue quando chegar o termo da vida. Não é como no bailado, no espetáculo cênico ou função congênere, onde a ação fica por acabar quando algo a empece; em cada parte e no ponto onde for surpreendida, ela perfaz, completo e acabado, o seu propósito, podendo dizer: Eu recolho o que é meu. Mais que isso, percorre o mundo todo, o espaço circundante e sua forma, penetra no infinito do tempo, abarca a reprodução periódica do universo, considera todos os aspectos e verifica que nada de novo verão nossos futuros nem viram nada mais notável nossos predecessores, mas de certo modo, por menos inteligência que tenha, o quarentão viu, em retrato, todo o passado e todo o futuro. Próprios da alma racional são também o amor do próximo, a verdade e o pudor, bem como não dar a nada mais valor que a si mesma — o que é próprio também da lei. Assim, pois, nenhuma diferença há entre a razão reta e a razão da justiça.
-
-2. Desprezarás o deleite do canto, a dança, o pancrácio; a melodia, basta que a decomponhas em cada uma das notas e perguntes a ti mesmo se não lhe resistes e te desenganarás; quanto à dança, faze exame análogo de cada movimento ou parada; da mesma forma com o pancrácio. Em suma, excetuada a virtude e seus efeitos, lembra-te de examinar a fundo os componentes e por essa análise chegar ao desprezo; aplica o mesmo método à extensão toda da vida.
-
-3. Que bela é a alma preparada para uma imediata separação do corpo, seja para se extinguir, seja para se dispersar ou sobreviver! Que essa preparação, porém, provenha de um juízo próprio e não dum simples sectarismo, como o dos cristãos; uma preparação raciocinada, grave e, para ser convincente, nada teatral.
-
-4. Realizei algo para o bem comum? Então tirei proveito. Que sempre tenhas presente esse pensamento e jamais o abandones.
-
-5. Qual o teu mister? O de ser bom. Como obter êxito nele, senão mediante o estudo, não apenas da natureza universal, mas também da constituição própria do homem?
-
-6. Primeiramente se representaram as tragédias; davam, com a sugestão dos acontecimentos, a de que era de sua natureza assim acontecerem e que não vos deve magoar, na cena maior, aquilo que, na do teatro, vos encanta. Vê-se, com efeito, que eles têm de realizar-se assim e os sofrem mesmo aqueles que exclamam Ó Citerão! Igualmente, os dramaturgos oferecem ensinamentos úteis; por exemplo, a célebre passagem: "Se os deuses se descuidaram de mim e de meus filhos, isso também tem sua razão" e a outra: "Não adianta agastar-se com as coisas"; ainda: "Segar a vida como espiga rica de grãos" e tantas do mesmo teor. Depois da tragédia, representou-se a comédia antiga; com sua franqueza instrutiva, através de sua própria linguagem sem regras, sugeria-nos, não sem proveito, a modéstia. Com intuito semelhante é que Diógenes lhe adotou o estilo. Depois da comédia antiga, a intermediária e por fim a nova; presta atenção ao propósito que as inspirava, quando derivaram aos poucos para a imitação artística da vida. Que elas também trazem ensinamentos úteis é fato reconhecido; porém, em seu plano geral, semelhantes poesia e dramaturgia a que alvo apontavam?
-
-7. Quão claro se manifesta não existir na vida outra situação tão propícia ao cultivo da Filosofia como esta em que te encontras agora!
-
-8. Não é possível podar um galho do galho vizinho sem podá-lo da árvore toda. Assim também o homem que se aparta de um só homem desliga-se de toda a comunidade. O galho, todavia, é podado por outrem; o homem por si mesmo se afasta do próximo, quando o odeia e lhe volta as costas; não sabe que ao mesmo tempo se está amputando da sociedade toda. Contudo, eis um dom de Zeus, que organizou a comunidade; temos a faculdade de nos religar ao próximo e integrar de novo no todo. Quando, porém, semelhante operação se amiúda, dificulta extremamente a reunião e reintegração do apartado. Em suma, ao galho que desde o início vem crescendo e respirando junto com a árvore não se compara o que foi podado e se tornou a enxertar, digam o que disserem os hortelãos. Crescer no mesmo tronco, sim; adotar os mesmos princípios, não.
-
-9. Os que te impedem de progredir segundo a reta razão, assim como não te poderão desviar da prática do bem, tampouco te arredem da bondade para com eles próprios. Ao invés, preserva em ti mesmo estes dois propósitos igualmente: não só juízo e procedimento inabaláveis, mas também indulgência com aqueles que intentem estorvar-te ou de outra maneira aborrecer-te. Com efeito, tanta fraqueza haverá em te irritares com eles quanta em abandonares a ação e capitulares de medo; são desertores equivalentes tanto quem se assusta como quem se alheia de seu parente amigo por natureza.
-
-10. Não há natureza inferior à arte, porquanto as artes imitam a natureza. Assim sendo, a mais perfeita das naturezas e mais inteligente não pode ser superada pelo talento artístico. Todas as artes produzem obras inferiores com vistas às superiores; portanto, o mesmo faz a natureza comum. Eis aí a gênese da justiça e dela procedem as demais virtudes. Com efeito, não se preservará a justiça se dissentirmos em coisas indiferentes, se nos deixarmos enganar facilmente, se formos temerários e volúveis.
-
-11. Se não vêm para junto de ti as coisas que te inquietas buscando ou evitando e, de certo modo, tu é que vais ao seu encontro, basta se aquiete o teu juízo a seu respeito e elas ficarão imóveis e não serás visto a buscá-las ou a evitá-las.
-
-12. A esfera da alma permanece inalterável quando, sem se projetar para fora nem encolher para dentro, sem se dispersar nem concentrar, brilha duma luz que lhe revela a verdade universal e a que nela mesma reside.
-
-13. Alguém me desprezará? O problema é seu. O meu é não ser surpreendido em ação e palavras merecedoras de desprezo. Odiar-me-á? O problema é seu. De minha parte, serei benevolente e bondoso para com todos e estarei até pronto a mostrar a ele mesmo o seu engano, não insultando nem dando demonstração de minha constância, mas com nobreza e sinceridade, como o célebre Focião, se é que não fingia. Cumpre sejam esses os sentimentos íntimos e vejam os deuses um homem que contra nada se rebele e proteste. Que de mal haverá para ti, se, de teu lado, estás agora fazendo o que é próprio de tua natureza, se dás boa acolhida ao que no momento é oportuno à natureza universal, como homem que se esforça por realizar, de qualquer modo, o bem da comunidade?
-
-14. Desprezam-se mutuamente, mas mutuamente se bajulam; querem dominar uns aos outros, mas submetem-se uns aos outros.
-
-15. Quão rançoso e falso quem diz: "Resolvi ser sincero contigo!" — Que fazes, homem? Esse preâmbulo não se usa. A sinceridade se revela de pronto; deve estar gravada na fronte, soar de imediato na voz, surgir de imediato nos olhos, como o ente amado tudo compreende de imediato no olhar dos amantes. Em suma, a singeleza e a bondade devem ser como a morrinha, que o vizinho sente, queira ou não queira, logo ao chegar. Sinceridade deliberada é cutelo. Nada mais ignóbil que amizade de lobo; foge dela mais que de tudo. O bom, o sincero, o amigo, trazem essas marcas nos olhos e dão na vista.
-
-16. Viver a mais bela vida; o poder de vivê-la reside na alma; basta manter-se indiferente às coisas indiferentes. Será indiferente quem considerar cada uma em separado e no conjunto, lembrando-se de que nenhuma cria em nós opinião a seu respeito nem vem até nós, mas que elas se quedam imóveis e nós é que formamos juízo sobre elas e de certo modo o gravamos em nós mesmos, quando podemos não só deixar de gravar mas também, caso se esconda algures, apagá-lo imediatamente; bem assim, que tal cuidado será por pouco tempo e depois a vida terá cessado. Que há, porém, de penoso em serem as coisas assim? Se são conformes com a natureza, alegra-te com elas e te serão mais cômodas; se são contra a natureza, procura saber qual o mister conforme com a tua natureza, dedica-te a ele, ainda que apagado; com quem quer que procure o próprio bem, somos indulgentes.
-
-17. Donde cada coisa procede; que elementos a constituem; no que se transforma; como será depois de transformada; como nenhum mal sofrerá.
-
-18. E em primeiro lugar: que relação tenho com eles? Fomos feitos uns em vista dos outros e, sob outro ângulo, eu fui criado para juntar-me a eles, como o carneiro ao rebanho, o touro à manada. Volta a partir do princípio que diz: Ou os átomos, ou a natureza regendo tudo. Nesse caso, os seres inferiores existem em vista dos superiores e estes em vista uns dos outros. Em segundo: como procedem eles à mesa, na alcova, etc.; principalmente, que consequências necessárias de seus princípios dão por estabelecidas e com que soberba praticam esses mesmos atos. Em terceiro: se o fazem a justo título, não te deves irritar; senão, fazem-no evidentemente sem querer e sem saber. Com efeito, nenhuma alma se priva da verdade por querer; tampouco de tratar cada coisa pelo que vale. Pelo menos todos se indignam de serem chamados injustos, ingratos, cobiçosos, numa palavra, faltosos para com o próximo. Em quarto: tu próprio cometes muitas faltas e és como eles; embora te abstenhas de algumas, tens, todavia, tendência a elas e é por temor, ambição de glória ou vício análogo, que evitas pecados iguais. Em quinto: nem sabes ao certo se eles pecam, pois muitas coisas acontecem em virtude de um plano. Em síntese, há muito que indagar antes de poder pronunciar-se sobre atos alheios com conhecimento de causa. Em sexto — quando no auge duma indignação: a vida humana é um breve instante e dentro em pouco todos estaremos estendidos. Em sétimo: o que nos molesta não são as ações deles — elas estão em seus guias —, são as nossas opiniões. Suspende, pois, rejeita de boa mente a opinião de que houve agravo, e teu furor passa. Como a suspenderás? Raciocinando que não há desonra, pois, se o único mal não fosse a desonra, cometerias necessariamente muitas faltas, serias um salteador, capaz de tudo. Em oitavo: quanto, em tais casos, de nossas iras e mágoas sofremos mais do que mesmo das ações que nos irritam e magoam. Em nono: a bondade é invencível, quando sincera, não de semblante e fingida. Que te fará o maior dos insolentes, se te mantiveres bondoso para com ele, se, dada oportunidade, o aconselhares com brandura e o instruíres com calma na mesma ocasião em que intenta causar-te mal? — Não, filho, fomos nascidos para outro fim; quem vai sofrer o dano não sou eu, mas tu, meu filho. Mostra-lhe, delicadamente e num sentido geral, que assim é, que esse não é o procedimento nem das abelhas, nem de qualquer animal social por natureza. Tal advertência deve ser feita sem ironia, nem afronta, mas com simpatia e de coração não ferido; não, porém, em tom de mestre-escola, nem a fim de suscitar admiração dos circunstantes, e sim para ele só, embora estejam algumas outras pessoas em redor. Lembra-te desses nove preceitos capitais como se fossem presentes das Musas e começa, enfim, a ser um homem, enquanto vives. Cumpre te guardes, com igual cuidado, de te irares com eles tanto como de os bajulares; uma e outra atitude são antissociais e prejudiciais. Nas tuas iras, não esqueças que virilidade não é arrebatamento; a brandura e a serenidade, por serem mais próprias de homem, são também mais viris; força, nervos e bravura tem quem possui aquelas virtudes e não o agastado e incontentável. Quanto mais essa atitude se aproxima da impassibilidade tanto mais perto está do vigor. Como a dor é própria do fraco, assim também a cólera; em uma e outra há ferimento e capitulação. Se quiseres, aceita uma décima dádiva do chefe das Musas: "Não admitir que os maus pequem é de insensato; é desejar o impossível; permitir sejam maus para com outros, mas não admitir que pequem contra ti, é de néscio e de tirano".
-
-19. Deves guardar-te sem cessar principalmente de quatro corrupções de teu guia e, quando as surpreenderes, apagá-las, dizendo a respeito de cada uma: Essa ideia não é necessária — Isso é coisa que rompe os laços da comunidade — Isso não vais dizer de teu cabedal próprio; considera um dos maiores absurdos dizeres o que não seja de teu próprio cabedal. A quarta corrupção é aquela pela qual aviltares a ti mesmo, que isso é a derrota e submissão de tua parte mais divina ante a parte mais desprezível e mortal, a do corpo, e ante os prazeres grosseiros deste.
-
-20. Teu alento e todo elemento ígneo de tua constituição, muito embora tendam por natureza a subir, obedecem, contudo, ao plano geral do universo e mantêm-se no seu lugar na composição. Igualmente tudo que há de terreno e aquoso em ti, embora tenda a descer, se ergue e apruma numa postura que não lhe é natural. Assim, pois, os elementos mesmos, uma vez postados no lugar, obedecem ao conjunto, violentando-se para ali ficar até vir de lá o sinal da dissolução. Não é estranho que só tua parte inteligente desobedeça e proteste contra o lugar a ela atribuído? Sem embargo, nenhum constrangimento lhe é imposto, apenas o que está de acordo com a sua natureza; ela, porém, não se conforma e tende ao oposto. O movimento em direção às injustiças, à licença, às paixões, às dores e aos temores não passa duma deserção da natureza. Também quando o guia se desgosta com algum acontecimento está desertando o seu posto; ele não está menos constituído para a piedade e temor dos deuses do que para a justiça. Com efeito, aquelas virtudes pertencem ao gênero da comunhão social e têm mais valor que os atos de justiça.
-
-21. "Ninguém pode ser um e o mesmo durante a vida toda, se o escopo de sua vida não é sempre um e o mesmo." Não basta dizer isso, sem acrescentar qual deve ser o escopo. Assim como, embora divirjam as opiniões sobre tudo quanto o vulgo, por isto ou por aquilo, considera como bens, concordamos, todavia, quanto a certos dentre eles, isto é, os de interesse comum, assim também cumpre escolher como escopo o bem comum e social. Quem para ele orientar todos os seus impulsos dará igualdade a todas as suas ações e, dessa maneira, será sempre o mesmo.
-
-22. O rato do mato e o caseiro; a timidez e fugacidade deste.
-
-23. À crença popular na Lâmia Sócrates chamava espantalho de crianças.
-
-24. Os lacedemônios, nas suas festividades, instalavam os forasteiros em bancos à sombra e sentavam eles próprios em qualquer lugar.
-
-25. Escusando-se ao convite do filho de Perdicas para que o visitasse, Sócrates disse: "Não quero acabar da maneira mais triste"; queria com isso significar o não poder retribuir os favores recebidos.
-
-26. Nos escritos dos efésios figurava o conselho de lembrar-se amiúde de um dos antigos que praticavam a virtude.
-
-27. Os pitagóricos recomendam olhemos de manhã para o céu, a fim de nos lembrarmos dos seres que cumprem seu mister sempre obedientes aos mesmos princípios e da mesma maneira, de sua disciplina, sua pureza, sua nudez. Porque os astros não usam véu nenhum.
-
-28. O aspecto de Sócrates cingindo um pelego, quando Xantipa saiu levando a sua roupa, e o que disse aos companheiros que se retiraram envergonhados de vê-lo assim vestido.
-
-29. Não poderá ser mestre na escrita e leitura sem ter sido antes aluno. Quanto menos na vida!
-
-30. "Nasceste escravo; não tens direito à palavra."
-
-31. "Cá dentro, o coração se pôs a rir."
-
-32. "Condenarão a virtude em termos contundentes."
-
-33. "Procurar figos no inverno é de louco; igualmente procurar o filho quando não é mais possível."
-
-34. Quem beija um filhinho deve, ao que dizia Epicteto, murmurar no íntimo: "Talvez morras amanhã". — È mau agouro! — "Agouro nenhum", respondia, "e sim o enunciado dum fato natural; aliás, seria também agouro dizer que foram colhidas as espigas."
-
-35. "Uva verde, uva madura, uva-passa"; tudo são mudanças, não para o nãoser, mas para o que ainda não é.
-
-36. "Ladrão do livre arbítrio não existe." É de Epicteto.
-
-37. "É mister", disse ele, "descobrir a arte de anuir" e, no capítulo sobre as iniciativas: "Vigiar a atenção, para que haja nelas reserva, interesse comum, relação com o valor; abster-se completamente de desejos e não nutrir aversão a nada do que não depende de nós".
-
-38. "Não discutimos", disse ele. "um tema qualquer, mas se estamos loucos ou não."
-
-39. Sócrates dizia: "Que desejais? Ter almas de seres racionais ou de irracionais? — De racionais. — De quais seres racionais? Dos sãos ou dos doentes? — Dos sãos. — Por que, pois, não procurais tê-las? — Porque já as temos. — Então, por que brigais e disputais?”
-
-
-LIVRO XII
-
-1. Podes ter desde já tudo aquilo que anelas atingir por um rodeio, se não quiseres mal a ti mesmo; quero dizer: se puseres de lado todo o passado, se entregares o futuro à Providência e orientares o presente unicamente no sentido da piedade e da justiça; da piedade, para amares o teu quinhão, pois a natureza o destinava para ti e te destinava para ele; de justiça, para dizeres a verdade livremente, sem circunlóquios, e obrares segundo a lei e o mérito. Que não te empeçam a maldade, a opinião e a palavra alheias, nem as sensações do bocado de carne crescido em torno de ti; se lhe dói, isso é com ele. Se, pois, quando for o momento de partires, deres atenção apenas a teu guia e ao que há de divino em ti, deixando para trás tudo mais; se o que temos não é cessar de viver um dia e sim não começar nunca a viver segundo tua natureza, serás um homem digno do mundo que te gerou, deixarás de ser um estrangeiro em tua pátria, de estranhar como inesperados os acontecimentos de cada dia e de depender disto e daquilo.
-
-2. Deus vê todos os guias despidos do invólucro material, das cascas e impurezas; exclusivamente com sua inteligência atinge apenas aquilo que dele emanou e se canalizou para aqueles seres. Se tu também te acostumares a fazer o mesmo, livrar-te-ás dos excessivos afãs. Quem não dá atenção às carnes que o envolvem perderá o tempo em cuidar de roupas, moradia, fama e similares indumentos e aparato?
-
-3. Três são os elementos de que és constituído: o corpo, o alento, a mente. Os dois primeiros são teus na medida em que te compete cuidar deles; só o terceiro é teu na acepção da palavra. Se removeres de ti, isto é, de teu pensamento, tudo quanto fazem ou dizem os outros, ou fizeste ou disseste tu mesmo, tudo quanto, como futuro, te perturba, tudo quanto trazes quer no corpo que te envolve, quer no alento unido a ti por natureza, não dependente de teu arbítrio, bem como tudo quanto revolve o turbilhão exterior em seu giro, para que, liberta das contingências de sua sorte, a faculdade inteligente viva pura, desligada e recolhida em si, praticando a justiça, acolhendo os acontecimentos e dizendo a verdade — se, digo, removeres daquele guia o que as paixões lhe pegaram e, do tempo, o porvir e o passado; se fizeres de ti, no dizer de Empédocles, uma esfera perfeita, ufana da estabilidade a girar, e cuidares de viver apenas o que estás vivendo, ou seja, o presente, poderás passar o tempo que resta até a morte de maneira calma, benevolente e favorável ao teu deus.
-
-4. Admira-me muitas vezes como cada um, embora ame a si mesmo acima de todos, dá menos valor à sua opinião a seu respeito que à dos outros. Por certo, se, de um deus que aparecesse, ou de um sábio mestre, alguém recebesse a ordem de nada refletir nem meditar de si para consigo sem, ao mesmo tempo, exprimi-lo em voz alta, não suportaria a imposição sequer por um só dia, a tal ponto respeitamos mais o que pensará de nós o próximo do que a nossa própria opinião.
-
-5. Os deuses, que tudo dispuseram com sabedoria e bondade para com o homem, como puderam negligenciar apenas o fato de que algumas pessoas absolutamente virtuosas, após inúmeras alianças, por assim dizer, pactuadas com a divindade e dela por mui longo tempo se tornarem familiares por meio de obras pias e sacrifícios, uma vez mortas já não voltam a existir e se extinguem completamente? Se assim se passam as coisas, podes estar certo de que, se pudesse ser diferente, eles o fariam. Se fora justo, seria também possível; se fora conforme com a natureza, esta o acarretaria. O fato de assim não ser, se deveras assim não é, basta para convencer-te de que assim não deve ser. Vês tu mesmo que com essa especulação entras a contender com a divindade; ora, não argumentaríamos assim com os deuses, não fossem eles sumamente bons e justos. Posto isso, nenhuma negligência injusta houve de sua parte, nenhum descuido absurdo no arranjo do mundo.
-
-6. Acostuma-te até com o que te custa. A mão esquerda, tão remissa no mais, por falta de hábito, governa as rédeas com mais força que a direita, por estar acostumada.
-
-7. Em que disposições, de corpo e de alma, devemos aguardar que a morte nos surpreenda; a brevidade da vida, a imensidade do tempo antes de nós e depois de nós, a debilidade de toda matéria.
-
-8. Contemplar as causas formais limpas de escória; as relações finais dos atos; o que é a dor; o que é o prazer; o que é a morte; o que é a glória; quem o causador de seus próprios afãs; como ninguém é obstado por outrem; que tudo é opinião.
-
-9. No uso dos princípios devemos ser como o pugilista e não como o gladiador; a este basta largar a espada que maneja e está morto; aquele tem sempre a mão e não precisa mais do que fechá-la.
-
-10. Ver o que são as coisas em si, distinguindo matéria, causa, fim.
-
-11. Que admirável poder tem o homem de não fazer senão o que a divindade haja de aprovar, e de aceitar todo quinhão que a divindade lhe destine!
-
-12. Do que decorre da natureza não devemos culpar os deuses — pois não pecam por querer nem sem querer — nem os homens — pois não pecam jamais por querer. Logo, não devemos culpar ninguém.
-
-13. Quão ridículo e estranho quem se admira seja do que for que acontece na vida!
-
-14. Ou um destino inevitável e uma ordem inflexível, ou uma providência compassiva, ou ainda caos sem regras, ao sabor do acaso. Se há um destino inflexível, para que opor-me? Se uma providência acessível à compaixão, torna-te digno do socorro divino. Se um caos anarquizado, dá-te por feliz por teres em ti mesmo, em meio a tal vagalhão, uma inteligência dirigente. Se o vagalhão te arrebata, que arraste a tua carne, o teu alento e o mais; a mente ele não arrebatará.
-
-15. Se a luz da candeia alumia e conserva o brilho até que a apaguem, hão de apagar-se antes da hora a verdade, a justiça e a temperança em ti?
-
-16. Quando tens a impressão de que alguém pecou: "Ele condenou a si mesmo e assim é como se arranhasse o próprio rosto". Quem não admite que os maus pequem é comparável a quem não quer que a figueira produza o suco nos figos, que recém-nascidos chorem, que o cavalo rinche e todos os outros fatos inevitáveis. Que será de ti se tens semelhante temperamento? Se és nervoso, cura-te.
-
-17. Se não convém, não faças; se não é verdade, não digas. Que a iniciativa seja tua.
-
-18. Em todos os casos, vê sempre o que é em si mesmo aquilo que produz em ti aquela ideia e explica-o, distinguindo a matéria, o fim, o prazo dentro do qual terá de cessar.
-
-19. Compreende, afinal, que há em ti algo mais forte e divino do que as causas das tuas paixões e, numa palavra, do que os motivos que te titereiam. Que tenho agora no pensamento? Medo? Suspeita? Cobiça? Algo semelhante?
-
-20. Primeiro: nada ao acaso, nem sem propósito. Segundo: não ter em mira outra coisa senão a finalidade social.
-
-21. Dentro em pouco não serás ninguém em parte alguma e bem assim tudo quanto vês e todos quantos estão vivos hoje. Tudo é por natureza feito para transformar-se, mudar, perecer, a fim de se produzirem em seguida outros seres.
-
-22. Tudo é opinião e esta de ti depende. Suprime, pois, a opinião quando queiras e, como se tivesses dobrado um cabo, tudo será calma e quietude numa enseada mansa.
-
-23. Uma atividade qualquer, que cessa no devido tempo, nenhum dano padece com a cessação; tampouco padece algum dano o autor daquela ação com o fato mesmo de ter ela cessado. De igual maneira, o conjunto de todas as ações, que é a vida, se cessar no devido tempo, nenhum dano padecerá do fato mesmo de cessar; tampouco sofre quem pôs termo a essa cadeia no tempo certo. Quem dita o tempo certo e o limite é a natureza; às vezes, a natureza particular, quando na velhice, mas sempre a universal, pela transformação de cujas partes o mundo todo se mantém perenemente novo e em pleno vigor da idade. Tudo que convém ao todo é sempre belo e de vez. A cessação da vida, individualmente, não é um mal, posto que não é vergonhosa, por não ser de livre escolha, nem oposta ao bem comum; é um bem, porque oportuna ao todo, conveniente e trazida no movimento geral. Assim, é conduzido pela divindade quem, pela reflexão, se conduz pelas mesmas forças e aos mesmos fins que a divindade.
-
-24. Cumpre ter presentes estas três considerações: naquilo que fazes, não atuares ao acaso ou de maneira diversa da que o teria realizado a justiça; nos acontecimentos vindos de fora, serem obra ou do acaso ou da Providência, não se devendo acusar o acaso nem culpar a Providência; segunda: o que é cada um desde a geração até ser animado e desde que é animado até devolver a alma, bem como de quais elementos foi composto e em quais se dissolverá; terceira: se, elevado de repente às alturas, observares a vida dos homens e sua diversidade, tu os desprezarás, ao veres, ao mesmo tempo, em torno, a imensidade, mundo dos seres que habitam o ar e o éter; e, ainda, quantas vezes te elevasses, verias as mesmas coisas, sua uniformidade, sua curta duração. E disso se nutre o orgulho!
-
-25. Alija a opinião e estás salvo. Quem impede que a alijes?
-
-26. Se te custa suportar alguma coisa, é por esqueceres que tudo ocorre de acordo com a natureza universal; que a falta não é tua; ademais, que tudo que ocorre sempre ocorreu assim, sempre ocorrerá e está ocorrendo agora em toda parte; que um parentesco próximo liga o homem a todo o gênero humano, não pelo sangue ou pela semente, mas pela comunhão da inteligência. Esqueces também que a inteligência individual é uma divindade e emanou de lá; que nada é particular a ninguém, mas seu filho, seu corpo, seu alento mesmo provieram de lá; que tudo é opinião; que cada um só vive o presente e só perde este.
-
-27. Meditar assiduamente sobre aqueles que se exacerbaram ao extremo por alguma causa, sobre aqueles que atingiram o fastígio das mais altas honras ou desditas, ou ódios, ou quaisquer vicissitudes; depois, refletir: Que é feito de tudo isso? Fumo, cinza, lenda, ou sequer lenda. Acudam à tua memória também todos os casos semelhantes, como o de Fábio Catulino no campo, de Lúsio Lupo nos jardins, de Estertínio em Baias, de Tibério em Capri, de Vélio Rufo, em suma, a excentricidade em qualquer sentido unida a uma presunção; quão ignóbeis todos esses esforços e quão mais filosófico mostrar-nos, quando se nos depara matéria, justos, temperantes, obedientes aos deuses simplesmente. Porque nada é mais insuportável que o orgulho impando sob a capa da modéstia.
-
-28. Aos que perguntam onde viste os deuses ou quando averiguaste que existem, para os adorares: primeiro, eles são visíveis a nossos olhos; depois, ora, tampouco vi minha própria alma, sem embargo, respeito-a. Assim também quanto aos deuses: das provas que tenho, em todo momento, de seu poder, deduzo que existem e venero-os.
-
-29. A salvação da vida está em ver a fundo o que é cada ser em si, qual sua matéria, qual a causa formal. Praticar do fundo da alma a justiça e dizer a verdade. Que mais, senão aproveitar a vida encadeando um bem a outro, de maneira que não fique o mais breve intervalo?
-
-30. Uma é a luz do sol, embora a dividam muros, montanhas, milhares de outros obstáculos. Uma é a substância comum, embora a dividam milhares de corpos individuais. Uma é a alma, embora a dividam milhares de naturezas e contornos individuais. Uma é a alma inteligente, embora se afigure repartida. As demais partes dos seres referidos, como o alento e as coisas perceptíveis, entre si são desconhecidas e alheias; não obstante, liga-as o princípio unificador e a gravidade que sobre elas pesa; a inteligência, porém, tem a prerrogativa de ser atraída pelo seu semelhante, de compor-se com ele, e seu sentido de socialidade não encontra empecilhos.
-
-31. Que mais procuras? O subsistir? Não, mas sentir, ter impulsos, crescer, morrer outra vez, usar da palavra, pensar? Que achas aí de que valha a pena ter saudade? Mas se cada uma dessas faculdades é assaz desprezível, aplica-te, afinal, a seguir a razão e a divindade. Bem, entre a estima desses bens e a mágoa de perdê-los com a morte há um conflito.
-32. Que fração do tempo infinito e imenso foi atribuída a cada um? Em breve, com efeito, desaparecerá no nada. Que fração da substância universal? Que fração da alma universal? De que tamanho é a pelota de terra em que rastejas? Refletindo em tudo isso, a nada atribuas mais importância do que a agir segundo te induz a tua natureza e a sentir conforme a natureza comum acarreta.
-
-33. Como se comporta o teu guia? Nisso está tudo. O resto, quer de teu arbítrio, quer não, é cadáver e fumo.
-
-34. O maior estímulo ao desprezo da morte é a ideia de que mesmo aqueles que veem no prazer o bem e na dor o mal, não obstante, a desprezam.
-
-35. Aquele que só vê o bem no que acontece no tempo devido a quem tanto faz executar muitas ações conformes com a reta razão quanto poucas, a quem é indiferente contemplar o mundo por mais ou por menos tempo, esse nada teme, nem a morte.
-36. Homem, foste cidadão nesta grande cidade. Que te importa se foi por cinco anos? O que é conforme as leis é igual para todos. Que há de estranho em seres despedido da cidade não por um tirano, nem por um juiz iníquo, mas pela natureza que nela te fez entrar? É como se o pretor despedisse do teatro o comediante por ele contratado. — Porém, não representei os cinco atos, mas apenas três! — Disseste bem; na vida, os três atos completam o drama. Quem fixa o final é o mesmo que foi, outrora, autor da composição e é, agora, o da dissolução; tu não és o autor desta nem daquela. Sê, pois, caroável ao partires, porque caroável também é quem te despede.
+# Marco Aurélio (Imperador Romano)
+
+# Meditações
+
+_Nota de B.C.: tal e qual publicado na versão citada, os direitos autorais não são meus e não me importa, não ganho um centavo ao disponibilizar aqui neste sítio desconhecido da rede de computadores. Acrescento algumas notas de própria lavra, e mais não direi._
+
+-------------------------------------
+Versão portuguesa
+baseada na tradução inglesa do original, com o título
+
+> MEDITATIONS,
+
+de autoria de MAXWELL STANIFORTH
+Edição da Penguin Books
+
+-------------------------------------
+Tradução e Tratamento em Computador
+
+Luís A. P. Varela Pinto
+Processado em computador (ambiente Macintosh) com recurso às seguintes aplicações:
+Processamento de texto: Microsoft Word 98
+
+Composição e paginação: Adobe PageMaker 6.5
+
+* * *
+
+Esta versão electrónica, foi executada com o
+Adobe Acrobat 4 em Janeiro de 2002
+
+Espinho, Portugal
+
+-------------------------------------
+«Enquanto os homens continuarem a ser atraídos pelas
+lágrimas e triunfos da bondade humana, não faltarão leitores
+a Marco Aurélio. Melancólico, compassivo e desencantado, o
+último dos Estóicos ainda envergonha as nossas fraquezas e
+silencia a nossa insatisfação.»
+
+Maxwell Staniforth na Introdução
+
+-------------------------------------
+## Introdução
+
+As Meditações de Marco Aurélio eram uma leitura muito na moda há duas
+gerações. Era o tempo em que o catálogo de qualquer bom editor incluía sempre
+uma elegante colecção de bolso dos clássicos; e, de entre estas, poucas haveria
+em que não aparecessem as Meditações. A voga já passou, mas talvez explique
+a razão por que o livro ainda é conhecido de nome por tanta gente, muito
+embora o conhecimento do seu conteúdo seja mais raro do que foi outrora. De
+facto, quando uma pessoa escolhe este livro, pode muito bem perguntar-se, «De
+que é que tratará? Que assuntos irei encontrar lá dentro?» Devo, por isso, e
+desde já, prevenir o leitor de que não pode esperar encontrar nele qualquer tema
+continuado ou conexo. Trata-se apenas do diário ou “livro de apontamentos”
+onde Marco Aurélio, de tempos a tempos, registava qualquer coisa que lhe
+parecesse merecer a pena guardar. Ora regista um pensamento sugerido por
+qualquer acontecimento recente ou encontro pessoal; ora medita sobre os
+mistérios da vida e da morte do homem; ora recorda uma máxima prática para o
+auto-aperfeiçoamento, ora transcreve das suas leituras do dia um pensamento
+de que gostou particularmente. Todos estes assuntos, e uma grande variedade
+de outros, são registados à medida que ocorreram ao escritor. O leitor pode
+iniciar a leitura do livro ou interrompê-la em qualquer ponto à sua escolha, e ler
+tantas ou tão poucas entradas quanto lhe apeteça. Em resumo, Marco deu-nos
+um excelente livro para ter na mesa de cabeceira.
+
+Os bibliotecários catalogam geralmente as Meditações, e sem dúvida bem, como
+“Filosofia”; mas isto pode induzir o leitor em erro, a menos que compreenda o
+lugar que a filosofia ocupava na antiguidade. Daquilo que ele conhece dos
+escritos dos representantes do século vinte deste ramo do saber, é pouco
+provável que conclua que o seu objectivo principal e final é a obtenção da virtude
+pessoal. Isso, imagina ele, é do foro da religião, não da filosofia. Mas na
+Antiguidade Clássica as coisas eram diferentes. A moralidade, a vida sã, as
+relações do homem com os deuses — tudo isto era do foro do filósofo e não do
+do sacerdote. A religião romana, no tempo do Império, não tinha nada a ver com
+os problemas morais. A sua função era simplesmente a da execução dos rituais
+que assegurassem a protecção dos deuses por parte do Estado, ou evitassem
+os efeitos do seu descontentamento. Era um sistema formal de cerimónias
+públicas realizadas por funcionários do Estado, e não dava resposta às dúvidas
+e dificuldades da alma humana. Contudo, então, como agora, o homem sentia-
+se perplexo perante as grandes questões que são preocupação de todos nós.
+Qual é a composição deste universo que nos rodeia, e como é que ele
+apareceu? Teria sido fruto de um acaso cego, ou da sábia Providência? Se os
+deuses existem, será que eles se interessam pelas coisas dos mortais? Qual é a
+natureza do homem, e qual o seu dever aqui, e o seu destino no além-túmulo?
+Não eram os sacerdotes, mas os filósofos, que se reclamavam da competência
+para dar resposta a estas questões. É verdade que as suas respostas não eram
+unânimes; havia sistemas filosóficos rivais, e cada um oferecia a sua própria
+solução (como, aliás, as diferentes religiões do mundo ainda fazem); mas todos
+concordavam que só à filosofia pertencia o direito exclusivo de se pronunciar
+com autoridade nos campos da metafísica, da teologia e da ética. Ela era
+considerada competente para explicar a história da criação, definir os poderes
+invisíveis por detrás da ordem do mundo, interpretar a natureza e o sentido da
+existência humana, prescrever as regras para uma vida sã, e revelar o futuro
+além-túmulo. Assim, a filosofia ocupava o lugar que, nos nossos dias, é ocupado
+pela religião, como instrutora e guia das almas em cada estádio das suas
+peregrinações terrenas. Esta pretensão justifica-se especialmente no caso do
+Estoicismo, que era marcado por um carácter mais religioso do que qualquer
+outro sistema da Antiguidade. Como o historiador Lecky observa, «O Estoicismo
+tornou-se a religião das classes instruídas. Ele fornecia os princípios da virtude,
+dava cor à mais nobre literatura da época, e guiava todos os desenvolvimentos
+do fervor moral».*
+
+O que isto significa é que um leitor que queira fazer uma abordagem correcta do
+pensamento de Marco Aurélio deve levar em linha de conta que as frequentes
+alusões do imperador à “filosofia” têm sempre o tipo de implicações que nós hoje
+associamos à palavra religião. Porque filosofia, para o homem que escreveu
+estas Meditações, significava tudo o que uma religião pode significar. Não era a
+procura de verdades abstractas, era uma regra para a vida. Em certo sentido,
+este livro é um verdadeiro manual de devoção pessoal, como A Imitação de
+Cristo de Thomas à Kempis — com o qual tem sido frequentemente comparado,
+e que, de facto, é a sua contrapartida cristã.
+
+## A Filosofia Estóica
+
+O Estoicismo, o sistema filosófico em que Marco acreditava, foi, na sua origem,
+um produto do pensamento do Médio Oriente. Tinha sido fundado uns trezentos
+anos antes de Cristo por Zenão, oriundo de Citium (hoje Larnaka) em Chipre, e
+recebeu o seu nome da “Stoa” ou colonata, em Atenas, onde ele costumava
+dissertar. O seu principal discípulo foi Cleanthes, que por sua vez foi continuado
+por Chrysipo; e os sucessivos trabalhos destes três homens, que depois foram
+venerados como os “pais fundadores“ do Estoicismo, resultaram na formação de
+um esquema de doutrina que abarcava «todas as coisas divinas e humanas». As
+três palavras-chave do credo de Zenão eram materialismo, monismo e mutação.
+Ou seja, ele considerava que tudo no universo — mesmo o tempo, mesmo o
+pensamento — tem uma qualquer espécie de substância corpórea
+(materialismo); que, em última análise, tudo se pode resumir a um simples
+princípio unificador (monismo); e que tudo está em perpétuo processo de
+mudança e a transformar-se em qualquer coisa diferente daquilo que antes era
+(mutação). Estes três dogmas foram os alicerces sobre os quais Zenão construiu
+toda a estrutura. A sua intransigente insistência nestes princípios levou-o por
+vezes a expor ideias perfeitamente indefensáveis; mas, nas mãos dos seus
+seguidores, as mais rígidas asserções do fundador foram modificadas e
+suavizadas de maneira a torná-las aceitáveis para os pensadores de espírito
+mais realista.
+
+Quando o Estoicismo passou do Oriente para o Ocidente e foi introduzido no
+mundo romano, assumiu um aspecto diferente. Foram os elementos morais dos
+ensinamentos de Zenão que aqui despertaram mais atenção, e o seu valor
+prático foi prontamente apreciado. Um código que era humano, racional e
+moderado, um código que insistia num procedimento justo e virtuoso, na autodisciplina,
+numa força moral inabalável e numa completa libertação das
+tempestades da paixão adequava-se admiravelmente ao carácter romano. E
+consequentemente a reputação e influência do Estoicismo aumentou
+invariavelmente ao longo dos séculos que assistiram ao declínio da república e
+ao nascimento do principado; e por altura da ascensão de Marco Aurélio ao
+trono, tinha já atingido o ponto mais alto da sua supremacia. As suas
+concepções e a sua terminologia eram agora familiares aos homens e mulheres
+instruídos de todas as cidades importantes do Império.
+
+Os Estóicos definiam a filosofia como «luta pela sabedoria»; e “sabedoria“, por
+sua vez, era definida como «conhecimento das coisas divinas e humanas».
+Dividiam este conhecimento em três ramos: a Lógica, a Física e a Ética.* Uma
+vez que o primeiro requisito para a procura da verdade é um pensamento claro e
+rigoroso, que, por sua vez, depende de um uso preciso das palavras e um
+vocabulário de termos técnicos, o estudo inicial era a Lógica. Depois vinha a
+investigação dos fenómenos naturais e das leis da natureza. E esta estendia-se
+até à interpretação metafísica do universo; pois, no esquema estóico, a Física
+incluía o estudo completo do Ser na sua tripla manifestação: o próprio homem, o
+universo criado à sua volta, e Deus. Por fim, colocado no lugar mais elevado e
+importante do sistema, vinha a Ética. Pois a verdadeira função da filosofia, o
+ponto para o qual convergiam todas as questões e ao qual estavam
+subordinados todos os ramos do conhecimento, era a própria conduta do
+homem, definida numa palavra, “virtude“. Como diz Diogenes Laertius, «eles
+comparam a filosofia a uma criatura vivente; os ossos e músculos correspondem
+à Lógica, a carne à Ética, e a alma à Física. Comparam-na também a um campo
+produtivo, do qual a Lógica é a vedação circundante, a Ética, a colheita que ela
+encerra, e a Física, o solo».† Convém resumir brevemente os seus
+ensinamentos sobre estes três pontos.
+
+(a) A Lógica. No sector da Lógica, tudo o que o leitor de Marco Aurélio precisa
+de saber é a teoria do conhecimento dos Estóicos e os meios de atingir esse
+conhecimento. No seu sistema, o conhecimento começa com impressões, que
+são produzidas pelo impacto das coisas ou qualidades sobre os sentidos. Depois
+fica para o poder do espírito o julgamento daquilo que os sentidos reportam:
+aceitá-lo como representação verdadeira da realidade objectiva, ou rejeitá-lo
+como falso. (A importância decisiva desta fase é repetidamente realçada por
+Marco). Algumas impressões, como é evidente, desencadeiam uma aceitação
+imediata e espontânea — como, por exemplo, a noção elementar de que o bem
+é benéfico e o mal prejudicial — mas noutros casos a aceitação só vem depois
+de ponderada reflexão; e pode variar entre uma aprovação hesitante, tão fraca e
+vacilante que apenas constitui uma mera “opinião”, e uma certeza categórica
+que só é produzida por uma chamada “impressão arrebatadora”. É uma
+impressão tão forte que, no dizer de um escritor, «como que agarra o sujeito
+pelos cabelos e lhe arranca a aceitação». Contudo, mesmo uma impressão
+deste tipo pode ser, de facto, imperfeita ou enganadora; e consequentemente a
+sua aceitação, por muito segura que seja, pode ser errónea. Deve, portanto, ser,
+em seguida, submetida ao escrutínio da razão, único poder soberano que pode
+emitir o passaporte para a convicção. Por fim, esta convicção pessoal tem de ser
+verificada por comparação com a experiência dos tempos e sabedorias
+passados, e confirmada pelo veredicto geral da humanidade; e torna-se então
+conhecimento. Ao explicar estes quatro estádios, Zenão costumava ilustrar as
+impressões com os dedos da mão estendidos, a aceitação com a mão fechada,
+a convicção com o punho cerrado, e o conhecimento com o punho firmemente
+agarrado pela outra mão.
+
+(b) A Física. Os físicos estóicos ensinavam que a fonte original do Ser em todas
+as suas formas é uma certa substância omnipresente em todo o universo, que
+pode ser mais bem descrita como Espírito. Contudo, como eles eram
+materialistas consumados, consideravam este Espírito como consistindo de uma
+matéria real e concreta, embora de uma espécie o mais fina e imperceptível que
+se possa imaginar. Numa analogia com o mais subtil e vivo dos elementos
+conhecidos, e que também alimenta a vida e o crescimento, conceberam a sua
+natureza essencial como a do Fogo; mas um fogo tão rarefeito e etéreo que a
+palavra “calor” talvez esteja mais próxima para a descrever do que qualquer
+coisa que possa sugerir uma ideia de chama real. Este Espírito-Fogo, que
+possuía consciência, objectivo e vontade, era simultaneamente o criador e a
+matéria do universo; tomava forma em inúmeras manifestações diferentes,
+dando assim às coisas a sua substância e forma, e produzindo a partir de si
+próprio o mundo visível e tudo o que dentro dele se encontra. De acordo com os
+variados contextos em que reflecte sobre isto, Marco dá-lhe muitos nomes:
+quando fala da sua acção sobre o universo como um todo, pode chamar-lhe
+Deus, Zeus, Natureza, Providência, Destino, Necessidade, ou Lei; como um dos
+elementos materiais da natureza, é Fogo, ou Ar, ou Força; em relação à
+constituição do próprio homem, torna-se Alma, Razão, Espírito, Sopro, ou (na
+linguagem técnica da psicologia Estóica) “a Faculdade-Mestra”. É importante
+lembrar que todas estas palavras são meros termos para designar o mesmo
+Espírito-Fogo criador nos seus variados aspectos.
+
+O Estoicismo é, portanto, um credo panteísta: isto é, considera que Deus está
+em toda a criação, mas não tem existência fora dela. E como tal, está em directa
+oposição aos ensinamentos rivais do Epicurismo. Epicuro, ao desenvolver as
+ideias de Demócrito, defendia que os únicos constituintes do universo são
+átomos e espaço vazio. Os átomos, em número infinito, estão em movimento
+contínuo e em alta velocidade no vácuo, e as suas colisões fortuitas produzem
+certas combinações que fazem o mundo tal como ele é em cada momento. Uma
+vez que este colidir incessante de átomo contra átomo no vórtice vai fazer
+nascer eternamente novas combinações e dispersões, a vida do universo
+continua a perpetuar-se infatigavelmente. É verdade que entre as infinitamente
+numerosas combinações possíveis, algumas terão necessariamente de parecer
+como se fossem o resultado de um desígnio; mas na realidade tal coisa, o
+desígnio, não existe, e tudo se deve ao acaso. O próprio Marco, em mais do que
+uma passagem das Meditações, considera as implicações desta teoria
+alternativa. «Haverá uma Providência sábia, ou apenas um amontoado
+desordenado de átomos?» pergunta ele; mas apenas para concluir que em
+qualquer dos casos as questões morais com as quais ele se preocupa sairiam
+incólumes. Pelo que a ele próprio respeita, a sua convicção sobre a direcção
+providencial do mundo não vacila.
+
+Para explicar o processo de criação, os Estóicos confiavam na teoria da tensão.
+A partir do facto de que a maioria dos corpos se expandem quando aquecidos,
+conclui-se claramente que o calor exerce uma pressão. Por consequência, o
+Espírito-Fogo, no seu estado primitivo de intenso calor e correspondente alta
+pressão, começa logo a expandir-se; e isto traz consigo um abrandamento
+proporcional da tensão. E daqui resulta que algum do fogo divino arrefece, se
+torna visível e se transforma no elemento, mais humilde, do terrestre fogo; e
+este, por sua vez, à medida que a tensão continua a baixar, condensa-se
+parcialmente em ar; e algumas porções de ar, por sua vez, solidificam, tornando-
+se água e terra. Nesta fase, entra em campo um movimento de sentido contrário;
+o calor vital contido nestes quatro elementos começa a afirmar a sua energia
+criadora e a materializar-se nas inúmeras formas e feitios que compõem o
+universo. Fisicamente, estas diferenciam-se de acordo com as proporções
+variáveis de fogo, ar, terra e água que contêm; noutros aspectos, a sua natureza
+depende do grau de tensão do fogo que os produz. Assim, num certo grau, esta
+força tornar-se-á nas formas orgânicas da vida vegetal; num grau mais elevado,
+nos animais ou “almas sem razão”; e depois disso, nas “almas racionais”
+características do homem. Dentro destas categorias podem produzir-se tantas
+formas do Ser quantos os diferentes graus de tensão. Na tensão máxima, o
+Espírito-Fogo adquire os atributos de uma Alma-Mundo, com a mesma relação
+com o universo que a alma individual tem com o próprio homem. A longo prazo,
+porém, virá um tempo em que esta energia em constante crescimento atinge um
+pico de intensidade que a torna devoradora da sua própria criação: uma após
+outra, as diferentes formas e substâncias dissolvem-se de novo nos seus
+elementos originais, a água evapora-se em ar, o ar transforma-se em chamas, e
+finalmente o universo desaparece numa grande conflagração a que nada
+sobrevive, excepto o primitivo Espírito-Fogo. Após o que, todo o processo
+recomeça; os sucessivos actos de criação repetem-se, e o padrão histórico
+desenrola-se como anteriormente. E tudo isto se repete em infindáveis ciclos
+cósmicos alternados de criação e destruição; e como as leis eternas são
+imutáveis, depois de cada conflagração, tudo o que aconteceu nos ciclos
+anteriores tem de reproduzir-se uma vez mais até ao mais pequeno pormenor.
+
+Quanto ao próprio homem, ele é um microcosmos que reflecte fielmente em si
+próprio o organismo mais vasto do universo. O seu corpo físico é formado a
+partir dos quatro elementos, e aquilo que o cria, que nele habita e que o controla
+é uma partícula do Espírito-Fogo omnipresente. Assim como este ígneo Poder
+no seu estado mais elevado e mais puro actua como alma do mundo, também
+aqui, residindo no corpo numa forma pouco menos etérea, ele desempenha o
+mesmo papel para o homem, criando e dirigindo a sua vida, os seus sentidos, os
+seus pensamentos e as suas emoções. É alimentado pelo sangue, e tem o seu
+assento no coração, o principal centro do sangue. (Daí que Marco se refira por
+duas vezes à alma como «uma exalação do sangue».)
+
+Na hora aprazada, a Natureza desfaz os elementos materiais que compuseram
+o corpo, de modo a usá-los para outros fins; e isto é aquilo que conhecemos
+como morte. Quanto àquilo que acontece à ”ígnea partícula”, os Estóicos, como
+os Cristãos, não são unânimes. Todos concordam que mais tarde ou mais cedo
+ela terá de ser reabsorvida pelo Espírito-Fogo original, mas havia diferenças de
+opinião quanto à altura em que isso acontece. A doutrina mais antiga, a que
+Marco adere, era que, depois da dissolução do corpo, a alma continuava a viver
+nas regiões superiores do ar, e só era dissolvida de novo no Fogo-Mundo na
+conflagração final. Eram estes os ensinamentos de Cleanthes; Chrysipo, por
+outro lado, era de opinião que só as almas dos bons e dos sábios preservavam a
+sua identidade pessoal até ao fim do mundo, enquanto que aos maus e aos
+ignorantes era concedido apenas um curto período de sobrevivência antes da
+sua reabsorção. Outros pensadores consideravam que em todos os casos esta
+reabsorção se seguia imediatamente à morte; e ainda outros acreditavam num
+estado purgatorial no qual a alma sofria um processo de purificação física e
+moral como prelúdio da sua reunião com a substância-mundo.
+
+(c) A Ética. Os Estóicos ensinavam que o fim principal do homem, e o seu mais
+elevado bem, é a felicidade. Na sua visão, a felicidade era alcançada «vivendo
+de acordo com a Natureza». Esta famosa frase é muito facilmente mal
+interpretada pelo leitor moderno. Não significa viver uma vida simples, ou a vida
+do homem natural; e muito menos viver da maneira que muito bem queremos.
+Para apreender o seu significado, temos de nos lembrar que a “Natureza” é uma
+das designações dos Estóicos para o fogo divino que, além de criar todas as
+coisas, também as molda para os seus próprios fins. Assim, ela incarna a ideia
+que hoje nós exprimimos pela palavra “evolução”: o poeta americano que
+escreveu «Alguns chamam-lhe Evolução e outros chamam-lhe Deus» ficou
+muito perto da maneira de pensar dos Estóicos. Ela era a força que guiava e
+dirigia todos os tipos de crescimento ou desenvolvimento em direcção à
+perfeição final; e porque ela era também uma força viva, intencional e inteligente,
+os próprios Estóicos também, por vezes, lhe chamavam Deus. «Viver de acordo
+com a Natureza», portanto, não era uma máxima muito diferente da obrigação
+do Novo Testamento «Sede vós os seguidores de Deus», e implicava um ideal
+igualmente sublime e uma disciplina igualmente espinhosa.
+
+Se quisermos uma definição mais precisa desta “Vida Natural”, Marco diz que
+ela consiste, para cada criatura, numa estrita conformidade com o princípio
+essencial da constituição dessa mesma criatura. No caso do homem, este
+princípio essencial é a sua razão, que é parte da Razão universal. Desde que,
+portanto, ele siga esta lei racional do seu ser, aproxima-se da felicidade; se se
+afasta dela, não a alcançará. A Vida Natural é, de facto, a vida controlada pela
+razão; e tal vida é descrita, em resumo, como “virtude”. É o significado de virtude
+que explica o dogma estóico que diz que «a virtude é o único bem, e a felicidade
+consiste exclusivamente na virtude».
+
+A razão diz-nos claramente que algumas coisas estão no nosso poder e outras
+não. Por exemplo, a saúde física, a riqueza, os amigos, a morte, e outras deste
+tipo, estão fora do nosso controle; portanto, não podem ser nem ajudas nem
+obstáculos à Vida Natural. São “coisas neutras”. Mas a nossa própria vontade,
+os nossos juízos, o nosso poder de aceitar o que é moralmente correcto ou
+rejeitar o contrário - tudo isto está no nosso próprio poder. Daí que nada exterior
+a nós nos pode, por si só, afectar; só quando interiormente o aceitamos ou
+recusamos é que ele nos pode beneficiar ou prejudicar. O prazer, em si próprio,
+não é um bem, nem a dor, por si só, um mal; tornam-se uma ou outra coisa
+quando nós assim as julgamos. É este o significado da insistência de Marco em
+que «a opinião é tudo». E também explica a presteza do sábio, que tantas vezes
+encontramos realçada nas suas páginas, em «aceitar sem ressentimento tudo
+que lhe possa acontecer»; um preceito que é claramente um dos esteios da sua
+vida pessoal. É este o princípio que está por detrás da famosa “apatia”, ou
+“impassividade”, do sábio estóico ideal. Este, como ensinavam os filósofos,
+experimentará todas as sensações e emoções que são comuns ao homem, mas,
+porque se recusa a vê-las como males, não será afectado por elas.
+Considerando-as como coisas exteriores e portanto neutras, ele fica seguro e
+incólume. Consequentemente, como os Estóicos afirmavam (para grande
+divertimento do poeta Epicurista Horácio), só o sábio é verdadeiro rei, rico,
+apesar da sua pobreza, feliz, apesar do seu sofrimento físico, livre, mesmo se
+escravo, sereno e auto-suficiente em todas as vicissitudes. Se as circunstâncias
+alguma vez se mostrarem excessivas para este desprendimento, ele não
+hesitará em deixar voluntariamente a vida; porque a vida, simplesmente, está
+também entre as coisas que são neutras. Tanto Zenão como Cleanthes
+morreram pelas próprias mãos, e nós vamos encontrar o próprio Marco mais do
+que uma vez entregue ao pensamento de que, em certas condições, fica melhor
+ao filósofo deixar a vida do que permanecer nela.
+
+Tão inequívoco como o dever do homem para consigo próprio, é o seu dever
+para com os outros. Uma vez que todos os homens são manifestações do
+Espírito-Fogo uno e criador, a doutrina da fraternidade universal tinha um papel
+primordial no sistema estóico. O instinto racional e social é uma coisa inerente à
+constituição do homem. A bondade para com o seu semelhante é pois sua
+obrigação de todos os tempos; tem de aprender a ser tolerante para com as
+suas faltas, descontar a sua ignorância, perdoar os seus erros e ajudá-lo nas
+suas necessidades. Para Marco, esta nem sempre era das tarefas mais fáceis; a
+própria frequência com que ele recorda a si próprio que a boa vizinhança é uma
+parte importante da Vida Natural sugere que, na prática, ela, por vezes,
+constituía uma pressão sobre a sua capacidade de benevolência. Contudo,
+reconhece inteiramente que o homem é um ser social, feito para agir
+socialmente. Aceita o axioma estóico de que todo o universo é uma sociedade
+organizada; uma comunidade cívica na qual o divino e o humano residem juntos
+numa cidadania comum. (Anteriormente, os Cínicos tinham-na descrito como a
+cosmo-polis: a cidade que acompanha todo o cosmos em extensão.) Nas suas
+próprias palavras, «o mundo é como se fosse uma só cidade»; e assim como,
+para os atenienses, Atenas era a “querida cidade de Cecrops”, para o filósofo, o
+universo é “a querida cidade de Deus”».
+
+## Marco Aurélio António
+
+Marco Annio Vero, o futuro imperador de Roma, nasceu em 26 de Abril de 121 a.
+D. durante o reinado do Imperador Adriano. O pai, Annio Vero, era um nobre
+romano, e o avô, com o mesmo nome, tinha sido Prefeito da Cidade e, por três
+vezes, Cônsul. Ambos os pais morreram ainda novos e, depois da morte do pai,
+Marco foi adoptado pelo avô, de quem ele fala com caloroso afecto e respeito.
+Os anos da infância foram felizes, e de estudo; uma série de tutores dos mais
+competentes tomaram conta da sua educação e treinaram-no nas doutrinas da
+filosofia estóica; e embora a sua saúde não fosse nunca muito robusta, gostava
+de montar a cavalo, caçar, lutar, e de jogos de ar livre. Quando tinha dezassete
+anos, o Imperador Adriano morreu e sucedeu-lhe Aurélio António (vulgarmente
+conhecido como António Pio), cuja mulher era uma tia de Marco chamada
+Faustina. Não tendo filhos varões, António adoptou o jovem sobrinho de sua
+mulher, mudou-lhe o nome para Marco Aurélio António, nomeou-o seu sucessor
+e prometeu-o em casamento à sua filha Faustina. O grau de felicidade que
+Marco encontrou neste casamento é, e continuará por ventura a ser, um enigma.
+Os cronistas contemporâneos deliciam-se a relatar pormenorizadamente
+histórias da despudorada licenciosidade da mulher, e afirmam que ela era
+tratada com uma indulgência censurável por um marido de longe bom demais
+para ela. Contudo, as provas de tudo isto são duvidosas; e o certo é que,
+quando ela morreu, trinta anos mais tarde, Marco sofreu com a sua perda. Ela
+dera-lhe cinco filhos que ele amava apaixonadamente; mas a morte roubou-lhe
+sucessivamente todos eles, à excepção do inútil Cómodo, que viveu o suficiente
+para suceder ao pai.
+
+Dos dezessete aos quarenta anos, como companheiro próximo e colega de
+António, Marco entregou-se à aprendizagem das artes de governo e à
+preparação para os seus futuros deveres de imperador. Nesses anos a
+majestosa imensidão da pax romana, mantida pela administração imperial,
+estendeu-se a toda a Europa Ocidental e do Sul, ao Norte de África, à Ásia
+Menor, à Arménia e à Síria. Mas muito do fardo da governação deste vasto
+domínio centrava-se na pessoa do próprio imperador; e quando António morreu,
+em 161, caiu sobre Marco uma enorme e pesada responsabilidade. Contrariando
+os desejos do Senado, levou consigo para o trono, como colega, Lúcio Vero, o
+outro filho adoptivo de António; e, pela primeira vez, Roma assistiu ao
+espectáculo de dois imperadores. Quase simultaneamente, os longos anos de
+serenidade imperial chegaram ao fim. Uma peste espalhou-se desastrosamente
+por todo o mundo ocidental. Inundações destruíram grandes quantidades de
+cereal em Roma, obrigando Marco a vender as jóias reais para aliviar o
+sofrimento dos seus súbditos famintos. A juntar à ansiedade da peste e da fome,
+ele encontrou-se a braços com sinais de guerra. A paz foi quebrada pelo fragor
+das armas; nas fronteiras orientais, bandos de ferozes homens tribais do
+Marcomanni (“homens das marcas”), Quadi, e Sarmati invadiram a raia numa
+série de tentativas determinadas de penetrar nas defesas do Império. Perante
+esta ameaça, Marco deixou Roma em 167 para assumir pessoalmente o
+comando das suas legiões depauperadas no Danúbio. Em 169 Vero morreu, e
+durante a maior parte dos treze anos seguintes Marco ficou só no seu posto.
+Durante um curto intervalo foi chamado à Ásia, onde o comandante das tropas,
+Avídeo Cássio, se revoltou e se fez proclamar imperador. Mas Cássio foi
+assassinado por dois dos seus oficiais; e, como é característico de Marco,
+quando aqueles lhe trouxeram, a cabeça decepada, ele recuou e recusou
+recebê-los. Ordenou que todos os papéis de Cássio fossem queimados por ler, e
+tratou os rebeldes com clemência. Durante esta expedição ao Oriente, a sua
+mulher Faustina, que o acompanhara, morreu; e Marco voltou para o Danúbio
+para retomar a tarefa de suster a maré invasora da barbárie. Aí, por entre os
+pântanos enevoados e as ilhas fumegantes daquela melancólica região, ele
+buscava consolo para as suas horas de solidão e exílio na redacção das suas
+Meditações. Anos de trabalho árduo e conflito tinham-lhe exaurido o espírito;
+estava cansado da vida, e, nas suas próprias palavras, «à espera da saída para
+o retiro». Quando, por fim, uma doença infecciosa o atacou, ele ainda se
+arrastou alguns dias, vindo a morrer em 17 de Março de 180, com cinquenta e
+nove anos de idade e dezanove de reinado. «Não chorai por mim,» foram as
+suas últimas palavras, «pensem antes na pestilência e na morte de tantos
+outros».
+
+Sugerir que Marco não era um verdadeiro estóico parece paradoxal. Contudo as
+suas meditações revelam um tipo de carácter que dificilmente agradaria a Zenão
+ou a Chrysipo. Os humores variando entre a esperança e a depressão, o
+sensível retraimento perante companheiros desagradáveis ou a vista de sangue,
+a ânsia reprimida, mas evidente, por simpatia e afecto — tudo isto não eram
+sinais de um carácter moldado à antiga maneira estóica. A verdade é que Marco
+representa uma fase transitória de pensamento. Em lugar da velha afirmação de
+auto-suficiência, há uma timidez e uma predisposição para reconhecer os
+próprios fracassos; em vez da estóica virtude do orgulho, ele parece antecipar a
+virtude cristã da humildade. Por isso, ainda mais simpatizamos com as suas
+repetidas lutas pelo autodomínio e pelos seus esforços por orientar todos os
+impulsos naturais e emoções para o implacável serviço do dever. Sem dúvida
+que esta constante preocupação em se aperfeiçoar, esta insistência em
+aperfeiçoar máximas e lugares-comuns morais, produziram uma impressão
+desagradável em alguns leitores; e houve mesmo detractores que chamaram a
+Marco impostor e pedante. Penso que tal juízo mostra falta de entendimento da
+natureza do temperamento religioso; porque quando um homem toma a sua
+religião seriamente, o auto-exame consciencioso e a aspiração à virtude têm
+obrigatoriamente de constituir uma muito grande parte de todas as suas
+peregrinações interiores e meditações. Aliás, os escritos de um S. Paulo ou de
+um Thomas à Kempis mostram tantos conselhos, exortações à santidade e
+citações de autoridades canónicas como as que encontramos em Marco;
+contudo, ninguém teve a audácia de acusar os seus autores de insinceridade —
+apesar mesmo das suas confessadas intenções de escrever para a edificação
+de uma larga faixa de leitores. Quando, por outro lado, escutamos as secretas
+conversas íntimas do imperador-filósofo com a sua própria alma, e nos
+lembramos de que ele nunca se dirige a qualquer ouvinte humano a não ser ele
+próprio, creio que o nosso instinto nos diz que estamos na presença de um
+homem simples, humilde e absolutamente sincero. Um pequeno facto, mas
+significativo, em que até agora, e tanto quanto eu sei, nenhum dos seus editores
+reparou, parece revelar a sua genuína bondade. Quando ele tem a oportunidade
+de se referir a pessoas em termos de louvor, nunca deixa de registar os seus
+nomes. Mas quando, como por vezes acontece, ele se permite um comentário
+desfavorável, um véu de secretismo cobre o transgressor, e nós ficamos apenas
+com um indício da sua identidade que nos é fornecido por um nada revelador
+“ele” ou “eles”.* Este caridoso hábito — que podia talvez ser recomendado a
+alguns dos que hoje escrevem as suas memórias — merece particular atenção
+em alguém cuja sensibilidade deve ter sofrido quase diariamente afrontas das
+maneiras e da sociedade de então.
+
+«Guiai-me, Zeus e Destino», diz a prece de Epicteto, «para onde quer que eu
+seja mandado. Obedecerei sem hesitar; mesmo que venha a tornar-me cobarde
+ou me retraia, sempre terei de ir». Estas palavras exprimem adequadamente a
+atitude de Marco perante a vida. Se ele observa obliquamente que se trata
+«mais de luta do que de dança», a sua firmeza não vacila; e a peculiar doçura e
+delicadeza do seu carácter exerceu uma atracção que estes laivos de
+pessimismo não diminuem. «Santo e sábio por natureza, imperador e guerreiro
+por profissão», ele contempla, da solitária altura em que se encontra, as dores
+da mortalidade com olhos que estão desiludidos, porém serenos. «E portanto,»
+citando a homenagem de Mathew Arnold, «ele continua o amigo especial e o
+consolador das almas escrupulosas e difíceis, mas de coração puro e
+empenhadas na elevação, especialmente naquelas idades em que caminham à
+vista, e não por fé, mas em que ainda não têm uma visão aberta: a essas almas,
+talvez ele não possa dar tudo aquilo por que elas anseiam, mas dá-lhes muito, e
+o que ele lhes dá podem eles receber». E sobre aquela sua estátua equestre
+que se ergue na Piazza Compidoglio, em Roma, escreveu Henry James que «na
+capital da Cristandade, o retrato mais sugestivo da consciência cristã é a de um
+imperador pagão».
+
+Enquanto os homens continuarem a ser atraídos pelas lágrimas e triunfos da
+bondade humana, não faltarão leitores a Marco Aurélio. Melancólico,
+compassivo e desencantado, o último dos Estóicos ainda envergonha as nossas
+fraquezas e silencia a nossa insatisfação.
+
+## Estoicismo e Cristianismo
+
+Em conclusão, o leitor pode com algum proveito ser levado a pensar que a
+teologia da Igreja Cristã tem uma grande dívida para com o Estoicismo. No
+evangelho original de Cristo predominavam os elementos morais e espirituais, e
+o elemento intelectual estava-lhes perfeitamente subordinado. Mas quando a
+mensagem se espalhou para além dos confins da Palestina, e as suas
+implicações foram assimiladas pelos pensadores de outras terras, fez-se sentir a
+necessidade de concepções mais exactas da verdade. Tornou-se evidente que a
+nova fé tinha de levantar uma multiplicidade de questões nos campos da
+cosmogonia, da metafísica, da psicologia e da ética; e para todas elas a Igreja
+tinha de descobrir um qualquer sistema coerente de respostas. Felizmente,
+muita da matéria necessária para a tarefa estava ali à mão. O solo já tinha sido
+explorado pelas escolas da filosofia pagã, e as suas descobertas constituíram o
+corpo de conhecimento científico contemporâneo aceite. Muitos dos homens que
+integraram a comunidade cristã durante o segundo século tinham sido educados
+nestas doutrinas desde a juventude; a sua maioria, nos princípios do Estoicismo,
+uma vez que este sistema, mais do que qualquer outro, atraía o tipo de espírito
+naturalmente religioso. Para eles se viraram, pois, os homens da igreja na
+procura de ajuda para a construção da estrutura da sua teologia. Isto não implica
+uma apropriação acrítica e por atacado das ideias pagãs. Muito pelo contrário,
+quando uma teoria filosófica parecia sugerir as linhas ao longo das quais o
+pensamento cristão podia procurar a sua própria solução de um problema, era
+adoptada como hipótese de trabalho e testada nas suas possibilidades; após o
+que, numa forma adequadamente modificada, podia encontrar o seu lugar na
+nova religião. Nas palavras do Dr. Prestige, «era a ideia que era afeiçoada para
+servir à fé cristã, e não a fé que era afeiçoada para nela poder caber a
+concepção importada».*
+
+Por exemplo, o autor do quarto evangelho declara que Cristo é a Logos. Esta
+expressão (que significa “razão” ou “palavra”) fora já durante muito tempo um
+dos principais termos do Estoicismo, escolhido originalmente com o objectivo de
+explicar como a divindade entrou em relação com o universo. De acordo com os
+filósofos, a Razão divina dera existência ao mundo por meio de inúmeras
+partículas de si própria que habitaram e deram forma a toda a criação. Esta
+versão da origem do universo, já profundamente arreigada na geração sua
+contemporânea, foi aceite, em princípio, pelo evangelista. Ele afirma, contudo,
+que o meio pelo qual Deus se manifestou na criação e manutenção do mundo
+não é uma Logos múltipla, mas sim una e pessoal, gerada de si próprio. «No
+princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Todas
+as coisas foram criadas por ele, e sem ele não existia nada do que foi feito».†
+
+Assim recebe a metafísica estóica o baptismo cristão.
+
+Outro conceito estóico que inspirou a Igreja foi o do “Espírito divino”. Ao querer
+dar um significado mais explícito ao “fogo criador” de Zenão, Cleanthes fora o
+primeiro a descobrir o termo pneuma, ou “espírito” para o descrever. Como o
+fogo, este “espírito” inteligente foi imaginado como uma ténue substância
+semelhante à corrente de ar ou sopro, mas possuindo essencialmente a
+qualidade do calor; era imanente no universo, como Deus, e no homem, como
+alma e princípio criador de vida. É evidente que isto não está muito longe do
+“Espírito Santo” da teologia cristã, o “Senhor e Criador da vida”, manifestado
+visivelmente como línguas de fogo no Pentecostes e desde então sempre
+associado — no espírito cristão bem como no estóico — às ideias de fogo vital e
+calor benéfico.
+
+Também na doutrina da Trindade, a concepção eclesiástica do Pai, Verbo e
+Espírito encontra o seu gérmen nos diferentes nomes Estóicos para a Divina
+Unidade. Assim, Séneca, ao escrever sobre o supremo Poder que molda o
+universo, afirma, «A este Poder chamamos nós umas vezes Deus Todo
+Poderoso, outras vezes, Sabedoria incorpórea, ou Espírito santo, ou ainda
+Destino». A Igreja apenas teve de rejeitar o último destes termos para chegar à
+sua própria definição aceitável da Natureza Divina; enquanto que a posterior
+afirmação de que «estes três são Um só», que o espírito moderno considera
+paradoxal, era um perfeito lugar-comum para aqueles mais familiarizados com
+as noções estóicas.
+
+Outros exemplos de ideias cristãs que já tinham sido ensacadas pelos Estóicos
+são a convicção de que os homens são «filhos de Deus»† e partilham da sua
+natureza, e a consequente crença de que devemos considerar todos os homens
+como nossos irmãos e não perder nenhuma oportunidade de fazer bem ao
+nosso semelhante. Um dos últimos escritores do Novo Testamento também
+avalizou com a autoridade cristã a crença estóica na conflagração final do
+universo.* Também uma notável contribuição estóica para a Igreja, e que teve
+uma influência duradoura, foi a prática do ascetismo. Os cristãos que desejavam
+seguir os conselhos da perfeição tomaram o sábio estóico e o seu modo de vida
+como exemplo formal. As vestes grosseiras, o cabelo e barba descuidados
+foram adoptados como distintivos da aspiração à santidade. Assim como o
+professor estóico costumava deixar a sociedade e meditar em solidão, os seus
+imitadores cristãos não só seguiram o seu exemplo como se apropriaram da sua
+terminologia. No vocabulário estóico, aquele que se recolhia num retiro era um
+”anacoreta”; aquele que praticava a autodisciplina era um “asceta”, aqueles que
+viviam separados dos seus semelhantes eram “monacais” e o lugar do seu
+recolhimento era um “mosteiro”. Cada uma destas expressões manteve o seu
+lugar e significado na linguagem da Igreja até hoje.
+
+Contudo, talvez o melhor testemunho da maneira como as ideias estóicas
+penetraram no pensamento cristão se encontre num tratado que se tornou a
+base da filosofia moral medieval, Os Deveres, de Santo Ambrósio de Milão.
+Aqui, os conceitos bíblicos da rectidão e da santidade são quase totalmente
+substituídos por doutrinas anteriores da ortodoxia estóica. A voz é a de um bispo
+cristão, mas os preceitos são de Zenão. Não é a santidade, mas a felicidade que
+aparece como ideal de vida; e a vida feliz é uma vida de acordo com a natureza.
+Tal vida alcança-se pela virtude, porque a virtude é «o mais elevado bem»; e a
+virtude é uma vez mais decomposta nos seus elementos pagãos de justiça,
+prudência, temperança e força moral. E o mais notável de tudo isto é que se
+declara a vida feliz e virtuosa como completamente realizável durante a nossa
+estada aqui na terra; e a esperança de uma futura bem-aventurança torna-se um
+motivo não primordial, mas secundário.
+
+Perante estas e outras afirmações semelhantes de um prelado e doutor da
+Igreja, quem será capaz de negar o direito do Estoicismo de ser chamado, nas
+palavras de um escritor do nosso tempo, «uma raiz do Cristianismo»?
+
+-------------------------------------
+## O HINO DE CLEANTHES
+
+ALTÍSSIMA GLÓRIA DA COMPANHIA DOS CÉUS,
+SENHOR DE VARIADO NOME
+ETERNO E PERPÉTUO SEJA O TEU PODER!
+
+ABENÇOADO SEJAS,
+Ó GRANDE ARQUITECTO DA CRIAÇÃO,
+QUE ORDENAS TODAS AS COISAS SEGUNDO AS TUAS LEIS!
+
+EVOCAR O TEU NOME
+É PRÓPRIO E JUSTO PARA O MORTAL,
+POIS SOMOS NASCIDOS DE TI;
+SIM, E A NÓS, SÓ A NÓS
+DE ENTRE TUDO O QUE VIVE E SE MOVE SOBRE A TERRA,
+É CONCEDIDA A VOZ E A PALAVRA.
+
+CANTAR-TE-EI, POIS, LOUVORES, AGORA!
+GLORIFICAREI, POIS, AGORA E PARA SEMPRE, O TEU PODER!
+
+-------------------------------------
+Nota do tradutor
+da versão inglesa
+
+Temos que admitir que esta obra começa logo por uma tradução errada. O título
+grego no topo do livro de Marco não significa de modo nenhum “Meditações”; o
+significado das suas duas palavras é simplesmente “Para Si Mesmo”. Não sei
+quem foi o primeiro responsável por parafraseá-las como “Meditações”, mas a
+sua prolongada utilização habituou o público leitor a este título de preferência a
+qualquer outro, e portanto pareceria pedantismo substituí-lo a pretexto de uma
+maior precisão literal.
+
+As mais antigas traduções inglesas de Marco Aurélio foram feitas por Meric
+Casaubon (1634) e Jeremy Collier (1701). O estilo de Casaubon, além de
+arcaico, é pesado e confuso; a versão de Collier afasta-se tanto do original que é
+pouco mais do que uma paráfrase. De nenhuma destas obras se pode dizer que
+tenha tido grande sucesso. A primeira pessoa a atrair para Marco Aurélio uma
+larga audiência foi o erudito do século dezanove George Long. A sua tradução
+foi publicada em 1862; é admiravelmente correcta, tão literal como as traduções
+escolares, e, quanto a mim, pelo menos perfeitamente ilegível. Contudo,
+depressa se tornou um “must” para a geração de meados da época vitoriana,
+desde grandes e eminentes personalidades como o Deão de Canterbury e
+Mathew Arnold, até às inúmeras pessoas menos importantes; e durante os
+quarenta anos seguintes o número de edições e reedições em diferentes estilos
+e tamanhos deve ter sido de legiões. Talvez isto não seja surpreendente, porque
+não é necessária muita imaginação para retratar o próprio Marco como uma
+figura de uma pessoa vitoriana admirada; a dignidade grave, os sentimentos de
+aperfeiçoamento, a séria piedade das Meditações estavam no mais completo
+acordo com o gosto daquela época.
+
+Em 1898 apareceu uma tradução que muitos críticos desde então classificaram
+como a mais viva, erudita e idiomática de todas as versões inglesas, e eu gosto
+de recordar que esta foi obra do meu velho reitor G. H. Rendall. (Uma vez que
+Marco nos ensina a lembrar com gratidão os mestres da nossa juventude, é um
+dever religioso registar aqui a minha dívida para com G. H. Rendall, que foi o
+primeiro a apresentar-nos, na escola, as Meditações, que ele amava, e de que
+me deu uma cópia que ainda conservo.) Outra boa tradução foi publicada por
+John Jackson em 1906, e lê-se bastante bem — à parte a sua constrangida
+“linguagem literária” — mas, quanto a mim, fica desfigurada pela pouco
+simpática opinião sobre o próprio Marco na nota introdutória de C. Bigg. A
+versão muito precisa de C. R. Haines (1915) na série Loeb, embora
+indispensável aos estudantes que queiram uma tradução exacta do grego,
+dificilmente se poderá ler com prazer.*
+
+Excelentes nas suas diferentes formas, estas traduções têm prevalecido por
+muito tempo sobre um grande número de rivais de menor importância. Mas já
+passou quase meio século desde que a última delas apareceu, e aos olhos dos
+mais novos elas têm vindo a parecer um pouco anquilosadas. Seria pena se isto
+impedisse uma nova geração de descobrir por si própria a sabedoria humana e o
+gentil encanto de Marco Aurélio; e foi portanto nesta modesta esperança de
+fazer alguma coisa para evitar tal infelicidade que a presente versão foi feita.
+Devo acrescentar que não há aqui qualquer tentativa de reproduzir o curioso
+estilo do original. Eu tenho a ideia de que escrever em grego não teria sido muito
+fácil para o romano Marco; as suas expressões são frequentemente obscuras, e
+ele usa construções desajeitadas e pouco usuais. Ao mesmo tempo, a sua
+linguagem tem dignidade, e o seu vocabulário é o de um homem instruído. É
+necessário qualquer coisa como o inglês límpido e belo de John Henry Newman
+(entre o qual e Marco há manifestas afinidades) para fazer justiça às qualidades
+espirituais das Meditações. Eu não podia esperar conseguir isto, e assim nada
+mais procurei fazer do que uma versão simples e honesta para o leitor que não
+sabe grego.
+
+Os meus melhores agradecimentos são devidos ao amigo Henry Neill pela sua
+amabilidade em ler o manuscrito e fazer muitas sugestões valiosas para o seu
+aperfeiçoamento. Também estou muito grato ao generoso encorajamento e
+conselho do Dr. E. V. Rieu, e o grau da minha dívida para com sua assistente
+para o corpo editorial, Mrs. Betty Radice, pela sua ajuda e conselho na
+preparação do livro para a imprensa, só pode ser medido por aqueles que já
+tiveram o benefício do seu interesse solidário e da sua grande erudição.
+
+MAXWELL STANIFORTH
+
+Sixpenny Handley, 1962
+
+-------------------------------------
+## Marco Aurélio
+
+## Meditações
+
+-------------------------------------
+## LIVRO 1
+
+1. A cortesia e a serenidade, aprendi-as eu, primeiro, com o meu avô.
+
+2. A virilidade sem alardes, aprendi-a com aquilo que ouvi dizer e recordo do
+meu pai .
+
+3. A minha mãe deu-me um exemplo de piedade e generosidade, de como
+evitar a crueldade — não só nos actos, mas também em pensamento — e de
+uma simplicidade de vida completamente diferente daquilo que é habitual nos
+ricos.
+
+4. Ao meu bisavô fiquei a dever o conselho de que dispensasse a educação da
+escola e, em vez disso, tivesse bons mestres em casa — e de que me
+capacitasse de que não se devem regatear quaisquer despesas para este fim.
+
+5. Foi o meu tutor que me dissuadiu de apoiar o Verde ou o Azul (1) , nas corridas,
+ou o Leve ou o Pesado (2) , na arena; e me incentivou a não recear o trabalho, a
+ser comedido nos meus desejos, a tratar das minhas próprias necessidades, a
+meter-me na minha vida, e a nunca dar ouvidos à má-língua.
+
+>(Comentário em Nota
+12/01/2002 14:42:00
+(1)
+As cores dos aurigários no Circo. O entusiasmo dos romanos por estas corridas não tinha limites; os vencedores ganhavam grandes fortunas e tornavam-se ídolos populares.)
+
+> (Comentário em Nota
+11/01/2002 12:28:36
+(2)
+Num tipo de combate de gladiadiores (o “Trácio”) os contendores eram armados com escudos redondos leves; noutro (o “Samnita”) eles traziam escudos rectangulares pesados.)
+
+6. Graças a Diogneto (3) aprendi a não me deixar absorver por actividades triviais;
+a ser céptico em relação a feiticeiros e milagreiros com as suas histórias de
+encantamentos, exorcismos e quejandos; a evitar as lutas de galos e outras
+distracções semelhantes; a não ficar ofendido com a franqueza; a familiarizar-me
+com a filosofia, começando por Bacchio e passando depois para Tandasis e
+Marciano; a redigir composições, logo em pequeno; a ser entusiasta do uso do
+leito de tábuas e pele, bem como de outros rigores da disciplina grega.
+
+> (Comentário em Nota
+11/01/2002 12:28:58
+(3)
+Pintor e filósofo a quem Marco, ainda um rapaz de onze anos, ficou a dever os primeiros contactos com o Estoicismo. De Bacchio, Tandasis ou Marciano nada se sabe.)
+
+7. De Rústico (4) obtive a noção de que o meu carácter precisava de treino e
+cuidados, e que não me devia deixar perder no entusiasmo sofista de compor
+tratados especulativos, homilias edificantes, ou representações imaginárias de O
+Asceta ou de O Altruísta. Também me ensinou a evitar a retórica, a poesia, e as
+presunções verbais, os amaneiramentos no vestuário em casa, e outros lapsos
+de gosto deste género, e a imitar o estilo epistolar simples utilizado na sua
+própria carta a minha mãe, escrita em Sinuessa. Se alguém, depois de se
+zangar comigo num momento de mau humor, mostrasse sinais de querer fazer
+as pazes, devia mostrar-me logo disposto a ir ao encontro dos seus desejos.
+Também devia ser rigoroso nas minhas leituras, não me contentando com as
+meras ideias gerais do seu significado; e não me deixar convencer facilmente
+por pessoas de palavra fácil. Por ele, vim também a conhecer as Dissertações
+de Epicteto, das quais ele me deu uma cópia da sua biblioteca.
+
+>(Comentário em Nota
+11/01/2002 12:29:09
+(4)
+Q. Júnio Rústico, um professor estóico que foi tutor de leis e amigo de Marco.)
+
+8. Apolónio (5) convenceu-me da necessidade de tomar decisões por mim
+mesmo, em vez de depender dos acasos da sorte, e nunca, nem por um
+momento, perder de vista a razão. Também me instruiu no sentido de encarar os
+espasmos de uma dor aguda, a perda de um filho e o tédio de uma doença
+crónica sempre com a mesma inalterável compostura. Ele próprio era um
+exemplo vivo de que nem mesmo a energia mais impetuosa é incompatível com
+a capacidade de descansar. As suas exposições eram sempre um modelo de
+clareza; contudo, era claramente alguém para quem a experiência prática e
+aptidão para ensinar filosofia eram os talentos menos importantes. Foi ele, além
+disso, que me ensinou a aceitar os pretensos favores dos amigos sem me
+rebaixar ou dar a impressão de insensível indiferença.
+
+> (Comentário em Nota
+11/01/2002 12:29:21
+(5)
+Professor de filosofia que veio da Calcedónia para Roma. Quando Marco o chamou pela primeira vez ao palácio, dizem que ele respondeu, «O mestre não deve ir ter com o aluno, mas o aluno com o mestre.»)
+
+9. As minhas dívidas para com Sexto (6) incluem a bondade, a maneira como
+dirigir o pessoal da casa com autoridade paternal, o verdadeiro significado da
+Vida Natural, uma dignidade natural, uma intuitiva preocupação pelos interesses
+dos amigos, e uma paciência bem disposta com os amadores e os visionários. A
+disponibilidade da sua delicadeza para com toda a gente emprestava à sua
+convivência um encanto superior a qualquer lisonja, e, contudo, ao mesmo
+tempo, impunha o completo respeito de todos os presentes. Também a maneira
+como ele precisava e sistematizava as regras essenciais da vida era tão ampla
+quanto metódica. Nunca mostrando sinais de zanga ou qualquer emoção, ele
+era, ao mesmo tempo, imperturbável e cheio de bondosa afeição. Quando
+manifestava a sua concordância, fazia-o sempre calma e abertamente, e nunca
+fazia alarde do seu saber enciclopédico.
+
+> (Comentário em Nota
+11/01/2002 12:29:43
+(6)
+Oriundo de Caerónia, na Boécia, e neto de Plutarco. Um dos primeiros professores de filosofia de Marco.)
+
+10. Foi o crítico Alexandre (7) que me pôs em guarda contra a crítica supérflua.
+Não devemos corrigir bruscamente as pessoas pelos seus erros gramaticais,
+provincialismos, ou má pronúncia; é melhor sugerir a expressão correcta,
+apresentando-a nós próprios delicadamente, por exemplo, numa nossa resposta
+a uma pergunta, ou na concordância com as suas opiniões, ou numa conversa
+amigável sobre o próprio tema (não sobre a dicção), ou por qualquer outro tipo
+de advertência.
+
+> (Comentário em Nota
+11/01/2002 12:29:51
+(7)
+Reputado erudito grego, conhecido por “o Gramático”)
+
+11. Ao meu conselheiro Fronto (8) devo a percepção de que a maldade, a astúcia
+e a má-fé acompanham o poder absoluto; e que as nossas famílias patrícias
+tendem, na sua maior parte, a carecer de sentimentos de humanidade.
+
+> (Comentário em Nota
+12/01/2002 14:47:38
+(8)
+M. Cornélio Fronto, famoso advogado e professor que dava lições de retórica, e reconhecidamente
+apenas inferior a Cícero, como orador. Foi encarregado da educação dos futuros co-imperadores Marco Aurélio e Lúcio Vero. A publicação da correspondência de Fronto que contém muitas das cartas que lhes escreveu, bem como as suas respostas, lançou muita luz sobre o carácter e os hábitos de Marco, e também revela o afecto que os seus pupilos reais dedicavam ao seu tutor.)
+
+12. O platonista Alexandre (9) acautelou-me contra o uso frequente das palavras
+«Estou muito ocupado» na expressão oral ou na correspondência, excepto em
+casos de absoluta necessidade; dizendo que ninguém deve furtar-se às
+obrigações sociais devidas, com a desculpa de afazeres urgentes.
+
+> (Comentário em Nota
+11/01/2002 12:30:12
+(9)
+Secretário do imperador)
+
+13. O estóico Catulo, (10) aconselhou-me a nunca menosprezar a censura de um
+amigo, mesmo quando pouco razoável, mas em vez disso, fazer o possível por
+voltar a agradar-lhe; a falar pronta e abertamente em louvor dos meus
+instrutores, como se lê nas memórias de Domítio e Athenodoto; e a cultivar um
+genuíno afecto pelos meus filhos.
+
+> (Comentário em Nota
+11/01/2002 12:30:22
+(10)
+Cinna Catulo era outro dos professores que davam lições de filosofia.)
+
+14. Com meu irmão Severo (11) aprendi a amar os meus familiares, a amar a
+verdade e a justiça. Por ele tomei conhecimento de Thraseia, Catão, Helvidio,
+Dião e Bruto, e familiarizei-me com a ideia de uma comunidade baseada na
+igualdade e liberdade de expressão para todos, e de uma monarquia
+preocupada sobretudo em garantir a liberdade dos seus súbditos. Ele revelou-
+me a necessidade de uma avaliação desapaixonada da filosofia, do hábito das
+boas acções, da generosidade, de um temperamento cordial, e da confiança no
+afecto dos meus amigos. Recordo, também, a sua franqueza para com aqueles
+que mereciam a sua repreensão, e a maneira como ele não deixava dúvidas aos
+amigos sobre aquilo de que gostava ou que detestava, dizendo-lho claramente.
+
+> (Comentário em Nota
+12/01/2002 14:48:31
+(11)
+Marco não tinha qualquer irmão. A palavra pode ser uma alusão jocosa a Cláudio Severo (cujo filho
+casou com uma das filhas de Marco), uma vez que Marco também se chamara originalmente Severo,
+embora tivesse mais tarde eliminado o nome. Trata-se mais provavelmente de erro do texto. Muitos editores
+preferem o nome Vero, isto é, o Lúcio Vero que, como o próprio Marco, for adoptado pelo Imperador
+António Pio como seu filho; mas o retrato lisongeiro aqui traçado não corresponde de modo nenhum ao que se conhece do carácter de Vero (ver nota 14))
+
+15. Máximo (12) foi o meu modelo de autocontrole, firmeza de intenções e de boa
+disposição em situações de falta de saúde e de outros infortúnios. O seu
+carácter era uma mistura admirável de dignidade e encanto, e todos os deveres
+inerentes à sua condição eram cumpridos sem alardes. Deixava em toda a gente
+a convicção de que acreditava no que dizia e agia da maneira que lhe parecia a
+correcta. Não conhecia o espanto ou a timidez; nunca mostrava pressa, nunca
+adiava; nunca se sentia perdido. Não se entregava ao desânimo nem a uma
+alegria forçada, nem sentia raiva ou inveja de qualquer poder acima dele. A
+bondade, a simpatia e a sinceridade, todas contribuíam para deixar a impressão
+de uma rectidão que lhe era mais inata do que cultivada. Nunca se superiorizava
+a ninguém, e contudo ninguém se atrevia a desafiar a sua superioridade. Era,
+além disso, possuidor de um agradável sentido de humor.
+
+> (Comentário em Nota
+12/01/2002 14:48:49
+(12)
+Cláudio Máximo, filósofo estóico especialmente admirado por Marco. A sua coragem na doença é recordada com gratidão (I,16) e a sua morte, bem como a da mulher, Secunda, lembradas com pena (VIII,25).)
+
+16. As qualidades que eu admirava no meu pai (13) eram a sua brandura, a sua
+firme recusa em se desviar de qualquer decisão a que tinha chegado, a sua
+completa indiferença às falsas honrarias; o seu esforço, a sua perseverança e
+vontade de ouvir atentamente qualquer projecto para o bem comum; a sua
+invariável insistência em que as recompensas devem depender do mérito; o seu
+hábil sentido de oportunidade para puxar ou soltar as rédeas; e os esforços que
+fazia para suprimir a pederastia.
+
+>(Comentário em Nota
+11/01/2002 12:30:54
+(13)
+Não o pai natural, Annio Vero, mas o Imperador António Pio, o pai adoptivo.)
+
+Ele tinha consciência de que a vida social tem as suas exigências: os seus
+amigos não tinham qualquer obrigação de se sentarem à sua mesa ou de o
+acompanhar nas suas viagens oficiais, e quando eles eram disso impedidos por
+outros compromissos, isso não lhe fazia qualquer diferença. Todas as questões
+que lhe eram submetidas em conselho eram examinadas meticulosa e
+pacientemente; nunca ficava satisfeito em despachá-las apenas com uma
+primeira impressão apressada. As suas amizades eram duradouras; não eram
+caprichosas nem extravagantes. Estava sempre à altura das circunstâncias;
+alegre, mas com uma visão de alcance suficiente para mandar discretamente
+cumprir os seus planos até ao mais pequeno pormenor. Estava sempre atento
+às necessidades do império, conservando prudentemente os seus recursos e
+suportando as críticas daí resultantes. Não era supersticioso frente aos deuses;
+e frente aos seus concidadãos nunca se rebaixava para alcançar popularidade
+nem namorava as massas, mas prosseguia o seu caminho calma e firmemente,
+desprezando tudo o que lhe soasse a ostentação ou moda. Aceitava sem
+complacência ou compunção os bens materiais que a sorte pusera à sua
+disposição; quando estavam à mão aproveitava-os, e quando não estavam, não
+sentia qualquer mágoa.
+
+Não lhe podiam ser apontados quaisquer vestígios dos sofismas dos casuístas,
+do atrevimento do adulador, ou do escrúpulo exagerado do pedante; todos os
+homens lhe reconheciam uma personalidade madura e acabada que era
+insensível à lisonja e perfeitamente capaz de se orientar a si próprio e aos
+outros. Além disso, tinha grande respeito por todos os filósofos genuínos; e
+embora abstendo-se de criticar os outros, preferia passar sem a sua orientação.
+Na convivência era afável e atencioso, mas sem exageros. Os cuidados que
+dispensava ao corpo eram razoáveis; não havia nele qualquer ansiosa
+preocupação de prolongar a existência, ou em embelezar a sua aparência,
+contudo estava muito longe de ser descuidado em relação a esta, e de facto
+cuidava tão bem de si próprio que raramente precisava de cuidados médicos ou
+de medicamentos. Não se notava nele o mais pequeno vestígio de inveja no seu
+pronto reconhecimento de qualidades notáveis, quer em discursos públicos, quer
+nos domínios da lei, da ética ou qualquer outro, e esforçava-se por dar a cada
+pessoa a oportunidade de conquistar reputação no seu próprio campo. Embora
+todas as suas acções fossem guiadas pelo respeito pelo precedente
+constitucional, nunca abandonava o seu caminho para buscar o reconhecimento
+público disso. Também não gostava da agitação e da mudança e tinha uma
+arreigada preferência sempre pelos mesmos lugares e sempre pelas mesmas
+actividades. Depois de uma das suas enxaquecas, voltava logo aos seus
+deveres sem perda de tempo, com novo vigor e completo domínio das suas
+capacidades. Os seus documentos secretos e confidenciais não eram muitos, e
+os raros temas neles tratados referiam-se exclusivamente a assuntos do estado.
+Revelava bom senso e comedimento na exibição de espectáculos, na
+construção de edifícios públicos, na distribuição de subsídios, etc., tendo sempre
+mais em vista a necessidade dessas medidas do que o aplauso que elas
+provocavam. Os seus banhos não eram a horas inconvenientes; não tinha a
+obsessão de construir; não era nada esquisito em relação à sua alimentação,
+nem ao corte e às cores das suas vestes, nem à apresentação daqueles que o
+rodeavam. As suas roupas eram-lhe enviadas da sua casa de campo em Lorium,
+e a maior parte das sua coisas eram de Lanuvium. A famosa maneira como ele
+tratou um inspector em Tusculum era típica do seu comportamento, pois a falta
+de cortesia, bem como a brusquidão ou a jactância, eram estranhas à sua
+natureza; nunca ficava encalorado, como diz o povo, ao ponto de transpirar; era
+seu hábito analisar e pesar todos os incidentes, devagar, calma, metódica,
+decisiva e consistentemente. Aquilo que se diz de Sócrates, não é menos
+aplicável a ele: que tinha a capacidade de se permitir ou negar a si próprio
+indulgências que a maioria das pessoas são incapazes de recusar por fraqueza,
+ou de apreciar, pelos seus excessos. Ser assim tão forte para, à sua vontade, se
+conter ou ceder revela uma alma perfeita e indómita — como Máximo também
+demonstrou no seu leito de doente.
+
+17. Aos deuses devo os meus bons avós, os meus bons pais, uma boa irmã, e
+os professores, camaradas, parentes e amigos, todos bons, quase sem
+excepção; e ainda o facto de nunca ter tido qualquer zanga com eles, apesar de
+um temperamento que podia bem ter precipitado qualquer coisa desse tipo, se
+as circunstâncias não se tivessem providencialmente combinado para nunca me
+pôr à prova. A eles também devo o facto de a minha educação ter deixado,
+desde cedo, de estar a cargo da amante do meu avô e assim a minha inocência
+ter sido preservada; e também o facto de nunca ter sentido qualquer ânsia de
+me tornar adulto e me ter contentado com um lento desenvolvimento. Agradeço
+também ao céu que, sendo o meu pai o Imperador, eu tivesse ficado imune a
+todas as pompas, e me fizessem compreender que a vida na corte pode ser
+vivida sem escoltas reais, mantos reais, luminárias, estátuas e outros
+esplendores exteriores desse tipo, mas que o nosso modo de vida pode ser
+reduzido quase ao nível do cidadão comum, sem perder o prestígio e autoridade
+necessários quando as questões de estado requerem liderança. Os deuses
+deram-me também um irmão (14) cujas qualidades naturais eram um desafio à
+minha própria autodisciplina, ao mesmo tempo que a sua afeição atenciosa me
+aquecia o coração; e filhos que não eram intelectualmente nada diminuídos, nem
+fisicamente deformados. Foram os deuses que limitaram a minha competência
+na retórica, na poesia e noutros estudos que me podiam ter tomado o tempo se
+eu tivesse encontrado menos dificuldade em progredir. Eles cuidaram de que eu,
+na primeira oportunidade, tivesse elevado os meus tutores à categoria que eu
+pensava que eles mereciam, em vez de adiar a questão com expectativas de
+futuras promoções, a pretexto da sua juventude. Aos deuses devo o
+conhecimento de Apolónio, Rústico e Máximo. A eles também devo a minha
+percepção vívida e recorrente da verdadeira espiritualidade da Vida Natural; na
+verdade, pela sua parte, os favores, ajudas e inspirações que recebi deixam sem
+desculpa o facto de eu não ter conseguido alcançar esta Vida Natural; e se eu
+estou ainda longe do objectivo, só eu próprio sou responsável por não ter
+tomado atenção aos sinais — melhor, às orientações virtuais — que recebi de
+cima.
+
+ > (Comentário em Nota
+ 11/01/2002 12:31:11
+ (14)
+ Lúcio Ceinóio Cómodo, depois conhecido como Lúcio Vero. Foi adoptado por António Pio juntamente
+ com Marco, com quem ele foi co-imperador e com cuja filha, Lucila, casou. Homem, a princípio corajoso e
+ capaz, Vero veio depois a fraquejar, tornando-se um amante da boa vida. Como comandante dos exércitos
+ romanos na guerra Partiana, revelou-se um indolente e um incapaz, e só se salvou da desgraça devido à
+ destreza dos seus generais. Quando voltou do Oriente com as suas legiões, estas trouxeram consigo as
+ sementes da peste que se propagou, com terríveis efeitos, por todo o Império. Vero morreu em 169 —
+ segundo alguns, ás mãos de um envenenador.)
+
+Aos deuses deve ser atribuído o facto de a minha constituição ter sobrevivido
+tanto tempo a este tipo de vida; de nunca me ter envolvido com uma Benedicta,
+nem com uma Theodota, e também de ter saído incólume de outras relações
+subsequentes; e embora Rústico e eu tivéssemos frequentemente as nossas
+diferenças, nunca levei as coisas ao ponto de ter de me arrepender; e de os
+últimos anos de vida da minha mãe, antes da sua morte prematura, terem sido
+passados comigo. E mais, de em certas ocasiões, quando eu pensava ajudar
+alguém na sua pobreza ou desgraça, nunca me terem dito que eu não tinha os
+meios necessários; como também de eu próprio nunca ter estado em situação
+de pedir a alguém semelhante ajuda. E devo agradecer ao céu pela mulher que
+tenho, tão submissa, tão adorável, e tão despretensiosa; por ter sempre tutores
+competentes para os meus filhos; e pelos remédios que me eram prescritos em
+sonhos — especialmente nos casos dos escarros de sangue e das vertigens,
+como aconteceu em Caieta e Chrysa. Finalmente, o facto de, dada a minha
+inclinação para a filosofia, não ter ainda assim caído nas mãos de um qualquer
+
+sofista ou ter passado todo o meu tempo agarrado aos livros e às regras da
+lógica ou amarrado ao estudo das ciências naturais.
+Por todas estas coisas boas «o homem precisa da ajuda do Céu e do
+Destino». (15)
+
+>
+(Comentário em Nota
+11/01/2002 12:31:24
+(15)
+Aparentemente uma citação, cuja fonte não foi descoberta.)
+
+Entre os Quadi, no Rio Gran.
+
+-------------------------------------
+## LIVRO 2
+
+1. Começa cada dia por dizer a ti próprio: Hoje vou deparar com a intromissão,
+a ingratidão, a insolência, a deslealdade, a má-vontade e o egoísmo — todos
+devidos à ignorância por parte do ofensor sobre o que é o bem e o mal. Mas,
+pela minha parte, já há muito percebi a natureza do bem e a sua nobreza, a
+natureza do mal e a sua mesquinhez, e também a natureza do próprio culpado,
+que é meu irmão (não no sentido físico, mas como meu semelhante, igualmente
+dotado de razão e de uma parcela do divino); portanto nenhuma destas coisas
+me ofende, porque ninguém pode envolver-me naquilo que é degradante. Nem
+eu posso ficar zangado com o meu irmão ou entrar em conflito com ele; porque
+ele e eu nascemos para trabalhar juntos, como, de um homem, as duas mãos,
+os dois pés, as duas pálpebras ou os dentes de cima e de baixo. Criar
+dificuldades uns aos outros é contra as leis da Natureza — e o que é a irritação,
+ou a aversão, senão uma forma de criar dificuldades aos outros?
+
+2. Um pouco de matéria, um pouco de respiração e uma Razão para tudo dirigir
+— isto sou eu. (Esquece os teus livros; deixa de suspirar por eles; não faziam
+parte do teu equipamento.) Como alguém já à beira da morte, não penses na
+primeira — no seu sangue viscoso, nos seus ossos, na sua teia de nervos e
+veias e artérias. E a respiração, o que é? Uma lufada de ar; e nem sequer o
+mesmo ar, mas, antes, sempre diferente a cada inspiração e expiração. Mas a
+terceira, a Razão, a mestra — é nela que te deves concentrar. Agora que o teu
+cabelo já está grisalho, não deixes mais que ela tenha um papel de escrava, que
+se contorça, qual marioneta, a cada acesso de interesse pessoal; e deixa de te
+exasperares com o destino, resmungando com o hoje e queixando-te do
+amanhã.
+
+3. Toda a organização divina está impregnada da Providência. Mesmo os
+caprichos do acaso têm o seu lugar no esquema da Natureza, isto é, no intricado
+tecido das disposições da Providência. A Providência é a fonte donde fluem
+todas as coisas; e a ela aliada, está a Necessidade, e o bem-estar do universo.
+Tu próprio és parte do universo; e para qualquer das partes da natureza, aquilo
+que lhe é atribuído pelo Mundo-Natureza, ou a ajuda a existir, é bom. Além
+disso, o que mantém todo o mundo em existência é a Mudança: não meramente
+a mudança dos elementos básicos, mas também a mudança das formações
+maiores que elas compõem. Contenta-te com estes pensamentos, e considera-
+os sempre como princípios. Esquece a tua sede de livros, para que, quando o
+teu fim chegar não resmungues, mas o encares com boa vontade e verdadeira
+gratidão aos deuses.
+
+4. Pensa nos teus muitos anos de adiamento; como os deuses repetidamente te
+proporcionaram mais períodos de graça que não aproveitaste. Está na altura de
+te dares conta da natureza do universo a que pertences, e da daquele poder
+controlador de que és filho; e de compreenderes que o teu tempo tem um limite.
+Usa-o, portanto, para avançares no teu esclarecimento, senão ele vai-se e
+nunca mais voltará a estar de novo em teu poder.
+
+5. Decide com firmeza, a todas as horas, como romano e como homem, fazer
+tudo aquilo que te chegar às mãos com dignidade, e com humanidade,
+independência e justiça. Liberta o espírito de todas as outras considerações. Isto
+podes tu fazer se abordares cada acção como se fosse a última, pondo de lado
+o pensamento indócil, o recuo emocional das ordens da razão, o desejo de
+causar uma boa impressão, a admiração por ti próprio, a insatisfação pelo que te
+calhou em sorte. Vê o pouco que um homem precisa de dominar para que os
+seus dias fluam calma e devotadamente: ele apenas tem de observar estes
+poucos conselhos, e os deuses nada mais lhe pedirão.
+
+6. Ó alma minha, que mal, que mal vós estais a fazer a vós própria; e muito em
+breve vós já não tereis mais tempo para fazerdes justiça a vós própria. O homem
+não tem senão uma vida; e a vossa está já próxima do fim, contudo, continuais a
+não ter olhos para a vossa própria honra e estais a hipotecar a vossa felicidade
+às almas de outros homens. (16)
+
+> (Comentário em Nota
+11/01/2002 15:14:53
+(16)
+Isto é, à decisão dos outros em aprovar ou criticar as tuas acções.)
+
+7. A tua atenção é desviada para preocupações exteriores? Então, concede-te
+um espaço de sossego dentro do qual possas aumentar o conhecimento do bem
+e aprender a refrear a tua inquietação. Defende-te também de outro tipo de erro:
+a loucura daqueles que passam os seus dias com muita ocupação mas carecem
+de um qualquer objectivo em que concentrem todo o seu esforço, melhor, todo o
+seu pensamento.
+
+8. Dificilmente encontrarás um homem a quem a indiferença pelas actividades
+de outra alma traga infelicidade; mas para aqueles que não prestam atenção aos
+movimentos da sua própria, a infelicidade é certamente a recompensa.
+
+9. Tendo sempre em mente aquilo que o Mundo-Natureza é, e aquilo que a
+minha própria natureza é, e o que uma é em relação à outra — uma fracção tão
+pequena de um Todo tão vasto — lembra-te de que ninguém pode impedir-te de
+concertar cada palavra e cada acção com a Natureza de que és parte.
+
+10. Quando Theophrasto compara os pecados — tanto quanto comummente se
+reconhece que são comparáveis — ele afirma a verdade filosófica de que os
+pecados do desejo são mais censuráveis do que os pecados da paixão. Porque
+na paixão, o afastamento da razão parece trazer consigo, pelo menos, um certo
+desconforto e uma impressão meio sentida de constrangimento; enquanto que
+os pecados do desejo, entre os quais predomina o prazer, revelam um carácter
+mais auto-indulgente e mais feminino. Tanto a experiência como a filosofia
+apoiam a alegação de que um pecado que dá prazer merece uma censura mais
+grave do que aquele que faz sofrer. Num caso, o prevaricador é como um
+homem amarrado a uma perda de controle involuntária; no outro, a ânsia de
+satisfazer o seu desejo leva-o a fazer o mal de sua própria vontade.
+
+11. Em tudo o que fizeres, disseres ou pensares, lembra-te de que está sempre
+na tua mão o poder de te retirares da vida. Se os deuses existem, não tens nada
+a temer em te despedires da humanidade, pois eles não deixarão que te
+aconteça qualquer mal. Mas se não há deuses, ou se eles não se metem nos
+assuntos dos mortais, o que é a vida para mim, num mundo desprovido de
+deuses ou desprovido da Providência? Os deuses, contudo, existem, e
+preocupam-se com o mundo dos homens. Deram-nos o poder suficiente para
+não cairmos em qualquer dos males absolutos; e se houvesse verdadeiro mal
+nas outras experiências da vida, eles teriam providenciado nesse sentido
+também, para que estivesse na mão de todos os homens evitá-lo. Mas quando
+uma coisa não piora o próprio homem, como pode ela piorar a vida que ele vive?
+O Mundo-Natureza não pode ter sido tão ignorante a ponto de descurar um risco
+deste tipo, ou, dele conhecedor, não ser capaz de inventar uma salvaguarda ou
+um remédio. Nem a falta de poder, nem a falta de competência poderiam ter
+levado a Natureza a cair no erro de permitir que o bem e o mal visitassem
+indiscriminadamente o justo e o pecador. Contudo, viver e morrer, fama e
+descrédito, dor e prazer, riqueza e pobreza, e por aí adiante, são quotas- partes
+que cabem igualmente aos homens bons e maus. Coisas como estas não
+elevam nem aviltam; e portanto não são nem boas nem más.
+
+12. Os nossos poderes mentais deviam permitir-nos perceber a rapidez com
+que todas as coisas se desvanecem; os corpos no mundo do espaço, e as
+lembranças no mundo do tempo. Devíamos também observar todos os objectos
+da percepção — particularmente aqueles que nos enchem de prazer ou nos
+afligem com sofrimento, ou são clamorosamente impelidos até nós pela voz da
+vaidade — a sua vulgaridade e baixeza, como são sórdidos, e como se
+desvanecem e morrem rapidamente. Devíamos distinguir o verdadeiro
+merecimento daqueles cuja palavra e opinião conferem reputação. Devíamos
+apreender, também, a natureza da morte; e que basta contemplá-la fixamente e
+dissecar as fantasias a ela mentalmente associadas, para acabarmos por pensar
+nela como nada mais do que um processo natural (e só as crianças se assustam
+com um processo natural) — ou melhor, como qualquer coisa mais do que um
+processo natural, uma contribuição positiva para o bem-estar da natureza.
+Também podemos aprender como o homem tem contacto com Deus, e com que
+parte de si próprio esse contacto se mantém, e como essa parte se comporta
+depois da sua remoção daqui.
+
+13. Nada mais triste do que fazer o circuito de toda a criação, «esquadrinhando
+as profundezas da terra», como diz o poeta, e espreitando curiosamente os
+segredos das almas dos outros, sem por uma vez compreendermos que agarrar
+firmemente o espírito divino que neles reside e servi-lo lealmente é tudo aquilo
+de que precisamos. Tal serviço implica o mantê-lo livre da paixão, e da falta de
+objectivos, e da insatisfação com a obra dos deuses ou dos homens; porque a
+primeira merece o nosso respeito pela sua excelência; a segunda, a nossa boa-
+vontade, em nome da fraternidade, e por vezes também, a nossa piedade, por
+causa da ignorância dos homens a respeito do bem e do mal — uma fraqueza
+tão mutiladora como a incapacidade de distinguir o preto do branco.
+
+14. Mesmo que vivesses três mil anos, ou até trinta mil, lembra-te que a única
+vida que um homem pode perder é aquela que está a viver no momento; e mais,
+que ele não pode ter qualquer outra vida a não ser aquela que ele perde. Isto
+significa que uma vida mais longa ou mais curta vão dar ao mesmo. Porque o
+minuto que passa é o bem igual de todos os homens, mas o que já passou não é
+nosso. A nossa perda, portanto, limita-se àquele momento fugaz, uma vez que
+ninguém pode perder o que já passou, nem o que está ainda para vir — porque
+como é que ele pode ser despojado daquilo que não tem? Assim, duas coisas
+temos de ter em atenção. Primeiro, que todos os ciclos da criação, desde o
+princípio do tempo, têm o mesmo padrão recorrente, de modo que não importa
+que o mesmo espectáculo se observe durante cem anos ou durante duzentos,
+ou para sempre. Segundo, que quando aqueles de nós que vivem mais, e os
+que vivem menos, morrem, as suas perdas são perfeitamente iguais. Porque a
+única coisa de que o homem pode ser despojado é o presente, uma vez que isso
+é tudo o que ele possui, e ninguém pode perder o que não é seu.
+
+15. Há óbvias objecções à afirmação do cínico Mónimo de que «as coisas são
+determinadas pelo que vemos nelas»; mas o valor do seu aforismo é igualmente
+óbvio, se aceitarmos a sua substância até ao ponto de considerarmos que ela
+contém uma verdade.
+
+16. Para uma alma humana, o maior dos males auto- infligidos é tornar-se
+(podendo) uma espécie de tumor ou abcesso no universo; porque contender
+com as circunstâncias é sempre uma rebelião contra a Natureza — e a Natureza
+inclui a natureza de cada parte individual. Outro mal é rejeitar um semelhante ou
+opor-se-lhe com más intenções, como os homens fazem quando estão
+zangados. Um terceiro, render-se ao prazer ou à dor. Um quarto, dissimular e
+mostrar insinceridade ou falsidade em palavras ou em actos. Um quinto, a alma
+não dirigir os seus actos e esforços para um objectivo determinado, e gastar as
+suas energias sem qualquer fim e sem o devido pensamento; porque mesmo a
+mais insignificante das nossas actividades deve ter um fim em vista — e para
+criaturas dotadas de razão, o fim é a conformidade com a razão e a lei da
+Cidade e Comunidade originais.
+
+17. Na vida de um homem, o seu tempo é apenas um momento, o seu ser um
+fluxo incessante, os sentidos uma vela mortiça, o corpo uma presa dos vermes,
+a alma um turbilhão inquieto, o destino, negro, e a fama, duvidosa. Em resumo,
+tudo o que é do corpo, é como água corrente, tudo o que é da alma, como
+sonhos e vapores; a vida, uma guerra, uma curta estadia numa terra estranha; e
+depois da fama, o esquecimento. Onde, pois, poderá o homem encontrar o
+poder de guiar e salvaguardar os seus passos? Numa e só numa coisa apenas:
+a Filosofia. Ser filósofo é manter o espírito divino puro e incólume dentro de si,
+para que ele transcenda todo o prazer e toda a dor, não empreenda nada sem
+um objectivo, ou com falsidade ou dissimulação, não fique na dependência das
+acções ou inacções dos outros, aceite todas e cada uma das prescrições como
+vindas da mesma Fonte donde ele próprio veio — e final e principalmente, para
+que espere a morte com dignidade, como nada mais do que a simples
+dissolução dos elementos de que todo o organismo vivo é composto. Se esses
+próprios elementos não se danificam com a incessante formação e re-formação,
+porquê olhar com desconfiança a transformação e dissolução do todo? Trata-se
+apenas do curso da Natureza; e no curso da Natureza não se encontra mal
+nenhum.
+
+-------------------------------------
+## LIVRO 3
+
+1. A consumição diária da vida, acompanhada da permanente redução do
+remanescente, não é a única coisa que temos de ter em consideração. Porque,
+mesmo que os anos de um homem se prolonguem, temos ainda assim de levar
+em linha de conta que é duvidoso que o seu espírito continue a manter a sua
+capacidade para a compreensão da actividade ou para o esforço contemplativo
+necessário à apreensão das coisas divinas e humanas. O começo da senilidade
+pode não envolver qualquer perda dos poderes de respiração ou alimentação,
+ou das sensações, impulsos, etc., contudo, a capacidade de usar plenamente as
+suas faculdades, de avaliar correctamente as exigências do dever, de coordenar
+todos os problemas que se lhe levantam, de ajuizar se chegou a altura de pôr
+fim aos seus dias na terra, ou de tomar qualquer outra das decisões que
+requerem o exercício de um intelecto experimentado, já está em declínio.
+Devemos, pois, apressar-nos, não simplesmente porque a cada hora nos
+aproximamos mais da morte, mas porque mesmo antes disso o nosso poder de
+percepção e compreensão começa a deteriorar-se.
+Outra coisa em que devemos reparar é no encanto e na fascinação que há
+mesmo nas casualidades dos processos da Natureza. Quando um pão, por
+exemplo, está no forno, começa a ficar com fendas aqui e ali; e estes defeitos,
+não intencionais, na cozedura, têm um carácter próprio, e aguçam o apetite. Os
+figos, também, quando maduros, abrem-se em fendas. Quando as azeitonas
+estão para cair, a própria iminência do declínio acrescenta a sua beleza ao fruto.
+Assim, também a cabeça caída de um pé de milho, a pele enrugada de um leão
+assanhado, o pingo de espuma caindo das mandíbulas de um urso selvagem, e
+muitas mais coisas deste tipo, não são nada belas se vistas em si próprias;
+contudo, como consequências de um outro processo da Natureza, elas dão a
+sua contribuição para o seu encanto e atracção.
+era oriundo da ilha de Cos e o mais famoso médico da Antiguidade. Os seus numerosos tratados constituíram os fundamentos de toda a ciência médica do mundo clássico. Parece não haver razão para pôr em dúvida a sua autoria do “Juramento Hipocrático”; e também lhe é atribuída a autoria do ditado, «A vida é curta, a arte longa.»)
+
+2. Assim, a um homem de suficientemente profunda sensibilidade e capacidade
+de penetração intelectual nas obras do universo, quase tudo, mesmo que mais
+não seja do que um mero subproduto de qualquer outra coisa, parece
+acrescentar o seu galardão de prazer adicional. Um homem assim olhará as
+fauces escarninhas de um leão real com a mesma admiração com que olharia a
+sua representação plástica feita por um artista ou por um escultor; e o olhar de
+discernimento deixá-lo-á ver do mesmo modo o encanto maduro dos homens e
+mulheres de idade e a frescura sedutora da juventude. Coisas deste tipo não
+atraem toda a gente; só quem cultivou uma intimidade real com a Natureza e as
+suas obras fica impressionado com elas.
+
+3. Hipócrates (17) curou os males de muita gente, mas ele próprio adoeceu e
+morreu. Os Caldeus previram a morte de muita gente, mas o destino apanhou-os
+também a eles. Alexandre, Pompeu e Júlio César devastaram e voltaram a
+devastar cidades inteiras e abateram batalhões de cavalaria e infantaria em
+combate, mas também a sua hora chegou. Heráclito (18) especulava
+interminavelmente sobre a destruição do mundo pelo fogo, mas no fim foi a água
+que lhe saturou o corpo e morreu num emplastro de excrementos. Demócrito (19)
+foi destruído por insectos; Sócrates por insectos de outro tipo (20) . E a moral de
+tudo isto? Esta. Embarca-se, faz-se a viagem, chega-se ao porto: desembarca-
+se, então. Noutra vida? Há deuses por toda a parte, mesmo no além. Na
+insensibilidade final? Então ficaremos fora do alcance da dor e do prazer, e já
+não escravos desta embarcação terrena, tão incomensuravelmente mais
+mesquinha do que o seu ministro assistente. Porque um é espírito e divindade; e
+o outro, apenas barro e corrupção.
+
+> (Comentário em Nota
+  12/01/2002 14:50:44
+(17)
+Hipócrates (460-355 a.C.)
+
+> (Comentário em Nota
+12/01/2002 14:51:44
+(18)
+Heráclito (540-475 a.C.), filósofo jónico, ensinava que a essência do Ser é o Devir: isto é, um movimento incessante de mudança pelo qual um aspecto de uma coisa está sempre a levar a uma outra. O tipo deste movimento perpétuo, e a forma primitiva de toda a matéria, é o fogo; e o processo elemental do universo é a passagem do fogo a água e terra e de novo a fogo. «Todas as coisas estão em fluxo» e «Não se pode mergulhar duas vezes na mesma água de um rio» eram dois dos conhecidos ditados em que ele exprimia a
+sua doutrina; e Marco refere-se a outros em IV,46. Muito do posterior sistema estóico da física baseava-se nas teorias de Heráclito.)
+
+> (Comentário em Nota
+12/01/2002 14:52:28
+(19)
+Demócrito, contemporâneo de Hipócrates, afirmava que o universo era formado de combinações
+infinitamente variadas de um número infinito de átomos, crença em que foi depois seguido por Epicuro e a sua escola. Ao contrário do sombrio Heráclito, “o filósofo choroso”, a sua boa disposição trouxe-lhe a alcunha de “o filósofo risonho”. Esta referência de Marco é o nosso único testemunho para esta versão da sua morte.)
+
+> (Comentário em Nota
+12/01/2002 14:53:12
+(20)
+É uma referência ao poeta Mélito, ao curtidor Ânito e ao orador Lycon. Eles fizeram a Sócrates a acusação pela qual ele foi condenado à morte. Pouco depois da sua execução, os Atenienses arrependeram-se da sua injustiça, apedrejaram Mélito até à morte, e baniram Ânio e Lycon.)
+
+4. Não desperdices o que resta da tua vida a especular sobre os teus vizinhos,
+a não ser que tenhas em vista qualquer benefício mútuo. Interrogares-te sobre o
+que fulano está a fazer e porquê, ou sobre o que ele está a dizer ou a pensar ou
+a planear — numa palavra, sobre qualquer coisa que te desvie da fidelidade ao
+soberano governador dentro de ti — significa uma perda de oportunidade para
+outra tarefa qualquer. Repara então que o fluir dos teus pensamentos está
+liberto de fantasias ociosas ou casuais, particularmente daquelas de natureza
+indiscreta ou maldizente. Um homem devia habituar-se de tal maneira a este
+modo de pensar que, subitamente perguntado, «Em que estás a pensar neste
+momento?» pudesse responder honestamente e sem hesitação, provando assim
+que todos os seus pensamentos eram simples e bondosos como convém a um
+ser social, sem o gosto pelos prazeres de imaginações sensuais, ciúmes,
+invejas, suspeitas ou quaisquer outros sentimentos que o fariam corar ao
+reconhecê-los em si próprio. Um homem assim, determinado aqui e agora a
+aspirar às alturas, é, de facto, um pastor e ministro dos deuses; porque está a
+usar plenamente aquele poder interior que pode manter um homem limpo de
+prazeres, à prova da dor, indiferente ao insulto e impermeável ao mal. É um
+concorrente ao maior dos concursos, a luta contra o domínio da paixão; fica
+completamente impregnado de rectidão, recebendo com sincera alegria o que
+quer que seja que lhe caiba em sorte e raramente se perguntando sobre o que
+os outros possam dizer, fazer ou pensar, excepto quando o interesse público o
+exija. Limita as suas actividades àquilo que lhe diz respeito, deixando a sua
+atenção presa ao seu particular fio da teia universal, procurando fazer com que
+as suas acções sejam honradas, e na convicção de que tudo o que lhe possa
+acontecer tem de ser para o melhor — porque o seu próprio destino está, ele
+próprio, sob orientação superior. Não esquece a relação fraterna de todos os
+seres racionais, nem que a preocupação por todos os homens é própria da
+humanidade: e sabe que não são as opiniões do mundo que deve seguir, mas
+apenas as dos homens cuja vida está confessadamente de acordo com a
+Natureza. Quanto aos outros, cuja vida não está assim organizada, ele lembra
+constantemente o carácter que eles mostram diariamente, dia e noite, em casa,
+e cá fora, e o tipo de sociedade que eles frequentam; e a aprovação de tais
+homens, que nem sequer se sentem bem consigo próprios, não tem, para ele,
+qualquer valor.
+
+5. Que haja nas tuas acções solicitude, sem deixares, porém, de ter em atenção
+o interesse comum; ponderação, mas sem indecisão; e que nos teus
+sentimentos não haja excesso pretensioso de refinamento. Evita a loquacidade,
+evita a solicitude excessiva. O deus que há dentro de ti deve presidir sobre um
+ser que seja viril e maduro, homem de estado, romano e soberano; um homem
+que não ceda terreno, qual soldado à espera do sinal de retirada do campo de
+batalha da vida, pronto a dar as boas vindas ao seu alívio; um homem cuja
+reputação não necessite de ser afirmada por si próprio, nem avalizada pelos
+outros. Eis o segredo da alegria, de não depender da ajuda de fora, e de não
+precisar de implorar a ninguém o favor da tranquilidade. Temos de nos pôr de pé
+por nós próprios, e não ser postos de pé.
+
+6. Se a vida mortal te puder oferecer alguma coisa melhor do que a justiça e a
+verdade, o autodomínio e a coragem — isto é, paz de espírito na evidente
+conformidade das tuas acções com as leis da razão, e paz de espírito nas
+provações de um destino que não controlas — se, digamos, conseguires
+discernir um ideal mais elevado, nesse caso, aproveita-o com toda a tua alma e
+alegra-te com o prémio que encontraste. Mas se nada te parece melhor do que a
+divindade que mora dentro de ti, que orienta cada impulso, que pesa cada
+impressão, que abjura (nas palavras de Sócrates) as tentações da carne, e que
+confessa fidelidade aos deuses e compaixão pela humanidade; se, em
+comparação, achares tudo o resto mesquinho e sem valor, então não abras em ti
+espaço a quaisquer outras causas. Porque se alguma vez hesitares e te
+desviares, já não serás capaz de oferecer lealdade firme ao ideal que escolheste
+para ti próprio. Nenhumas ambições de outra natureza diferente podem disputar
+o título à bondade que pertence à razão e ao dever cívico; nem o aplauso do
+mundo, nem o poder, nem a riqueza, nem a alegria do prazer. À primeira vista,
+parece não haver incompatibilidade nestas coisas, mas logo elas levam a melhor
+e desequilibram o homem. Dir-te-ia, então, que escolhesses simples e
+espontaneamente o mais elevado e aderisses a ele. «Mas o melhor para mim é
+o mais elevado», dizes tu? Se é o melhor para ti como ser racional, segura-o
+bem; mas se o é meramente como animal, então di-lo abertamente e mantém o
+teu ponto de vista com a correspondente humildade — assegura-te apenas de
+que ponderaste bem o assunto.
+
+7. Não prezes as vantagens advindas de qualquer coisa que envolva quebra da
+fé, perda do respeito por ti próprio, ódio, suspeita, ou maldição dos outros,
+insinceridade, ou desejo de qualquer coisa que tenha de estar dissimulado ou
+escondido. Uma pessoa cuja principal atenção vai para o seu próprio espírito e
+para a divindade que há dentro de si, bem como para servir a sua excelência,
+não toma atitudes afectadas, não se queixa, e não suspira pela solidão nem tão
+pouco por uma multidão. E o melhor de tudo é que a sua vida ficará livre de
+contínuas buscas e esquivas. Não se preocupa se a alma dentro do seu corpo
+mortal será sua por muitos ou poucos anos; se neste preciso momento for a
+altura de partir, avançará tão prontamente como para desempenhar qualquer
+outra acção que possa ser realizada de maneira digna e tranquila. Não tem outra
+preocupação na vida que não seja a de manter o espírito fora de caminhos
+incompatíveis com os de um ser social e inteligente.
+
+8. Num espírito disciplinado e purificado não há sinal de corrupção, mancha por
+limpar, nem ferida supurante. Nunca o destino poderá arrancar a tal homem a
+vida por realizar, como se fosse um actor a deixar o palco no meio da
+representação, antes da peça acabada. Não há nele nada de servil, nem tão
+pouco de vaidoso; nem se encosta aos outros, nem se isola deles; e não fica
+responsável por ninguém, mas também não culpado de evasão.
+
+9. Respeita o teu poder de formar uma opinião. Só assim o timoneiro dentro de
+ti evita formar opiniões que estejam em desacordo com a natureza e com a
+constituição de um ser racional. A partir dela podes esperar obter a
+circunspecção, boas relações com os teus semelhantes, e conformidade com a
+vontade de Deus.
+
+10. Renunciando a tudo o resto, apega-te às poucas verdades seguintes.
+Lembra-te que o homem vive só no presente, neste momento fugaz: todo o resto
+da vida é ou passado e já ido, ou ainda não revelado. Esta vida mortal é uma
+pequena coisa, vivida num cantinho da terra; e pequena também é a mais
+duradoura fama — dependente, como é, de uma sucessão de pequenos homens
+de curta duração, desconhecedores das suas próprias pessoas, e muito mais
+ainda de uma outra já há muito morta e enterrada.
+
+11. A estas máximas acrescenta ainda uma outra. Quando um objecto se
+apresenta à tua percepção, arranja uma definição mental para ela, ou pelo
+menos traça-lhe um perfil, para lhe discernires o carácter essencial, para nela
+penetrares para além dos seus atributos separados e obteres uma visão distinta
+da nudez do seu todo, e para identificares tanto o próprio objecto como os
+elementos de que é formado e em que de novo se dissolverá. Não há nada que
+mais dilate o espírito do que esta capacidade de examinar metódica e
+rigorosamente cada uma das experiências da vida, com vista a determinar a sua
+classificação, os fins que serve, o seu valor para o universo, e o seu valor para
+os homens, como membros da Cidade suprema em que todas as outras cidades
+são como pessoas de casa. Vejamos, por exemplo, aquilo que está a produzir
+uma impressão sobre mim neste momento. O que é? De que é formado? Quanto
+tempo está destinado a viver? Que reacção moral espera de mim; docilidade,
+força moral, franqueza, boa-fé, sinceridade, autoconfiança, ou alguma outra
+qualidade? Em todos os casos, aprende a dizer: Isto vem de Deus; ou, Isto é
+uma das disposições do Destino, um fio da complexa teia, uma conjunção de
+casualidades; ou ainda, Isto é obra de um homem da mesma cepa, criação e
+irmandade que eu, mas que não sabe aquilo que a Natureza exige dele. Eu
+próprio, contudo, não posso alegar tal ignorância e portanto, de acordo com a lei
+natural da fraternidade, tenho de tratá-lo justa e amigavelmente — embora ao
+mesmo tempo, se uma questão de bem ou mal não estiver envolvida, deva
+apontar as minhas lanças ao merecimento do caso.
+
+12. Se cumprires a tarefa que tens diante de ti aderindo sempre ao rigor da
+razão com zelo e energia, mas também com humanidade, desprezando todos os
+fins menores e mantendo pura e vertical a divindade dentro de ti, como se
+mesmo agora fosses enfrentar o seu chamamento — se te ativeres firmemente a
+isto, sem te deteres para nada, nem te esquivares de nada, procurando apenas
+em cada acção que passa a conformidade com a natureza e em cada palavra e
+afirmação a verdade intrépida, então a vida sã será tua. E neste caminho
+ninguém tem o poder de te deter.
+
+13. Assim como os cirurgiões têm sempre à mão as lancetas e bisturis para as
+súbitas urgências da sua arte, também tu deves ter os teus princípios sempre
+prontos para a compreensão das coisas, tanto as humanas como as divinas,
+nunca esquecendo, mesmo na mais trivial das acções, como as duas estão tão
+intimamente ligadas. Porque nada de humano pode ser feito com acerto sem
+referência ao divino, e reciprocamente.
+
+14. Não te enganes mais; já não lerás mais estas notas, nem os anais dos
+passados romanos e gregos, nem aquela selecção de escritos que guardaste
+para a tua velhice. Continua com vigor até ao fim; afasta esperanças vãs; e se te
+interessas pelo teu eu, zela pela tua própria segurança enquanto ainda podes.
+
+15. Eles não sabem tudo o que palavras como “roubar”, “semear”, “adquirir”,
+“estar em paz”, “zelar pelos nossos deveres” significam; isto requer uma visão
+diferente da dos olhos.
+
+16. Corpo, alma e mente: o corpo para a sensação, a alma para fonte da acção,
+a mente para os princípios. Contudo, a capacidade de sentir também a tem o boi
+no estábulo; não há besta selvagem, homossexual, Nero ou Phalaris (21) que não
+obedeça aos impulsos do instinto; e mesmo os homens que negam os deuses,
+ou traem o seu país, ou cometem todo o tipo de vilanias por detrás de portas
+fechadas, têm mentes para os guiar no claro caminho do dever. Vendo então
+que tudo o resto é herança comum de tais espécies, a única singularidade do
+homem bom reside na sua aceitação de bom grado de todas as experiências
+que o Destino lhe teceu, na sua recusa em manchar a divindade que se senta no
+seu peito, ou perturbá-la com impressões desordenadas, e na sua decisão em
+mantê-la em serenidade e digna obediência a Deus, não admitindo qualquer
+deslealdade para com a verdade, nas palavras, e para com a justiça, nos actos.
+Mesmo que todo o mundo desconfie dele por viver numa felicidade simples e
+auto-respeitadora, não se ofende com nada, e continua a pisar, sem vacilar, a
+estrada em direcção ao fim da vida, onde o dever o manda chegar em pureza e
+em paz, sem relutância em partir, em harmonia perfeita e voluntária com o rateio
+do destino.
+
+> (Comentário em Nota
+12/01/2002 14:54:08
+(21)
+Phalaris, governador de Agrigento, na Sicília, no século VI a. C., ganhou uma reputação proverbial pela sua crueldade desumana. Diz-se que queimou os seus prisioneiros vivos dentro de um touro de bronze, sendo a primeira vítima o seu inventor, Périlo. As apócrifas “Epístolas de Phalaris” são hoje lembradas devido principalmente ao erudito inglês Richard Bentley, que provou, na “Dissertação Imortal” (Porton), que
+lhe deu fama, que elas eram falsificações.)
+
+----------------------
+## LIVRO 4
+
+1. Se o poder interior que nos rege for fiel à Natureza, ajustar-se-á sempre
+prontamente às possibilidades e oportunidades oferecidas pelas circunstâncias.
+Não exige material predeterminado; na perseguição dos seus objectivos está
+pronto para o compromisso; os obstáculos ao seu progresso são simplesmente
+convertidos em matéria para seu próprio uso. É como uma fogueira a dominar
+um monte de lixo, que se tivesse reduzido a um débil brilho; mas a chama
+ardente depressa assimila a matéria, consome-a e dá ainda mais vida à
+fogueira.
+
+2. Não tomes nenhuma iniciativa ao acaso, ou sem teres em atenção os
+princípios que regem a sua própria execução.
+
+3. Os homens procuram a solidão no deserto, na praia ou nas montanhas — um
+sonho que tu próprio tanto tens acarinhado. Mas tais fantasias são totalmente
+impróprias de um filósofo, uma vez que em qualquer altura que queiras podes
+recolher-te dentro de ti próprio. Não há para o homem refúgio algum mais
+silencioso e mais tranquilo do que a própria alma; sobretudo para quem possua,
+em si mesmo, recursos que apenas precisa de contemplar para assegurar uma
+paz de espírito imediata — paz que é apenas outro nome para um espírito bem
+organizado. Aproveita, pois, este retiro com frequência e renova-te
+continuamente. Traça para a tua vida regras sumárias, mas que abranjam o
+fundamental; o retorno a elas bastará para remover todas as aflições e te
+reenviar sem desgaste para os deveres a que tens de voltar.
+Afinal, o que é que te aflige? Os vícios da humanidade? Lembra-te da doutrina
+que diz que todos os seres racionais são criados uns para os outros; que a
+tolerância é parte da justiça; e que os homens não são malfeitores intencionais.
+Pensa na miríade de inimizades, suspeitas, animosidades e conflitos que se
+extinguiram juntamente com o pó e as cinzas dos homens que os
+experimentaram; e não te aflijas mais.
+Ou é a parte que te coube em sorte no universo que te agasta? Recorda uma
+vez mais o dilema, «se não uma sábia Providência, então um simples
+amontoado de átomos», e pensa na profusão de indícios de que este mundo é
+como que uma cidade. São os males do corpo que te afligem? Pensa que o
+espírito só tem que destacar-se e apreender os seus próprios poderes, para não
+mais se envolver com os movimentos da respiração, sejam eles suaves ou
+ásperos. Em resumo, recorda tudo aquilo que aprendeste e com que
+concordaste a respeito da dor e do prazer.
+Ou é a ilusão da celebridade que te perturba? Não percas de vista a rápida
+investida do esquecimento e os abismos de eternidade que nos esperam e nos
+precedem; repara como são ocos os ecos do aplauso, como são inconstantes e
+sem discernimento os juízos dos pretensos admiradores, e que insignificante é a
+arena da fama humana. Porque a terra inteira é apenas um ponto, e a nossa
+própria morada, um minúsculo canto nela; e quantos lá há que te vão louvar, e
+que tipo de homens são eles?
+Não te esqueças, pois, de te retirares para o pequeno campo do teu eu.
+Sobretudo, nunca lutes nem te afadigues; sê, antes, dono de ti próprio, e encara
+a vida como homem, como ser humano, como cidadão e como mortal. Entre as
+verdades em que seria bom que pensasses estão estas duas: primeiro, que as
+coisas nunca podem atingir a alma, mas apenas ficar inertes fora dela, de modo
+que o desassossego só pode resultar de fantasias interiores; e segundo, que
+todos os objectos visíveis mudam num instante e deixam de existir. Pensa nas
+inúmeras mudanças em que tu próprio tomaste parte. Todo o universo é
+mudança, e a própria vida não é senão aquilo que tu acreditas que é (22).
+
+> (Comentário em Nota
+12/01/2002 14:54:50
+(22)
+A própria vida não é senão aquilo que tu acreditas que é. Hamlet (Acto II, cena 2) diz: «There’s nothing either good or bad, but thinking makes it so» (Não há coisa alguma que seja, em si própria, boa ou má, o pensamento é que a faz assim). Marco exprime aqui este pensamento mais sucintamente em duas palavras
+gregas que significam literalmente «[a] vida [é] opinião».)
+
+4. Se o poder do pensamento é universal no género humano, também a posse
+da razão o é, fazendo de nós criaturas racionais. Donde, portanto, que esta
+razão, com os seus «tu deves fazer isto» ou «tu não deves fazer aquilo» não é
+para nós menos universal. Há, assim, uma lei-mundo; o que, por sua vez,
+significa que somos todos concidadãos e partilhamos uma cidadania comum, e
+que o mundo é uma só cidade. Há alguma outra cidadania comum que possa
+ser reclamada por toda a humanidade? E é deste mundo-estado que o espírito,
+a razão e a lei, eles mesmos, derivam. Senão, de que mais? Assim como a parte
+terrena de mim tem a sua origem na terra, a parte aquosa num elemento
+diferente, e a respiração numa e as partes quentes e ardentes noutra das fontes
+de si mesmas, situadas algures (porque nada vem do nada nem pode regressar
+ao nada), assim também deve haver uma origem para o espírito.
+
+5. A morte, como o nascimento, é um dos segredos da Natureza; os mesmos
+elementos que se combinaram, dispersam-se então. Nada nela tem de causar
+pena. Para seres dotados de espírito, ela não é anormal, nem de forma
+nenhuma incoerente com o plano da sua criação.
+
+6. Que os homens de um certo tipo se comportem como o fazem, é inevitável.
+Desejar que as coisas sejam de outra maneira é como desejar que a figueira não
+produza o seu sumo. Em qualquer caso, lembra-te de que dentro de muito pouco
+tempo, tanto tu, como ele, estarão mortos, e os vossos próprios nomes
+rapidamente esquecidos.
+
+7. Afasta de ti a ideia do «Fui ofendido», e com ela irá o sentimento. Rejeita o
+teu sentido de ofensa, e essa ofensa desaparece.
+
+8. Aquilo que não corrompe o próprio homem não pode corromper-lhe a vida,
+nem provocar-lhe qualquer dano quer exterior, quer interiormente.
+
+9. As leis da conveniência do colectivo exigiram que isto acontecesse.
+
+10. O que quer que aconteça, acontece de forma correcta. Observa com muita
+atenção e verás que isto é verdade. Na sucessão de acontecimentos não há só
+uma mera sequência, mas uma ordenação que é justa e correcta, como a da
+mão daquele que entrega a todos o que lhe é devido. Mantém, pois, a tua
+atenção, como de princípio, e deixa que a bondade acompanhe cada uma das
+tuas acções — bondade, quero dizer, no sentido exacto da palavra. Em todas as
+tuas actividades, presta atenção a isto.
+
+11. Não copies as opiniões dos arrogantes, nem deixes que eles te ditem as
+tuas próprias, e olha as coisas à luz da verdade.
+
+12. Para dois pontos deves tu estar sempre pronto: primeiro, para fazer
+exclusivamente aquilo que a razão, nossa rainha e legisladora, sugerir para o
+bem-estar comum; e segundo, para reconsiderar uma decisão, se alguém
+presente te corrigir e te convencer de um erro de julgamento. Mas tal convicção
+deve proceder da certeza de que isso servirá a justiça ou o bem comum ou
+qualquer outro interesse do género. Deve ser esta a única coisa a considerar;
+não a probabilidade do prazer ou da popularidade.
+
+13. Tu és dotado de razão? «Sou.» Então por que não usá-la? Se a razão fizer
+o seu papel, que mais podes pedir?
+
+14. Como parte que és, és inseparável do Todo. Vais-te dissipar naquilo que te
+deu vida; ou melhor, vais-te transmutar uma vez mais na Razão criadora do
+universo.
+
+15. Muitos grãos de incenso caem no mesmo altar: uns mais cedo, outros mais
+tarde — não importa.
+
+16. Basta-te regressar aos ensinamentos do teu credo, e à veneração da razão,
+e numa semana aqueles que agora te colocam no grupo das bestas e dos
+macacos irão chamar-te um deus.
+
+17. Não vivas como se tivesses mil anos à tua frente. O destino está ali ao virar
+da esquina; torna-te bom enquanto a vida e o poder ainda te pertencem.
+
+18. Quem ignora o que o vizinho está a dizer ou a fazer ou a pensar, e apenas
+cuida de que os seus próprios actos sejam justos e piedosos, ganha
+enormemente em tempo e em paz. Um homem bom não anda à procura dos
+defeitos dos outros, antes prossegue vigorosamente em direcção ao seu
+objectivo.
+
+19. O homem cujo coração palpita pela fama depois da morte não pensa que
+todos aqueles que se lembrarem dele em breve estarão também mortos, e que,
+com o correr do tempo, geração após geração, até ao fim, depois de
+sucessivamente cintilar e se sumir, a centelha final da memória se extingue.
+Mais, mesmo supondo que aqueles que te recordam nunca morreriam, e nem as
+suas memórias, mesmo assim, o que é que isso representa para ti? Na
+sepultura, nada, evidentemente; e mesmo em vida, para que serve o louvor —
+senão talvez para facilitar qualquer propósito menor? Estarás, pois,
+seguramente, a proceder à rejeição daquilo que a Natureza te deu hoje, se todo
+o teu espírito estiver voltado para aquilo que os homens irão dizer de ti amanhã.
+
+20. Tudo o que, de um qualquer modo, é belo, recebe a sua beleza de si
+próprio, e não precisa de nada para além de si próprio. O elogio não entra nisso,
+porque nada fica melhor ou pior em resultado do elogio. Isto aplica-se mesmo às
+formas mais mundanas da beleza: objectos naturais, por exemplo, ou obras de
+arte. De que mais precisa a verdadeira beleza? De nada, certamente; tal como a
+lei, ou a verdade, ou a bondade, ou a modéstia. Alguma destas fica mais bela
+com o louvor, ou mais feia com a crítica? Será que a esmeralda perde a sua
+beleza por falta de admiração? Ou o ouro, ou o marfim, ou a púrpura? Ou uma
+lira, ou uma adaga, ou um botão de rosa, ou um jovem?
+
+21. Se as almas sobrevivem depois da morte, como é que o ar lá em cima
+arranjou espaço para elas desde o princípio dos tempos? Pergunta, também,
+como é que a terra arranjou espaço para todos os corpos enterrados desde
+tempos imemoriais. Aí, após um curto intervalo, a transformação e a corrupção
+abrem espaço para outros corpos. Da mesma maneira, as almas transferidas
+para o ar sobrevivem algum tempo antes de sofrerem uma transformação e uma
+disseminação e são então transmutadas em fogo e levadas de novo para o
+interior do princípio criador do universo; e assim se cria espaço para receber
+outras. Esta será a resposta de qualquer crente na sobrevivência das almas.
+Além disso, temos de contar não só com o número de corpos humanos
+enterrados desta maneira, mas também com o de todas as criaturas que são
+devoradas diariamente por nós próprios e pelos outros animais. Quantas e
+quantas não são, por assim dizer, enterradas nos corpos daqueles a que servem
+de alimento! E uma vez mais, pela sua dissolução no sangue e depois, pela sua
+transmutação em ar ou fogo, todo o espaço necessário fica disponível.
+Como é que descobrimos a verdade de tudo isto? Fazendo a distinção entre
+matéria e causa.
+
+22. Nunca te deixes arrebatar pela emoção: se um instinto se agita, cuida
+primeiro de saber se ele vai ao encontro das exigências da justiça; quando uma
+impressão toma forma, certifica-te primeiro da sua exactidão.
+
+23. Ó mundo, estou em sintonia com cada uma das notas da vossa grande
+harmonia! Para mim nunca é cedo nem tarde se para vós for a tempo. Ó
+Natureza, tudo o que as vossas estações produzem é fruta para mim. De vós
+vêm, e em vós e para vós são todas as coisas. «Querida Cidade de Deus!» Não
+choremos, mesmo quando o poeta exclama «Querida Cidade de Cecrops!» (23)
+
+> (Comentário em Nota
+11/01/2002 15:53:33
+(23)
+Cecrops foi o lendário fundador de Atenas, mas a fonte desta citação é desconhecida. Na nobre
+expressão de Marco para o universo, «Querida Cidade de Deus», encontrou Santo Agostinho de Hippo o
+seu título, já pronto, para a sua grande obra cristã Civitas Dei.)
+
+24. «Se quiserdes conhecer a satisfação, sede parco nos actos», disse o sábio.
+Melhor ainda, limita-te àqueles que são essenciais, e àqueles que a razão exige
+de um ser social. Isto traz a satisfação que resulta de fazer apenas algumas
+coisas e fazê-las bem. A maior parte das coisas que dizemos e fazemos não são
+necessárias, e a sua omissão pouparia tempo e aborrecimentos. Portanto, um
+homem deve perguntar-se a cada passo, «Será esta uma das coisas
+supérfluas?» Mais ainda, não apenas os actos inúteis, mas mesmo as
+impressões inúteis devem ser suprimidas; porque assim não resultarão numa
+acção desnecessária.
+
+25. Faz a ti próprio um teste à tua capacidade de viver uma vida de homem
+bom; uma vida de pessoa satisfeita com a parte que lhe coube no universo, que
+apenas procura ser justa nas suas acções e caridosa nas suas maneiras.
+
+26. Viste aquilo? (24) — agora, repara. O teu papel é ser sereno, simples. Alguém
+está a proceder mal? O mal fica com ele. Aconteceu-te alguma coisa? Está bem;
+pois foi o teu quinhão do todo universal que te foi cometido quando começou o
+tempo; um fio urdido na tua teia particular, como tudo o mais que acontece.
+Numa palavra, a vida é curta; portanto, tira bom proveito da hora que passa,
+obedecendo à razão e procedendo com justiça. Não vergues, mas sê comedido.
+
+> (Comentário em Nota
+11/01/2002 15:55:14
+(24)
+O lado desagradável de um qualquer encontro recente.)
+
+27. Ou um universo que é todo ele ordem, ou então uma balbúrdia atirada ao
+acaso, mas formando um universo. Mas, poderá subsistir alguma ordem em ti
+próprio e ao mesmo tempo a desordem no Todo mais amplo? E isso quando
+existe unidade de sentimentos entre todas as partes da natureza, apesar das
+suas divergências e dispersão?
+
+28. Um coração negro! (25) Um coração efeminado, obstinado; o coração de uma
+besta, de um animal selvagem; infantil, estúpido e falso; o coração de um
+vigarista, o coração de um tirano.
+
+> (Comentário em Nota
+11/01/2002 15:56:11
+(25)
+Podemos apenas tentar adivinhar a razão desta explosão tão pouco própria do seu carácter. Teria Marco
+andado a reler a vida de Nero?)
+
+29. Se aquele que não sabe o que está no universo é uma pessoa estranha ao
+universo, não o é menos aquele que não sabe o que lá se passa. Uma tal
+pessoa é um exilado, um auto-banido do regime da razão; um cego com os
+olhos do entendimento escurecidos; um pobre dependente dos outros, sem
+recursos próprios para a sua subsistência. É uma excrescência no mundo
+quando se dissocia e divorcia das leis na nossa natureza comum ao recusar
+aquilo que lhe coube em sorte (e que afinal é um produto da mesmíssima
+Natureza que te produziu a ti); é um membro decepado da comunidade, quando
+separa a própria alma da alma única de todas as coisas racionais, deixando-a à
+deriva.
+
+30. Um filósofo anda sem camisa (26) ; outro sem livros; um terceiro, meio-
+despido, diz, «Pão, não tenho, e mesmo assim apego-me à razão.» Pela minha
+parte, também não tenho o fruto daquilo que aprendi, contudo apego-me a ela.
+
+> (Comentário em Nota
+11/01/2002 15:58:44
+(26)
+Muitos filósofos da escola Cínica defendiam que a virtude era o único objectivo da vida, contentavam-se
+com um mínimo de vestuário e afirmavam que a Natureza era o único livro que um sábio precisava de ler.
+Os Estóicos consideravam o seu próprio sistema como um ramo do Cinismo; o sátiro Juvenal, de facto,
+afirma, gracejando, que só se pode distinguir um estóico de um cínico porque o primeiro usa camisa (Sátira
+xiii, 121))
+
+31. Entrega o teu coração ao que aprendeste, e busca nisso refrigério. Faz por
+passar os dias que te restam como alguém que, em todos eles, se entregou de
+todo o coração aos deuses, e que, portanto, não é dono nem escravo de
+ninguém.
+
+32. Pensa, digamos, nos tempos de Vespasiano; (27) e o que é que vês? Homens
+e mulheres muito ocupados a casar, a criar os filhos, a adoecer, a morrer, a
+lutar, a festejar, a tagarelar, a trabalhar a terra, a lisonjear, a fanfarronar, a
+invejar, a intrigar, a rogar pragas, a jogar o destino, a amar, a entesourar, a
+cobiçar tronos e honrarias. De toda essa vida, nem o mais pequeno vestígio
+sobrevive hoje. Ou avança até aos dias de Trajano; outra vez a mesma coisa;
+essa vida morreu também. Dá igualmente uma vista de olhos aos registos de
+outros povos e épocas passados; repara como todos e cada um, depois da sua
+curta vida de luta, morreram, dissolvendo-se nos elementos. Recorda mais
+especialmente alguns, mesmo do teu conhecimento, que buscaram a vaidade
+em vez de se contentarem com um cumprimento corajoso dos deveres para que
+foram criados. Em tais casos é essencial não nos esquecermos de que o mérito
+da perseguição de qualquer objectivo depende do valor do objectivo perseguido.
+Portanto, se quiseres evitar o desencorajamento, nunca te deixes absorver por
+coisas que não sejam de primeira importância.
+
+>
+(Comentário em Nota
+11/01/2002 16:01:52
+(27)
+O Imperador Vespasiano morrera oitenta e dois, e Trajano, quarenta e quatro anos antes de Marco
+ascender ao trono.)
+
+33. Expressões outrora correntes caíram hoje em desuso. Nomes, também, que
+eram antigamente familiares, são hoje virtualmente arcaísmos; Camilo, Caleo,
+Voleso, Dentato; ou, um pouco mais tarde, Scípio e Catão, Augusto, também, e
+mesmo Adriano e António. Todas as coisas se dissolvem no passado lendário e
+em pouco tempo ficam envoltas no esquecimento. Mesmo para os homens cujas
+vidas foram de uma glória deslumbrante, esta passa; quanto aos outros, ainda
+mal acabam de dar o último suspiro e já, nas palavras de Homero, «os perdem
+de vista e de nome». O que é, afinal, a fama imortal? Qualquer coisa vazia e
+oca. A que é que nós devemos então aspirar? A isto e só a isto: ao pensamento
+justo, ao procedimento desinteressado, à boca que não mente, ao carácter que
+acolhe cada acontecimento como uma coisa predestinada, já esperada e que
+emana da fonte e origem Única.
+
+34. Submete-te a Clotho (28) de bom grado e deixa-a fiar o teu fio do material que
+ela quiser.
+
+> (Comentário em Nota
+12/01/2002 14:56:03
+(28)
+Clotho, uma das três Fatas, é a que fia o fio da vida dos homens; Lachesis decide do seu destino; Atropos corta o fio quando eles têm de morrer.)
+
+35. Todos nós somos criaturas de um dia; tanto os que recordam como os que
+são recordados.
+
+36. Vê como todas as coisas estão sempre a nascer da mudança; ensina-te a ti
+próprio a ver que a mais elevada felicidade da Natureza reside em mudar as
+coisas que existem e formar novas coisas da mesma espécie. Tudo aquilo que
+existe é, em certo sentido, a semente do que irá nascer de si. Não há nada
+menos próprio de um filósofo do que imaginar que a semente só pode ser
+alguma coisa que se deita à terra ou no útero.
+
+37. Muito em breve vais morrer; mas tu ainda hoje não és puro, nem és superior
+à inquietação; nem imune ao mal exterior; nem caridoso para todos os homens,
+nem estás persuadido de que proceder com justiça é a única sabedoria.
+
+38. Observa cuidadosamente aquilo que guia as acções dos sábios, e aquilo
+que eles evitam ou buscam.
+
+39. Para ti, o mal não vem do espírito de outrem; nem mesmo de qualquer das
+fases ou mudanças da tua estrutura corporal. Então, donde? Daquela parte de ti
+próprio que age como avaliador daquilo que é mau. Recusa a sua avaliação e
+tudo ficará bem. Embora o pobre corpo, tão próximo dele, fique ferido ou
+queimado, supure ou gangrene, cala a voz desse avaliador; que ele não declare
+nada mau ou bom se isso pode acontecer tanto a homens bons como a homens
+maus — porque tudo o que acontece de forma imparcial aos homens, quer eles
+observem as leis da Natureza ou não, não pode nem entravar os seus
+propósitos, nem precipitá-los.
+
+40. Pensa sempre no universo como um organismo vivo, com uma substância e
+uma alma únicas; e vê como todas as coisas estão sujeitas à perceptibilidade
+deste único todo, todas são movidas pelo seu impulso único, e todas
+desempenham o seu papel na causação de tudo o que acontece. Repara no
+intricado da meada, na complexidade da teia.
+
+41. «Uma pobre alma que carrega consigo um cadáver» (29) , eis o que Epicteto te
+chama.
+
+> (Comentário em Nota
+12/01/2002 14:56:34
+(29)
+Estas palavras não aparecem em qualquer das obras de Epicteto que chegaram até nós, mas sugeriram a Swinburne o verso, «A little soul for a little bears up this corpse which is man» (uma pequenina alma suporta por pouquinho tempo este cadáver que é o homem) no seu Hymn to Proserpine.)
+
+42. Estar em processo de mudança não é um mal, tanto como não é um bem
+ser um produto de uma mudança.
+
+43. O tempo é um rio, o inexorável fluir de todas as criaturas. Uma coisa mal
+aparece à vista e logo desaparece rapidamente e outra nasce para logo, por sua
+vez, ser varrida.
+
+44. Tudo o que acontece é tão normal e já esperado como a rosa na primavera
+ou o fruto no verão; isto é verdade para a doença, para a morte, para a calúnia,
+para a intriga e para todas as outras coisas que deliciam ou incomodam os tolos.
+
+45. O que acontece a seguir está sempre intimamente relacionado com aquilo
+que o precedeu; não é um desfile de acontecimentos isolados que obedecem
+simplesmente às leis da sequência, mas uma continuidade racional. Além disso,
+tal como as coisas que já existem, estão todos coordenados harmoniosamente,
+os que se encontram em processo de nascimento exibem a mesma maravilha de
+concatenação, e não o facto nu e cru da sucessão.
+
+46. Lembra-te sempre do ditado de Heráclito, «Morte da terra, nascimento da
+água; morte da água, nascimento do ar; do ar, o fogo; e assim sucessivamente
+sempre em ciclos repetidos». Lembra-te também do seu «viajante esquecido do
+sítio onde o seu caminho o leva», do seu «homens sempre em desacordo com a
+sua companheira mais próxima» (a Razão controladora do Universo) e do seu
+«embora eles deparem com isto a cada passo, continuam a achá-lo estranho». E
+ainda, «nós não podemos agir ou falar como homens adormecidos», (porque, de
+facto, os homens durante o sono imaginam-se a agir e a falar), «nem como
+crianças às ordens dos pais»; isto é, em obediência cega às máximas
+tradicionais.
+
+47. Se um deus te dissesse, «Amanhã ou, quando muito, depois de amanhã,
+morrerás», tu não ficarias muito interessado em saber, a não ser que sejas o
+mais abjecto dos homens, se isso seria no dia seguinte ou no outro — porque,
+qual é a diferença? Da mesma maneira, não consideres de muita importância
+saber se isso será daqui a muitos anos ou já amanhã.
+
+48. Lembra-te sempre de todos os médicos, já mortos, que franziam as
+sobrancelhas perante os males dos seus doentes; de todos os astrólogos que
+tão solenemente prediziam o fim dos seus clientes; dos filósofos que discorriam
+incessantemente sobre a morte e a imortalidade; dos grandes chefes que
+chacinavam aos milhares; dos déspotas que brandiam poderes sobre a vida e a
+morte com uma terrível arrogância, como se eles próprios fossem deuses que
+nunca pudessem morrer; de cidades inteiras que morreram completamente,
+Hélice, Pompeia, Herculano e inúmeras outras. Depois, recorda um a um todos
+os teus conhecidos; como um enterrou o outro, para depois ser deposto e
+enterrado por um terceiro, e tudo num tão curto espaço de tempo. Repara, em
+resumo, como toda a vida mortal é transitória e trivial; ontem, uma gota de
+sémen, amanhã uma mão cheia de sal e cinzas. Passa, pois, estes momentos
+fugazes na terra como a Natureza te manda que passes e depois vai descansar
+de bom grado, como uma azeitona que cai na estação certa, com uma bênção
+para a terra que a criou e uma acção de graças para a árvore que lhe deu a vida.
+
+49. Sê como o promontório contra o qual as ondas quebram e voltam a quebrar;
+mantém-se firme até que, por fim, as águas tumultuosas à sua volta se rendem e
+vão descansar. «Que infeliz sou, o que me havia de acontecer!» De modo
+nenhum; diz antes, «Que feliz que eu sou em não ter ficado com azedume, mas
+antes inabalado pelo presente e sem receio do futuro». Aquilo podia ter
+acontecido a qualquer pessoa, mas nem todos ficariam assim sem azedume.
+Então, por que atribuir uma coisa à má sorte em vez de atribuir a outra à boa
+sorte? Pode alguém chamar pouca sorte a uma coisa que não seja uma
+infracção à sua natureza; e poderá ser uma infracção à sua natureza se não for
+contra a vontade da natureza? Bem, então: já aprendeste a conhecer essa
+vontade. Isso que te aconteceu impede-te de ser justo, magnânimo, moderado,
+judicioso, discreto, verdadeiro, respeitador de ti próprio, independente, e tudo o
+mais que leva à realização da natureza do homem? Eis, então, uma regra a
+recordar no futuro, quando alguma coisa te tentar a sentires-te amargo: não
+«Isto é uma infelicidade», mas «Suportar isto dignamente é uma felicidade».
+
+50. Filosofia à parte, uma efectiva ajuda no sentido de menosprezar a morte é
+pensar naqueles que se apegaram avidamente às suas vidas. Que vantagem
+tiveram eles sobre os que morreram ainda jovens? A terra cobre-os a todos eles
+algures, em qualquer tempo; Cadiciano, Fábio, Juliano, Lépido e todos os outros
+que acompanharam tanta gente às suas sepulturas simplesmente para, depois,
+serem por fim acompanhados às suas próprias. Curta foi, afinal, a prorrogação
+de que gozaram; arrastados até ao fim nestas condições e com estes ajudantes,
+e num corpo miserável. Não lhe dês, pois, grande importância; repara no abismo
+de tempo por detrás dela e no infinito que ainda se lhe segue. Em face disto, o
+que é que Nestor, com todos os seus anos tem a mais em relação a qualquer
+bebé de três dias?
+
+51. Segue sempre pelo caminho mais curto; e o caminho mais curto é o da
+natureza, tendo como objectivo uma perfeita segurança em cada palavra e
+acção. Tal propósito libertar-te-á da ansiedade e do conflito, e de todos os
+compromissos e estratagemas.
+
+-------------------------------------
+## LIVRO 5
+
+1. Aos primeiros raios de luz, e para contrariar aquela aversão a deixar a cama,
+pensa logo «Vou-me levantar para o trabalho do homem». Estará certo eu
+resmungar por ter de começar a fazer aquilo para que nasci e que é a razão de
+ser da minha vinda ao mundo? Foi este o objectivo da minha criação, ficar aqui
+deitado debaixo dos cobertores para me manter quentinho? «Ah, mas é muito
+mais agradável!» Foi então para o prazer que vieste ao mundo, e não para o
+trabalho, para o esforço? Olha para as plantas, os pardais, as formigas, as
+aranhas, as abelhas, todos ocupados nas suas tarefas, cada um
+desempenhando o seu papel com vista a uma ordem mundial coerente; e vais tu
+rejeitar a parte do homem nesse trabalho, em vez de cumprires sem demoras as
+ordens da Natureza? «Sim, mas uma pessoa tem de ter também algum
+descanso.» Claro; mas o descanso tem os seus limites estabelecidos pela
+natureza, da mesma maneira que também os têm a alimentação e a bebida; e tu
+ultrapassas esses limites, tu vais para além da suficiência; enquanto, por outro
+lado, quando se trata de acção, tu ficas aquém daquilo que podias conseguir.
+Tu não tens verdadeiro amor por ti próprio; se o tivesses, amarias a tua
+natureza e a vontade da tua natureza. Os artesãos que amam a sua profissão
+empenham-se ao máximo no seu trabalho, mesmo sem se lavarem e sem
+comerem; mas tu tens a tua natureza em menos consideração do que o
+gravador tem a sua gravação, o dançarino a sua dança, o avarento o seu monte
+de prata, ou o presunçoso o seu momento de glória. Quando põem o coração no
+trabalho, estes homens estão prontos a sacrificar a alimentação e o sono ao
+avanço no sentido do objectivo que escolheram. Será o serviço da comunidade
+menos digno, aos teus olhos, e merecerá ele menos devoção?
+
+2. Oh, quem me dera a consolação de ser capaz de pôr de lado e atirar para o
+esquecimento todas as impressões importunas e fastidiosas, e ficar num instante
+completamente em paz!
+
+3. Reserva-te o direito a qualquer acto ou afirmação que esteja de acordo com a
+natureza. Que as críticas ou comentários que se possam seguir não to impeçam;
+se há alguma coisa boa para fazer ou dizer, nunca renuncies ao teu direito a ela.
+Aqueles que te criticam têm a sua própria razão a guiá-los, e os seus próprios
+impulsos a instigá-los; não deves deixar que os teus olhos se desviem na sua
+direcção, mas antes manter um rumo certo e seguir a tua própria natureza e a
+Natureza-Mundo (e o rumo destes dois é um só).
+
+4. Eu trilho as estradas da natureza até à hora em que me deitarei para
+descansar, devolvendo o meu último sopro ao ar de que o aspirei diariamente, e
+mergulhando na terra donde o meu pai tirou a semente, a minha mãe, o sangue,
+e a minha ama, o leite do meu ser — terra que durante tantos anos me forneceu
+diariamente comida e bebida, e, embora tão atrozmente maltratada, ainda
+permite que eu pise a sua superfície.
+
+5. Nunca serás célebre pela tua sagacidade. Seja; contudo há uma série de
+outras qualidades de que não poderás dizer «Não tenho tendência para isso».
+Cultiva-as, pois, porque elas estão totalmente ao teu alcance: a sinceridade, por
+exemplo, e a dignidade; o zelo e a sobriedade. Evita resmungar; sê sóbrio,
+discreto e franco; sê moderado nos modos e nas palavras; comporta-te com
+autoridade. Repara quantas qualidades há que podiam já ser tuas. Não podes
+alegar incapacidade ou inaptidão inata para elas; e contudo preferes ainda
+arrastar-te num plano menos sublime. Além disso, será a falta de dons naturais
+que precisa daqueles acessos de queixume, parcimónia e lisonja bajuladora, de
+invectivas contra a tua falta de saúde, de servilismo e jactância e das contínuas
+mudanças de humor? Certamente que não; podias ter-te visto livre de todos eles
+há muito tempo, e ter ficado imputável de nada mais do que uma certa lentidão e
+obtusidade de compreensão — e mesmo esta, podes corrigi-la com a prática,
+desde que não a menosprezes ou tenhas prazer no teu próprio embotamento.
+
+6. Há pessoas que, se te prestam um serviço, não hesitam em reclamar o seu
+crédito. Outras que, embora não dispostas a ir tão longe, te considerarão,
+contudo, como seu devedor e nunca esquecerão o que fizeram. Mas há também
+aqueles de quem se poderá quase dizer que não têm consciência nenhuma do
+que fizeram, como a videira que produz um cacho de uvas e depois, uma vez
+cedido o seu fruto, não espera mais agradecimentos do que o cavalo que
+acabou a corrida, ou o cão que descobriu a caça, ou a abelha que guardou o
+seu mel. Como eles, o homem que cometeu uma boa acção não o proclama,
+antes passa logo para uma outra, como a videira logo enceta o processo de
+criação de novo cacho de uvas.
+«Então, de acordo contigo, devemos comparar-nos com as coisas que agem
+inconscientemente?» Exactamente; contudo, devemos fazê-lo conscientemente;
+porque, como diz o ditado, «a consciência de que as suas acções são sociais é
+a marca de um ser social». «Mas também o é, seguramente, o desejo de que a
+própria sociedade tenha consciência disso?» É verdade, sem dúvida; contudo, tu
+não percebes o significado do aforismo, e portanto colocas-te dentro da mesma
+classe das pessoas que acabei de descrever e que, da mesma maneira, são
+levadas por um raciocínio enganador. Apreende o verdadeiro significado do
+ditado, e nunca terás de temer que ele te traia, levando-te a omitir qualquer
+dever social.
+
+7. Os atenienses rezam, «Faz chover, chover, querido Zeus, sobre os campos e
+planícies de Atenas». As orações, ou não deviam ser ditas, ou então deviam ser
+tão simples como esta.
+
+8. Assim como nós dizemos, «Esculápio (30) prescrevia exercícios a cavalo, ou banhos frios, ou andar a pé», também a Natureza-Mundo prescreve a doença, as mutilações, as perdas, ou quaisquer outras deficiências. No primeiro caso, prescrever significava ordenar um tratamento específico no interesse da saúde do paciente; da mesma maneira, no segundo caso, são-nos prescritas certas
+ocorrências no interesse do nosso destino. Podem, de facto, dizer-nos que nos
+“enquadremos” nestas desgraças no mesmo sentido em que os pedreiros dizem que as pedras quadradas das paredes ou as pirâmides se “enquadram” umas
+nas outras quando estão a ser ajustadas para constituírem um todo unificado.
+Esta integração mútua é um princípio universal. Assim como uma miríade de
+corpos se juntam para formar o Corpo único que é o mundo, também uma
+miríade de causas se combinam para formar uma única Causa que é o destino.
+Mesmo as pessoas vulgares compreendem isto quando dizem, «Calhou-lhe a
+ele». Calhou, de facto; isto é, foi-lhe destinado. Aceitemos tais coisas, portanto,
+como aceitamos as prescrições de Esculápio; porque estas também têm muitas
+vezes um sabor amargo, e contudo nós engolimo-las de bom grado na
+esperança de ter saúde. A execução e o cumprimento das leis da Natureza
+devem ser encarados da mesma maneira que encaramos a nossa saúde física:
+mesmo que aquilo que te acontece seja intragável, recebe-o sempre de bom
+grado, porque isso concorre para a saúde do universo, e mesmo para o bem-
+estar e bem-fazer do próprio Zeus. Se isso não fosse para benefício do todo, ele
+nunca o teria feito acontecer a um indivíduo. Não é próprio da Natureza provocar
+alguma coisa naquele que está sob o seu governo que não seja especificamente
+destinado ao seu bem. Há portanto duas razões por que tu deves aceitar de bom
+grado o que te acontece: primeiro, como te acontece a ti, foi-te prescrito a ti, e
+diz-te respeito a ti próprio, sendo um fio da tapeçaria da causação primordial; e
+segundo, porque todo o ordenamento individual é uma das causas da
+prosperidade, sucesso e mesmo sobrevivência d’Aquele que rege o universo.
+Separar qualquer partícula, por mais pequena que seja, da contínua
+concatenação — quer das causas, quer de quaisquer outros elementos — é ferir
+o todo. E sempre que tu te entregas à insatisfação, estás a provocar, dentro das
+tuas limitadas capacidades, essa separação e desmembramento.
+
+> (Comentário em Nota
+12/01/2002 14:57:57
+(30)
+Com Esculápio, Marco aqui quer dizer qualquer consultor médico. O Esculápio original é mencionado por Homero simplesmente como «um excelente curador» que era pai de Machaon e Podalírio, os dois médicos do exército grego em Troia. Mais tarde ele aparece com a categoria de divindade, presidindo às artes da cura e venerado nos templos em toda a Grécia. As serpentes andavam em toda a parte associadas ao culto de Esculápio (a mudança periódica de pele que acontece com as cobras fez com que ela fosse considerada como um símbolo apropriado de saúde e vigor renovados); e o emblema do deus representando um bastão com uma serpente enrolada era frequentemente aposto pelos médicos no topo das receitas. É hoje muito conhecido como distintivo do Royal Army Medical Corps.)
+
+9. Não te entregues à tristeza nem ao desânimo e não desistas em desespero,
+se de vez em quando a prática ficar aquém da norma. Volta ao ataque depois de
+cada derrota e fica agradecido se globalmente o teu desempenho, na maioria
+dos casos, for como deve ser o de um homem. Mas cultiva um gosto genuíno
+pela disciplina a que regressas: não recorras à tua filosofia com o espírito de um
+aluno para com o professor, mas antes como aquele que, tendo uma ferida num
+olho, recorre à loção de ovo e esponja, ou como outros à cataplasma ou ao
+duche. Assim, a tua submissão à razão não se tornará uma questão de
+ostentação pública, mas de consolação privada. Lembra-te de que, enquanto
+que a filosofia quer apenas aquilo que a tua própria natureza quer, tu próprio
+estavas a querer outra coisa diferente, em divergência com a natureza. «Sim,
+mas que outra coisa podia ter sido mais agradável» — não é esse o atractivo
+com que o prazer procura enganar-te? Pensa, porém: não seria a nobreza da
+alma mais agradável? Não o seria a candura, a simplicidade, a bondade, a
+piedade? Mais ainda: se pensares na precisão e naturalidade com que os
+processos de raciocínio e cognição operam, poderá haver alguma coisa mais
+agradável do que o exercício do intelecto?
+
+10. Quanto à verdade, ela está tão envolta na obscuridade que muitos
+filósofos (31) reputados asseveram a impossibilidade de alcançar qualquer
+conhecimento certo. Mesmo os Estóicos admitem que a sua obtenção está cheia
+de dificuldades e que todas as nossas conclusões intelectuais são falíveis; pois,
+onde é que está o homem infalível? Ou vira-te para coisas mais materiais: que
+transitórias estas são, que inúteis — abertas à aquisição por todos os libertinos,
+mulheres de maus costumes ou criminosos. Ou repara nos caracteres dos teus
+companheiros: mesmo os mais agradáveis de entre eles são difíceis de suportar;
+e quanto a isso, já é bastante difícil suportarmo-nos a nós próprios. Em toda esta
+treva, em todo este lamaçal, portanto, em todo este fluir incessante do ser e do
+tempo, de mudanças impostas e mudanças sofridas, não consigo pensar em
+nada que mereça alto apreço ou dedicação séria. Não; o que um homem deve
+fazer é encher-se de coragem para esperar calmamente a sua natural
+dissolução; e entretanto não se agastar com a sua demora, mas antes procurar
+a sua consolação em dois pensamentos: primeiro, que nada nos pode acontecer
+que não esteja de acordo com a natureza; e segundo, que o poder de me abster
+de agir contra o espírito divino dentro de mim está nas minhas mãos, uma vez
+que não há homem nenhum vivo que me possa obrigar a tal desobediência.
+
+> (Comentário em Nota
+12/01/2002 14:58:31
+(31)
+A referência é à chamada escola “céptica” ou pirrónica de filósofos, fundada por Pirro de Elis. Eles defendiam que as nossas percepções podem apenas mostrar-nos as coisas como elas parecem e não
+como são, e que portanto uma suspensão do julgamento é a única atitude correcta em qualquer caso.)
+
+11. Que uso estou eu agora a dar aos poderes da minha alma? Auto-examina-te
+sobre este ponto a cada passo, e pergunta, «Como é que ela se dá com aquela
+parte de mim a que os homens chamam a parte-mestra? Que alma é que habita. O
+homem da rua entende-a como significando bens materiais, e não aquelas virtudes de carácter que são os verdadeiros “bens” da vida. Para um filósofo, por outro lado, a palavra tem este último sentido; e ficaria,
+portanto, intrigado com uma referência a alguém que «tem tantos bens que não lhe sobra espaço para
+tranquilizar o espírito».(Nota do tradutor da presente versão: a palavra portuguesa “bens”, neste contexto,
+corresponde por inteiro à palavra inglesa “goods”))
+o meu corpo neste momento? A de uma criança, a de um rapaz, a de uma
+mulher, a de um tirano, a de um boi mudo, ou a de um animal selvagem?»
+
+> (Comentário em Nota
+12/01/2002 14:59:24
+(32)
+Este parágrafo gira à volta do significado ambíguo da palavra “bens” (“goods” na tradução inglesa)
+
+12. A concepção popular de “bens” pode ser testada desta maneira.32 Se um
+homem, no seu espírito, identifica como “bens” coisas como a prudência, a
+temperança, a justiça e a coragem, então, de acordo com essa ideia, ele não
+dará ouvidos àquela velha graça que fala de «tantos bens», porque não faz
+qualquer sentido. Por outro lado, se ele partilha da ideia vulgar daquilo que
+constituem os “bens”, logo apreciará o gracejo e não terá dificuldade em ver a
+sua justeza. A maioria das pessoas tem, de facto, esta ideia de valores e nunca
+ficariam ofendidas com a graça ou recusariam ouvi-la; realmente, temos de
+aceitá-la como uma observação adequada e inteligente se considerarmos que
+ela se refere à riqueza ou a coisas que conduzem ao luxo ou ao prestígio. Agora
+quanto ao teste: pergunta-te se agimos bem ao dar grande importância às coisas
+e considerá-las como “bens”, se o retrato mental que fazemos delas é de molde
+a dar sentido à chalaça que diz, «ao possuidor de tantos bens não sobra espaço
+para se apaziguar».
+
+13. Eu consisto de um elemento formal e de matéria. Nenhum deles jamais
+pode transformar-se em nada, como também nenhum deles nasceu do nada.
+Consequentemente, cada uma das partes que me constituem será um dia
+remodelada, por um processo de transição, e transformada em alguma outra
+parte do universo; a qual, por sua vez, será de novo transformada em ainda
+outra parte, e assim sucessivamente até ao infinito. (a palavra “infinito” pode ser
+usada, mesmo que o mundo seja gerido em ciclos finitos.)
+
+14. A razão e o acto de raciocinar são faculdades auto-suficientes, tanto
+inerentemente, como no método de operar. É em suas próprias fontes que
+adquirem o seu ímpeto inicial; e avançam a direito, rumo aos seus objectivos
+autodeterminados. Acções deste tipo recebem concordantemente o nome de
+“rectidão” devido à linha recta que seguem.
+
+15. A menos que as coisas sejam parte de um homem, na sua qualidade de
+homem, não se pode dizer com propriedade que lhe pertencem. Não lhe podem
+ser exigidas; porque a sua natureza nem lhas promete, nem é aperfeiçoada por
+elas. Portanto, elas não podem representar o seu objectivo principal na vida.
+Além disso, se a herança do homem incluísse tais coisas, não poderia ao
+mesmo tempo ter incluído o desprezo e a renúncia a elas; nem a capacidade de
+passar sem elas teria sido razão de louvor; nem, supondo que elas são
+realmente boas, o facto de não reclamar uma boa parte delas seria compatível
+com a bondade. Mas assim, contudo, quanto mais um homem se despoja, ou se
+deixa despojar de tal tipo de coisas, mais ele cresce em bondade.
+
+16. O teu espírito será como os seus pensamentos habituais; porque a alma fica
+tingida na cor dos seus pensamentos. Impregna-o, pois, de correntes de
+pensamento, como, por exemplo, Lugar onde a vida é mesmo possível, também
+é possível uma vida correcta; a vida num palácio é possível; portanto, mesmo
+num palácio uma vida correcta é possível (33). Ou ainda: A finalidade que está por
+detrás da criação de cada coisa determina o seu desenvolvimento: o
+desenvolvimento aponta para o seu estado final; o estado final dá a pista para a
+sua principal vantagem e bem; portanto, o principal bem de um ser racional é a
+solidariedade com o semelhante — porque há muito que ficou claro que a
+solidariedade é o objectivo que está por detrás da criação. (É claramente
+evidente, não é? que enquanto que os inferiores existem para os superiores,
+estes existem uns para os outros. E enquanto que o ser animado é superior ao
+inanimado, o racional é ainda superior àquele.
+
+> (Comentário em Nota
+11/01/2002 16:52:30
+(33)
+Mathew Arnold encontrou nestas palavras a inspiração para o seu soneto que começa, «“Mesmo num
+palácio a vida pode ser bem vivida“; assim falou o sábio imperial, o mais puro dos homens, Marco Aurélio».)
+
+17. Procurar alcançar o inatingível é loucura, contudo, o insensato nunca
+consegue deixar de o fazer.
+
+18. A homem nenhum pode acontecer uma coisa para a qual a natureza o não
+tenha preparado para suportar. As experiências do teu vizinho não são
+diferentes das tuas; contudo, ele, por estar menos consciente do que aconteceu,
+ou mais ansioso por mostrar a sua têmpera, mantém-se firme e indómito. Pena é
+que a ignorância e a vaidade sejam comprovadamente mais fortes do que a
+sabedoria.
+
+19. As coisas exteriores não podem tocar a alma nem um bocadinho; não
+conhecem o caminho até ela; não têm o poder de a fazer vacilar ou mudar; ela
+vacila e move-se por si própria; tem os seus padrões de julgamento auto-
+aprovados, e é a eles que se reportam todas as experiências.
+
+20. De certa maneira, a humanidade toca-me de muito perto, tanto mais que
+estou destinado a fazer bem ao meu semelhante e a ser indulgente para com
+ele. Por outro lado, e na medida em que os homens, individualmente
+considerados, dificultam a minha própria actividade, a humanidade torna-se para
+mim uma coisa tão indiferente como o sol, o vento ou as criaturas do mundo
+selvagem. É verdade que outros me podem impedir a realização de certas
+acções, mas não podem obstaculizar a minha vontade, nem a disposição do
+meu espírito, uma vez que estes sempre se resguardarão e se adaptarão às
+circunstâncias. O espírito pode vencer todos os obstáculos com vista à acção, e
+convertê-los em avanço no sentido do seu principal objectivo, de modo que
+qualquer impedimento ao seu trabalho se torna, ao contrário, um auxiliar, e as
+barreiras no seu caminho se tornam uma ajuda ao progresso.
+
+21. No universo, venera aquele que está mais alto; nomeadamente, Aquele a
+que tudo o resto serve, e que dita a lei para todos. Da mesma maneira, venera o
+mais elevado em ti mesmo: ele constitui, com o Outro, uma só peça, uma vez
+que em ti próprio também reside aquilo a que tudo o resto serve e pelo qual se
+rege a tua vida.
+
+22. Aquilo que não é prejudicial para a cidade, também o não pode ser para o
+cidadão. Em todos os casos de prejuízo possíveis e imaginários aplica sempre a
+regra, «se a cidade não é prejudicada, eu também o não serei». Mas se a cidade
+for, de facto, prejudicada, nunca vociferes contra o culpado; procura, antes,
+descobrir em que ponto é que a sua visão falhou.
+
+23. Reflecte sobre a rapidez com que todas as coisas que existem, ou as que
+estão a nascer, passam velozmente por nós e desaparecem. O grande rio do
+Ser continua a fluir sem parar; as suas acções sempre em mudança, as suas
+causas sempre em infindável deslocamento, quase nada se mantendo parado;
+enquanto, sempre à mão, se estende para o passado e para o futuro o infinito —
+o abismo em que tudo desaparece da vista. Nestas condições, seria certamente
+absurdo um homem arfar, enfurecer-se, queixar-se, como se o tempo dos seus
+problemas pudesse alguma vez ser de duração contínua.
+
+24. Pensa na totalidade de todo o Ser e na insignificante migalha que é a tua
+parte nele; pensa em todo o Tempo e no instante fugaz que dele te cabe; pensa
+no Destino e como é insignificante a porção dele que tu és.
+
+25. Uma pessoa está a fazer-te mal? Ela própria que atente nisso; os seus humores e acções são só dela. Quanto a mim, estou apenas a receber aquilo que a Natureza-Mundo quer que eu receba, e estou a agir como a minha natureza quer que eu aja.
+
+26. Não deixes que as emoções da carne, sejam elas de dor ou de prazer, afectem a porção suprema e soberana da alma. Faz com que esta nunca se
+envolva com elas: ela deve manter-se dentro dos seus próprios domínios e
+manter os sentimentos confinados à sua própria esfera. Se (pela simpatia que
+impregna qualquer organismo uno) elas se propagam ao espírito, é inútil
+qualquer tentativa de resistir à sensação física; só que, a razão-mestra deve
+abster-se de acrescentar as suas próprias presunções sobre a bondade ou
+maldade delas.
+
+27. Vive com os deuses. Viver com os deuses é mostrar-lhes em todas as
+ocasiões uma alma satisfeita com as suas recompensas, e cumprir inteiramente
+a vontade daquela divindade interior, daquela partícula de si próprio, que Zeus
+deu a cada homem para seu regente e guia — o espírito e a razão.
+
+28. Os sovacos malcheirosos e o mau hálito irritam-te? Que bem é que isso te
+fará? Com a boca e os sovacos que aquela pessoa tem, essa condição tem
+necessariamente de produzir esses cheiros. «Mas afinal, esse indivíduo é
+dotado de razão, e é perfeitamente capaz de compreender aquilo que é
+repugnante se pensar um pouco nisso». Muito bem: mas tu próprio também és
+dotado de razão; aplica, pois, a tua razoabilidade para o levares a uma
+razoabilidade semelhante; comenta, aconselha. Se ele te escutar, terás operado
+uma cura, e a cólera será desnecessária. Deixa essa para os actores e para as
+prostitutas.
+
+29. Viver na terra como tu tencionas viver daqui para a frente é possível. Mas se
+os homens não te deixarem, então abandona a casa da vida, mas sem qualquer
+sentimento de vítima. «A cabana está a deitar fumo; saio». Não há razão para
+fazer grande questão disso. Contudo, desde que nada desse género me obrigue
+a partir, aqui continuo, dono de mim mesmo, e ninguém me impedirá de fazer
+aquilo que eu escolher - e aquilo que eu escolho é viver a vida que a natureza
+impõe a um membro sensato de uma comunidade social.
+
+30. O Espírito do universo é social. Seja como for, ele criou as formas inferiores
+para servirem as superiores, e depois ligou as superiores numa dependência
+mútua umas das outras. Repara como algumas estão sujeitas, outras ligadas,
+todas e cada uma recebem o que lhes é devido, e as mais eminentes de entre
+elas estão combinadas de mútuo acordo.
+
+31. Como é que te comportaste no passado para com os deuses, para com os
+teus pais, para com os teus irmãos, mulher, filhos, professores, tutores, amigos,
+parentes, pessoal da casa? Em todas estas relações, e até hoje, poderás tu
+repetir as palavras do poeta, «Nunca uma palavra mais áspera, nunca uma
+injustiça para com uma única pessoa?» (34) Recorda tudo aquilo por que
+passaste, e tudo aquilo que foste capaz de suportar. Pensa que a história da tua
+vida acabou, e o teu serviço está no fim; lembra-te de todas as belas vistas que desfrutaste, dos prazeres e dores que rejeitaste, das muitas honrarias que
+desprezaste, das muitas considerações que mostraste para com os pouco
+atenciosos.
+
+> (Comentário em Nota
+11/01/2002 16:53:37
+(34)
+Homero, Odisseia, iv, 690)
+
+32. Como é que almas sem qualquer competência ou saber são capazes de
+confundir o perito com o sábio? Ah, mas que alma é verdadeiramente perita e
+também sábia? Só a daquele que tem o conhecimento do princípio e do fim, e
+daquela Razão que tudo penetra e que ordena o universo nos seus ciclos
+determinados até ao fim dos tempos.
+
+33. Muito em breve, tu não serás mais do que cinzas ou simples ossos; um
+nome, ou talvez nem mesmo um nome — embora mesmo um nome não seja
+mais do que um som vazio e repetido. Os homens, na vida, só entregam o
+coração à vaidade, à corrupção e ao lixo; os homens são como marionetas a
+brigar, ou crianças conflituosas que ora são todas sorrisos ora se desfazem em
+lágrimas. Fé e decoro, justiça e verdade fugiram «da terra de largos caminhos
+para o Olimpo». (35) Então, o que é que ainda te prende aqui? Os objectos dos
+sentidos são mutáveis e transitórios, os órgãos dos sentidos obscuros e
+facilmente enganados, a pobre alma, ela mesmo, um mero vapor que exala do
+sangue, (36) e o louvor do mundo, em tais condições, uma coisa vã. E então?
+Recobra o ânimo e espera pelo fim, seja ele extinção ou transformação. E o que
+é que pensas que é indispensável até que chegue a hora? Ora, que mais podia
+ser senão venerar e abençoar os deuses; fazer o bem aos homens; ser
+indulgente; e lembrares-te de que o que quer que esteja para além dos limites
+desta pobre carne e sopro não é teu, nem está no teu poder.
+
+> (Comentário em Nota
+11/01/2002 16:54:37
+35
+Hesíodo, Trabalhos e Dias, v, 197.)
+
+> (Comentário em Nota
+11/01/2002 16:55:14
+36
+De acordo com a crença estóica, a partícula de fogo divino que constitui a alma humana é alimentada
+pelo sangue.)
+
+34. Prossegue vigorosamente, não saias da estrada certa no pensamento e na
+acção, e os teus dias fluirão sempre tranquilamente. A alma do homem, como as
+almas de todos as criaturas racionais, tem duas coisas em comum com a alma
+de Deus: nunca pode ser contrariada do exterior, e a sua bondade consiste na
+rectidão de carácter e acção, e em a isso confinar todos os desejos.
+
+35. Se a coisa não é pecado meu, nem causada por qualquer pecado meu, e se
+a sociedade não fica pior com ela, porquê pensar mais nisso? Como é que ela
+pode prejudicar a sociedade?
+
+36. Não te tornes presa fácil das primeiras impressões. Ajuda aqueles que
+precisam na medida das tuas capacidades e tanto quanto eles possam merecer;
+mas se a sua queda não envolve nada de moralmente significativo, não deves
+olhá-los como realmente feridos, porque isso não é uma boa prática. Em tais
+casos, faz como aquele velho amigo que, à despedida, fingia pedir avidamente o
+pião da menina-escrava (37), sabendo embora muito bem que aquilo não passava
+de um pião.
+Quando, no palanque, estás a clamar por votos, meu amigo, não estarás tu a
+esquecer o valor último de tudo isso? «Eu sei; mas esta gente dá muito valor a
+isso». E esse facto justifica que partilhes da sua loucura?
+Apesar de banido para não importa que solidões, fui sempre bafejado pela Sorte.
+Porque bafejado pela Sorte é aquele que a premeia pelos bons presentes que
+dela recebe — os bons presentes de uma boa disposição, bons impulsos e boas
+acções.
+
+> (Comentário em Nota
+12/01/2002 15:01:44
+(37)
+O “velho amigo” fingiu bondosamente partilhar da noção da criança de que o pião era um tesouro apetecível e precioso. Da mesma maneira, diz Marco, devemos ser solidários com a tristeza dos outros, mesmo quando o nosso maior conhecimento nos diz que eles não sofreram nenhum mal real.)
+
+-------------------------------------
+## LIVRO 6
+
+1. A matéria no universo é flexível e dócil, e a Razão que a controla não tem
+motivo para fazer mal; porque não tem maldade, e não faz nada com a intenção
+de magoar, nem nada é prejudicado por ela. É por sua determinação que todas
+as coisas nascem e se realizam.
+
+2. Se estiveres a fazer o que está correcto, não te importes se estás a gelar de
+frio ou junto de uma boa fogueira; a cair de sono ou fresco, depois de um bom
+sono; se és insultado ou aplaudido; se estás a morrer ou noutra qualquer
+situação. (Porque mesmo o morrer é parte das coisas da vida; e também aí nada
+mais se espera de nós do que «ver a obra do momento bem feita.»)
+
+3. Olha por debaixo da camada superficial: nunca deixes que a qualidade
+intrínseca ou o valor de uma coisa te escapem.
+
+4. Todos os objectos materiais mudam rapidamente: ou por sublimação (se a
+substância do universo for realmente una), ou então por dispersão.
+
+5. A Razão, a controladora, tem um perfeito entendimento das condições, do fim
+e das matérias da sua obra.
+
+6. Evitar a imitação é a melhor vingança.
+
+7. Que o teu único deleite e refrigério seja passar de um serviço à comunidade
+para outro, sempre com Deus no pensamento.
+
+8. A nossa razão-mestra é uma coisa que é auto-despertada e também auto-
+dirigida. Ela pode não só fazer-se o que quiser, como também impor o aspecto
+da sua escolha a qualquer coisa que experimente.
+
+9. Todas as coisas atingem a sua realização como manda a Natureza universal
+única; porque não há uma natureza rival, quer contendo-a do exterior, quer ela
+própria contida dentro dela, ou mesmo existindo à parte e separada dela.
+
+10. O mundo ou é uma simples salgalhada de aleatórias coesões e dispersões,
+ou então é uma unidade de ordem e providência. No primeiro caso, porquê
+desejar sobreviver numa tal confusão caótica sem qualquer sentido; porquê
+preocuparmo-nos com qualquer coisa a não ser com a maneira de regressar ao
+pó; porquê preocupar-me de todo; uma vez que, faça eu o que fizer, a dispersão
+tomará conta de mim mais tarde ou mais cedo? Mas se a contrária for
+verdadeira, então eu venero, mantenho-me firme e deposito toda a minha
+confiança no Poder director.
+
+11. Quando a força das circunstâncias perturba a tua equanimidade, não percas
+tempo a recuperar o teu autocontrole e não fiques em dissonância senão durante o tempo que não possas evitar. O regresso habitual à harmonia
+aumentará a tua capacidade de a dominar.
+
+12. Se tivesses uma madrasta e uma mãe simultaneamente, cumpririas o teu
+dever para com a primeira, mas recorrerias continuamente à tua mãe. Aqui tens
+as duas: a corte e a filosofia. Volta continuamente à filosofia por refrigério; e
+então mesmo a vida da corte, e tu nela, parecerão suportáveis.
+
+13. Quando tiveres carne e outros petiscos à tua frente reflecte: Isto é peixe
+morto, ou aves, ou galináceos, ou porco; ou: Este Falerno (38) é uma parte do
+sumo de um punhado de cachos de uva; o meu manto purpúreo é lã tingida com
+um pouco de sangue de um marisco; a cópula é a fricção dos membros e uma
+ejaculação. Reflexões deste tipo vão ao fundo das coisas, penetrando nelas e
+expondo a sua verdadeira natureza. O mesmo processo deve ser aplicado a
+toda a vida. Quando as credenciais de uma coisa parecem muito plausíveis,
+desnuda-a, observa a sua trivialidade, e despe-a do manto de verborreia que lhe
+dá dignidade. A presunção é o que há de mais enganador, mas nunca ela é mais
+ilusória do que quando tu te convences de que o teu trabalho é muito meritório.
+Repara no que Crates tem a dizer sobre o próprio Xenocrates. (39)
+
+> (Comentário em Nota
+11/01/2002 16:57:30
+(38)
+Vinho famoso da antiga Campânia. (Nota do autor desta versão portuguesa))
+
+> (Comentário em Nota
+11/01/2002 16:58:17
+39
+Referência desconhecida.)
+
+14. As pessoas vulgares limitam a sua admiração principalmente às coisas de
+categoria elementar que existem em virtude de mera coesão ou de processos
+inorgânicos da natureza; coisas de madeira e pedra, por exemplo, ou arvoredos
+de figueiras ou videiras ou oliveiras. Espíritos com um grau de esclarecimento
+superior são atraídos por coisas que têm animação, como rebanhos ou
+manadas. Um grau de refinamento ainda mais elevado leva à admiração da
+alma racional: racional, mas ainda não no sentido de ser parte da Razão
+universal, mas simplesmente como possuidora de certas capacidades manuais
+ou outros talentos do género — ou até como mera detentora de grande número
+de escravos. Mas um homem que valoriza uma alma que é racional, e universal,
+e social, já não se interessa por nada mais, procura unicamente manter a
+serenidade da sua alma e todas as suas actividades racionais e sociais, e
+trabalha juntamente com os seus semelhantes nesse sentido.
+
+15. Uma coisa apressa-se a entrar em existência, outra a sair dela. Mesmo
+enquanto uma coisa está em processo de nascimento, uma parte dela já deixou
+de existir. O fluxo e a mudança estão permanentemente a renovar a estrutura do
+universo, tal como a incessante passagem do tempo está sempre a renovar a
+face da eternidade. Num tal rio, onde não há qualquer ponto de apoio firme, o
+que é que há para um homem prezar de entre as muitas coisas que por ele
+passam a correr? Isso seria como afeiçoarmo-nos a um pardal que passa
+voando rapidamente e que no mesmo momento desaparece da nossa vista. A
+vida de um homem não é mais do que uma inalação do ar e uma exalação do
+sangue; (40) e não há verdadeira diferença entre inspirar o ar para logo o soprar
+para fora, como nós fazemos a cada instante, e receber a faculdade de respirar,
+como fizemos ainda ontem no nosso nascimento, para a devolver um dia à fonte
+onde a fomos buscar.
+
+> (Comentário em Nota
+11/01/2002 16:58:59
+(40)
+Ver nota 36)
+
+16. A transpiração não é coisa para prezar; partilhamo-la com as plantas. Nem a
+respiração; partilhamo-la com os animais dos campos e das florestas. Nem as
+percepções dos sentidos, nem os impulsos do instinto, nem o instinto gregário,
+nem o processo de nutrição — que de facto não é mais maravilhoso do que o da
+excreção. Então o que é que nós devemos prezar? O bater das palmas? Não; e
+também não o bater das línguas, que é tudo aquilo a que se limita o louvor das
+pessoas vulgares. Excluindo a ilusão da fama, o que é que resta para apreciar?
+Quanto a mim, isto: organizar, na acção, como na inacção, o objectivo das
+nossas estruturas naturais. Isso, ao fim e ao cabo, é o objectivo de todo o nosso
+adestramento e de todo o nosso trabalho; porque todas as obras têm como
+objectivo a adaptação de um produto ao fim para que foi produzido. O agricultor
+que trata da sua vinha, o moço de estrebaria que doma o cavalo, o empregado
+do canil que treina o seu cão, todos têm este propósito em vista. Os trabalhos
+dos tutores e dos professores dirigem-se, também, ao mesmo fim. Eis, pois, o
+galardão que procuramos. E se fizeres disto o teu próprio galardão, mais
+nenhum objectivo te tentará. Deixa todas as outras ambições que cultivas, senão
+nunca serás senhor de ti mesmo, nunca serás independente em relação aos
+outros, nem nunca estarás ao abrigo das paixões. Olharás com inveja, com
+ciúme e suspeição aqueles que possam desapossar-te dessas coisas, e
+intrigarás contra quem possa deter o mesmo que tu próprio cobiças. A crença de
+que as coisas deste género são indispensáveis vai seguramente provocar
+tumulto interiormente, e muitas vezes leva também ao murmúrio contra os
+deuses; enquanto que o respeito e a estima pela tua própria compreensão te
+manterá em paz contigo próprio, em unidade com a humanidade, e em harmonia
+com os deuses; isto é, de acordo com tudo o que eles distribuem e ordenam.
+
+17. Por cima, por baixo, e à nossa volta, redemoinham os elementos nos seus
+cursos. Mas a virtude não conhece tais movimentos: ela é qualquer coisa mais
+divina que avança serenamente em caminhos que estão para além da
+compreensão.
+
+18. Que estranhos são os caminhos dos homens! Não poupam palavras de
+louvor aos seus contemporâneos que vivem mesmo no meio deles, e contudo
+cobiçam para si próprios o louvor das gerações futuras que nunca viram nem
+nunca verão. E mais ou menos da mesma maneira, queixam-se por não
+receberem os louvores dos antepassados!
+
+19. Se uma coisa é difícil para ti, não concluas daí que ela está para além do
+poder dos mortais. Terás de admitir, pelo contrário, que, se uma coisa é
+possível, e própria para o homem fazer, tem de estar dentro das tuas próprias capacidades.
+
+20. Quando um adversário, no ginásio nos fere com as unhas ou nos magoa a
+cabeça num choque, não protestamos nem ficamos ofendidos, nem passamos
+depois a desconfiar sempre das suas intenções. Contudo passamos a olhá-lo
+com cautela, não com inimizade ou suspeição, mas mantendo-o, com bonomia,
+à distância. Que assim seja também noutras situações da vida; concordemos em
+passar por cima de muitas coisas naqueles que são como que nossos
+competidores. O simples acto de evitar, como já tenho dito, está sempre, para
+nós, em aberto, sem suspeição ou má vontade.
+
+21. Se alguém me consegue mostrar e provar que estou errado no pensamento
+ou na acção, eu mudo de bom grado. Eu procuro a verdade, o que ainda nunca
+magoou ninguém. Só a persistência na auto-ilusão e na ignorância é que magoa.
+
+22. Eu faço aquilo que é meu dever fazer. Nada mais me distrai; porque
+certamente se trata de qualquer coisa inanimada e irracional, ou de alguém que
+está iludido ou não sabe o caminho.
+
+23. Sê generoso e liberal na tua atitude em relação às criaturas irracionais e à
+generalidade das coisas materiais, porque tu tens uma razão e elas, não. Os
+seres humanos, por outro lado, têm uma razão; portanto trata-os com
+camaradagem. Pede, em tudo, o auxílio dos deuses — mas sem demasiada
+preocupação quanto à extensão das tuas preces; três horas chegam.
+
+24. Na morte, o fim de Alexandre da Macedónia não foi minimamente diferente
+do do seu moço da estrebaria. Ou foram ambos recebidos no mesmo princípio
+generativo do universo, ou foram ambos igualmente dispersos em átomos.
+
+25. Pensa em tudo aquilo, de ordem corpórea ou mental, que se está a passar
+ao mesmo tempo dentro de cada um de nós; e então não ficarás surpreendido
+que um número infinitamente maior de coisas — na realidade, tudo o que nasce
+neste vasto Único-e-Todo a que chamamos o universo — possa existir
+simultaneamente lá dentro.
+
+26. Se te pedissem que soletrasses o nome António, soltarias cada uma das
+letras aos berros, e depois, se os teus ouvintes ficassem irritados tu, por tua vez,
+irritavas-te também? Ou começarias a enumerar as várias letras calmamente
+uma a uma? Bem, então lembra-te de que, aqui na vida, cada um dos deveres é
+também formado pelos seus elementos separados. Presta muita atenção a cada
+um deles sem espalhafato e sem responder à irritação com irritação, para assim
+assegurares a finalização da tarefa que te foi distribuída.
+
+27. Como é bárbaro negar aos homens o privilégio de perseguirem aquilo que
+eles julgam ser as suas preocupações e interesses apropriados! E contudo, em
+certo sentido, é isso exactamente o que tu estás a fazer quando deixas que a tua
+indignação se manifeste perante os seus erros; porque, afinal, eles estão apenas
+a perseguir as suas aparentes preocupações e interesses. Tu dizes que eles
+estão enganados? Então diz-lhes isso, e explica-o a eles em vez de ficares
+indignado.
+
+28. A morte: uma libertação das impressões sensoriais, dos impulsos do apetite,
+dos desvios do pensamento e do serviço da carne.
+
+29. Que vergonha para a alma: hesitar na estrada da vida enquanto o corpo
+ainda persiste.
+
+30. Tem cuidado, não assumas em demasia a qualidade de monarca, não te
+deixes tingir profundamente pela púrpura; porque isso pode acontecer. Conserva
+a simplicidade, a bondade, a pureza, a seriedade e a modéstia; o amor da justiça
+e da religiosidade; sê amável, afectuoso e resoluto na tua devoção ao dever.
+Esforça-te o máximo por seres sempre um homem como a Filosofia manda que
+sejas. Venera os deuses e ajuda os teus semelhantes mortais. A vida é curta, e
+essa curta existência terrena não tem senão um fruto para produzir — a
+santidade, interiormente, e, exteriormente, a acção desinteressada. Sê em todas
+as coisas discípulo de António; lembra-te da sua insistência no controle do
+comportamento pela razão, da sua postura tranquila em todas as ocasiões, e da
+sua própria santidade; da serenidade do seu aspecto e da doçura das suas
+maneiras; do seu desprezo pela notoriedade, e do seu zelo pelo domínio dos
+factos; e de como ele nunca punha de lado um assunto enquanto não o
+examinasse exaustivamente e o compreendesse claramente; de como ele era
+alvo de críticas injustas sem responder da mesma maneira; de como ele nunca
+tinha pressa e não tinha amigos mexeriqueiros; de como era astuto nos seus
+juízos sobre os homens e sobre as maneiras, mas nunca crítico; de como estava
+completamente liberto de nervosismos, suspeições e demasiadas subtilezas; de
+como facilmente se contentava em coisas como o alojamento, a cama, o
+vestuário, as refeições e o serviço; de como era trabalhador e paciente; de como
+conseguia, graças a uma dieta frugal, ficar a trabalhar de manhã à noite sem
+sequer atender aos apelos da natureza até à sua hora habitual; como era firme e
+constante nas amizades, tolerando as mais francas oposições às suas opiniões,
+e aceitando de bom grado qualquer correcção sugerida; da veneração, sem
+qualquer vestígio de superstição, que mostrava para com os deuses. Lembra-te
+de tudo isto para que, quando a tua hora chegar, a tua consciência esteja tão
+límpida como a dele.
+
+31. Volta agora aos teus sóbrios sentidos; recorda o teu próprio eu; desperta do
+torpor e reconhece que foram apenas sonhos que te atormentaram; e
+exactamente como os olhaste, olha agora o que os teus olhos despertos vêem.
+
+32. Um corpo e uma alma constituem a minha pessoa. Ao corpo tudo é
+indiferente, porque é incapaz de fazer distinções. Ao espírito, as únicas coisas
+que não são indiferentes são as suas próprias actividades, e estas estão todas
+sob o seu controle. Além disso, mesmo em relação a elas, a sua única
+preocupação são as do momento presente; uma vez passadas, ou quando ainda
+residem no futuro, elas mesmas passam imediatamente a ser indiferentes.
+
+33. Uma dor numa mão ou num pé não é nada de anti-natural, desde que a mão
+ou o pé estejam a fazer o seu trabalho. Da mesma maneira, nenhuma dor é
+contra a natureza do homem, como homem, desde que ele esteja a fazer
+trabalho de homem. E se este estiver de acordo com a natureza, não pode ser
+um mal.
+
+34. Em que invulgares prazeres vão os ladrões, os pervertidos, os parricidas e
+os tiranos buscar a sua satisfação!
+
+35. Repara como vulgares artífices vão ao encontro dos desejos de um patrão
+até certo ponto inexperiente, mas, no entanto, seguem rigorosamente as regras
+do seu ofício e recusam desviar-se delas. Não é deplorável que um construtor ou
+um médico tenham mais respeito pelos cânones da sua arte do que um homem
+pelos seus próprios cânones que partilha com os deuses?
+
+36. No universo, a Ásia e a Europa são apenas dois cantinhos, a água de todos
+os oceanos, uma gota, Athos, um insignificante pedaço de terra, a vastidão do
+tempo, um pequeno ponto na eternidade. Tudo é insignificante, inconstante e
+perecível. Tudo procede da única fonte, emergindo directamente, ou por
+derivação, da soberana Razão universal. Mesmo as mandíbulas abertas do leão,
+o veneno mortal, ou todas as outras coisas que realmente ferem, até a roseira
+silvestre e o atoleiro, são subprodutos de qualquer outra coisa que em si própria
+é nobre e bela. Não penses nelas como estranhas a Aquele que veneras, mas
+lembra-te da origem única que é comum a todos eles.
+
+37. Ver as coisas do momento presente é ver tudo o que agora existe, tudo o
+que existe desde o princípio do tempo e tudo o que existirá até ao fim do mundo;
+porque todas as coisas pertencem a uma só espécie e têm uma só forma.
+
+38. Pensa com frequência nos laços que unem todas as coisas no universo, e
+na sua dependência umas das outras. Todas estão como que entrelaçadas e
+consequentemente ligadas por mútua afeição; porque a sua sucessão
+organizada é realizada por acção das correntes de tensão, (41) e pela unidade de
+toda a substância.
+
+> (Comentário em Nota
+12/01/2002 15:07:16
+(41)
+Uma explicação da teoria estóica da “tensão” é dada na introdução, pág. 15.)
+
+39. Adapta-te ao ambiente para onde o teu grupo foi atirado, e mostra um amor
+verdadeiro pelos teus semelhantes mortais de que o destino te rodeou.
+
+40. Não há qualquer problema com uma ferramenta, um instrumento ou utensílio
+quando ele serve o fim para que foi feito, embora neste caso o seu construtor
+não esteja presente. Mas com as coisas feitas pela Natureza, o poder que as
+moldou ainda está com elas e nelas fica a residir. Mais uma razão para que a
+veneres e fiques com a certeza de que só vivendo de acordo com a sua vontade
+
+tu terás as coisas a teu gosto. É esta a maneira como também o universo tem
+todas as coisas a seu gosto.
+41. Se tens a ideia de que uma coisa que está para além do teu controle pode
+ser boa ou má para ti, então o acidente de perder a primeira ou encontrar a
+segunda vai certamente fazer com que fiques ressentido com os deuses e
+amargo com os homens que sabes ou suspeitas serem responsáveis pelo teu
+fracasso ou infortúnio. Nós cometemos realmente muitas injustiças por darmos
+importância a coisas deste tipo. Mas quando limitamos as nossas noções de
+bem e mal estritamente àquilo que está no nosso poder, não resta qualquer
+razão quer para acusações contra Deus quer para desavenças com os homens.
+
+42. Todos nós andamos a trabalhar para o mesmo fim; alguns consciente e
+intencionalmente, outros inconscientemente (como Heráclito, penso eu,
+observou que «mesmo durante o sono os homens estão a trabalhar» e a
+contribuir com o seu quinhão para o processo cósmico). A um calha esta parte
+da tarefa, a outro, aquela; na verdade não é pequena a parte desempenhada por
+aquele muito descontente que faz tudo quanto pode para impedir e desfazer o
+curso dos acontecimentos. O universo precisa até desses. Portanto é tua a
+decisão sobre com quem tu próprio vais enfileirar; porque, seja como for, aquele
+que tudo rege descobrirá uma qualquer utilidade para ti e atribuir-te-á um lugar
+entre os seus colaboradores e companheiros de trabalho. Só tens de cuidar que
+a tua não seja aquela lamentável função que, de acordo com Chrísipo, é
+desempenhada pelo palhaço no palco. (42)
+
+> (Comentário em Nota
+12/01/2002 15:07:41
+(42)
+i. é, fornecer aquele elemento de baixeza contra a qual a nobreza se mostra mais claramente.)
+
+43. Será que o sol pensa fazer o trabalho da chuva? Ou Esculápio, o de
+Demétrio? E as estrelas? Não são elas todas diferentes, e, contudo, não
+trabalham todas elas concertadamente para o objectivo único?
+
+44. Se os deuses discutiram e se aconselharam mutuamente sobre mim e sobre
+o que me aconteceria, então o conselho foi bom. Pois, seria difícil conceber um
+aconselhamento insensato da parte da divindade. Afinal, que razão teriam eles
+para me provocarem sofrimento? Que ganhariam eles, quer para si próprios quer
+para o universo, que é a sua principal preocupação? Mesmo que não tenham
+pensado especialmente em mim, pensaram pelo menos no universo; e eu tenho
+de dar as boas vindas e ser indulgente em relação a tudo o que aconteça em
+resultado disso. Se, claro, eles não pensaram mesmo em nada - coisa ímpia de
+acreditar — então, ponhamos fim ao sacrifício e à prece e ao voto, e a todas as
+outras acções pelas quais reconhecemos a presença de deuses vivos no meio
+de nós. Mas mesmo assim, e mesmo que seja verdade que eles não se
+interessam nada pelos nossos assuntos mortais, eu ainda sou capaz de tomar
+conta de mim próprio e de olhar pelos meus próprios interesses; e o interesse de
+todas as criaturas reside na conformidade com a sua própria constituição e
+natureza. A minha natureza é racional e cívica; tenho uma cidade e tenho um
+país; como Marco, tenho Roma, e como ser humano, o universo; e
+consequentemente, o que é bom para estas comunidades é o único bem para
+mim.
+
+45. Tudo o que acontece ao indivíduo é para bem do todo. Isto é, só por si,
+garantia suficiente para nós; mas se olhares com atenção verás também que,
+em geral, o que é bom para um homem é também bom para os seus
+semelhantes. (Mas “bom” deve ser aqui tomado no sentido mais popular,
+incluindo as coisas que são moralmente indiferentes.)
+
+46. Tal como os espectáculos no circo, ou de outros locais de diversão, nos
+cansam com a sua perpétua repetição das mesmas coisas numa monotonia que
+torna o espectáculo enfadonho, também o mesmo se passa com toda a
+experiência da vida: na nossa caminhada para cima e para baixo todas as coisas
+acabam por ser sempre o mesmo — causas e efeitos por igual. Então quanto
+tempo…?
+
+47. Pondera com frequência no teu espírito a enorme quantidade de mortos de
+todas as classes e nações, mesmo até Filistion, Febo e Origanio. (43) Destes
+últimos, deixa que os teus pensamentos passem para as hordas de outros;
+pensa como devemos seguir daqui, donde tantos oradores já se foram, tantos
+veneráveis sábios — Heráclito, Pitágoras, Sócrates — os heróis de outros
+tempos, os capitães e os reis de tempos posteriores, e com eles Endoxo,
+Hipparco, Arquimedes e muitos outros; espíritos penetrantes, sublimes, homens
+infatigáveis, cheios de recursos e decididos; também aqueles que gracejaram
+com a transitoriedade e brevidade desta vida mortal, como Menippo e os da sua
+escola. Medita muitas vezes sobre estes homens há muito desaparecidos. Como
+é que eles, digam-me, sofrem agora — mais especialmente aqueles cujos
+próprios nomes foram esquecidos? Nesta vida só uma coisa é preciosa: viver os
+nossos dias em verdade e em justiça, e em caridade, mesmo para com os falsos
+e os injustos.
+
+> (Comentário em Nota
+12/01/2002 15:08:44
+(43)
+Filistion, Febo e Origanion são-nos desconhecidos; a linguagem sugere que são pessoas que tinham morrido recentemente. Eudoxo diz-se ter sido erudito em astrologia, medicina e leis. Hiparco foi um matemático de nome. A reputação científica de Arquimedes sobreviveu até aos nossos dias. Sobre o
+filósofo grego Menippo, Diógenes Laertio observa que «ele não publicou nada de memorável, mas os seus escritos estão cheios de humor e riso» (vi,99))
+
+48. Quando te apetecer um tónico para te animar, pensa nas boas qualidades
+dos teus amigos: a capacidade de um, a modéstia doutro, a generosidade de um
+terceiro, e por aí fora. Não há remédio mais seguro para o desânimo do que ver
+os exemplos das diferentes virtudes que os caracteres daqueles que nos
+rodeiam, tão claramente patenteiam. Mantém-nos bem diante dos olhos.
+
+49. Aborrece-te o facto de pesares só uns tantos quilos em vez de oitenta?
+Porquê, então, afligirmo-nos por viver só uns tantos anos e não mais? Uma vez
+que estás satisfeito com a medida da substância que te foi concedida, faz o
+mesmo em relação à medida do tempo.
+
+50. Tenta convencer os homens pela persuasão, mas age contra a sua vontade
+se os princípios da justiça assim mandarem. E se alguém usar da força para te
+impedir, segue uma via diferente; deves resignar-te sem angústia e transformar
+o obstáculo numa oportunidade para o exercício de outra virtude. Lembra-te de
+que a tua tentativa esteve sempre sujeita a reservas; tu não estavas a apontar
+para o impossível. Então para quê? Simplesmente para a tentativa, ela própria.
+Nisto conseguiste; e com isso atingiste o objectivo da tua existência.
+
+51. O homem de ambição pensa encontrar o seu bem nas actuações dos
+outros; o homem do prazer nas suas próprias sensações; mas o homem de
+compreensão, nas suas acções.
+
+52. Tu não és obrigado a formar um opinião sobre este assunto que tens pela
+frente, nem a perturbar a tua paz de espírito. As coisas em si mesmas não têm o
+poder de te arrancar um veredicto.
+
+53. Habitua-te a prestar muita atenção ao que os outros dizem, e tenta o mais
+possível entrar no espírito de quem fala.
+
+54. O que não é bom para a colmeia, também não o é para a abelha.
+
+55. Se a tripulação resolveu caluniar o seu timoneiro, ou os doentes, o seu
+médico, haverá mais alguém a quem eles dêem ouvidos em seu lugar; e como é
+que esse outro seria capaz de garantir a segurança dos marinheiros, ou a saúde
+dos doentes?
+
+56. Quantos daqueles que vieram ao mundo comigo não o deixaram já!
+
+57. A um homem com icterícia, o mel parece amargo; a alguém mordido por um
+cão raivoso, a água causa horror; para as crianças, uma bola é um tesouro
+valioso. Então por que cedo eu à cólera? Porque, poder-se-á supor que o
+pensamento errado de um homem tem menos efeito sobre ele do que a bílis na
+icterícia ou o vírus na hidrofobia?
+
+58. Ninguém te pode impedir de viver de acordo com as leis da tua natureza
+pessoal, e nada te pode acontecer que vá contra as leis da Natureza-Mundo.
+59. Que tristes criaturas são os homens a quem o povo procura agradar! Que
+tristes fins eles perseguem, e por que tristes meios! Que depressa o tempo
+apagará todas as coisas! Quantas não apagou ele mesmo agora!
+
+-------------------------------------
+## LIVRO 7
+
+1. O que é o mal? Uma coisa que tu já viste vezes sem conta. E, tal como em
+relação a todos os outros tipos de ocorrências, lembra-te de pronto que isto
+também já tu testemunhaste muitas vezes. Porque em toda a parte, em cima e
+em baixo, tu não vais encontrar nada senão sempre as mesmas coisas; elas
+enchem as páginas de toda a história, antiga, moderna e contemporânea; e
+enchem as nossas cidades e os nossos lares hoje. A novidade é coisa que não
+existe; tudo é tão trivial quanto transitório.
+
+2. Os princípios só podem perder a sua vitalidade quando as primeiras
+impressões de que derivam já mergulharam na extinção; e compete-te a ti atiçar
+o fogo de modo a fornecer-lhe continuamente uma chama renovada. Eu sou
+perfeitamente capaz de formar a impressão certa de uma coisa; e dada esta
+capacidade, não preciso de me inquietar. (Quanto às coisas que estão para além
+do meu entendimento, elas não dizem respeito ao meu entendimento.) Uma vez
+aprendido isto, continuas de pé. Uma nova vida está ao teu alcance. Só tens de
+ver as coisas, uma vez mais, à luz da tua primeira e mais antiga visão, e a vida
+começa de novo.
+
+3. Um palco ambulante vazio; uma peça de teatro; rebanhos de ovelhas;
+manadas de gado; uma luta de lanceiros; um osso agitado no meio de um monte
+de cachorros; uma migalha atirada para dentro de um lago de peixes; formigas
+carregadas e a trabalhar; ratos amedrontados em correria; marionetas a
+sacudirem-se nos seus cordéis — isto é a vida. No meio de tudo isto, tu deves
+tomar o teu lugar, com boa disposição e sem desdém, mas consciente de que
+um homem não vale mais do que as suas ambições.
+
+4. Numa conversa, repara bem no que está a ser dito, e, quando chega a acção,
+no que está a ser feito. Neste último caso, vai logo ver qual o objectivo proposto;
+e no outro, certifica-te daquilo que se quer dizer.
+
+5. Está o meu entendimento à altura da minha tarefa, ou não? Se está, aplico-o
+ao trabalho como ferramenta oferecida pela natureza. Se não, ou abro caminho
+— se a função o permitir — a alguém mais capaz de realizar a tarefa, ou faço o
+melhor que posso com a ajuda de um assistente que tirará partido da minha
+inspiração para realizar o que é oportuno e útil para a comunidade. Porque tudo
+aquilo que eu faço, sozinho ou com outra pessoa, tem de ter como objectivo
+único o serviço e a harmonia de todos.
+
+6. Quantos daqueles a quem se cantaram louvores tão altissonantes estão já
+relegados para o esquecimento; e quantos dos cantores, eles próprios, já
+desapareceram da nossa vista!
+
+7. Não tenhas vergonha de ser ajudado. A tua obrigação é cumprir a tarefa que
+te foi destinada, como um soldado na seteira. Mas como o farás, se fores coxo e
+incapaz de trepar as ameias, senão com a ajuda de um camarada?
+
+8. Nunca deixes que o futuro te perturbe. Encontrá-lo-ás, se tiver de ser, com as
+mesmas armas da razão que te armam contra o presente.
+
+9. Todas as coisas estão entrelaçadas umas nas outras; um laço sagrado une-
+as; dificilmente se encontrará uma coisa isolada da outra. Tudo está
+coordenado, tudo trabalha em conjunto para dar forma ao universo uno. A ordem
+mundial é uma unidade feita de multiplicidade: Deus é uno e impregna todas as
+coisas; todo o ser é uno, toda a lei é una (nomeadamente, a razão comum que
+todas as criaturas pensantes possuem) e toda a verdade é una — se, como
+cremos, não pode haver senão um caminho para a perfeição para seres que são
+semelhantes em género e razão.
+
+10. Rapidamente, cada partícula de matéria desaparece na Substância
+universal; rapidamente, cada elemento de causação é retomado pela Razão
+universal; rapidamente, a memória de todas as coisas é enterrada no abismo da
+eternidade.
+
+11. Para um ser racional, um acto que se conforma com a natureza é um acto
+que se conforma com a razão.
+
+12. Pôr-se, ou ser posto, de pé?
+
+13. Num sistema que inclui diversos elementos, aqueles que possuem razão
+têm o mesmo papel a desempenhar que os membros do corpo num organismo
+que é uno, sendo similarmente constituídos para mútua cooperação. Esta
+reflexão impressionar-te-á mais fortemente se disseres constantemente a ti
+mesmo «Eu sou um “membro“ (melos) do todo complexo das coisas racionais».
+Se te considerares apenas como uma “parte“ (meros), não tens verdadeiro amor
+à humanidade, nem alegria no desempenho dos actos de bondade por si
+próprios. Pratica-los como simples obrigação, e não como bons serviços para ti
+mesmo.
+
+14. Aconteça o que acontecer às partes de mim que possam ser afectadas pela
+sua incidência, elas que se queixem disso, se quiserem. Quanto a mim, não vejo
+a coisa como um mal, não me sinto magoado. E nada me pode obrigar a vê-lo
+dessa maneira.
+
+15. Faça o mundo o que fizer, diga o mundo o que disser, o meu papel é
+continuar a ser bom; tal como uma peça de ouro ou uma esmeralda ou um
+manto de púrpura, repete sempre «Faça o mundo o que fizer, diga o mundo o
+que disser, o meu papel é continuar a ser uma esmeralda e conservar a minha
+cor verdadeira».
+
+16. A razão-mestra nunca é vítima de qualquer perturbação vinda de si própria;
+nunca, por exemplo, suscita paixões dentro de si. Se outro pode inspirar-lhe
+terror ou dor, que o faça; mas ela, por si mesma, nunca permite que as suas
+próprias assunções a desviem para tais disposições. O corpo que, por todos os
+meios, cuide por si próprio de evitar o traumatismo, se puder; e se ficar ferido,
+que o diga. Mas a alma, que é a única que pode conhecer o medo ou a dor, e de
+cujo julgamento depende a existência, não se magoa; não se pode forçá-la a um
+veredicto. A razão-mestra é auto-suficiente, e não conhece necessidades, a não
+ser aquelas que ela cria para si mesma, e por isso não pode experimentar
+perturbações ou obstruções, a não ser que elas sejam de sua própria criação.
+
+17. Felicidade, por derivação, significa “um bom deus interior” (44) ; isto é, uma
+boa razão-mestra. Então, vã Fantasia, que andas tu a fazer aqui? Vai-te, em
+nome de Deus, como vieste; não quero nenhuma de vós. Eu sei que o que vos
+traz aqui é um longo hábito, e não vos quero mal; mas ponde-vos a andar.
+
+> (Comentário em Nota
+11/01/2002 17:04:27
+(44)
+Isto é o significado de eudaimonia, a palavra grega para felicidade.)
+
+18. Nós fugimos à mudança; contudo, há alguma coisa que possa nascer sem
+ela? O que é que a Natureza considera de mais querido ou mais próprio para si
+mesma? Poderias tu tomar um banho se a lenha da fogueira não sofresse uma
+mudança? Poderias tu alimentar-te se a comida não sofresse uma alteração?
+Será possível, para uma coisa útil, a realização sem mudança? Não vês, pois,
+que a mudança em ti próprio é da mesma ordem e não menos necessária à
+Natureza?
+
+19. Todos os corpos passam pela substância universal, como que entrando e
+saindo de um curso de água impetuoso; aderindo e trabalhando como um todo,
+como fazem os nossos membros físicos uns com os outros. Quantos Chrísipos,
+Sócrates, Epictetos é que o tempo já engoliu no seu abismo! Lembra-te disto
+quando tens de lidar com qualquer homem ou coisa, sejam eles quais forem.
+
+20. Só há uma coisa que me perturba: o medo de poder fazer qualquer coisa
+que a constituição do homem não permite, ou desejaria que fosse feita de outro
+modo, ou proíbe até um dia futuro.
+
+21. Em breve terás esquecido o mundo, e em breve o mundo te terá esquecido.
+
+22. O que distingue particularmente o homem é o amar mesmo aqueles que
+erram e descaminham. Tal amor nasce logo que tu realizas que eles são teus
+irmãos; que eles andam a tropeçar por ignorância, e não por vontade própria;
+que dentro de pouco tempo ambos já não serão; e, sobretudo, que tu mesmo
+não ficaste magoado porque a tua razão-mestra não ficou minimamente pior do
+que era.
+
+23. Da substância universal, como da cera, a Natureza molda um potro, e
+depois destrói-o e usa a matéria para fazer uma árvore, e depois, um homem, e
+a seguir, outra coisa qualquer; e nenhum destes dura mais do que um breve
+espaço de tempo. Quanto à embalagem propriamente dita, ser partida aos
+bocados não é maior sofrimento do que ser montada.
+
+24. Um ar zangado é totalmente contra a natureza. Se é assumido muitas
+vezes, a beleza começa a morrer, e, no fim, apaga-se irremediavelmente. Deves
+tentar compreender que isto revela falta de racionalidade; porque se nós
+perdemos a capacidade de perceber os nossos erros, para quê continuar a
+viver?
+
+25. Um breve instante só, e a Natureza, o juiz universal, alterará tudo o que tu
+vês, e da sua substância fará coisas novas, e, de novo, outras a partir daquelas,
+para a perpétua renovação da juventude do mundo.
+
+26. Quando alguém te ofende, que o teu primeiro pensamento seja este: Com
+base em que conceito de bem e mal é que isto foi feito? Uma vez isto sabido, o
+espanto e a cólera darão lugar à piedade. Porque, ou as tuas próprias ideias
+sobre o que é bom não são mais avançadas do que as dele, ou pelo menos têm
+alguma semelhança com elas, e, neste caso, é teu dever, evidentemente,
+perdoar-lhe; ou então, por outro lado, evoluíste para além da suposição de que
+tais actos são bons ou maus e, portanto, será tanto mais fácil seres tolerante em
+relação à cegueira de outrem.
+
+27. Não te entregues aos sonhos de ter aquilo que não tens; e pensa sim nas
+superiores bênçãos que de facto possuis, e depois lembra-te, com gratidão, de
+como as desejarias se as não tivesses. Ao mesmo tempo, porém, tem cuidado,
+não vá o deleite que delas tiras levar-te a acarinhá-las de tal maneira que a ideia
+da sua perda destrua a tua paz de espírito.
+
+28. Recolhe-te em ti próprio. A nossa razão-mestra nada mais exige do que agir
+de maneira justa e com isso conseguir a tranquilidade.
+
+29. Liberta-te de todas as fantasias. Deixa de ser uma marioneta da paixão.
+Confina o tempo ao presente. Aprende a reconhecer cada experiência pelo que
+ela é, quer seja tua ou de outrem. Divide e classifica os objectos dos sentidos
+em causa e matéria. Medita sobre a tua última hora. Deixa o comportamento
+incorrecto do teu vizinho com ele mesmo, que foi quem o iniciou.
+
+30. Fixa o pensamento naquilo que está a ser dito, e deixa o espírito penetrar
+todo naquilo que está a ser feito e também naquilo que o está a fazer.
+
+31. Veste-te com a esplendorosa simplicidade e com o respeito por ti próprio e
+com a indiferença por tudo o que fique fora do reino da virtude ou pelo vício.
+Ama a humanidade. Trilha os caminhos de Deus. «Tudo submetido à lei», diz o
+sábio; e que importa que o seu dito se refira só aos átomos? A nós basta-nos
+lembrar que todas as coisas estão de facto submetidas à lei. Três palavras, mas
+suficientes.
+
+32. Da Morte. Dispersão, se o mundo é uma confluência de átomos: extinção ou
+transmutação se é uma unidade.
+
+33. Da Dor. Se é para além do suportável, acaba connosco; se dura, pode ser
+suportada. O espírito, mantendo-se afastado do corpo conserva a sua
+tranquilidade e a razão mestra fica imune. Quanto às partes afectadas pela dor,
+elas que declarem o seu sofrimento, se puderem.
+
+34. Da Fama. Examina os espíritos dos seus seguidores, as suas ambições, as
+suas aversões. Além disso, reflecte sobre como nesta vida as coisas de hoje são
+rapidamente enterradas sob as de amanhã, e até como uma camada de areia
+em turbilhão fica rapidamente coberta pela seguinte.
+
+35. «Se um homem tem grandeza de espírito e o sopro de visão para
+contemplar todo o tempo e toda a realidade, pode ele olhar a vida humana como
+coisa de grande importância?» — «Não, não pode.» — «Portanto, não pensará
+na morte como qualquer coisa a temer?» — «Não.» (De Platão (45))
+
+> (Comentário em Nota
+11/01/2002 22:15:44
+(45)
+República, 486)
+
+36. «É sina dos príncipes serem criticados por agirem correctamente.» (De
+Anthístenes.)
+
+37. É pena que as feições se organizem e ajustem obedientemente, tal como o
+espírito manda, enquanto o mesmo espírito se recusa a organizar-se e a ajustar-
+se.
+
+38. «Não aflijais o vosso espírito no decurso das coisas;
+Elas não cuidam da vossa aflição.» (46)
+
+> (Comentário em Nota
+11/01/2002 22:16:32
+(46)
+Eurípedes, Bellerophon, Frag. 289)
+
+39. «Aos deuses imortais e também a nós próprios dai alegria.» (47)
+
+> (Comentário em Nota
+11/01/2002 22:17:00
+(47)
+Fonte desconhecida)
+
+40. «Tal como as espigas de milho, também as vidas dos homens são ceifadas;
+Esta, poupada e aquela, cortada.» (48)
+
+> (Comentário em Nota
+11/01/2002 22:17:27
+(48)
+Eurípedes, Hypsipyle, Frag. 757)
+
+41. «Se o Céu não cuida de mim nem dos meus dois filhos,
+Deve haver uma boa razão, mesmo para isso.» (49)
+
+> (Comentário em Nota
+11/01/2002 22:18:14
+(49)
+Eurípedes, Antíope, Frag. 207)
+
+42. «A razão e a boa sorte estão ambas do meu lado.» (50)
+
+> (Comentário em Nota
+11/01/2002 22:18:44
+(50)
+Eurípedes, Frag. 910)
+
+43. «Não há lágrimas para aqueles que se lamentam, nem pulsação
+acelerada.» (51)
+
+> (Comentário em Nota
+11/01/2002 22:19:28
+(51)
+Fonte desconhecida)
+
+44. «Eu bem podia responder-lhe, Estás enganado, meu amigo, se pensas que
+um homem de valor deve passar o tempo a pesar as perspectivas da vida e da
+morte. Ele só tem uma coisa a considerar ao praticar qualquer acção, e que é
+esta: se está a agir bem ou mal, como homem bom ou mau.» (De Platão (52))
+
+> (Comentário em Nota
+11/01/2002 22:20:18
+(52)
+Apologia, 28 B)
+
+45. «A verdade da questão é esta, meus senhores. Uma vez ocupado o seu
+lugar, ou porque lhe pareça o melhor para ele, ou por obediência a ordens, creio
+que um homem é obrigado a ficar e enfrentar o perigo, não dando atenção à
+morte ou a qualquer outra coisa, excepto a desonra.» (De Platão (53))
+
+> (Comentário em Nota
+11/01/2002 22:20:52
+(53)
+Apologia, 28 E)
+
+46. «Mas peço-te, meu amigo, que penses que é possível que a nobreza e a
+bondade possam ser uma coisa diferente de nos resguardarmos a nós e aos
+nossos amigos do perigo, e consideres se um verdadeiro homem, em vez de se
+agarrar à vida a todo o custo, não deverá remover do espírito a questão de saber
+quanto tempo pode ter de vida. Que deixe isso à vontade de Deus, na crença de
+que as nossa mulheres têm razão quando nos dizem que nenhum homem pode
+escapar ao seu destino, e ele que se entregue ao problema seguinte, a melhor
+maneira de viver a vida que lhe foi destinada.» (De Platão (54))
+
+> (Comentário em Nota
+11/01/2002 22:21:25
+(54)
+Gorgias, 512 DE)
+
+47. Examina as estrelas que giram, como se tu próprio andasses no meio do
+seu curso. Observa com frequência a dança das mudanças dos elementos.
+Visões deste tipo expurgam da escória a nossa vida presa à terra.
+
+48. Platão tem uma bela frase: quem quer dissertar sobre o homem deve
+examinar, como se de uma alta torre de vigia, as coisas da terra; as assembleias
+para a paz e para a guerra, a agricultura, os acasalamentos e as separações, os
+nascimentos e mortes, os tribunais ruidosos, os desertos solitários, as pessoas
+estranhas de todos os tipos, as festas, os lutos, os negócios — observando toda
+aquela mistura colorida, e a ordem harmoniosa que é trabalhada a partir das
+contradições.
+
+49. Lança um olhar para o passado, com os seus impérios em mudança, que se
+erguem e caem, e assim podes prever o futuro também. A matriz será a mesma,
+até ao mais pequeno pormenor; porque ele não pode deixar de acertar o passo
+com a firme caminhada da criação. Ver a vida dos homens durante quarenta ou
+durante quarenta mil anos é tudo o mesmo; porque, que mais haverá para
+veres?
+
+50. «Tudo o que nasce da terra a ela tem de regressar;
+Tudo o que cresce de semente do céu para o céu voltará». (55)
+— pela desintegração, isto é, da sua estrutura atómica e dispersão dos seus
+elementos indiferentes.
+
+> (Comentário em Nota
+11/01/2002 22:22:02
+(55)
+Eurípedes, Chrísipo, Frag. 836)
+
+51. «O quê, pôr de lado as carnes e as bebidas e as amenidades
+As marés do Destino, e escapar assim à Morte?» (56)
+
+> (Comentário em Nota
+11/01/2002 22:22:30
+(56)
+Eurípedes, Suplicantes, 1110)
+
+«As brisas que sopram de Deus têm de ser encaradas
+Com remos diligentes e corações resignados.» (57)
+
+> (Comentário em Nota
+11/01/2002 22:23:58
+(57)
+Fonte desconhecida)
+
+52. «Mais astuto na arena», (58) sem dúvida — mas não mais dedicado à causa
+pública, mais discreto, mais disciplinado às circunstâncias, mais indulgente para
+com os descuidos do vizinho.
+
+> (Comentário em Nota
+12/01/2002 15:12:50
+(58)
+Em grego, literalmente “melhor derrubador”. A palavra aparece numa das histórias de Plutarco, onde um
+lutador espartano desanimado se queixa de que o seu adversário vitorioso não era «nada mais esperto,
+nem mais forte, apenas melhor derrubador». A história parece ter feito lembrar a Marco uma qualquer figura política da época.)
+
+53. Se um feito pode ser realizado de acordo com aquela razão que os homens
+partilham com os deuses, não há nada a temer. Donde quer que se apresente
+uma oportunidade de serviço para qualquer acção que progrida em obediência
+às leis do nosso ser, não temos de ficar à espera de qualquer mal.
+
+54. Ao teu alcance está, a todas as horas e em toda a parte, uma religiosa
+aceitação dos acontecimentos do dia, um tratamento justo dos companheiros do
+dia, e uma escrupulosa atenção às impressões do dia, para que nenhumas delas
+obtenham admissão não sancionda.
+
+55. Não olhes furtivamente os instintos que regem outros homens, antes
+mantém os olhos postos no objectivo para que a própria natureza te guia — a
+Natureza-Mundo a falar pelas circunstâncias, e a tua própria natureza a falar
+pelos chamamentos do dever. Os actos dos homens devem estar de acordo com
+a sua constituição natural; e enquanto todas as outras criações são constituídas
+para o serviço dos seres racionais (de acordo com a lei geral segundo a qual os
+inferiores existem para o bem dos superiores), estes são constituídos para se
+servirem mutuamente. A primeira de entre todas as características da
+constituição do homem, portanto, é o seu dever para com os da sua espécie. A
+seguir vem a obrigação de resistir aos sussurros da carne; porque é uma função
+particular da sua razão e inteligência manter uma barreira tal à volta das suas
+obras que elas não sejam suplantadas pelas dos sentidos e instintos, que são,
+ambas, de qualidade animal. O espírito exige o primeiro lugar e não vergará à
+sua opressão; e muito bem, uma vez que a natureza o formou para se servir de
+tudo o resto. E em terceiro lugar, a constituição de um ser racional deve torná-lo
+incapaz de indiscrição e à prova de impostura. Deixa que a Razão, a timoneira, e
+só ela, rume a direito, firme nestes três princípios, e assegura-te de que ela
+chegue pelos próprios meios.
+
+56. Pensa como se tivesses morrido hoje e como se a história da tua vida
+tivesse terminado; e a partir daí, olha aquilo que o tempo futuro te possa dar
+como um extra não contratado, e vive-o em harmonia com a natureza.
+
+57. Não ames senão aquilo que chega até ti tecido no padrão do teu destino.
+Porque o que é que poderia servir mais eficazmente as tuas necessidades?
+
+58. Em qualquer situação difícil, põe os olhos nos casos de outros homens que
+sofreram uma crise idêntica com indignação, espanto e alarido. Onde estão eles
+agora? Em parte nenhuma. Então, porquê querer seguir-lhes o exemplo? Deixa,
+antes, os humores dos outros aos seus donos ou servos, e esforça-te por
+transformar o acontecimento numa boa causa. Assim, estarás a utilizá-lo da
+melhor maneira e ele servir-te-á como material de trabalho. Em todos os actos,
+que a tua auto-aprovação seja o único objectivo, tanto do teu esforço como da
+tua intenção, tendo sempre em mente que, em si mesmo, o acontecimento que
+induziu o teu acto é uma coisa sem consequências para nenhuma delas.
+
+59. Escava dentro de ti. Aí está a fonte do bem: escava continuamente e ele irá
+fluir sempre.
+
+60. Deixa também que o teu porte corporal seja firme e sem contorções, quer
+em movimento, quer em repouso. Tal como o espírito transparece na cara,
+emprestando-lhe uma expressão composta e decente, também o mesmo deve
+ser exigido dele em relação a todo o corpo. Tudo isto, porém, deve ser
+assegurado sem nenhuma espécie de afectação.
+
+61. A arte de viver é mais como uma luta do que como uma dança, na medida
+em que também exige uma postura de firmeza e de alerta contra qualquer
+investida inesperada.
+
+62. Aprende sempre a conhecer o carácter daqueles cuja aprovação queres
+conquistar, bem como os seus princípios condutores. Examina as fontes das
+suas opiniões e dos seus motivos, e, desta maneira, não os irás culpar das suas
+ofensas involuntárias, ou sentir a falta da sua aprovação.
+
+63. «Alma nenhuma», já se disse, «é privada da verdade por sua vontade». (59) E
+o mesmo se aplica à justiça, ao autodomínio, à bondade ou a qualquer outra
+virtude. Não há nada que mais precises de ter constantemente em mente do que
+isto; e isso vai ajudar-te a uma maior gentileza em todas as tuas relações com
+as pessoas.
+
+> (Comentário em Nota
+11/01/2002 22:25:31
+(59)
+Platão, citado por Epicteto.)
+
+64. Quando em sofrimento, lembra-te de imediato de que não há nisso nada de
+vergonhoso, nem nada de prejudicial ao espírito timoneiro, que não sofre
+nenhum dano nem no aspecto racional nem no social. Em muitos casos, a
+afirmação de Epicuro de que «A dor nunca é insuportável ou infinda desde que
+nos lembremos das suas limitações e não nos entreguemos a exageros
+fantasiosos», deve ser uma ajuda. Tem em mente também que, embora não o
+percebamos, muitas outras coisas que achamos incómodas são, na realidade,
+da mesma natureza da dor: sensações de letargia, por exemplo, ou uma
+temperatura febril, ou a perda de apetite. Quando inclinado a resmungar contra
+isto, diz a ti mesmo que estás a ceder à dor.
+
+65. Quando os homens são desumanos, cuida de não sentires em relação a
+eles o mesmo que eles sentem em relação aos outros seres humanos.
+
+66. Como é que nós sabemos que Telauges pode não ter sido um homem
+melhor do que Sócrates? Está muito certo argumentar que Sócrates teve uma
+morte mais digna, ou que discutiu com mais perspicácia com os sofistas, ou que
+enfrentou mais arduamente os rigores de uma noite gelada; que resistiu
+vivamente à ordem para prender Leo de Salamis, (60) ou que «andou pelas ruas
+com pompa» (61) (embora a verdade desta última possa ser questionada) — mas
+a verdadeira questão a considerar é, Que espécie de alma tinha ele? Ele não
+pedia mais do que ser considerado justo em relação aos homens e puro perante
+os deuses? Evitava o ressentimento pelos vícios dos outros ou a submissão à
+sua ignorância? Aceitava o que o destino lhe reservava, não o olhando como
+coisa antinatural, nem o sofrendo como uma aflição insuportável, nem deixando
+o espírito ser influenciado por experiências da carne?
+
+> (Comentário em Nota
+12/01/2002 15:13:35
+(60)
+Durante o reinado de terror dos Trinta, que se seguiu ao derrube da democracia em Atenas em 403 a.C., muitas pessoas inocentes foram mortas. Quando ordenaram a Sócrates, e a mais outros quatro, que
+prendessem um cidadão honesto, Leo de Salamis, ele recusou-se firmemente a cumprir a ordem dos
+tiranos.)
+
+> (Comentário em Nota
+11/01/2002 22:27:04
+(61)
+Um dos gracejos de Aristófanes sobre Sócrates (Nuvens, 362))
+
+67. A natureza não misturou o espírito com o corpo tão inextricavelmente que o
+impeça de estabelecer as suas próprias fronteiras e de controlar os seus
+próprios domínios. É perfeitamente possível ser semelhante a deus, mesmo que
+não se seja reconhecido como tal. Lembra-te sempre disto; e lembra-te também
+de que o que é preciso para uma vida feliz é muito pouco. O domínio da
+dialéctica ou da física pode ter-te iludido, mas isso não é razão para
+desesperares de conquistar a liberdade, o respeito próprio, a generosidade e a
+obediência à vontade de Deus.
+
+68. Vive os teus dias em calma serenidade, recusando a coerção, embora todo
+o mundo te ensurdeça com as suas exigências, e embora os animais selvagens
+te dilacerem este pobre invólucro de barro. Em tudo isso, nada pode impedir o
+espírito de se possuir em paz, de avaliar correctamente os acontecimentos à sua
+volta, e de utilizar prontamente o material que assim lhe é oferecido; para que o
+juízo diga ao acontecimento, «Isto é o que tu és na essência, seja qual for a
+maneira como os boatos te pintem», e o serviço diga à oportunidade, «Tu és
+aquilo que eu procurava». A ocorrência do momento é sempre uma boa matéria
+para empregar a razão e a fraternidade — numa palavra, para as práticas
+próprias dos homens e dos deuses. Porque não há uma só coisa que aconteça
+que não tenha a sua especial pertinência para deus ou para o homem; ela não
+aparece como um problema novo e intratável, mas como um velho e prestável
+amigo.
+
+69. Viver cada dia como se fosse o último, nunca perturbado, nunca apático,
+nunca com atitudes afectadas — aqui está a perfeição de carácter.
+
+70. Os deuses, embora vivam eternamente, não sentem ressentimento por
+terem de suportar eternamente gerações de homens e os seus erros; e mais,
+eles mostram por eles até todo o cuidado e preocupação possíveis. E vais tu,
+cuja duração é de apenas um instante, perder a paciência — tu que és até um
+dos culpados?
+
+71. Que ridículo é não fugirmos da nossa própria maldade, o que é possível, e
+tentarmos fugir da dos outros, o que não o é.
+
+72. Tudo aquilo que o raciocínio e o social achem irracional ou não fraternal,
+pode por eles ser declarado inferior a eles próprios.
+
+73. Quando tiveres feito uma boa acção, e outra pessoa beneficiar com ela,
+porquê pedir ainda mais — aplauso para tua bondade, ou um favor em troca —
+como fazem os insensatos?
+
+74. Ninguém se cansa de receber benefícios. Mas o benefício resulta da prática
+de acções que estão em consonância com a natureza. Nunca te canses, pois, de
+receber tais benefícios pelo próprio acto de os conferir.
+
+75. O impulso da Natureza universal foi criar um mundo bem ordenado. Daí,
+então, que tudo o que está a acontecer tem de seguir uma sequência lógica; se
+assim não fosse, o objectivo primeiro para o qual se direccionam os impulsos da
+Razão-Mundo seria irracional. Ter isto presente ajudar-te-á a enfrentar muitas
+coisas serenamente.
+
+-------------------------------------
+## LIVRO 8
+
+1. A tendência será para afastar a complacência, se te lembrares de que
+qualquer alegação de que tens vivido como filósofo está já fora de questão; de
+facto, é tão evidente para muitos outros como o é para ti próprio que mesmo
+hoje ainda estás muito longe da filosofia. Consequentemente, o teu espírito
+continua em estado de confusão, e não fica nada mais fácil adquirir o título de
+filósofo; e também a tua posição na vida milita constantemente contra isso. Visto
+isto à sua verdadeira luz, deves banir quaisquer pensamentos sobre como podes
+parecer aos outros, e ficar satisfeito se fores capaz de tornar o que resta da tua
+vida naquilo que a natureza te manda que seja. Aprende a compreender a sua
+vontade e não deixes que nada mais te distraia. Até agora as tuas peregrinações
+em busca da vida certa foram mal sucedidas; não se encontrava na casuística
+da lógica, nem na riqueza, celebridade ou prazeres mundanos, nem em qualquer
+outra coisa. Onde está, então, o segredo? Em fazer o que a natureza do homem
+procura. Como assim? Adoptando os estritos princípios para a regulação do
+instinto e da acção. Tais como? Princípios relativos ao que é bom ou mau para
+nós: assim, por exemplo, que nada pode ser bom para um homem a não ser que
+contribua para o tornar justo, auto-disciplinado, corajoso e independente; e nada,
+mau, a não ser que tenha o efeito contrário.
+
+2. Sobre qualquer acção, interroga-te, Quais serão as suas consequências para
+mim? Irei arrepender-me? Dentro em breve morrerei e tudo será esquecido;
+mas, entretanto, se esse empreendimento é adequado a um ser racional e social
+que está sujeito à mesma lei que Deus, porquê procurar mais?
+
+3. Alexandre, César, Pompeu — o que é que eles eram comparados com
+Diógenes, Heráclito, Sócrates? Estes olhavam as coisas e as suas causas, e
+aquilo de que eram feitas; e os seus espíritos-mestres foram fundidos no mesmo
+molde. Mas os outros — que monte de encargos, que infinidade de escravidões!
+
+4. Tu podes despedaçar o coração, que os homens, esses, continuarão como
+antes.
+
+5. A primeira regra é mostrar um espírito tranquilo; porque todas as coisas se
+devem submeter à lei da Natureza; e muito em breve tu terás de desaparecer no
+nada, como Adriano e Augusto. A segunda é olhar as coisas de frente e
+conhecê-las pelo que elas são, tendo em mente que é teu dever ser um homem
+bom. Faz sem hesitação o que a natureza do homem exige; diz aquilo que te
+parece ser o mais justo — mas com cortesia, modéstia e sinceridade.
+
+6. A função da Natureza universal é misturar, transpor, permutar, tirar de um
+estado e transferir para outro. Em toda a parte há mudança; e contudo não
+temos de recear nada de inesperado, porque todas as coisas são regidas por
+hábitos de longa data, nem mesmo a maneira de as ratear varia.
+
+7. Toda a natureza tira satisfação da serena busca do seu próprio caminho.
+Para uma natureza dotada de razão, isto significa não sancionar qualquer
+impressão que seja enganadora ou obscura, não dando rédea solta ao impulso
+para acções que não tenham sentido social, limitando todos os desejos ou
+rejeições das coisas que estão dentro do seu poder, e saudando todas as
+disposições da Natureza com iguais boas vindas. Porque estas disposições
+fazem tão verdadeiramente parte dela como a natureza de uma folha é parte da
+da planta; salvo que a da folha é parte de uma natureza que não tem
+sentimentos nem razão e está sujeita à frustração, enquanto que a do homem é
+parte de uma natureza que não só não pode ser frustrada, como também é
+dotada tanto de inteligência como de justiça, uma vez que atribui a todos os
+homens de forma igual o seu quinhão de tempo, ser, causação, actividade e
+experiências. (Mas, não procures encontrar esta igualdade numa qualquer
+correspondência entre um e outro homem, no particular, mas, antes, numa
+comparação geral de ambos na sua inteireza.)
+
+8. Tu não podes ter a esperança de ser um erudito. Mas o que podes fazer é
+refrear a arrogância; o que podes fazer é elevar-te acima dos prazeres e das
+dores; podes ser superior à tentação da popularidade; podes conter a tua
+impaciência com os insensatos e os ingratos, sim, e até olhar por eles.
+
+9. Não permitas que alguém, nem mesmo tu próprio, te ouça a caluniar outra
+vez a vida da corte.
+
+10. O arrependimento é remorso pela perda de uma qualquer oportunidade útil.
+Ora, o que é bom é sempre útil, e deve ser preocupação de todo o homem bom;
+mas uma oportunidade de prazer é uma coisa que nenhum homem bom jamais
+se arrependeria de deixar passar. Daí, portanto, que o prazer não é bom nem
+útil.
+
+11. Pergunta-te, O que é esta coisa em si própria, pela sua própria constituição
+especial? O que é que ela é em substância, e na forma, e na matéria? Por
+quanto tempo é que subsiste?
+
+12. Quando é difícil espantar o sono, lembra-te de que ir cumprir com os
+deveres que tens para com a sociedade é estar a obedecer às leis da natureza
+humana e à tua própria constituição, enquanto que o sono é uma coisa que
+partilhamos com a criação bruta e irracional; e ainda mais, que a obediência à
+nossa própria natureza é o caminho mais correcto, o mais adequado e realmente
+o mais agradável.
+
+13. Habitua-te, se possível, a descobrir o carácter essencial de todas as
+impressões, dos seus efeitos no eu, e a sua reacção a uma análise lógica.
+
+14. Quando conheceres alguém, seja quem for, começa logo por te perguntar,
+Quais são as suas opiniões sobre a bondade ou maldade das coisas? Porque,
+assim, se os seus pontos de vista sobre o prazer e a dor e as suas causas, ou
+sobre a boa ou má reputação, ou sobre a vida e a morte são de um determinado
+tipo, não ficarei surpreendido ou escandalizado, por achar que os seus actos
+estão em consonância com aqueles; direi a mim mesmo que ele não tem
+alternativa.
+
+15. Ninguém fica surpreendido quando uma figueira dá figos. Do mesmo modo,
+devemos ficar envergonhados do nosso espanto quando o mundo produz a sua
+colheita de acontecimentos. Um médico ou um mestre de navio corariam se
+ficassem surpreendidos com um doente com febre ou com um vento contrário.
+
+16. Mudar de ideias e adiar para corrigir não é sacrificar a tua independência;
+porque tal atitude é só tua, na busca dos teus próprios impulsos, dos teus
+próprios juízos e da tua própria maneira de pensar.
+
+17. Se a escolha é tua, porquê proceder assim? Se é de outrem, quem vais tu
+culpar? Os deuses? Os átomos? Em ambos os casos seria loucura. Todos os
+pensamentos de culpa estão deslocados. Se puderes, corrige o transgressor;
+senão, corrige a transgressão; se também isto é impossível, para quê
+recriminar? Tudo o que não tem sentido não vale a pena.
+
+18. Aquilo que morre não abandona o mundo. Fica aqui, e aqui também se
+altera e se transforma, decompondo-se nas suas várias partículas; isto é, nos
+elementos que vão formar o universo e tu próprio. Da mesma maneira, eles
+próprios sofrem alterações, e, contudo, deles não nos chega qualquer queixa.
+
+19. Tudo — um cavalo, uma videira — é criado para um determinado fim. E isto
+não é de admirar: mesmo o sol dourado te dirá, «Estou aqui para cumprir uma
+tarefa», tal como todos os outros habitantes do céu. Qual a tarefa, pois, para que
+foste criado? Para o prazer? Um tal pensamento será tolerável?
+
+20. A natureza tem sempre um objectivo em vista; e este objectivo inclui tanto o
+fim da coisa como o seu princípio e duração. Ela é como o atirador da bola. A
+bola, em si mesma, fica melhor em resultado do seu voo? E fica pior quando
+vem a descer, ou quando fica cá em baixo, depois da queda? O que é que uma
+bola de sabão ganha por se manter, ou perde por rebentar? Isto também é
+verdadeiro em relação a uma vela.
+
+21. Vira este corpo mortal do avesso e repara no aspecto que ele tem. Vê como
+ele fica com a idade ou com a doença ou com a decrepitude. Que fugazes são
+as vidas, tanto a daquele que elogia, como a do que é elogiado; a daquele que
+recorda e a do recordado; que pequenos, os seus cantinhos nesta zona terrestre
+— e mesmo aí, eles não estão em paz uns com os outros. Não, a terra inteira
+não é, ela própria, mais do que o mais insignificante dos pontos.
+
+22. Dá-lhe toda a tua atenção, quer ele seja um objecto material, uma acção,
+um princípio ou o significado daquilo que está a ser dito.
+Este dissabor faz-te bem. Preferes esperar pela bondade amanhã a praticá-la
+hoje.
+
+23. Aquilo que faço, tenho de o fazer tendo como referência o serviço da
+humanidade. Aquilo que me acontece, tenho de o aceitar tendo como referência
+os deuses e aquela fonte universal donde provém toda a corrente das
+circunstâncias.
+
+24. A que é que tu associas os banhos? A gordura, suor, sujidade, água
+gordurosa, e tudo o mais que é repugnante. Tal é então a vida em todas as suas
+partes e tais são as suas coisas materiais.
+
+25. A morte roubou Lucilla a Vero (62), e mais tarde reclamou Lucilla também. A
+morte tirou Máximo a Secunda, e depois a própria Secunda; Diómito, a
+Epitynchano, e a seguir Epitynchano; Faustina, a António, e António, por sua
+vez. Assim é sempre. Celer enterra Adriano e alguém o enterra, depois, a ele
+próprio. Aqueles nobres espíritos de antigamente, aqueles homens de
+presciência, aqueles homens orgulhosos, onde estão agora? Espíritos vivos,
+como Charax, o platonista Demétrio, Endaemon, e outros como eles; todos
+vivendo apenas um dia e já há muito mortos e enterrados; alguns esquecidos
+logo que mortos, outros tornados lendas, outros desaparecidos das próprias
+lendas. Pensa, pois, que este teu corpo complexo ou tem de se desagregar e
+dispersar, ou o sopro que o anima tem de ser extinto ou removido ou trasladado
+para qualquer outro lugar.
+
+> (Comentário em Nota
+12/01/2002 15:14:43
+(62)
+Lucilla e Vero eram os pais do próprio Marco. Máximo foi o professor a quem ele se referiu com gratidão em I, 15, e Secunda, a mulher desse filósofo. Epitynchano e Diómito são desconhecidos. O imperador
+António, que era casado com Faustina, era pai adoptivo de Marco. Celer era secretário do imperador Adriano. De Chanax não sabemos nada. Com Demétrio, deve talvez referir-se a Demétrio de Faleron, o último dos famosos oradores e homens de estado a quem Marco se refere outra vez em IX, 29. Eudaemon diz-se que foi um astrólogo famoso.)
+
+26. O verdadeiro prazer do homem é fazer aquilo para que foi criado. Ele foi
+criado para mostrar boa vontade para com os seus semelhantes, para
+ultrapassar os impulsos dos sentidos, para distinguir aparências de realidades e
+para prosseguir o estudo da Natureza universal e as sua obras.
+
+27. Nós temos três relações: uma com esta concha corpórea que nos envolve,
+outra com a Causa divina, que é a fonte de tudo em todas as coisas, e outra com
+os nossos semelhantes mortais que nos rodeiam.
+
+28. A dor deve ser um mal, ou para o corpo — e nesse caso deixa que o corpo
+fale por si — ou então para a alma. Mas a alma pode sempre recusar-se a
+considerá-la como um mal, e assim conservar os seus céus sem nuvens e a sua
+tranquilidade imperturbada. Porque não há decisão ou impulso ou movimento de
+aproximação ou de recuo que não tenha de vir do interior do eu; e para o interior
+do eu nenhum mal pode abrir caminho à força.
+
+29. Apaga todas as fantasias e insiste em dizer para ti mesmo, «Está na minha
+mão assegurar que nenhum vício, cupidez ou agitação de qualquer espécie se
+aloje nesta minha alma; está ao meu alcance compreender todas as coisas à
+sua verdadeira luz e tratar cada uma delas como merece». Lembra-te deste
+poder que é uma dádiva da natureza para ti.
+
+30. Tanto no senado como ao dirigires-te às pessoas, usa uma linguagem
+adequada, mas não retórica. Sê sensato e sadio nas tuas palavras.
+
+31. Pensa na corte de Augusto: mulher, filha, filhos, antepassados, irmã,
+Agripa, (63) parentes, relações, amigos, Arfeio, Mecenas, assistentes médicos,
+sacerdotes — uma corte inteira, todos desaparecidos. Volta-te para outros
+registos de desaparecimentos; extinções, não de indivíduos, mas de famílias
+completas — os Pompeus, por exemplo — e a inscrição que vemos nos
+memoriais, «O último da família». Pensa em todos os esforços dos seus
+predecessores para deixarem herdeiro; e contudo, no fim, alguém tem de ser o
+último, e mais uma família desaparece.
+
+> (Comentário em Nota
+12/01/2002 15:15:01
+(63)
+Agripa e Mecenas eram os dois principais ministros de Augusto, dividindo entre si o encargo de gerir quase todos as questões públicas. O filósofo, Areio, era seu amigo pessoal e conselheiro)
+
+32. Cada um dos teus actos, em separado, deve contribuir para uma vida
+integrada; e se cada um deles cumprir, tanto quanto possível, a sua parte até ao
+fim, deves sentir-te satisfeito, porque isso é uma coisa que ninguém pode
+impedir. «Haverá interferências do exterior», dizes tu? Mesmo assim, elas não
+afectarão a justiça, a prudência, a razoabilidade das tuas intenções. «Não, mas
+algum tipo de acção prática pode ser impedido». Talvez, contudo, se aceitares a
+frustração de bom grado e fores suficientemente sensato para aceitar aquilo que
+se te oferece, podes conseguir um curso alternativo que estará igualmente em
+consonância com a integração de que estamos a falar.
+
+33. Aceita com modéstia; rende-te com graciosidade.
+
+34. Provavelmente já viste uma mão ou um pé amputados, ou uma cabeça
+separada do seu corpo. É a esse estado que um homem está a fazer todo o
+possível por se reduzir, quando se recusa a aceitar o que lhe acontece e se
+afasta dos seus companheiros, ou quando age unicamente por motivos egoístas.
+Tornas-te então um pária na unidade da Natureza; embora criado como uma
+parte dela, tu cortaste essa ligação com as próprias mãos. Contudo, eis aqui um
+belo pensamento: que ainda está na tua mão reunificares-te. Nenhuma outra
+parte da criação foi assim favorecida por Deus com a permissão de se unificar
+de novo, depois de ser separada e dividida. Repara, pois, na bondade com que
+dignificou o homem: pôs na sua mão o poder de não só conseguir manter-se
+inseparado, mas também depois, se separado, o de voltar a reunir-se e retomar
+a sua qualidade de associado, como antes.
+
+35. Quando a Natureza de todas as coisas racionais equipou cada ser racional
+com os seus poderes, uma das faculdades que nós dela recebemos foi que, tal
+como ela transmuta todos os obstáculos ou oposições, também os ajusta aos
+seus lugares na matriz do destino e os assimila em si própria, e assim um ser
+racional tem o poder de transformar cada obstáculo em material para si mesmo
+e utilizá-lo para pôr em marcha as suas diligências.
+
+36. Nunca fiques confuso com as visões imediatas de uma vida inteira. Isto é,
+não deixes que os teus pensamentos percorram toda a enorme quantidade e
+variedade dos infortúnios que te podem acontecer, mas pergunta-te, antes, à
+medida que vais deparando com cada um, «O que é que há aqui de intolerável,
+de tão insuportável?» E vais ver que ficas envergonhado por admitir a derrota.
+Mais uma vez, lembra-te de que não é o peso do futuro, ou o do passado que te
+estão a pressionar, mas sempre e só o do presente. Mesmo este fardo pode ser
+atenuado se o confinares aos seus próprios limites e fores bastante severo com
+a incapacidade do teu espírito para suportar uma tal banalidade.
+
+37. Panteia (64) ou Pérgamo ainda estão junto do túmulo de Vero? Chabrias ou
+Diómito, junto do de Adriano? Que ridículo! E suponhamos que ainda estavam,
+os mortos seriam sensíveis a isso? Ou, se o fossem, estariam contentes? Além
+disso, mesmo que os próprios mortos estivessem contentes, será que é de
+esperar que os pranteadores, pela sua parte, vivam eternamente? Não estavam
+eles também condenados a ficar velhos e a morrer? — e, então, que fariam os
+pranteados quando os seus pranteadores deixassem de existir? E tudo isto para
+nada mais do que um saco cheio de fedor e decomposição.
+
+> (Comentário em Nota
+12/01/2002 15:15:19
+(64)
+Segundo Luciano, Panteia era amante, e Pérgamo um escravo libertado, de Vero, colega imperial de Marco.)
+
+38. Nas palavras do sábio Crito, «Se tendes olhos para ver, pois, vede».
+
+39. Na constituição de um ser racional, não encontro qualquer virtude implantada
+para combater a justiça, mas encontro o autodomínio implantado para combater
+o prazer.
+
+40. Apaga as tuas noções daquilo que imaginas ser doloroso e então o teu eu
+fica invulnerável. «O meu eu — o que é isso?» A tua razão. «Mas eu não sou
+todo razão». Seja; nesse caso, pelo menos que a tua razão se abstenha de
+causar dor a si própria, e se outra parte de ti está com problemas, que os
+pensamentos sobre si própria sejam só da sua conta.
+
+41. Para a natureza da força vital que anima os nossos corpos, qualquer
+frustração dos sentidos é um mal, como também o é a frustração de qualquer
+esforço. A natureza de uma planta tem também as suas próprias frustrações e
+os seus males; e da mesma maneira, qualquer frustração do espírito é um mal
+para a natureza do espírito. Aplica tudo isto ao teu próprio caso. Uma dor afectate,
+ou um prazer? Os sentidos tratarão disso. Foste contrariado numa diligência?
+É verdade que se ela foi feita sem qualquer concessão a uma possível falha, tal
+frustração é realmente um mal para ti como ser racional. Contudo, uma vez que
+aceites aquela necessidade universal, não podes sofrer mal nenhum nem
+qualquer frustração. Não há ninguém que possa frustrar o espírito dentro do seu
+próprio domínio. O fogo, a espada, a opressão, a calúnia e tudo o mais são. (65)
+
+> (Comentário em Nota
+11/01/2002 22:42:27
+(65)
+Empedocles)
+impotentes para o tocar. «O globo, uma vez em órbita e verdadeiro, continua a
+ser esférico»
+
+42. Eu, que nunca magoei voluntariamente ninguém, não tenho nada que me
+magoar a mim próprio.
+
+43. A cada um a sua felicidade. Para mim, a solidez da minha faculdade
+soberana, a razão; sem afastamento da humanidade e das suas vicissitudes; a
+capacidade de abranger e aceitar todas as coisas afavelmente, e tratá-las de
+acordo com os seus méritos.
+
+44. Aproveita o dia de hoje o melhor possível. Aqueles que, em vez disso,
+almejam os aplausos de amanhã não se lembram de que as futuras gerações
+não serão de modo nenhum diferentes das de hoje, que agora tanto põem à
+prova a sua paciência, e não menos mortais. De qualquer maneira, importa-te
+muito a maneira como as línguas da posteridade falem, ou que opiniões sobre ti
+tenham?
+
+45. Leva-me e atira-me para onde quiseres; continuarei possuidor da divindade
+que há dentro de mim, sereno e satisfeito, desde que ela sinta e aja de acordo
+com a sua constituição. Será que a questão desse momento é que a minha alma
+fique atormentada com isso e mude para pior, para se tornar numa coisa
+amedrontada e covarde, suplicante e sem espírito? Poderá alguma coisa ter tais
+consequências?
+
+46. Nada pode acontecer a um homem que não esteja ligado à sua condição de
+homem, nem a um boi, videira ou pedra, que não pertença à natureza dos bois,
+videiras ou pedras. Portanto, se todas as coisas só experimentam o que é lhes é
+usual e natural, porquê as queixas? A mesma Natureza que é tua e também
+deles não te traz nada que não possas suportar.
+
+47. Se estás perturbado por qualquer coisa exterior, o sofrimento não se deve à
+coisa em si mesma mas à avaliação que fazes dela; e isto está em teu poder
+anular em qualquer momento. Se a causa do problema está no teu próprio
+carácter, trata de alterar os teus princípios; quem é que te impede? Se é a
+incapacidade de seguir um curso de acção aparentemente sólido que te está a
+atormentar, por que não segui-lo em vez de te inquietares? «Porque há um
+obstáculo insuperável no caminho». Nesse caso, não te preocupes; a
+responsabilidade da inacção não é tua. «Mas não vale a pena viver com isto por
+fazer». Então diz um bem humorado adeus à vida, aceitando a frustração
+airosamente, e morrendo como qualquer outro homem cujas acções não foram
+impedidas.
+
+48. Lembra-te de que o teu Eu superior se torna invencível quando se recolhe
+em si mesmo e recusa tranquilamente agir contra sua vontade, mesmo que tal
+resistência seja globalmente irracional. E quanto mais, quando a sua decisão é
+baseada na razão e na circunspecção! Assim, um espírito liberto de paixões é
+uma verdadeira cidadela; o homem não tem fortaleza mais segura onde procurar
+refúgio e desafiar qualquer investida. Não entender isto é ignorância; mas
+entendê-lo e continuar a não procurar refúgio é de facto um infortúnio.
+
+49. Nunca vás além do sentido das tuas impressões originais. Estas dizem-te
+que tal e tal pessoa está a falar mal de ti; foi essa a sua mensagem; elas não
+foram mais além, dizendo-te que isso te fez algum mal. Vejo que o meu filho
+está doente; os olhos dizem-me isso, mas não me dizem que ele corre perigo de
+vida. Limita-te sempre às impressões originais; se não lhes acrescentares nada
+da tua lavra, estarás em segurança. Ou, quando muito, acrescenta-lhes apenas
+o reconhecimento da grande ordem mundial pela qual todas as coisas têm de
+passar.
+
+50. O pepino é amargo? Deita-o fora. Há roseiras bravas no teu caminho?
+Desvia-te. Isto chega. Não continues a dizer, «Por que é que se criaram coisas
+destas?» O estudante da natureza vai rir-se de ti; como um carpinteiro ou um
+sapateiro se ririam se criticasses as aparas e os restos dos seus trabalhos que
+viste na oficina. Contudo, eles pelo menos têm onde pôr o lixo; enquanto que a
+Natureza não tem um lugar assim exterior. É este o milagre da obra: que apesar
+desta auto-limitação, ela contudo transmuta em si própria todas as coisas que
+parecem gastas ou velhas ou inúteis, e remolda-as em novas criações, para que
+nunca precise de provisões novas do exterior, ou de um lugar onde se desfazer
+daquelas. O seu próprio espaço, os seus próprios materiais e a sua própria
+capacidade são-lhe suficientes.
+
+51. Acção dilatória, conversação incoerente, impressões vagas; uma alma
+demasiado constrangida interiormente; uma alma demasiado efusiva
+exteriormente; uma vida sem lazeres — evita estas coisas. O martírio, a
+mutilação, a execração; como é que estes podem afectar a capacidade do
+homem para continuar puro, são, moderado, justo? Um homem pode estar junto
+de uma límpida fonte de água doce e cumulá-la de palavras injuriosas; mas ela
+continua a jorrar água fresca e sã; ele pode mesmo conspurcá-la com
+imundícies e porcarias, mas ela dissolve-as logo e lava-as rapidamente, ficando
+sem mácula. Como é que havemos de ser, nós próprios, senhores de uma tal
+fonte perene? Salvaguardando o direito de sermos senhores de nós mesmos em
+todas as horas do dia, em toda a caridade, simplicidade e modéstia.
+
+52. Sem uma compreensão da natureza do universo, um homem não pode
+saber onde está; sem um entendimento dos seus objectivos, ele não pode saber
+aquilo que é, nem aquilo que o próprio universo é. Se qualquer destas
+descobertas lhe forem ocultadas, ele também não será capaz de apresentar uma
+razão para a sua própria existência. Então o que é que havemos de pensar de
+alguém que se preocupa em procurar o aplauso das multidões ululantes que não
+sabem onde estão nem o que são?
+
+53. Gostarias de receber o louvor de alguém que três vezes por hora lança
+maldições contra si próprio? Serias agradável para alguém que não é agradável
+para si próprio? E como é que um homem pode estar contente consigo mesmo,
+se se arrepende de quase tudo o que faz?
+
+54. Assim como a tua respiração toma parte no ar circundante, deixa também
+que o teu pensamento tome parte no Espírito circundante. Porque há uma Força
+mental que para aquele que a atrai para si mesmo não é menos ubíqua e
+penetrante do que a atmosfera para aquele que a pode respirar.
+
+55. A maldade geral da humanidade não pode magoar o universo; nem a
+maldade particular de um homem magoar um semelhante. Ela não magoa
+ninguém senão o próprio; e esse pode libertar-se disso quando quiser.
+
+56. A vontade do meu vizinho não é mais importante para a minha vontade do
+que a sua respiração ou a sua carne. O eu de cada homem tem os seus próprios
+direitos, independentemente do quanto nós fomos criados uns para os outros.
+Doutra maneira, o mal do meu vizinho tornar-se-ia o meu mal; e Deus não quis
+isto, para que a ruína da minha felicidade não ficasse nas mãos de outrem.
+
+57. Vê-se o sol a derramar-se e a estender-se em todas as direcções, e, no
+entanto, nunca se cansa. Porque este derramamento não é senão uma extensão
+de si próprio; os raios de sol, de facto, foram buscar o seu próprio nome a uma
+palavra que significa “estender-se”. Para entenderes a propriedade de um raio
+de sol, observa a luz que ele derrama dentro de uma sala escura através de uma
+estreita nesga. Ele estende-se para a frente em linha recta até encontrar um
+corpo sólido que lhe bloqueia a passagem para o ar que fica para além dele; e
+fica aí em repouso, sem deslizar nem desertar. A emissão, bem como a difusão
+do pensamento devem ser a contrapartida disto: não se cansando, mas
+simplesmente estendendo-se; não se precipitando violenta ou furiosamente
+contra os obstáculos que encontra, nem desertando em desespero; mas
+firmando-se no terreno e iluminando aquilo em que pousa. O insucesso em
+transmiti-lo é apenas uma auto-privação de luz.
+
+58. Quem teme a morte, ou tem medo de perder todas as sensações, ou então
+teme novas sensações. Na realidade, tu, ou não sentirás absolutamente nada, e,
+portanto, nada de mal, ou então, se sentires algumas novas sensações, serás
+uma nova criatura e portanto não terás deixado de viver.
+
+59. Os homens existem uns para os outros. Portanto, melhora-os ou suporta-os.
+
+60. Uma seta voa de uma maneira, mas o espírito, de outra. Mesmo quando o
+espírito anda a tactear o caminho cautelosamente e a abordar um problema de
+todos os ângulos, está a avançar a direito e a dirigir-se ao seu objectivo.
+
+61. Acede ao princípio que rege o espírito do teu vizinho e permite que ele
+aceda ao teu.
+
+-------------------------------------
+## LIVRO 9
+
+1. A injustiça é pecado. A Natureza constituiu os seres racionais para bem deles
+próprios, para cada um ajudar os seus semelhantes de acordo com o seu valor
+e, de modo nenhum, para os magoar; e infringir a sua vontade é simplesmente
+pecar contra a mais velha de todas as divindades. A falsidade também é pecado,
+e contra a mesma deusa. Porque a Natureza é a natureza da própria Existência;
+e a existência implica o parentesco de todos os seres criados. Verdade não é
+senão um outro nome da Natureza, a criadora original de todas as coisas
+verdadeiras. Assim, uma mentira propositada é pecado porque a fraude é um
+acto de injustiça, uma mentira involuntária é também pecado porque é uma nota
+dissonante na harmonia da Natureza e cria a desordem sediciosa num universo
+organizado. Porque sediciosa é, de facto, quando um homem se deixa levar,
+mesmo que involuntariamente, para uma posição contrária à verdade; vendo que
+ele descurou de tal maneira as faculdades que a Natureza lhe deu que já não
+consegue distinguir o falso do verdadeiro.
+É também pecado buscar o prazer, como um bem, e evitar a dor, como um
+mal. Isto resulta necessariamente em queixas de que a Natureza é injusta nas
+recompensas que atribui ao vício e à virtude; porque são os maus que muitas
+vezes gozam os prazeres, e os meios de os obter, enquanto que o sofrimento e
+aquilo que provoca o sofrimento caem sobre a cabeça dos bons. Além disso, se
+um homem teme a dor, teme uma coisa que acontece e que tem de ser parte da
+ordem estabelecida das coisas, e isto é, em si mesmo, um pecado; se ele se
+entrega à busca do prazer, nenhum acto de injustiça o deterá, o que também é
+manifestamente pecaminoso. Não, se a Natureza, ela própria, não faz a
+distinção — e se a fizesse não teria criado a dor e o prazer lado a lado —
+compete àqueles que queiram seguir os seus passos serem da mesma opinião e
+mostrar a mesma indiferença. Portanto, quem não encara com igual
+despreocupação a dor ou o prazer, a morte ou a vida, a fama ou a desonra —
+todos eles empregados pela Natureza sem qualquer parcialidade — comete,
+evidentemente um pecado. E ao dizer que a Natureza os emprega
+imparcialmente, quero dizer que cada geração sucessiva de coisas criadas
+passa igualmente, e à vez, pelas mesmas experiências; porque isto é o
+resultado do impulso inicial que no princípio levou a Providência — tirando certos
+germens de existências futuras e dotando-os de poderes produtivos de auto-
+realização, de mutação, e de sucessão — a progredir desde o início do universo
+até ao actual sistema organizado.
+
+2. Um homem de sentimentos mais apurados teria dito adeus ao mundo sem
+nunca experimentar a sua falsidade, a sua duplicidade, o seu luxo e orgulho;
+mas agora que tudo isto já foi experimentado à saciedade, o caminho seguinte
+devia ser acabar com a vida daqui para a frente. Ou estás realmente decidido a
+continuar a viver no meio da iniquidade, e a experiência ainda não te convenceu
+a fugir desta pestilência? Porque a infecção do espírito é uma pestilência muito
+mais grave do que qualquer insalubridade ou desordem na atmosfera que nos
+rodeia. Enquanto animais, uma ataca as nossas vidas; mas enquanto homens, a
+outra ataca a nossa humanidade.
+
+3. Não desprezes a Morte; sorri, antes, à sua chegada; ela está entre as coisas
+que a Natureza quer. Tal como a juventude e a velhice, como o crescimento e a
+maturidade, como o aparecimento dos dentes, da barba e dos cabelos brancos,
+como a concepção, a gravidez e o parto. Tal como todos os outros processos
+naturais que as estações da vida nos trazem, assim é a nossa dissolução.
+Portanto, nunca um homem sensato deve encarar a morte com ligeireza, com
+impaciência ou com desdém; deve esperar por ela apenas como mais um dos
+processos da Natureza. Tal como esperas a saída do bebé do ventre da tua
+mulher, espera também a hora em que a pequena alma deslize para fora do seu
+invólucro.
+Mas se o teu coração prefere um consolo mais simples, não há melhor
+refrigério face à morte do que pensar na natureza das coisas que vais deixar e
+nos personagens com que já não terás de te misturar. Não que devas achar
+estes prejudiciais; o teu dever é, antes, o de cuidar deles e tolerá-los com
+brandura; contudo, nunca te esqueças de que estás a despedir-te de homens
+com outros princípios totalmente diferentes. Se alguma coisa te pode deter e
+amarrar-te à vida é a oportunidade de convívio com espíritos aparentados. Mas
+quando pensas no enfado de uma existência em companhia tão dissonante,
+exclamas, «Vem depressa, Morte, para que também eu não acabe por me
+esqueçer de mim mesmo».
+
+4. O pecador peca contra si mesmo; o transgressor transgride contra si mesmo,
+e torna-se pior pelas suas próprias acções.
+
+5. Um homem não peca só por acção, mas muitas vezes por omissão.
+
+6. Basta que a tua opinião de hoje seja fundada na convicção, a tua acção de
+hoje, no altruísmo, e a tua disposição de hoje, na satisfação com o que te
+acontece vindo do exterior.
+
+7. Apaga a fantasia; refreia os instintos; esfria o desejo; deixa a razão soberana
+governar.
+
+8. Um princípio vital único é distribuído por todas as criaturas irracionais e um
+princípio espiritual único pelas racionais; tal como uma única terra dá forma a
+todas as coisas terrenas, e tal como todos nós, que temos olhos e respiramos,
+vemos à mesma luz e respiramos o mesmo ar.
+
+9. Todas as coisas que partilham o mesmo elemento tendem a procurar os da
+sua própria espécie. As coisas terrenas são atraídas para a terra, as coisas
+aquosas fluem umas para as outras, e o mesmo se passa com as coisas etéreas
+— daí a necessidade das barreiras que as mantêm separadas à força. A
+tendência das chamas é subir para o céu por causa do fogo elemental; mesmo
+aqui em baixo, elas são tão ávidas da companhia dos da sua espécie que
+qualquer tipo de matéria, desde que razoavelmente seca, inflama com facilidade,
+uma vez que há apenas um pequeno número dos seus ingredientes que resiste
+ao fogo. Da mesma maneira, portanto, todas as porções do Espírito universal
+são atraídas umas para as outras. Mais fortemente ainda, na verdade; porque,
+sendo superiores na escala da criação, a sua avidez em se misturarem e
+combinarem com as suas afins, é proporcionalmente mais activa. Este instinto
+de união revela-se, no seu primeiro estádio, entre as criaturas sem razão,
+quando vemos as abelhas a enxamear, o gado a reunir-se em rebanho, as aves
+fazendo colónias de ninhos, e os casais a acasalarem; porque neles, a alma já
+emergiu, e em tais formas de vida relativamente superiores como as delas, o
+desejo de união encontra-se num nível de intensidade que não está presente
+nas pedras ou nos paus. Quando chegamos aos seres racionais, há associações
+políticas, camaradagens, vida familiar, reuniões públicas e, em tempo de guerra,
+tratados e armistícios; e entre as espécies ainda mais elevadas existe mesmo
+uma dimensão de unidade entre os corpos muito afastados uns dos outros —
+como, por exemplo, entre as estrelas. Assim, a subida na escala da criação pode
+induzir sentimentos de simpatia mesmo onde não há proximidade.
+
+Contudo, vê agora o que acontece. Só nós — nós, seres inteligentes — é que
+esquecemos este ardor mútuo de unidade; só entre nós se não vêem as
+correntes a convergir. Porém, embora o homem possa fugir quando quer, ele é
+apanhado e fica bem seguro; a Natureza é forte demais para ele. Repara bem e
+verás: mais depressa encontrarás um fragmento de terra não relacionado com o
+resto do que um homem que não tenha um laço qualquer com os seus
+semelhantes.
+
+10. Todas as coisas dão fruto; o homem, Deus, todo o universo, cada qual na
+sua estação própria. Não importa que a expressão, no seu uso comum, se
+restrinja às videiras e outras do género. Também a razão dá frutos, tanto para si
+própria, como para o mundo; porque dela vem uma colheita de coisas boas,
+todas com a marca da razão.
+
+11. Ensina-os melhor, se puderes; senão, lembra-te de que a generosidade foi-
+te dada para momentos como estes. Os próprios deuses mostram generosidade
+para com homens assim; e às vezes são tão indulgentes que os ajudam mesmo
+nos seus esforços para manter a saúde, a riqueza ou a reputação. Isto podias tu
+fazer também; quem é que te impede?
+
+12. Trabalha muito, tu mesmo, mas não como se estivesses a ser uma vítima, e
+também não com qualquer desejo de simpatia ou admiração. Deseja apenas
+uma coisa: que tanto as tuas acções como a tua inacção sejam dignas de um
+cidadão dotado de razão.
+
+13. Hoje deixei todas as minhas perplexidades; ou melhor, tirei-as de dentro de
+mim — porque elas não estavam fora, mas dentro; elas estavam dentro da
+minha própria perspectiva.
+
+14. Na experiência tudo é banal, fugaz na duração, sórdido no conteúdo; é, em
+todos os aspectos, o mesmo que gerações já mortas e enterradas acharam que
+era.
+
+15. Os factos estão totalmente fora dos nossos domínios; eles são o que são, e
+nada mais: não sabem nada sobre si próprios, nem formulam juízos sobre si
+próprios. Então o que é que faz o julgamento? A nossa própria guia e soberana,
+a Razão.
+
+16. Um ser racional e social não é afectado em si mesmo, nem para melhor
+nem para pior, pelos seus sentimentos, mas pela sua vontade; assim como o
+seu comportamento exterior, bom ou mau, é produto da vontade e não dos
+sentimentos.
+
+17. Para a pedra que se atira não há mais mal em cair do que em subir ao ar.
+
+18. Penetra bem fundo no mais íntimo dos seus espíritos e verás que tipo de
+críticos tu temes e em que medida são capazes de se criticar a si próprios.
+
+19. Todas as coisas estão em processo de mudança. Tu próprio estás em
+incessante transformação e deterioração em algumas das tuas partes, e o
+mesmo se passa com todo o universo.
+
+20. Deixa ficar as más acções dos outros onde elas estão.
+
+21. Na interrupção de uma actividade, ou na descontinuação e como que morte
+de um impulso, ou de uma opinião, não há mal. Recorda as fases do teu próprio
+crescimento: infância, meninice, juventude, velhice: cada mudança, ela própria,
+uma espécie de morte. E isso foi assim tão assustador? Ou olha para as vidas
+que viveste com o teu avô e depois com a tua mãe e depois com o teu pai;
+regista as numerosas diferenças e mudanças e descontinuações que houve
+nesses tempos e pergunta-te, «Foram assim tão assustadoras?» Também o não
+são, portanto, a cessação, a interrupção, a mudança da própria vida.
+
+22. O teu espírito, o Espírito do universo, o espírito do teu vizinho — dispõe-te a
+explorá-los todos. O teu próprio, para que possas moldá-lo à justiça; o do
+universo, para que possas rememorar aquilo de que tu és uma parte; o do teu
+vizinho, para que possas perceber se ele está informado de ignorância ou de
+conhecimento, e, também, para reconheceres que ele está ligado a ti próprio.
+
+23. Como unidade que tu próprio és, tu ajudas a completar o todo social; e da
+mesma maneira, portanto, todos os teus actos devem contribuir para completar a
+vida social. Qualquer acto que não esteja relacionado directa ou remotamente
+com este objectivo social desarticula essa vida e destrói a sua unidade. É um
+acto tão cismático como quando qualquer cidadão duma comunidade faz todo o
+possível para se dissociar do acordo geral.
+
+24. Querelas infantis, jogos infantis, «sopros insignificantes que sustentam
+cadáveres» — ora, os fantasmas de Homero são claramente mais reais!
+
+25. Primeiro alcança a natureza e qualidade da causa primeira, separa-a da
+matéria a que ela deu forma e estuda-a; depois determina a possível duração
+dos seus efeitos.
+
+26. Os infortúnios que tu tiveste de suportar são inúmeros porque não te bastou
+deixar a Razão, tua guia e mestra, fazer o seu trabalho natural. Vamos lá,
+acabemos com isto!
+
+27. Quando os que te rodeiam estão a dar vazão às suas críticas ou maldades
+para contigo, ou erguendo qualquer outro tipo de clamores injuriosos, aproxima-
+te e penetra nas suas almas para ver que espécie de homens eles são.
+Encontrarás muito poucas razões para os teus dolorosos esforços em conquistar
+a sua boa opinião. Mesmo assim, continua a ser teu dever tratá-los
+generosamente; porque a Natureza fê-los para serem teus amigos, e mesmo os
+deuses dão-lhes todo o tipo de ajuda, em sonhos, e em oráculos, para obterem
+os fins para que os seus corações estão dispostos.
+
+28. Para cima e para baixo, (66) de idade em idade, os ciclos do universo seguem
+os seus cursos imutáveis. Pode ser que o Espírito-Mundo queira cada
+acontecimento separado, em sucessão; e se assim é, aceita então as
+consequências. Ou, talvez tivesse havido apenas um primitivo acto de vontade,
+do qual tudo o mais é a sequência, sendo todos os acontecimentos o gérmen de
+outros. Dizendo de outra maneira, as coisas ou são unidades isoladas, ou
+formam um todo inseparável. Se esse todo é Deus, então tudo está bem; mas se
+é acaso sem objectivo, pelo menos não tens de andar também a esmo.
+Em breve a terra cobrir-nos-á a todos. Depois, a seu tempo, a terra também
+mudará; mais tarde, o que resulta desta mudança mudará também, por sua vez,
+incessantemente, e assim tudo tomará de novo, e por sua vez, o seu lugar, até
+ao fim do mundo. Deixar o espírito repisar nestas vagas giratórias de mudança e
+transformação é conhecer um desprezo por todas as coisas mortais.
+
+> (Comentário em Nota
+12/01/2002 15:15:54
+(66)
+Para cima e para baixo, isto é, mudando sucessivamente de fogo para ar, de ar para água, de água para terra, e depois de novo em sentido inverso, como Heráclito ensinava. (V. nota 18))
+
+29. A Causa primeira é como um rio numa inundação; leva tudo consigo. Que
+ignóbeis são os pequenos homens que brincam à política e se convencem de
+que estão a agir dentro do espírito da filosofia. Crianças que nem sabem assoar
+o nariz. E então tu, que és um homem? Ora, faz o que a natureza te está a pedir
+no momento. Trata disso quando a oportunidade se te oferece e não olhes à
+volta a ver se estás a ser observado. Mas não contes com a comunidade ideal
+de Platão; contenta-te mesmo com uma banal diligência que acaba bem, e não
+consideres o resultado como um sucesso insignificante. Porque quem é que
+pode ter a esperança de alterar as convicções dos homens? E sem mudança de
+convicções o que é que pode haver senão sujeição ressentida e concordância
+fingida? Oh, sim, continua agora a falar-me de Alexandre e Filipe, e de Demétrio
+de Faleron. (67) Se esses homens compreenderam, na verdade, a vontade da
+Natureza e se instruíram no sentido de a seguir, é com eles. Mas se tudo não
+passou de um papel teatral que eles estavam a desempenhar, nenhum tribunal
+me condenou a imitar o seu exemplo. A filosofia é uma ocupação modesta, tudo
+simplicidade e tratamento sério. Nunca tentes seduzir-me para o pretensiosismo
+solene.
+
+> (Comentário em Nota
+11/01/2002 22:45:22
+(67)
+Ver nota 62)
+
+30. Olha do alto os inúmeros rebanhos de humanos com as suas misteriosas
+cerimónias, as suas variadas navegações nas tempestades e na acalmia, e todo
+o xadrez das suas idas e vindas e ajuntamentos. Continua, depois, a considerar
+a vida das gerações passadas; e depois a vida daqueles que ainda estão para
+vir, e, até no presente, a dos rebanhos dos selvagens longínquos. Em resumo,
+reflecte sobre as multidões que ignoram mesmo o teu nome; quantos mais o
+terão esquecido rapidamente; quantos, talvez agora a elogiar-te, não te irão
+injuriar muito em breve, e que, portanto, a memória, a glória e tudo o mais junto
+são coisas de nenhum valor.
+
+31. Quando assediado do exterior pelas circunstâncias, deixa-te ficar
+imperturbável; quando instigado do interior para a acção, sê justo e imparcial:
+em suma, deixa que tanto a vontade como a acção resultem em comportamento
+que seja social e cumpra a lei do teu ser.
+
+32. Muitas das ansiedades que te perturbam são supérfluas; sendo apenas
+criações da tua imaginação, podes ver-te livre delas e expandir-te para uma
+região mais ampla, deixando o pensamento varrer todo o universo,
+contemplando os ilimitados campos da eternidade, notando a rapidez da
+mudança em cada coisa criada, e contrastando o breve espaço de tempo entre o
+nascimento e a dissolução com as infindáveis eternidades que precedem um e o
+infinito que se segue à outra.
+
+33. Num instante apenas, tudo isto que agora tens diante dos olhos terá já
+desaparecido. Aqueles que testemunham a sua passagem seguirão o mesmo
+caminho pouco depois; e então que escolha haverá para fazer entre o avô mais
+velho e o bebé que morre no seu berço?
+
+34. Observa os instintos que guiam estes homens; os fins por que lutam; os
+fundamentos dos seus gostos e valorização das coisas. Em resumo, retrata as
+suas almas postas a nu. E contudo, eles imaginam que os seus elogios ou as
+suas críticas podem ajudar ou prejudicar. Que presunção!
+
+35. A perda não é mais do que uma mudança, e a mudança é o deleite da
+Natureza. Desde o princípio do mundo, as coisas foram ordenadas a seu mando,
+exactamente da mesma maneira que o são hoje, e como outras coisas
+semelhantes serão ordenadas até ao fim dos tempos. Como é que podes então
+dizer que tudo está errado e sempre assim ficará; que nenhum poder entre todos
+os deuses do céu pode servir para o corrigir; e que o mundo está condenado a
+uma servidão de males sem fim?
+
+36. A substância de todos nós está condenada à deterioração; a humidade e o
+barro, os ossos e a fetidez. O nosso precioso mármore não é senão uma
+calosidade da terra, o nosso ouro e prata o seu sedimento; os nossos trajos,
+pedaços de cabelo, a nossa púrpura, sangue de peixe; e assim com todas as
+outras coisas. Assim também o próprio sopro das nossas vidas — sempre a
+passar, como ele faz, deste para aquele.
+
+37. Basta desta forma de vida tão miserável, deste eterno resmungar, desta
+palhaçada. Por que é que te hás-de incomodar desta maneira? Nada sem
+precedentes está a acontecer; então, o que é que te perturba? A forma? Olha
+bem para ela. A matéria? Olha-a bem, também. Para além da forma e da
+matéria, não há mais nada. Mesmo a esta hora tardia, dispõe-te a tornares-te um
+homem mais simples e melhor perante os deuses. Para dominar essa lição, três
+anos são o mesmo que cem.
+
+38. Se ele pecou, o mal é dele. Mas, se calhar, afinal não pecou.
+
+39. As coisas ou devem ter a sua origem numa única fonte inteligente, e caírem
+todas no seu lugar para formarem como que um corpo único — e neste caso
+nenhuma das partes se deve queixar daquilo que acontece para o bem do todo
+— ou então o mundo não passa de átomos com as suas confusas associações e
+dispersões. Então, porquê tanta perturbação? Diz à Razão que se encontra ao
+leme, «Vamos lá ver, estás morta e em decadência? Isto é algum papel que
+estás a representar? Desceste ao nível de um animal selvagem, a pastar com o
+resto do rebanho?»
+
+40. Os deuses ou têm poder ou não têm. Se não têm, porquê rezar-lhes? Se
+têm, então, em vez de lhes implorar que te concedam ou te livrem de certa
+coisa, por que não rezar, antes, para que façam com que não a temas, ou a não
+cobices ou não te aflijas com ela? Evidentemente que, se eles podem de facto
+ajudar um homem, podem ajudá-lo desta maneira. Tu vais dizer, talvez, «Mas
+tudo isso são coisas que eles puseram ao meu alcance». Então era certamente
+melhor usares do teu poder para seres um homem livre, do que suspirar como
+um escravo e um pedinte por qualquer coisa que não está no teu poder. Além
+disso, quem te disse que os deuses nunca dão a sua ajuda, mesmo para uma
+coisa que não está no nosso poder? Começa a rezar desta maneira e verás.
+Onde outro homem reza, «Deus permita que eu possua esta mulher», diz tu a
+tua oração desta maneira, «Deus permita que eu não deseje possuí-la». Quando
+ele reza, «Deus me livre de fulano», tu rezas, «Tira-me o desejo de me ver livre
+dele». Quando ele implora, «Deus me livre da perda do meu precioso filho»,
+pede, antes, que te evite o terror de o perder. Em resumo, dá às tuas petições
+um teor neste sentido e vê o que acontece.
+
+41. «Quando eu estava doente», diz Epicuro, «nunca falava dos meus
+padecimentos. Não discutia assuntos deste tipo com as minhas visitas. Falava
+dos princípios da filosofia natural; e o ponto em que eu particularmente insistia
+era em como o espírito, enquanto parte em todos estes abalos da carne, pode
+ficar imune e continuar a buscar o seu bem certo». E acrescenta, «Nem dava
+aos médicos oportunidade de se gabarem dos seus triunfos; a minha vida
+continuava simplesmente o seu curso normal, tranquila e felizmente». Na
+doença, portanto, ou em qualquer outro tipo de problema, faz como Epicuro.
+Nunca troques o domínio da filosofia por qualquer coisa que te possa acontecer,
+e nunca tomes parte nos disparates em que falam os ignorantes e os sem
+instrução (isto é uma máxima em que todas as escolas concordam). Concentra-
+te totalmente na tarefa que tens diante de ti, e no instrumento que possuis para a
+sua realização.
+
+42. Quando te sentires ultrajado pela insolência de alguém, pergunta-te logo,
+«Poderá o mundo existir sem os insolentes?» Não pode; portanto não peças
+impossíveis. Aquele homem é simplesmente um dos insolentes cuja existência é
+necessária ao mundo. Tem este pensamento bem presente sempre que depares
+com velhacarias, duplicidades ou qualquer outra forma de dissimulação ou falta
+de probidade. Tens apenas que te lembrar de que este tipo é indispensável e
+logo te sentirás mais bondoso para com a pessoa. Também ajudará recordares
+prontamente que qualidade especial a Natureza nos deu para opor a tais
+defeitos em particular. Porque há antídotos com que ela nos dotou: a gentileza
+para enfrentar a brutalidade, por exemplo, e outros correctivos para outros
+males. Geralmente também tens a oportunidade de mostrar ao culpado o seu
+erro — porque toda a gente que comete erros está a faltar ao cumprimento do
+seu próprio objectivo e é portanto um bronco. Além disso, que prejuízo sofreste
+tu? Nada do que estas vítimas da tua irritação fizeram pôde afectar de modo
+nocivo o teu espírito; e só no espírito é que qualquer coisa má ou prejudicial para
+o eu pode ter existência real. O que é que há de errado ou de surpreendente,
+afinal, no comportamento grosseiro de uma pessoa grosseira? Pensa, portanto,
+se a culpa não será antes tua mesmo por não preveres que ele te ia ofender
+dessa maneira. Tu, em virtude da tua razão, tinhas todos os meios para
+considerar provável esse seu comportamento; esqueceste isso e agora a sua
+ofensa apanha-te de surpresa. Quando ficares indignado com alguém pela sua
+perfídia ou ingratidão volta o teu pensamento primeiro e sobretudo para ti
+próprio. Porque o erro é claramente teu se puseres muita fé na boa fé de um
+homem com essas características, ou, quando lhe tiveres feito bem, se não o
+tiveres feito sem reservas e na crença de que essa acção seria, ela própria, a
+recompensa. Depois de prestado um serviço a um homem, que mais querias?
+Não te basta ter obedecido às leis da tua própria natureza sem esperar qualquer
+paga? Isso é como os olhos pedirem uma recompensa por verem, ou os pés por
+caminharem. É precisamente para esse fim que eles existem; e eles têm o que
+lhes é devido, ao fazerem aquilo para que foram criados. Da mesma maneira, o
+homem nasce para actos de bondade; e quando ele faz uma acção boa, ou de
+qualquer maneira serviu o bem comum, fez aquilo para que foi criado e já
+recebeu a sua paga.
+
+-------------------------------------
+## LIVRO 10
+
+1. Ó alma minha, será que nunca serás boa e sincera, una, aberta, mais visível
+ainda ao observador do que ao corpo que te envolve? Será que nunca irás
+conhecer o sabor da doçura de um coração amante e afectuoso? Será que
+nunca ficarás satisfeita e não carente, nunca suspirando por nada, nunca
+ansiando por pessoa ou coisa que te proporcione os teus prazeres, ou pelo
+prolongamento dos dias para os gozar, por um lugar ou país ou clima agradável,
+ou doce companhia humana? Quando é que ficarás satisfeita com o teu estado
+actual, feliz com tudo o que te rodeia, convencida de que todas as coisas são
+tuas, de que tudo deriva dos deuses, e que tudo está e estará bem contigo,
+desde que isso lhes dê prazer e seja destinado por eles para segurança e bem
+estar daquele Todo vivente e perfeito — tão bom, tão justo, tão belo — que dá a
+vida a todas as coisas, protegendo-as e abraçando-as, e, na sua dissolução,
+absorvendo-as em si próprio para que outras da sua espécie possam nascer?
+Será que nunca te adaptarás a um tal companheirismo com os deuses e com os
+homens de modo a não teres uma só palavra de queixa deles, uma só palavra
+de censura da parte deles?
+
+2. Presta atenção àquilo que a tua natureza particular exige de ti, como alguém
+que está totalmente submetido ao governo da grande Natureza. Faz isso, e
+aceita-o, sempre na condição de que não venha a prejudicar a tua natureza
+física. Contudo, presta também atenção às exigências da tua natureza física e
+sanciona todas elas, a não ser que venham, por sua vez, a prejudicar a tua
+natureza racional (e o racional implica directamente o social também). Segue
+estas regras e não desperdices esforços noutras coisas.
+
+3. Aconteça-te o que acontecer, a Natureza ou te preparou para o enfrentar ou
+não te preparou. Se acontece alguma coisa desagradável que tens o poder de
+suportar, não fiques ressentido, mas suporta-o, antes, da maneira que ela te
+capacitou para o fazeres. Se essa coisa excede esse poder, mesmo assim, não
+cedas ao ressentimento; porque a sua vitória sobre ti porá fim à sua própria
+existência. Lembra-te, contudo, de que a Natureza te deu, de facto, a
+capacidade para suportar qualquer coisa que o teu julgamento consiga declarar
+suportável, considerando-a como uma coisa de interesse próprio e um dever a
+cumprir.
+
+4. Se um homem tem um deslize, admoesta-o delicadamente e mostra-lhe o
+erro. Se não o conseguires convencer, lança as culpas sobre ti mesmo, ou então
+não culpes ninguém.
+
+5. Todas as coisas que te possam acontecer, sejam elas quais forem, foram
+preparadas para ti antecipadamente desde o princípio dos tempos. Na tapeçaria
+da causação, o fio do teu ser foi entrelaçado desde sempre com esse particular
+incidente.
+
+6. Independentemente do facto de o universo ser uma confusão de átomos ou
+um desenvolvimento natural, que a minha primeira convicção seja a de que faço
+parte de um Todo que está sob o governo da Natureza; e que a segunda, a de
+que existe um laço de parentesco entre mim próprio e todas as outras partes
+semelhantes. Se tiver em mente estas duas ideias, em primeiro lugar, sendo eu
+uma parte, não me sentirei magoado por uma qualquer disposição a mim
+destinada e vinda do Todo, uma vez que nada que seja bom para um qualquer
+todo pode ser mau para uma das partes, e neste caso não há nada no conteúdo
+deste Todo que seja prejudicial para ele próprio. (O mesmo, de facto, pode dizer-
+se em relação a todos os organismos naturais; mas a natureza do universo tem
+ainda a outra coisa que a distingue: que não há causa exterior a si que alguma
+vez a possa obrigar a produzir qualquer coisa de mau para si própria.) Então,
+lembrando que sou uma parte desse Todo, aceitarei alegremente seja o que for
+que me caiba em sorte. Em segundo lugar, dado que há este laço de parentesco
+entre mim e as outras partes minhas congéneres, não farei nada que possa vir a
+magoar o seu bem estar comum, mas, pelo contrário, terei sempre
+intencionalmente em vista essas partes minhas semelhantes, orientando todos
+os impulsos no sentido do seu bem e afastados de qualquer coisa que concorra
+contra isso. Fazendo assim, não poderei deixar de pensar que a corrente da
+minha vida flui tranquilamente, tão tranquilamente como podemos imaginar a de
+um homem público cujos actos estão consistentemente ao serviço dos seus
+concidadãos, e que está pronto a aceitar de bom grado qualquer tarefa que a
+cidade lhe atribua.
+
+7. Todas as partes do Todo — e com isto quero significar tudo o que está
+naturalmente compreendido no universo — têm de, com o tempo, entrar em
+degradação; ou, para ser mais rigoroso, têm de sofrer uma mudança de forma.
+Se, pela sua natureza, esta mudança, além de inevitável, fosse positivamente
+um mal para elas, o regular trabalho do Todo não podia continuar; porque as
+suas partes encaminham-se sempre para uma mudança de forma, ou outra, e
+estão constitucionalmente sujeitas à deterioração nos seus caminhos
+respectivos. Então, a Natureza pretendeu deliberadamente infligir danos às
+coisas que são parte de si própria, tornando-as não só sujeitas ao mal, mas
+também inelutavelmente condenadas a ele? Ou será que isso acontece sem o
+seu conhecimento? Nenhuma destas suposições merece qualquer crédito.
+Mesmo que, por hipótese, deixemos a Natureza completamente fora da questão,
+e expliquemos tudo isto em termos de ordem normal de criação, continua a ser
+absurdo dizer que esta mutabilidade das partes do Todo é normal se,
+simultaneamente, vamos ficar espantados ou ressentidos como se se tratasse
+de uma ocorrência anti-natural; tanto mais que tudo aquilo que as partes estão a
+fazer é simplesmente dissolverem-se de novo nos constituintes da sua
+composição primitiva. Porque, afinal, se a dissolução não é simplesmente uma
+mera dispersão dos elementos de que sou formado, deve ser uma
+transformação das partículas mais grosseiras em forma terrena e das espirituais
+em forma etérea, para que todas sejam reabsorvidas na Razão universal (não
+importa se esta tem de ser periodicamente consumida em chamas, ou mantida
+em perpétua renovação, em eternos ciclos de mudança). Repara, contudo, que
+não podemos pensar que estas partículas, as grosseiras e as espirituais, são
+aquelas que recebemos ao nascer, quando vemos que a nossa completa
+estrutura actual derivou o seu incremento da carne comida e do ar respirado
+ontem ou no dia anterior. O que vai sofrer estas transformações não é, portanto,
+uma coisa que a nossa mãe primitivamente pariu, mas uma coisa que
+recebemos posteriormente. (Mesmo que admitamos que o nascimento
+realmente nos envolve em grande medida com estas partículas intrinsecamente
+mutáveis, penso que isso não altera o que acabei de dizer.)
+
+8. Se reclamas para ti atributos como a bondade, a modéstia, a honestidade, a
+pureza, a rectidão e a elevação de espírito, tem cuidado, não os desmintas; e se
+acontecer ficares privado deles, não percas tempo a tentar recuperá-los. Mas
+lembra-te que “pureza de espírito” deve sugerir-te uma consideração
+discriminadora de cada pormenor separado e uma atenção cuidada a cada um;
+“rectidão” uma aceitação de tudo o que a Natureza te destinou; e “elevação de
+espírito” uma elevação do intelecto em relação aos trabalhos da carne, sejam
+eles suaves ou ásperos, e à vanglória, morte ou quaisquer outras alienações.
+Vive para estes desígnios — embora sem desejar que te sejam aplicados pelos
+outros — e serás um homem diferente e encetarás uma vida diferente. Continuar
+como estás agora, continuar a ser despedaçado e aviltado por uma existência
+como esta é o caminho de um insensato e de um fraco; faz lembrar o
+espadachim que foi retalhado pelos animais na arena e coberto de sangue e
+feridas, e contudo ainda pede para continuar até ao dia seguinte, para ser de
+novo atirado, com feridas e tudo, aos mesmos dentes e mandíbulas. Salta, pois,
+para bordo desta pequena jangada de atributos, e se o conseguires, fica aí como
+se fosses transportado para as Ilhas dos Bem-Aventurados. Mas se te sentires à
+deriva e incapaz de manter a rota, arranja coragem e faz-te a um porto de abrigo
+tranquilo onde possas firmar o teu caminho; ou diz mesmo adeus à vida, não
+num arrebatamento, mas simples, livre e despretensiosamente, com pelo menos
+esta vitória na tua conta, uma partida digna. Para teres sempre em mente estes
+atributos, muito ajudará não esqueceres os deuses; recordar que o que eles
+desejam não é serem lisonjeados, mas que tudo aquilo que tem o dom da razão
+se torne como eles próprios; e também lembrar que uma figueira é aquela que
+faz o trabalho da figueira, um cão é aquele que faz o de um cão, uma abelha, o
+de uma abelha — e um homem, o de um homem.
+
+9. Dia a dia, a bufonaria, a querela, a timidez, a indolência e o servilismo que te
+rodeiam conspiram para te apagar do espírito aquelas máximas consagradas
+que ele apreende tão pouco filosoficamente e põe de lado tão descuidadamente.
+O que o dever exige de ti é observar cada simples coisa e realizar cada acto de
+tal maneira que, ao mesmo tempo que as exigências práticas de uma situação
+são satisfeitas, os poderes do pensamento sejam plenamente exercidos; e
+também manter (em reserva, mas nunca longe da vista) a autoconfiança própria
+de quem dominou todos os pormenores relevantes. Será que nunca irás atingir a
+felicidade de uma integridade e dignidade reais? De uma compreensão que
+abranja o mais íntimo ser de cada coisa, o seu lugar na ordem mundial, o prazo
+da sua existência natural, a estrutura da sua composição, e a quem pertence ou
+quem tem o poder de o outorgar ou de o retirar?
+
+10. Uma aranha sente orgulho em apanhar uma mosca; e um homem, de caçar
+uma lebre, ou outro, de pescar um arenque, ou um terceiro, de capturar javalis
+ou ursos ou Samartianos. (68) Se entrares na questão dos princípios, não serão
+estes simplesmente ladrões?
+
+> (Comentário em Nota
+11/01/2002 22:46:40
+(68)
+Nome genérico dos homens das tribos da região do Danúbio com que Marco e as suas legiões
+mantiveram uma guerra quase contínua.)
+
+11. Cria o hábito de observares regularmente o processo universal da mudança;
+fá-lo com frequência, e instrui-te plenamente neste ramo do estudo; não há nada
+que mais elevação dê ao espírito. Porque quando um homem compreende que
+em qualquer momento pode ter de deixar tudo para trás e deixar a companhia
+dos seus camaradas, ele põe o corpo de parte e, a partir de então, dedica-se
+totalmente ao serviço da justiça nas suas acções pessoais e à consonância com
+a natureza em tudo o mais. Não desperdiça um só pensamento sobre o que os
+outros podem dizer ou pensar dele ou fazer contra ele; apenas duas coisas lhe
+bastam, a justiça nas suas acções diárias e satisfação com tudo aquilo que do
+destino lhe coube. Todas as preocupações, todas as distracções são postas de
+parte; a sua única ambição é seguir os caminhos rectos da lei, e, ao proceder
+assim, tornar-se um seguidor de Deus.
+
+12. Para quê o trabalho de tentar adivinhar, se o caminho do dever está ali
+diante dos teus olhos? Se a estrada for bem clara para a poderes ver, avança de
+boa vontade e sem olhares para trás; senão, espera e aconselha-te da melhor
+maneira possível. Se mais obstáculos se te depararem, avança discretamente
+até ao limite dos teus recursos, seguindo sempre o caminho que a justiça te
+aponta. Alcançar a justiça é o ponto mais alto do sucesso, uma vez que é aí que
+o fracasso mais frequentemente ocorre.
+
+13. Começa o dia por te perguntar, Pode a conduta justa e recta de outrem ter
+alguma influência em mim próprio? Não. Lembra-te que os homens que estão
+arrogantemente prontos a elogiar ou a criticar, são o mesmo na sua vida privada,
+na cama e à mesa; recorda as coisas que eles fazem, as coisas que eles evitam
+e as coisas por que eles anseiam, e as ladroagens e depredações que eles
+cometem — não de facto com as mãos e os pés, mas com aquele mais precioso
+dos seus bens, que pode ser, e para isso basta que um homem queira, a fonte
+da fé, da modéstia, da verdade, da lei e do bem estar da divindade dentro de si.
+
+14. Para a Natureza, donde procedem todas as coisas e para onde todas
+regressam, a exclamação do coração humilde e bem formado é, «Dai quando
+quiserdes, tomai de volta quando quiserdes»; porém, dito sem exagero, mas em
+pura obediência e com boa vontade.
+
+15. Os anos que te faltam são já poucos. Vive-os, pois, como se estivesses no
+cimo de uma montanha. Se o destino atira um homem para este ou aquele lugar
+é irrelevante, desde que em todos os lugares ele veja o mundo como uma
+cidade e a si próprio como seu cidadão. Dá aos homens a oportunidade de
+verem e conhecerem um verdadeiro homem que vive segundo as leis da
+Natureza. Se eles não conseguem tolerar a vista, então que se livrem dele. É
+melhor assim do que viver como eles vivem.
+
+16. Não desperdices mais tempo a discutir sobre como um homem bom deve
+ser. Sê um deles.
+
+17. Deixa que o teu espírito habite sempre em todo o Tempo e em todo o Ser, e
+assim aprenda que cada coisa separada não é mais do que um grão de areia em
+comparação com o Ser e uma simples volta de parafuso em comparação com o
+Tempo.
+
+18. Compreende a natureza de todas as coisas materiais observando como
+cada uma delas está neste preciso momento a sofrer dissolução e mudança, e
+está já em processo de degradação, ou dispersão, ou o que quer que seja que o
+destino lhe tenha reservado.
+
+19. A comer, a dormir, a copular, a excretar, e a fazer outras coisas do género;
+que turba que eles são! Tão pomposos na sua arrogância, tão autoritários e
+tirânicos, tão altivamente críticos dos outros! Quantas botas lambiam eles ainda
+há pouco — e com que fins! — e daqui a pouco estarão a fazer outra vez a
+mesma coisa.
+
+20. Aquilo que a Natureza traz para cada homem e para cada coisa é para seu
+bem; mais ainda, é para o seu bem no preciso momento em que chega.
+
+21. «A Terra está apaixonada pelos aguaceiros que vêm do céu,
+E o santificado Céu está, ele mesmo, apaixonado.» (69)
+— isto é, o universo está verdadeiramente apaixonado pela sua tarefa de talhar
+seja o que for que esteja para nascer; e para o universo, portanto, a minha
+resposta tem de ser, «Como vós amais, também eu amo.» (Não é esta a mesma
+ideia implícita na vulgar expressão que diz que tal ou tal coisa «gosta de
+acontecer»?)
+
+> (Comentário em Nota
+11/01/2002 22:47:39
+(69)
+Eurípedes, Frag. 890)
+
+22. Tu, ou continuas a viver aqui, hábito a que já estás suficientemente
+adaptado; ou mudas-te para qualquer outro sítio, o que farás por tua própria e
+livre iniciativa, ou morres, o que significa que o teu serviço acabou. Outra
+escolha não há, portanto, encara isto de boa mente.
+
+23. Que para ti fique bem claro que a paz dos verdes campos pode ser tua,
+neste, naquele ou em qualquer outro lugar; e que nada aqui é diferente do que
+seria, quer lá em cima nos montes, quer cá em baixo junto ao mar, ou onde quer
+que queiras. Encontrarás esta mesma ideia em Platão, quando ele fala em viver
+dentro das muralhas da cidade «como se a ordenhar os rebanhos num redil da
+montanha.» (70)
+
+> (Comentário em Nota
+11/01/2002 22:48:16
+(70)
+Theaeteto, 174 D)
+
+24. O que é para mim a minha razão-mestra? O que é que estou a fazer dela
+neste momento? Que uso estou eu a dar-lhe? Será que ela está a revelar-se
+uma tonta? Estará a ficar divorciada e separada dos laços da camaradagem?
+Terá ficado tão envolvida e tão identificada com a carne que reflecte as suas
+mudanças e vacilações?
+
+25. Um servo que se liberta do seu amo é um desertor. Para nós, o amo é a lei;
+e consequentemente qualquer transgressor tem que ser um desertor. Mas o
+pesar, a cólera ou o medo são todos eles rejeições de qualquer coisa que no
+passado, no presente ou no futuro foi decretado pelo poder que rege o universo
+— por outras palavras, pela Lei, que atribui a cada criatura aquilo que lhe é
+devido. (71) Ceder ao medo, ao pesar ou à cólera é, portanto, ser um desertor.
+
+> (Comentário em Nota
+11/01/2002 22:49:26
+(71)
+Supõe-se que a palavra grega para lei (nomos) deriva de um verbo que significa distribuir (nemein).)
+
+26. Um homem deixa uma semente no útero e prossegue o seu caminho;
+depois outra causa pega nela, põe-se a trabalhar, e acaba a formar um bebé —
+que transformação! O mesmo homem ingere os alimentos e, uma vez mais, uma
+outra causa pega neles e converte-os em sensação e movimento e, em suma,
+em vida, vigor, e outros produtos, muitos e variados. Pensa nestes processos
+que são trabalhados de maneira tão misteriosa; e vê o poder a trabalhar ali da
+mesma maneira como vemos as forças que atraem os objectos para a terra e
+para cima — não com os olhos, quero dizer, mas não menos claramente.
+
+27. Pensa muitas vezes como toda a vida de hoje é uma repetição do passado;
+e observa que ela também pressagia o que está para vir. Revê os muitos
+dramas acabados e os seus cenários, todos tão semelhantes, que tens
+conhecido na tua experiência, ou da história passada: todo o círculo da corte de
+Adriano, por exemplo, ou a corte de António, ou as cortes de Filipe, Alexandre e
+Cresus. A representação é sempre a mesma, só os actores mudam.
+
+28. Quando vires um homem aborrecido ou ressentido com alguma coisa,
+pensa num porco a espernear e a grunhir sob a faca do sacrifício. Outro que se
+recolha na cama, em solidão, lamentando-se silenciosamente da nossa
+servidão, também não está em melhor situação. Só aos seres racionais é
+garantido o poder de uma conformidade voluntária com as circunstâncias; a
+simples conformidade em si mesma, que a implacável necessidade exige de
+cada criatura.
+
+29. Em qualquer coisa de que te encarregues, seja ela qual for, pára a cada
+passo para te perguntares: «É a ideia de ser privado disto que me faz temer a
+morte?»
+
+30. Quando a falta de outrem te magoa, volta-te para ti mesmo e pensa nos
+defeitos semelhantes que tu tens. Também encontras o teu bem estar na
+riqueza, no prazer, na reputação ou em coisas deste tipo? Pensa nisto, e a tua
+cólera logo será esquecida ao reflectires que ele está a agir sob pressão; que
+mais podia ele fazer? Em alternativa, arranja maneira de o libertar dessa
+pressão.
+
+31. Que a vista de Satyricon te recorde os falecidos Socráticos ou Eutyches ou
+Hymen; a vista de Euphrates te lembre Eutychion ou Silvano; um olhar a
+Alciphron te sugira a memória de Tropaeophorus; um vislumbre de Severo, o de
+Crito ou Xenofonte; quando te olhares pensa nos imperadores que te
+precederam. Da mesma maneira, com cada homem imagina a sua contrapartida;
+e depois passa para a seguinte reflexão: «Onde estão eles agora?» Em parte
+nenhuma — ou algures. Desta maneira, ir-te-ás acostumando a olhar tudo o que
+é mortal como um vapor e um nada; e mais ainda, se te lembrares também de
+que as mudanças nas coisas, uma vez operadas, são para sempre irreversíveis.
+Então porquê lutar e esforçares-te em vez de ficares satisfeito em viver
+convenientemente a tua curta vida? Pensa no material e nas possibilidades para
+o bem que andas a rejeitar; uma vez que, o que são as tuas aflições senão
+exercícios para treino da tua razão, depois de ter aprendido a ver as verdades
+da vida a uma correcta luz filosófica? Sê paciente, pois, até que, para ti, elas se
+tornem familiares e naturais, da mesma maneira que um estômago forte pode
+assimilar toda a espécie de alimentos, ou um fogo brilhante transforma qualquer
+coisa que se lhe atire em calor e chamas.
+
+32. Não permitas que alguém se sinta no direito de dizer com verdade que te
+falta integridade e bondade; se alguém pensar tal coisa, trata de fazer com que
+isso não tenha fundamento. Tudo depende de ti, pois, quem mais te pode
+impedir de conseguir a integridade e a bondade? Se não consegues viver desta
+maneira, só tens de tomar a decisão de não continuar a viver; porque, nesse
+caso, nem a própria razão te pode exigir que continues.
+
+33. Qual é a melhor coisa que pode ser dita ou feita com os materiais à tua
+disposição? Qualquer que ela seja, tu tens o poder de o dizer ou fazer; que não
+haja a pretensão de que não és um agente livre. Essas tuas lamentações nunca
+acabarão enquanto o cumprimento do dever natural de um homem, com
+quaisquer materiais que lhe venham ter às mãos, não representar tanto para ti
+como os prazeres para o sibarita. (De facto, todo o exercício dos nossos
+instintos naturais deve ser considerado como uma forma de prazer; e as
+oportunidades para isso estão presentes em toda a parte.) Um cilindro não tem
+sempre o privilégio, seguramente, de se mover à sua vontade, nem a água, nem
+o fogo, nem qualquer outra coisa que esteja submetida ao governo da sua
+própria natureza ou de uma alma sem razão; porque há muitos factores que
+intervêm para o evitar. Mas um espírito e uma razão podem avançar no meio de
+quaisquer obstáculos, porque a sua natureza para tal os capacita e a sua
+vontade para tal os incita. Imagina a maneira como a razão descobre um meio
+de ultrapassar todas as barreiras tão facilmente (tão sem esforço), como o fogo
+sobe ou uma pedra cai ou um cilindro desce uma encosta; e não queiras pedir
+mais. As interferências, em qualquer caso, ou devem afectar apenas o corpo —
+que não é senão uma coisa inanimada — ou então serem impotentes para nos
+aniquilar ou magoar, a menos que recebam a ajuda das nossas próprias ideias
+preconcebidas e da rendição da própria razão. Se assim não fosse, o seu efeito
+sobre o sujeito seria prejudicial; e, embora saibamos que em todo o resto da
+criação a ocorrência de qualquer revés envolve um agravamento da vítima, no
+caso de um homem podemos mesmo dizer que ele fica melhor e mais digno de
+louvor pelo correcto uso que faz da adversidade. Em resumo, nunca te esqueças
+de que nada pode magoar o verdadeiro cidadão, se não magoar a própria
+cidade, e nada pode magoar a cidade a não ser que magoe a lei, e, portanto,
+não pode magoar nem a cidade nem o cidadão.
+
+34. Uma vez gravados no espírito os verdadeiros princípios, mesmo a mais
+ligeira trivialidade bastará para recordar a inutilidade das lamentações ou dos
+medos; como, por exemplo,
+«O que são os filhos dos homens senão folhas que caem ao sopro do
+vento?» (72)
+Tal como folhas eram aqueles teus queridos filhos; folhas também são as
+multidões, aquelas vozes pretensamente convincentes que gritam as suas
+aclamações, lançam as suas maldições ou zombam e escarnecem às
+escondidas; folhas também são todos aqueles em cujas mãos ficará a tua
+reputação daqui para a frente. Todos e cada um, eles «florescem na primavera»,
+os ventos fazem-nos cair e logo a floresta põe nova verdura no seu lugar. A
+impermanência é o distintivo de todos e cada um; e, contudo, tu persegue-los ou
+foges deles, como se eles tivessem que sofrer para toda a eternidade. Dentro
+em pouco, os teus olhos fechar-se-ão; e pelo homem que te levar à sepultura,
+também pouco depois as lágrimas correrão.
+
+> (Comentário em Nota
+11/01/2002 22:50:12
+(72)
+Homero, Ilíada, vi, 147)
+
+35. A função de uns olhos sãos é ver tudo aquilo que é visível, e não exigir que
+tudo seja verde, porque isso é apenas sinal de uma visão doente. Da mesma
+maneira, a audição e o olfacto, se saudáveis, devem estar receptivos a todos os
+sons e cheiros, e um estômago são, a todos os tipos de carne, como um moinho
+que aceita qualquer cereal que esteja preparado para moer. Da mesma forma,
+portanto, um espírito são deve estar preparado para qualquer coisa que possa
+acontecer. Um espírito que exclame: «Oh, que os meus filhos sejam poupados!»
+ou «Oh, se o mundo ressoasse de aclamações a todos os meus actos», é uma
+vista anelando pelo verde, ou um dente por coisa tenra.
+
+36. Não há ninguém tão afortunado que não tenha à cabeceira do leito da morte
+quem saúde a sua próxima perda com deleite. Digamos que ele era tão virtuoso,
+sábio até; e mesmo assim, haverá sempre alguém que no fim murmura baixinho:
+«Finalmente podemos outra vez respirar à vontade sem o nosso amo! Ele nunca
+foi certamente, severo connosco; mas tive sempre a impressão de que ele tinha
+um secreto desprezo por nós»? Tal é o destino dos virtuosos; quanto aos outros
+de nós, que quantidade de outras boas razões não há para alguns dos nossos
+amigos, e não tão poucos como isso, ficarem contentes por se verem livres de
+nós! Pensa nisto quando estiveres para morrer; isso tornará mais fácil a reflexão
+seguinte: «Vou deixar um mundo em que os meus próprios companheiros, por
+quem eu tanto trabalhei, tanto orei e tanto pensei, desejam a minha partida e
+esperam obter qualquer alívio com ela; então, como é que alguém pode desejar
+um prolongamento dos seus dias aqui?» Contudo, não te vás, por essa razão,
+com um espírito de menos bondade para com eles; conserva a tua amizade do
+costume, a boa vontade e a caridade; e não sintas a partida como uma
+separação dolorosa, antes deixa que a tua despedida seja como aquelas mortes
+indolores em que a alma desliza facilmente para fora do corpo. Antes, a
+Natureza juntou-te a esses homens e uniu-vos num só; agora ela desfaz o nó.
+Estou solto, pois, também dos meus próprios parentes; mas sem resistência,
+sem forçar; é apenas mais um dos processos da Natureza.
+
+37. Em todos os actos, não importa por quem eles sejam praticados, habitua-te
+a perguntar-te: «Qual é o seu objectivo ao fazer isto?» Mas começa por ti
+mesmo; faz primeiro que tudo essa pergunta a ti mesmo.
+
+38. Não te esqueças, é aquela força secreta e bem escondida dentro de nós
+que puxa os cordelinhos; aí reside a voz da persuasão, a própria vida, aí,
+poderíamos dizer, está o homem, ele mesmo. Nunca o confundas na tua
+imaginação com o seu invólucro de carne, ou com os órgãos a ele associados,
+que, salvo o facto de se desenvolverem sobre o corpo, são meros instrumentos,
+tal como o machado do carpinteiro. Sem o agente que impulsiona ou refreia os
+seus movimentos, as partes, por si só, não têm mais préstimo do que a
+lançadeira do tecelão, a caneta do escritor ou o chicote do carroceiro.
+
+-------------------------------------
+## LIVRO 11
+
+1. As propriedades de uma alma racional são estas: pode contemplar-se,
+analisar-se, fazer dela o que quiser, aproveitar ela própria o fruto que tem dentro
+de si (enquanto que o fruto produzido pelas árvores, como o seu correspondente
+produzido pelos animais, é aproveitado por outros), e ter sempre o seu trabalho
+completo qualquer que seja a altura em que a nossa vida atinja o seu limite
+fixado. Porque diferentemente da dança ou das peças de teatro, e outras coisas
+do género, que, se são repentinamente interrompidas, o espectáculo, como um
+todo, fica incompleto, a alma, independentemente do estádio em que é
+arrestada, tem a sua tarefa completada para sua própria satisfação e pode dizer
+«Estou na posse plena de mim própria.» Além disso ela pode abarcar todo o
+universo à sua vontade, tanto a estrutura como o vazio à sua volta, e pode
+alcançar a eternidade, abraçando e abrangendo as grandes renovações cíclicas
+da criação e assim perceber que as futuras gerações não terão nada de novo
+para testemunhar, da mesma maneira que os nossos antepassados não
+contemplaram nada mais do que nós hoje; mas, se um homem atinge os
+quarenta anos e compreende alguma coisa, já viu virtualmente — graças às
+suas semelhanças — todos os acontecimentos possíveis, passados e futuros.
+Finalmente, as qualidades da alma racional incluem o amor pelo semelhante, a
+verdade, a modéstia, e o respeito por si próprio, antes de tudo o mais; e como
+este último é também uma das qualidades da lei, segue-se que o princípio da
+racionalidade é o mesmo que o princípio da justiça.
+
+2. Tu podes tornar-te muito rapidamente indiferente às seduções da música ou
+da dança ou de demonstrações atléticas, se decompuseres a melodia nas suas
+diferentes notas e te interrogares sobre cada uma por sua vez: «É a esta que eu
+não consigo resistir?» Hesitarás em confessá-lo. Faz o mesmo em relação a
+cada movimento ou atitude dos dançarinos e dos atletas. Em suma, salvo no
+caso da virtude e suas implicações, lembra-te sempre de te dirigires
+directamente às partes e, dissecando-as, consegues o teu desencantamento. E
+agora, transporta este método para a vida tomada como um todo.
+
+3. Feliz da alma que, em qualquer altura que chegue a hora de se separar do
+corpo, esteja também pronta para encarar a extinção, a dispersão ou a
+sobrevivência. Tal preparação, contudo, tem de ser o resultado da sua própria
+decisão; uma decisão não instigada por mera contumácia, como acontece com
+os cristãos, (73) mas formada com ponderação e seriedade, e, se tiver de ser
+convincente para os outros, sem grandiloquência.
+
+> (Comentário em Nota
+12/01/2002 15:18:16
+(73)
+Se estas palavras são autênticas e não foram inseridas mais tarde, são a única referência que Marco faz aos cristãos. C. R. Haines, contudo, na edição da Loeb das Meditações, observa que a frase está «marginal à construção, e, de facto, gramaticalmente incorrecta. Tem a forma de nota à margem e todo o aspecto de ser uma anotação acrescentada ao texto.»)
+
+4. Pratiquei uma acção altruísta? Muito bem, já tive a minha recompensa. Tem
+sempre presente este pensamento e continua.
+
+5. Qual é o teu mister? A bondade. Mas como é que vais nele ter sucesso se
+não tiveres a capacidade de um filósofo para penetrar na natureza do universo e
+na constituição particular do homem?
+
+6. O teatro, na sua primeira fase, tomou a forma de Tragédia, que pela
+apresentação das vicissitudes da vida nos recorda como as coisas desse tipo
+podem acontecer naturalmente, e que, como elas, no palco, nos levam ao
+prazer, não temos o direito de ficar magoados pela sua ocorrência no palco mais
+vasto da realidade. Porque nestas peças mostram-nos que, embora os actos
+tenham de ter inevitáveis consequências, os homens conseguem suportá-las,
+apesar do angustiado «Ah, Cithaeron!» (74) que sai das suas bocas. Além disso,
+há úteis expressões que se encontram aqui e ali nos escritores de tragédias; por
+exemplo,
+Se o Céu não cuida de mim e dos meus filhos, (75)
+Deve haver uma boa razão para isso,
+ou ainda,
+Não atormenteis o espírito por causa do curso das coisas
+ou,
+Como as espigas de milho, as vidas dos homens são ceifadas
+e muitas outras deste tipo.
+
+> (Comentário em Nota
+12/01/2002 15:18:47
+(74)
+Na tragédia de Sófocles Rei Édipo, o rei, ao aperceber-se, angustiado, da sua culpa, e com o sangue a correr-lhe dos olhos que ele próprio mutilou, exclama, «Ah, Cithaeron, Cithaeron, por que me protegeste? Por que não me levaste e me mataste logo?» Foi nas montanhas de Cithaeron, perto de Tebas, que ele, ao nascer, fora exposto pela mãe Jocasta.)
+
+> (Comentário em Nota
+12/01/2002 08:42:07
+(75)
+Este, bem como os outros versos aqui transcritos, parecem ter tido um lugar especial na memória de
+Marco, que perdera quatro dos cinco filhos. Já os mencionou antes, em VII, 41.)
+
+Depois da tragédia veio a Comédia Antiga, (76) com uma língua implacável,
+como a de um mestre-escola, mas ministrando, com a sua grande franqueza
+(que até certo ponto foi adoptada por Diógenes com a mesma finalidade) uma
+censura geral ao orgulho. Mas, repara, mais tarde, nos objectivos da Comédia
+Média (77) ; e finalmente na Comédia Nova (78), que pouco depois havia de entrar
+em decadência transformando-se no mero artificialismo do Mimo. (79) Certamente
+que mesmo estes escritores tardios têm algumas coisas boas a dizer, como
+sabemos; mas a que é que monta todo o alcance e intenção de toda a sua
+produção poética e teatral?
+
+> (Comentário em Nota
+12/01/2002 15:19:49
+(76)
+Os três grandes poetas áticos daquilo a que se chama a “Comédia Antiga”, na era de Péricles, foram Cratino e os seus contemporâneos mais novos, Eupolis e Aristófanes. Todas as suas obras, excepto as de Aristófanes, se perderam; e, segundo o historiador Grote, se não tivéssemos estas diante de nós, «teria
+sido impossível imaginar a maneira desmesurada e impiedosa como a Comédia Antiga atacava os deuses,
+as instituições, os políticos, filósofos, poetas, cidadãos particulares e até as mulheres de Atenas.)
+
+> (Comentário em Nota
+12/01/2002 15:20:25
+(77)
+Nos últimos tempos da carreira de Aristófanes, a licenciosidade da Comédia Antiga foi restringida por lei, e os escritores começaram também a dispensar os dispendiosos serviços do coro, abrindo assim caminho à Média Comédia (400-388 a.C), donde já desapareceu o coro e onde os tipos — o soldado, o avarento, o cortesão — tomam o lugar de pessoas vivas como objecto do ridículo. Os autores mais importantes deste período, depois do próprio Aristófanes, diz-se que foram Eubulo, Antiphanes e Alexis.)
+
+> (Comentário em Nota
+12/01/2002 15:21:00
+(78)
+A Comédia Nova nasceu depois de Atenas ter ficado submetida à Macedónia, e foi um desenvolvimento da Média. Os políticos foram excluídos do palco, e as intrigas amorosas de personagens fictícios tornaram-se o tema principal. Neste grupo de escritores, a figura proeminente é Menander, que escreveu para cima de uma centena de comédias e foi confessadamente imitado pelos poetas romanos Plauto e Terêncio.)
+
+> (Comentário em Nota
+12/01/2002 08:46:53
+(79)
+Tanto na Grécia como em Roma, a comédia convencional foi sempre menos popular do que os Mimos,
+em que a acção era retratada pelos movimentos e gestos de um único actor enquanto o coro recitava o
+texto correspondente. Os mimos de Sophron (420 a.C.) foram durante muito tempo o divertimento favorito
+dos gregos; e em Roma, este tipo de diversão tornou-se tão popular no tempo de Augusto e dos seus
+sucessores, que por fim praticamente suplantou o teatro autêntico.)
+
+7. Manifestamente, nenhuma condição de vida podia ser tão adequada à prática
+da filosofia como esta em que o acaso te encontra hoje!
+
+8. Um ramo arrancado de outro ramo adjacente fica necessariamente arrancado
+da árvore. Da mesma maneira, um homem que foi separado dos seus
+semelhantes fica também separado de toda a comunidade. Mas enquanto que o
+ramo é podado por outras mãos, o homem, com os seus sentimentos de ódio e
+aversão, provoca o seu próprio afastamento do seu semelhante, e não vê que ao
+mesmo tempo cortou a sua relação com toda a estrutura da sociedade. Todavia,
+está no nosso poder, graças a Zeus, o autor de toda a fraternidade, recuar e
+unirmo-nos de novo com o nosso semelhante, desempenhando assim, uma vez
+mais, o nosso papel na integração do todo. Mas se estes actos de secessão se
+repetirem com frequência dificultam ao não-conformista a consecução desta
+reunião e restituição. Um ramo que foi parceiro do crescimento da árvore desde
+o início e que nunca deixou de partilhar a sua vida é uma coisa diferente de um
+que nunca voltou a enxertar-se depois de arrancado. Como dizem os jardineiros,
+é da mesma árvore, mas não da mesma mente.
+
+9. Embora os homens possam impedir-te de seguir os caminhos da razão,
+nunca conseguirão desviar-te dos actos sãos; mas assegura-te de que eles
+também não consigam destruir os teus sentimentos de caridade em relação a
+eles. Deves defender ambas as posições de igual maneira: firmeza na decisão e
+acção e, ao mesmo tempo, gentileza para com aqueles que tentam criar-te
+obstáculos ou molestar-te de qualquer outra maneira. Ceder à irritação seria
+fraqueza igual à do abandono do teu curso de acção e ser forçado à rendição.
+Em ambos os casos o posto do dever fica deserto; num, por falta de coragem, e
+no outro pelo afastamento de homens que são teus irmãos e amigos naturais.
+
+10. Qualquer forma da natureza supera a arte, porque toda a arte não é mais do
+que a imitação da natureza. Assim sendo, aquela Natureza suprema que é mais
+perfeita e abrangente do que qualquer outra não pode deixar de ser preeminente
+no ofício do artista. E mais ainda, só com o olhar em qualquer coisa superior a
+arte produz as suas obras inferiores; e isto é também o que a Natureza faz. Aqui
+encontramos então as origens da justiça; porque todas as outras virtudes
+dependem disto. Nunca podemos conseguir verdadeira justiça enquanto nos
+dedicamos a coisas de menor valor, e nos contentamos em continuar crédulos,
+obstinados e inconstantes.
+
+11. Talvez as coisas que tu te atormentas e exasperas para perseguir ou evitar
+não venham até ti, mas que sejas tu a ir ter com elas. Refreia os juízos que
+fazes delas; elas pela sua parte não se moverão, e assim tu não serás visto a
+persegui-las ou a evitá-las.
+
+12. A alma atinge a sua forma perfeitamente redonda (80) quando não se está a
+esforçar por qualquer coisa; nem a recolher-se em si própria; nem a disseminar-
+se em bocados, nem ainda a mergulhar em colapso; mas banhada numa
+radiação que lhe revele o mundo e ela própria nas suas verdadeiras cores.
+
+> (Comentário em Nota
+12/01/2002 08:47:56
+(80)
+Esta imagem de uma esfera, que simboliza a plenitude e a perfeição, é uma imagem favorita de Marco;
+compare-se VIII, 41, e XII, 3 (onde ele atribui a metáfora a Empedocles). Horácio também descreve de
+maneira semelhante o homem bom como “totus teres atque rotundus” (Sátiras II, 7, 86).)
+
+13. Se alguém escarnece de mim, isso só a ele dirá respeito; a mim competirá
+assegurar que nada do que faça ou diga seja motivo de escárnio. Talvez ele me
+odeie? Uma vez mais, problema dele. O meu, é manter relações de amizade e
+caridade com todos os homens, pronto a mostrar a esse mesmo homem onde é
+que ele errou e fazê-lo sem recriminações ou manifesta indulgência, mas —
+supondo que as suas palavras não foram mero palavreado — franca e
+generosamente como o Phocion de outrora. (81) É este o espírito certo que um
+homem deve ter em si; nunca deve ser visto pelos deuses no acto de alimentar
+um rancor ou de fazer dos seus sofrimentos uma ofensa. Que mal te pode atingir
+se seguires as leis do teu ser e aceitares momento a momento tudo o que a
+grande Natureza considera oportuno, como um verdadeiro homem que se
+esforça por desenvolver por todos os meios o bem estar do mundo?
+
+> (Comentário em Nota
+12/01/2002 15:21:50
+(81)
+General e homem de estado ateniense acusado de traição e condenado à morte pelo povo. Perguntado se tinha uma última palavra a dizer, respondeu; «Apenas que não tenho qualquer rancor contra os atenienses.»)
+
+14. Eles desprezam-se e todavia adulam-se; cada um deles era capaz de
+passar por cima do outro, e contudo aninha-se e abaixa-se diante dele.
+
+15. Como a coisa soa insincera e vazia quando alguém diz «Estou decidido a
+ser perfeitamente franco contigo.» Ora, homem, o que é isso? A coisa não
+precisa de prólogo; ela revela-se por si própria. Devia estar escrita na testa,
+devia estar espelhada no tom da voz, devia brilhar-te nos olhos, como um
+simples olhar da pessoa amada diz tudo ao amante. A sinceridade e a bondade
+devem ter o seu próprio odor, para que quem com isso depare fique logo a
+saber, mesmo contra sua vontade. Uma franqueza simulada é um punhal
+escondido. A amizade fingida do lobo é a mais desprezível de todas e deve ser
+completamente repudiada. Um homem verdadeiramente bom e sincero e bem
+intencionado revela-o na expressão, e ninguém poderá deixar de o ver.
+
+16. A vida autêntica pode ser levada à perfeição por qualquer alma capaz de
+mostrar indiferença em relação às coisas que são, elas próprias, indiferentes.
+Isto pode ser conseguido dando cuidadosa atenção aos elementos que as
+compõem, e depois a elas próprias; e tendo também sempre em mente que
+nenhuma delas é responsável pela opinião que delas formamos. Elas não vêm
+ter connosco, ficam estacionárias; nós é que fazemos juízos acerca delas e
+depois as inscrevemos, por assim dizer, nos nossos espíritos; isto apesar do
+facto de estar na nossa mão não inscrever absolutamente nada, ou pelo menos,
+apagar prontamente qualquer coisa que se tenha inscrito inadvertidamente.
+Além disso, deves lembrar-te de que não haverá muito mais tempo para cuidar
+destes assuntos, e que a nossa corrida em breve acabará. Não te aflijas, pois,
+se as coisas não correrem sempre ao teu gosto. Desde que estejam em
+consonância com a natureza, contenta-te com elas, e não cries dificuldades; se
+não estiverem, descobre então o que é que a tua própria natureza ordena e faz
+os possíveis por cumpri-lo; porque a procura do nosso próprio bem está sempre
+justificada.
+
+17. Pensa na origem de cada coisa, no que a compõe e naquilo em que se vai
+transformar, e naquilo que ela será depois da transformação, e que não ficará
+minimamente pior.
+
+18. Quando ofendido. Conselho Primeiro. Recorda a íntima relação entre mim e
+o resto da humanidade. Isto prevalece porque todos nós nascemos uns para os
+outros; ou, para apresentar outra razão, porque nasci para ser o seu guia, tal
+como o carneiro não castrado nasceu para guiar o rebanho, ou o touro, a
+manada; ou ainda — voltando aos primeiros princípios — porque o mundo, se
+não for um conjunto de simples átomos, tem de ser governado pela Natureza, e,
+nesse caso, as espécies inferiores da criação têm de existir para as superiores,
+e as superiores têm de existir umas para as outras.
+
+Um Segundo. Pensa nos seus caracteres, à mesa e na cama, e por aí adiante;
+e em particular nas pressões que as suas maneiras de pensar exercem sobre
+eles, e na consequente auto-confiança com que eles agem.
+
+Um Terceiro. Se o que eles estão a fazer está correcto, não tens que te sentir
+magoado; se não está, só pode ter sido sem intenção e inconscientemente.
+Porque, precisamente como «nenhuma alma jamais viola a verdade
+voluntariamente», também ninguém nega voluntariamente a outrem o tratamento
+a que ele tem direito; observa a sua indignação quando alguém os acusa de
+injustiça, ingratidão, mesquinhez ou qualquer outro mau comportamento para
+com os seus semelhantes.
+
+Um Quarto. Tu próprio magoas de várias maneiras, e não és diferente de todos
+os outros. Podes evitar certos erros, mas a tendência está lá, mesmo que a
+cobardia ou a preocupação pela tua reputação ou outro motivo ignóbil te inibam
+de imitar as suas más acções.
+
+Um Quinto. Tu não tens a certeza de que eles estejam a proceder mal, porque
+os motivos dos actos dos homens nem sempre são o que parecem. Há
+geralmente muito a aprender antes de se formular com segurança um juízo
+sobre o comportamento de outrem.
+
+Um Sexto. Diz a ti mesmo, quando te sentires exasperado ou sem paciência
+nenhuma, que esta vida mortal não dura mais do que um momento; não falta
+muito para que todos e cada um de nós sejamos postos em repouso.
+
+Um Sétimo. Não são os actos destes homens — que apenas dizem respeito à
+sua razão directora — que são a fonte dos nossos aborrecimentos, mas a cor
+que nós próprios lhes atribuímos. Elimina isto, abandona todos os pensamentos
+sobre os seus ódios, e a cólera desaparecerá imediatamente. Como proceder a
+tal apagamento? Reflectindo que pelo menos tu ficas ileso. Porque se não fosse
+verdade que só a desgraça moral é má, tu próprio serias culpado de inúmeros
+procedimentos condenáveis — roubo e todos os outros tipos de vilanias. (82)
+
+> (Comentário em Nota
+12/01/2002 15:22:22
+(82)
+Marco já observou (X, 10) que a supressão dos mais fracos pelos mais fortes é sempre, rigorosamente falando, um acto de roubo; embora possa muitas vezes revestir formas que não são, em sentido nenhum, moralmente vergonhosas. Se tal supressão fosse eo ipso vergonhosa, seria um mal; e o próprio Marco seria culpado de muito mal, no simples desempenho dos seus deveres imperiais como juiz e guerreiro.)
+
+Um Oitavo. A nossa cólera e irritação são mais prejudiciais a nós próprios do
+que as coisas que as provocam.
+
+Um Nono. A bondade é irresistível, se genuína e sem falsos sorrisos ou
+duplicidade. A mais rematada insolência não pode fazer nada se continuares
+persistentemente bom para com quem te ofendeu; admoesta-o gentilmente
+quando se oferecer a oportunidade, e no momento em que ele se prepare para
+dar livre curso à maldade chama-o calmamente à razão dizendo «Não, meu
+filho, não foi para isto que fomos feitos. Eu não fico magoado; tu estás a magoar-
+te a ti mesmo.» Explica-lhe cortesmente e em termos gerais a razão por que isto
+é assim, e como nem as abelhas e outros animais gregários se comportam como
+ele — mas não o faças com sarcasmo ou espírito recriminatório, antes com real
+afecto e sem rancor; não como um mestre-escola, nem para a admiração dos
+circunstantes, mas, mesmo na presença de outras pessoas, como se tu e ele
+estivessem a sós.
+
+Guarda estes nove conselhos na memória, como outras tantas dádivas das
+Musas; e, enquanto ainda estás vivo, começa finalmente a ser um homem.
+Todavia, ao procurares defender-te contra a cólera em relação aos outros, não
+descures evitar a bajulação. Ambas são contra o bem estar comum e ambas
+conduzem à maldade. Em momento de cólera, tem sempre presente a ideia de
+que a irritação não é sinal de virilidade e que há mais virilidade e também mais
+humanidade natural naquele que se mostra gentil e sereno; naquele que dá
+mostras de força e coragem e virilidade, e não no seu semelhante encolerizado
+e insatisfeito. A cólera é tanto um sinal de fraqueza como a dor; em ambos os
+casos, os homens recebem um ferimento e submetem-se à derrota.
+Em aditamento, toma isto, se quiseres, como uma décima dádiva; desta vez, do
+próprio guia (83) das Musas. Esperar que os homens maus nunca façam coisas
+más é insensato; é esperar o impossível. Tolerar as suas ofensas aos outros, e
+não contar com nenhumas a ti próprio é irracional e arbitrário.
+
+> (Comentário em Nota
+12/01/2002 15:22:37
+(83)
+Apolo, deus da lira, presidia às nove Musas que eram as divindades inspiradoras da poesia, da música e das artes.)
+
+19. Há quatro desvios do timoneiro da tua alma contra os quais te deves
+constantemente precaver e suprimi-los quando detectados. Diz-lhos um a um,
+«Isto é um pensamento que não é necessário», «Isto iria minar a
+camaradagem», «Isto não é a voz do meu verdadeiro eu» (porque exprimir
+qualquer coisa que não os teus verdadeiros sentimentos é, de entre todas as
+coisas a mais inoportuna e, em quarto lugar, quando estiveres inclinado para a
+auto-censura, «Isto mostraria que o elemento divino em mim foi derrotado e
+forçado a ajoelhar pela carne ignóbil e mortal, com as suas concepções
+grosseiras.»
+
+20. Embora a propensão natural de quaisquer partículas etéreas e ígneas da
+tua composição seja a de se elevarem, contudo, em obediência às ordens do
+Todo, elas são reprimidas dentro do corpo que compõem. Por outro lado, todas
+as partículas terrenas e fluidas em ti, apesar da sua tendência para se
+afundarem, são mantidas à superfície e numa posição que lhes não é natural.
+Assim, mesmo estas partículas obedecem às leis do Todo; quando destinadas a
+uma posição elas mantêm-se forçosamente aí até que o sinal para a dissolução
+as chame de novo. Então, não é penoso que só a única parte de ti que não é
+obediente e que se agasta com a sua própria esfera de acção seja a parte
+pensante? Nada de violento lhe é exigido, nada mais do que estar em
+consonância com a sua própria natureza; contudo, não se quer submeter e
+irrompe na direcção contrária — porque o que são todos aqueles seus
+movimentos no sentido da injustiça, da intemperança, da cólera, da dor ou do
+medo senão divergências voluntárias da natureza? Quando o timoneiro da alma
+revela ressentimento por qualquer coisa que lhe aconteça, nesse momento está
+a abandonar o seu posto; porque ele não foi menos feito para a santidade e
+veneração dos deuses do que para a justiça, e aquelas, sendo parte da ideia de
+camaradagem do universo, têm de vir antes da justiça.
+
+21. Se a vida de um homem não tem um objectivo consistente e uniforme, não
+pode ele próprio ser consistente e uniforme. Contudo, esta afirmação só por si
+não chega, a menos que lhe acrescentemos qualquer coisa sobre qual deve ser
+o objectivo. Ora, não é sobre toda a série de coisas geralmente consideradas
+boas que encontramos a uniformidade de opinião para existir, mas apenas sobre
+coisas de um determinado tipo: nomeadamente aquelas que afectam o bem
+estar da sociedade. De acordo com isto, o objectivo que nos devemos propor
+deve ser o do bem dos nossos semelhantes e da comunidade. Quem assim
+orientar todos os seus esforços para este fim estará a transmitir uma
+uniformidade a todos os seus actos, e assim conseguirá a consistência consigo
+mesmo.
+
+22. Lembra-te do encontro do rato do campo com o rato da cidade (84) e da
+perturbação e agitação em que ele ficou.
+
+> (Comentário em Nota
+12/01/2002 08:51:59
+(84)
+Marco avisa desta maneira os filósofos para não trocarem a tranquilidade das suas próprias almas pelas
+perturbações do mundo.)
+
+23. O nome de Sócrates para o homem da rua era um “papão” para assustar as
+crianças.
+
+24. Os espartanos costumavam sentar os seus convidados à sombra em todos
+os espectáculos públicos, e eles próprios sentavam-se onde podiam.
+
+25. Sócrates apresentou como razão para declinar um convite para a corte de
+Perdiccas o seguinte, «Não quero ir para a cova com ignomínia», sugerindo que
+não aceitaria favor nenhum que não pudesse retribuir.
+
+26. As escrituras dos Efesos contêm uma exortação à prática frequente da
+rememoração de exemplos passados de uma vida virtuosa.
+
+27. Os Pitagoristas impõem a contemplação dos céus todas as manhãs para
+relembrarem a maneira invariável e pontual com que aqueles corpos
+desempenham as suas tarefas, e também para lhes recordar a disciplina, a
+pureza e a crua simplicidade — porque nenhum véu encobre uma estrela.
+
+28. Pensa em Sócrates envolto numa pele de ovelha depois (85) de Xantipe lhe
+ter levado o manto, e no que ele disse aos amigos quando eles recuaram,
+desconcertados, ao vê-lo assim vestido.
+
+> (Comentário em Nota
+12/01/2002 15:23:37
+(85)
+Nunca se encontrou registo deste episódio. Sabemos, contudo, que Sócrates, coerentemente, recusou as provocações de Xantipe. Segundo Diógenes Laertio, uma vez perguntaram-lhe se ele não achava aquelas suas contínuas censuras intoleráveis. «Achas que o quá-quá dos teus patos é intolerável?» disse ele. «Não,» foi a resposta, «porque eles fornecem-me os ovos e as crias.» «Também ela me dá filhos,» respondeu Sócrates a sorrir. Marco pode estar a referir-se a qualquer exemplo semelhante de tolerância a que ele tão frequentemente se exorta a si mesmo.)
+
+29. Na leitura e na escrita, não se podem estabelecer regras sem primeiro
+aprender a respeitá-las. E na vida ainda menos.
+
+30. «Servil por natureza, a razão não é para ti» (86)
+
+> (Comentário em Nota
+12/01/2002 08:53:22
+(86)
+Fonte desconhecida)
+
+31. «… e depois riu-se o coração dentro de mim.» (87)
+
+> (Comentário em Nota
+12/01/2002 08:53:53
+(87)
+Homero, Odisseia, iv, 413)
+
+32. «A virtude não deixarão eles de violar e de caluniar com amargos
+impropérios.» (88)
+
+> (Comentário em Nota
+12/01/2002 08:54:26
+(88)
+Hesíodo, Obras e Dias, 185 (adaptado))
+
+33. «O tolo procura figos no inverno; assim é quem procura ter filhos depois de
+passar o seu tempo.» (89)
+
+> (Comentário em Nota
+12/01/2002 08:55:57
+(89)
+Epicteto, iii, 24, 87)
+
+34. «Enquanto beijas o teu filho», disse uma vez Epicteto, «murmura baixinho,
+amanhã pode estar morto». «Palavras de mau agoiro», disseram-lhe. «De modo
+nenhum», disse ele, «apenas significam um acto da natureza. Será mau agoiro
+falar da colheita do milho maduro?» (90)
+
+> (Comentário em Nota
+12/01/2002 08:56:22
+(90)
+Epicteto, 91)
+
+35. «Uva verde, cacho maduro, passa de uva; uma mudança a cada passo, não
+para aquilo que não é, mas para aquilo que ainda virá a ser». (91)
+
+> (Comentário em Nota
+12/01/2002 08:57:57
+(91)
+ibid., 92)
+
+36. «O ladrão da tua livre vontade», escreve Epicteto, «não existe». (92)
+
+> (Comentário em Nota
+12/01/2002 08:58:37
+(92)
+ibid., iii, 22, 105)
+
+37. Ele diz também que devemos desenvolver um sistema próprio para usar do
+sancionamento. Em relação aos impulsos, devemos ter o cuidado de os manter
+sempre sujeitos a alteração, livres dos interesses próprios, e devidamente
+proporcionais aos méritos do caso. Os desejos devem também ser reprimidos ao
+máximo, e as aversões limitadas aos assuntos que controlamos.
+
+38. «Não há aqui uma questão de trivialidade», diz ele, «mas uma simples
+questão de sanidade ou insanidade».
+
+39. «O que é que desejais ter?» perguntava Sócrates. «Almas de homens
+razoáveis ou imoderados?» «Razoáveis.» «De homens razoáveis sãos ou
+doentes?» «Sãos.» «Então por que não ides procurá-las?» «Porque já as
+temos.» «Nesse caso, porquê todo esse esforço e toda essa luta?»
+
+-------------------------------------
+## LIVRO 12
+
+1. Todas as bênçãos que, daqui para a frente, procurares obter com as tuas
+preces podiam ser tuas hoje, se não as negasses a ti mesmo. Bastar-te-á acabar
+completamente com o passado, entregar o futuro à providência e procurar
+simplesmente orientar o presente no sentido da santidade e da justiça:
+santidade, com uma afectuosa aceitação do quinhão que te foi atribuído, uma
+vez que a Natureza o produziu para ti, e a ti para ele: justiça, nas palavras, com
+uma verdade franca e directa, e nos actos, com o respeito pela lei e pelos
+direitos dos outros. Também não te permitas criar qualquer obstáculo à maldade,
+aos equívocos ou às calúnias dos outros, nem às sensações que esta estrutura
+de carne possa experimentar; a parte atormentada olhará por si própria. A tua
+hora aproxima-se; basta esqueceres tudo o resto e dares atenção apenas ao
+timoneiro da tua alma e à divina centelha dentro de ti — basta substituíres o
+medo de um dia teres de morrer por um medo de até a começares em
+consonância com os verdadeiros princípios da natureza — para poderes ainda
+tornar-te um homem, digno do universo que te criou, em vez de um estranho na
+sua própria terra, confundido com os acontecimentos de cada dia, como se se
+tratasse de maravilhas não procuradas, e sempre dependente deste ou do
+seguinte.
+
+2. Deus vê o interior do espírito dos homens despido de todos os invólucros,
+cascas ou impurezas materiais. Agindo apenas através do pensamento, ele
+estabelece contacto com aquilo que neles é uma emanação de si próprio.
+Industria-te para fazer o mesmo e assim evitarás muitas distracções; porque
+quem é que, olhando mais para além deste invólucro de carne, alguma vez será
+molestado por visões de roupas, casa ou fama ou qualquer dos outros hábitos e
+cenários da vida?
+
+3. Tu és formado de três partes: corpo, respiração e espírito. Os dois primeiros
+apenas te pertencem no sentido em que tu és responsável por cuidares deles;
+só o último é verdadeiramente teu. Portanto, se afastares deste teu eu real —
+isto é, do teu entendimento — tudo o que os outros fazem ou dizem e tudo o que
+tu próprio fizeste ou disseste no passado, bem como toda a ansiedade sobre o
+futuro, e tudo o que afecta o corpo ou a respiração, sua parceira, e que está fora
+do teu controle, bem como tudo o que rodopia à tua volta no turbilhão das
+circunstâncias exteriores, para que os poderes do teu espírito, assim imaculado
+e afastado de tudo o que o destino pode fazer, possa viver a sua vida em
+independência, fazendo o que é justo, aceitando o que acontece, e falando a
+verdade — se, repito, afastares desta tua faculdade-mestra todos estes
+acessórios pegajosos e tudo aquilo que reside nos anos vindouros ou passados,
+ensinando-te a ti mesmo a tornares-te naquilo que Empedocles chama uma
+«esfera totalmente redonda, na sua própria esfericidade se alegrando» e a
+preocupares-te apenas com a vida que vives no momento presente, então, até
+chegar a tua hora serás capaz de passar o resto dos teus dias liberto de toda a
+ansiedade, em bondade e em consonância com a divindade dentro de ti.
+
+4. Fico muitas vezes admirado ao verificar que, embora cada homem se ame a
+si próprio acima de tudo, a opinião que ele tem de si mesmo é menos lisonjeira
+do que a que tem dos outros. Certamente que se um deus ou um conselheiro
+sábio estivesse a seu lado e lhe mandasse que não guardasse qualquer
+pensamento ou intenção no seu coração sem a tornar imediatamente pública,
+ele não conseguiria aguentá-lo mais do que um dia. Tal é a importância que
+damos ao juízo que o nosso vizinho faz de nós; maior do que a que damos ao
+que fazemos de nós próprios.
+
+5. Poderão os deuses, que tão bem e tão benevolentemente conceberam tudo o
+resto, ter descurado o facto de que até os homens virtuosos, homens na mais
+íntima consonância com o divino e que vivem em íntima união com ele pelas
+suas boas acções e devoção, não conheçam um renascimento depois da morte,
+mas estejam condenados à completa extinção? Todavia, se é este, de facto, o
+seu destino, podem ficar certos de que se tivesse havido necessidade de
+diferente plano, isso assim teria sido organizado; se isso estivesse de acordo
+com a Natureza, a Natureza tê-lo-ia realizado assim. Portanto, não sendo assim
+(se na verdade não for assim), podes confiar em absoluto que não devia ser
+assim. Compreendes certamente que ao levantar questões inúteis como esta
+estás a inculpar a divindade? Porque, será que discutiríamos o assunto com os
+deuses se eles não fossem superiormente bons e justos? E se o são, como é
+que eles alguma vez permitiriam que alguma coisa fosse injusta ou
+insensatamente descurada nas suas determinações para o universo?
+
+6. Pratica, mesmo que não tenhas perspectivas de sucesso. A mão esquerda,
+incapaz para outras coisas por falta de prática, sabe segurar as rédeas com
+mais firmeza do que a direita, porque disso, tem ela prática.
+
+7. Medita sobre o que deves ser em corpo e alma quando a morte tomar conta
+de ti; medita sobre a brevidade da vida e sobre os incomensuráveis abismos de
+eternidade por detrás e antes dela, e sobre a fragilidade de tudo o que é matéria.
+
+8. Olha o mais íntimo das causas das coisas, despidas das suas cascas; repara
+nas intenções que estão por detrás dos actos; estuda as essências da dor, do
+prazer, da morte e da glória; observa como a intranquilidade do homem é toda
+de sua própria criação, e como os problemas nunca vêm pela mão dos outros,
+mas, como tudo o resto, são criações da nossa própria maneira de pensar.
+
+9. Na gestão dos teus princípios, segue o exemplo do pugilista e não o do
+espadachim. Um pousa a espada e depois tem de a apanhar outra vez; o outro
+nunca fica sem o punho e apenas tem de o cerrar.
+
+10. Vê de que é que as coisas são feitas; decompõe-nas nas suas matéria,
+forma e finalidade.
+
+11. Que grandes são os privilégios atribuídos ao homem — não fazer nada
+senão o que Deus sanciona, e aceitar tudo aquilo que Deus lhe destinou!
+
+12. Não se culpem os deuses pela ordem das coisas, uma vez que nada de
+errado pode ser feito por eles, voluntariamente ou não; nem os homens, cujos
+erros não acontecem por sua vontade. Abstém-te, pois, de todos os
+pensamentos de culpa.
+
+13. Que ridículo e que estranho é o espanto por qualquer coisa que aconteça na
+vida!
+
+14. Ou há um destino inexorável e uma lei inviolável, ou uma providência que
+pode ser misericordiosa, ou então há um caos desgovernado e sem sentido. Se
+há um destino irresistível, porquê tentar lutar contra ele? Se há uma providência
+disposta à misericórdia, faz os possíveis por merecer o seu auxílio. Se há um
+caos sem direcção, dá graças por, no meio de tais mares tempestuosos, teres,
+dentro de ti, um espírito ao leme. Se as águas te engolirem, que engulam carne,
+respiração e tudo o mais, porque nunca conseguirão fazer naufragar o espírito.
+
+15. Se a chama da lanterna brilha com fulgor até ser extinta, será que a
+verdade, a sabedoria e a justiça morrem dentro de ti antes de tu próprio te
+extinguires?
+
+16. Se ficares com a impressão de que alguém agiu mal, pensa «Que certeza
+tenho eu de que está mal?» Mais ainda, mesmo que esteja mal, não se terá ele
+já censurado por isso, tanto como se as unhas lhe tivessem arranhado
+visivelmente a cara? Desejar que um patife nunca faça mal é como desejar que
+uma figueira nunca dê sumo amargo nos seus frutos, que os bebés nunca
+chorem, que os cavalos nunca relinchem ou que qualquer outra das coisas
+inevitáveis da vida nunca aconteça. Como é que, digam-me, poderia ele agir de
+outra maneira, com o carácter que tem? Se achas isto tão incómodo, corrige-o.
+
+17. Se não é a coisa certa a fazer, nunca o faças; se não é verdade, nunca o
+digas. Tem mão nos teus impulsos.
+
+18. Olha sempre uma coisa no seu todo. Descobre o que é que causa a sua
+impressão em ti, depois, abre-a e divide-a nas suas causa, matéria, finalidade e
+duração.
+
+19. Antes que seja tarde demais, tenta fazer com que tenhas dentro de ti uma
+coisa mais elevada e mais divina do que meros instintos que despertam as
+emoções e te contorcem como uma marioneta. Qual deles está agora a encobrir
+o meu entendimento? O medo, a inveja, a luxúria, ou outro qualquer?
+
+20. Primeiro, evita todos os actos casuais ou sem sentido; e, segundo, faz com
+que todos os actos almejem somente o bem comum.
+
+21. Em breve, não te esqueças, tu próprio terás de te tornar uma coisa errante
+do nada; em breve, tudo o que agora tens diante dos olhos, juntamente com
+todos aqueles em que agora reside o sopro da vida, terão de deixar de ser.
+Porque todas as coisas nascem para mudar e morrer, para que outras, por sua
+vez, possam vir a existir.
+
+22. Todas as coisas não são mais do que o conceito que delas fazes, e esse
+conceito está dentro de ti. Rejeita-o quando quiseres, e logo passarás o cabo e
+tudo ficará tranquilo; um mar calmo, um porto sem marés.
+
+23. Quando uma operação, não importa de que tipo, chega ao fim no tempo
+certo, a paragem não lhe faz mal e o próprio agente não piora por ter
+descontinuado a acção. Assim, se a própria vida — que não é senão a soma de
+todas as nossas operações — também acaba quando chega a hora, não fica
+molestada pela sua simples cessação, e nem é afectado de modo desfavorável
+quem põe fim a toda a série das suas operações. Mas a hora própria e o prazo
+são fixados pela Natureza: se não pela própria natureza de um homem — como,
+por exemplo, pela idade avançada — então, de qualquer maneira, pela grande
+Natureza, ela própria, por cuja contínua renovação de todas as suas partes o
+universo continua eternamente jovem e vigoroso. Tudo aquilo que sirva os fins
+do Todo se mantém belo e florescente. Segue-se, portanto, que o fim da vida
+não pode ser mau para um homem — porque, sendo uma coisa que está fora do
+seu controle e inocente de quaisquer interesses próprios, não há nada nele que
+o avilte — não, é até um bem, tanto mais que para o universo é uma coisa
+oportuna e vantajosa e que está em harmonia com tudo o resto. Assim, seguindo
+o caminho de Deus, e em união com ele no pensamento, o homem é levado na
+continuação da sua caminhada pela divina mão.
+
+24. Há três conselhos a ter em atenção. O primeiro diz respeito às acções:
+estas nunca devem ser realizadas ao acaso, nem de maneira não sancionada
+pela justiça. Tens de te lembrar de que todos os acontecimentos exteriores são o
+resultado ou do acaso ou da providência; e tu não podes censurar o acaso ou
+impugnar a providência. Em segundo lugar, pensa bem no que todas as coisas
+são, desde a semente original até ao nascimento da alma, e do nascimento da
+alma até à sua rendição final; naquilo de que a coisa é composta, e naquilo em
+que se irá dissolver. Terceiro, imagina-te de repente transportado para as
+nuvens e a olhar para baixo para todo o panorama das actividades humanas:
+como a cena não haveria provocar o teu desprezo, agora que conseguias
+distinguir a enorme quantidade de seres etéreos e celestiais que se apinham à
+sua volta. Além disso, reflecte sobre o facto que, não importa quantas vezes
+estivesses nessa posição, terias as mesmas vistas, em toda a sua monotonia e
+transitoriedade. Contudo, estas são as coisas de que tanto nos gabamos!
+
+25. Uma vez rejeitada a visão que tens, estás fora de perigo. Então, quem é que
+está a impedir essa rejeição?
+
+26. Quando te permites experimentar ressentimento por uma coisa, esqueces-te
+de que nada pode acontecer que não obedeça à Natureza; que qualquer
+conduta errada no assunto não tem nada a ver contigo; e mais, que esta é a
+única forma como as coisas sempre aconteceram, sempre acontecerão e
+sempre realmente acontecem. Esqueces também, a intimidade da fraternidade
+do homem com os da sua espécie; uma fraternidade não de sangue ou de
+semente humana, mas de uma comum inteligência; e que esta inteligência em
+todos os homens é Deus, uma emanação da divindade. Esqueces que nada é
+verdadeiramente do homem, porque mesmo o seu filho, o seu corpo, a sua
+própria alma, todos vêm de Deus; e também que todas as coisas dependem da
+maneira de pensar; e também que o momento que passa é tudo o que um
+homem pode viver ou perder.
+
+27. Pensa na vida dos homens que não puseram limites às suas paixões, nos
+homens que atingiram o cume da glória, da desgraça, do ódio ou qualquer outro
+dos cumes do acaso; e depois pergunta, «Onde estão eles agora?» Vapor,
+cinzas, uma história; nem sequer uma história, porventura. Contempla os
+numerosos exemplos: Fábio Catulo nas suas terras, Lúcio Lupo nos seus
+jardins, Sertínio em Baiae, Tibério em Cápri, Véliko Rufo; qualquer exemplo
+daquilo em que o orgulho pode pôr o seu coração. Que ignóbeis são os seus
+esforços! Quanto mais adequados a um filósofo se almejassem a justiça, a
+temperança e o preito aos deuses — mas sempre com simplicidade, porque o
+orgulho que incha por debaixo de uma capa de humildade é a mais intolerável
+de todas as coisas.
+
+28. Para aqueles que continuam a dizer «Onde é que tu já alguma vez viste os
+deuses, e como é que podes ter tanta certeza da sua existência para os
+adorares dessa maneira?» a minha resposta é «Em primeiro lugar, eles são
+perfeitamente visíveis. (93) Em segundo lugar, também nunca vi a minha alma, e,
+no entanto, venero-a. O mesmo se passa com os deuses; é a experiência que
+prova o seu poder em cada dia, e portanto estou contente por eles existirem e
+venero-os.»
+
+> (Comentário em Nota
+12/01/2002 09:00:15
+(93)
+Os Estóicos acreditavam que as estrelas eram divinas.)
+
+29. Para uma vida sã e segura, faz com frequência um exame intelectual
+completo ás coisas e descobre-lhes a essência, a matéria e a causa; põe todo o
+teu empenho em fazer o que é justo, e em falar verdade; e quanto ao resto, toma
+contacto com a alegria da vida, amontoando boas acções umas sobre as outras,
+até que não se veja fenda ou brecha entre elas.
+
+30. A luz do sol é una, mesmo quando separada por paredes, montanhas ou um
+monte de outras coisas. A substância é una, mesmo quando distribuída por entre
+inúmeros corpos vivos de tipos diferentes, cada um com as suas qualidades
+especiais. A alma é una, mesmo quando distribuída por incontáveis naturezas de
+todas as espécies em incontáveis proporções diferentes. Mesmo a alma dotada
+da qualidade adicional do pensamento, embora aparentemente divisível, é da
+mesma maneira una. Porque as outras partes de todos estes organismos — a
+respiração, por exemplo, são coisas materiais, incapazes de sensações, que não
+têm afinidades entre elas e apenas se mantêm juntas pela força unificadora da
+gravidade. Mas o pensamento, pela sua própria natureza, tende
+espontaneamente para qualquer coisa da sua espécie e mistura-se com ela;
+para que o instinto da unidade não seja frustrado.
+
+31. Por que é que anseias pelo prolongamento dos dias? Para experimentares
+sensações e desejos, ou o aumento ou a cessação do crescimento? Para usares
+o poder da fala ou do pensamento? Qualquer destas coisas parece-te realmente
+digna de cobiça? Então, se pensas que elas estão abaixo dos teus interesses,
+continua a perseguir esforçadamente o fim de todos os fins — que é seguir a
+razão e Deus. Mas fazer isto, lembra-te, é incompatível com quaisquer
+ressentimentos por a morte te ir roubar aos outros.
+
+32. Que pequena fracção de todo o tempo incomensurável e infinito nos é
+destinado a cada um; um instante, e desaparece na eternidade. Que ínfima,
+também, é a tua porção de toda a substância do mundo; que insignificante o teu
+quinhão da alma de todo o mundo; em que ponto miniatural de toda a terra tu
+rastejas. Ao pensares nestas coisas, convence-te de que nada tem qualquer
+importância salvo o fazer aquilo que a tua natureza te ordena e suportar aquilo
+que a Natureza do mundo te envia.
+
+33. Como é que o timoneiro da minha alma se está a desempenhar da sua
+tarefa? Porque é aí que toda a questão reside. Tudo o mais, dentro ou fora do
+meu controle, são ossos mortos e vapor.
+
+34. Não há nada que mais encorage o desprezo pela morte do que a reflexão
+de que até homens que consideraram o prazer como um bem e a dor como um
+mal, conseguiram desprezá-la.
+
+35. Quando um homem encontra o seu único bem naquilo que a hora marcada
+lhe traz; quando ele cuida não de que os seus actos sejam muitos ou poucos,
+mas antes de que estejam em estrita consonância com a razão; quando não lhe
+importe nada se o seu vislumbre deste mundo é longo ou fugaz — nem a própria
+morte poderá aterrorizá-lo.
+
+36. Homem, a cidadania desta cidade-mundo já foi tua. Durante cinco ou
+cinquenta anos, o que é que isso representa para ti? Qualquer que seja a lei que
+a cidade decreta, ela é justa para todos por igual. Donde, então, a tua aflição?
+Não foste exilado da cidade por um qualquer juiz injusto ou tirânico, mas pela
+mesma Natureza que te trouxe para ela; tal como quando um actor é despedido
+pelo empresário que o contratou. «Mas eu não representei mais do que três dos
+cinco actos». Precisamente; no drama da tua vida, três actos são toda a peça. O
+seu ponto de perfeição é determinado por aquele que primeiro sancionou a tua
+criação, e hoje sanciona a tua dissolução. Nenhuma destas decisões estava
+dentro de ti. Continua pois o teu caminho de cara alegre, sob o sorriso daquele
+que te manda partir.
+
+
+-------------------------------------
+## Notas
+
+1 As cores dos aurigários no Circo. O entusiasmo dos romanos por estas corridas não tinha limites; os
+vencedores ganhavam grandes fortunas e tornavam-se ídolos populares.
+
+2 Num tipo de combate de gladiadiores (o “Trácio”) os contendores eram armados com escudos redondos
+leves; noutro (o “Samnita”) eles traziam escudos rectangulares pesados.
+
+3 Pintor e filósofo a quem Marco, ainda um rapaz de onze anos, ficou a dever os primeiros contactos com o
+estoicismo. De Bacchio, Tandasis ou Marciano nada se sabe.
+
+4 Q. Júnio Rústico, um professor estóico que foi tutor de leis e amigo de Marco.
+
+5 Professor de filosofia que veio da Calcedónia para Roma. Quando Marco o chamou pela primeira vez ao
+palácio, dizem que ele respondeu, «O mestre não deve ir ter com o aluno, mas o aluno com o mestre.»
+
+6 Oriundo de Caerónia, na Boécia, e neto de Plutarco. Um dos primeiros professores de filosofia de Marco.
+
+7 Reputado erudito grego, conhecido por “o Gramático”
+
+8 M. Cornélio Fronto, famoso advogado e professor que dava lições de retórica, e reconhecidamente
+apenas inferior a Cícero, como orador. Foi encarregado da educação dos futuros co-imperadores Marco
+Aurélio e Lúcio Vero. A publicação da correspondência de Fronto que contém muitas das cartas que lhes
+escreveu, bem como as suas respostas, lançou muita luz sobre o carácter e os hábitos de Marco, e também
+revela o afecto que os seus pupilos reais dedicavam ao seu tutor.
+
+9 Secretário do imperador
+
+10 Cinna Catulo era outro dos professores que davam lições de filosofia.
+
+11 Marco não tinha qualquer irmão. A palavra pode ser uma alusão jocosa a Cláudio Severo (cujo filho
+casou com uma das filhas de Marco), uma vez que Marco também se chamara originalmente Severo,
+embora tivesse mais tarde eliminado o nome. Trata-se mais provavelmente de erro do texto. Muitos editores
+preferem o nome Vero, isto é, o Lúcio Vero que, como o próprio Marco, for adoptado pelo Imperador
+António Pio como seu filho; mas o retrato lisongeiro aqui traçado não corresponde de modo nenhum ao que
+se conhece do carácter de Vero (ver nota 14)
+
+12 Cláudio Máximo, filósofo estóico especialmente admirado por Marco. A sua coragem na doença é
+recordada com gratidão (I,16) e a sua morte, bem como a da mulher, Secunda, lembradas com pena
+(VIII,25).
+
+13 Não o pai natural, Annio Vero, mas o Imperador António Pio, o pai adoptivo.
+
+14 Lúcio Ceinóio Cómodo, depois conhecido como Lúcio Vero. Foi adoptado por António Pio juntamente
+com Marco, com quem ele foi co-imperador e com cuja filha, Lucila, casou. Homem, a princípio corajoso e
+capaz, Vero veio depois a fraquejar, tornando-se um amante da boa vida. Como comandante dos exércitos
+romanos na guerra Partiana, revelou-se um indolente e um incapaz, e só se salvou da desgraça devido à
+destreza dos seus generais. Quando voltou do Oriente com as suas legiões, estas trouxeram consigo as
+sementes da peste que se propagou, com terríveis efeitos, por todo o Império. Vero morreu em 169 —
+segundo alguns, ás mãos de um envenenador.
+
+15 Aparentemente uma citação, cuja fonte não foi descoberta.
+
+16 Isto é, à decisão dos outros em aprovar ou criticar as tuas acções.
+
+17 Hipócrates (460-355 a.C.) era oriundo da ilha de Cos e o mais famoso médico da Antiguidade. Os seus
+numerosos tratados constituíram os fundamentos de toda a ciência médica do mundo clássico. Parece não
+haver razão para pôr em dúvida a sua autoria do “Juramento Hipocrático”; e também lhe é atribuída a
+autoria do ditado, «A vida é curta, a arte longa.»
+
+18 Heráclito (540-475 a.C.), filósofo jónico, ensinava que a essência do Ser é o Devir: isto é, um movimento
+incessante de mudança pelo qual um aspecto de uma coisa está sempre a levar a uma outra. O tipo deste
+movimento perpétuo, e a forma primitiva de toda a matéria, é o fogo; e o processo elemental do universo é
+a passagem do fogo a água e terra e de novo a fogo. «Todas as coisas estão em fluxo» e «Não se pode
+mergulhar duas vezes na mesma água de um rio» eram dois dos conhecidos ditados em que ele exprimia a
+sua doutrina; e Marco refere-se a outros em IV,46. Muito do posterior sistema estóico da física baseava-se
+nas teorias de Heráclito.
+
+19 Demócrito, contemporâneo de Hipócrates, afirmava que o universo era formado de combinações
+infinitamente variadas de um número infinito de átomos, crença em que foi depois seguido por Epicuro e a
+sua escola. Ao contrário do sombrio Heráclito, “o filósofo choroso”, a sua boa disposição trouxe-lhe a
+alcunha de “o filósofo risonho”. Esta referência de Marco é o nosso único testemunho para esta versão da
+sua morte.
+
+20 É uma referência ao poeta Mélito, ao curtidor Ânito e ao orador Lycon. Eles fizeram a Sócrates a
+acusação pela qual ele foi condenado à morte. Pouco depois da sua execução, os Atenienses
+arrependeram-se da sua injustiça, apedrejaram Mélito até à morte, e baniram Ânio e Lycon.
+
+21 Phalaris, governador de Agrigento, na Sicília, no século VI a. C., ganhou uma reputação proverbial pela
+sua crueldade desumana. Diz-se que queimou os seus prisioneiros vivos dentro de um touro de bronze,
+sendo a primeira vítima o seu inventor, Périlo. As apócrifas “Epístolas de Phalaris” são hoje lembradas
+devido principalmente ao erudito inglês Richard Bentley, que provou, na “Dissertação Imortal” (Porton), que
+lhe deu fama, que elas eram falsificações.
+
+22 A própria vida não é senão aquilo que tu acreditas que é. Hamlet (Acto II, cena 2) diz: «There’s nothing
+either good or bad, but thinking makes it so» (Não há coisa alguma que seja, em si própria, boa ou má, o
+pensamento é que a faz assim). Marco exprime aqui este pensamento mais sucintamente em duas palavras
+gregas que significam literalmente «[a] vida [é] opinião».
+
+23 Cecrops foi o lendário fundador de Atenas, mas a fonte desta citação é desconhecida. Na nobre
+expressão de Marco para o universo, «Querida Cidade de Deus», encontrou Santo Agostinho de Hippo o
+seu título, já pronto, para a sua grande obra cristã Civitas Dei.
+
+24 O lado desagradável de um qualquer encontro recente.
+
+25 Podemos apenas tentar adivinhar a razão desta explosão tão pouco própria do seu carácter. Teria Marco
+andado a reler a vida de Nero?
+
+26 Muitos filósofos da escola Cínica defendiam que a virtude era o único objectivo da vida, contentavam-se
+com um mínimo de vestuário e afirmavam que a Natureza era o único livro que um sábio precisava de ler.
+Os Estóicos consideravam o seu próprio sistema como um ramo do Cinismo; o sátiro Juvenal, de facto,
+afirma, gracejando, que só se pode distinguir um estóico de um cínico porque o primeiro usa camisa (Sátira
+xiii, 121)
+
+27 O Imperador Vespasiano morrera oitenta e dois, e Trajano, quarenta e quatro anos antes de Marco
+ascender ao trono.
+
+28 Clotho, uma das três Fatas, é a que fia o fio da vida dos homens; Lachesis decide do seu destino;
+Atropos corta o fio quando eles têm de morrer.
+
+29 Estas palavras não aparecem em qualquer das obras de Epicteto que chegaram até nós, mas sugeriram
+a Swinburne o verso, «A little soul for a little bears up this corpse which is man» (uma pequenina alma
+suporta por pouquinho tempo este cadáver que é o homem) no seu Hymn to Proserpine.
+
+30 Com Esculápio, Marco aqui quer dizer qualquer consultor médico. O Esculápio original é mencionado por
+Homero simplesmente como «um excelente curador» que era pai de Machaon e Podalírio, os dois médicos
+do exército grego em Troia. Mais tarde ele aparece com a categoria de divindade, presidindo às artes da
+cura e venerado nos templos em toda a Grécia. As serpentes andavam em toda a parte associadas ao culto
+de Esculápio (a mudança periódica de pele que acontece com as cobras fez com que ela fosse considerada
+como um símbolo apropriado de saúde e vigor renovados); e o emblema do deus representando um bastão
+com uma serpente enrolada era frequentemente aposto pelos médicos no topo das receitas. É hoje muito
+conhecido como distintivo do Royal Army Medical Corps.
+
+31 A referência é à chamada escola “céptica” ou pirrónica de filósofos, fundada por Pirro de Elis. Eles
+defendiam que as nossas percepções podem apenas mostrar-nos as coisas como elas parecem e não
+como são, e que portanto uma suspensão do julgamento é a única atitude correcta em qualquer caso.
+
+32 Este parágrafo gira à volta do significado ambíguo da palavra “bens” (“goods” na tradução inglesa). O
+homem da rua entende-a como significando bens materiais, e não aquelas virtudes de carácter que são os
+verdadeiros “bens” da vida. Para um filósofo, por outro lado, a palavra tem este último sentido; e ficaria,
+portanto, intrigado com uma referência a alguém que «tem tantos bens que não lhe sobra espaço para
+tranquilizar o espírito».(Nota do tradutor da presente versão: a palavra portuguesa “bens”, neste contexto,
+corresponde por inteiro à palavra inglesa “goods”)
+
+33 Mathew Arnold encontrou nestas palavras a inspiração para o seu soneto que começa, «“Mesmo num
+palácio a vida pode ser bem vivida“; assim falou o sábio imperial, o mais puro dos homens, Marco Aurélio».
+
+34 Homero, Odisseia, iv, 690
+
+35 Hesíodo, Trabalhos e Dias, v, 197.
+
+36 De acordo com a crença estóica, a partícula de fogo divino que constitui a alma humana é alimentada
+pelo sangue.
+
+37 O “velho amigo” fingiu bondosamente partilhar da noção da criança de que o pião era um tesouro
+apetecível e precioso. Da mesma maneira, diz Marco, devemos ser solidários com a tristeza dos outros,
+mesmo quando o nosso maior conhecimento nos diz que eles não sofreram nenhum mal real.
+
+38 Vinho famoso da antiga Campânia. (Nota do autor desta versão portuguesa)
+
+39 Referência desconhecida.
+
+40 Ver nota 36
+
+41 Uma explicação da teoria estóica da “tensão” é dada na introdução, pág. viii.
+
+42 i. é, fornecer aquele elemento de baixeza contra a qual a nobreza se mostra mais claramente.
+
+43 Filistion, Febo e Origanion são-nos desconhecidos; a linguagem sugere que são pessoas que tinham
+morrido recentemente. Eudoxo diz-se ter sido erudito em astrologia, medicina e leis. Hiparco foi um
+matemático de nome. A reputação científica de Arquimedes sobreviveu até aos nossos dias. Sobre o
+filósofo grego Menippo, Diógenes Laertio observa que «ele não publicou nada de memorável, mas os seus
+escritos estão cheios de humor e riso» (vi,99)
+
+44 Isto é o significado de eudaimonia, a palavra grega para felicidade.
+
+45 República, 486
+
+46 Eurípedes, Bellerophon, Frag. 289
+
+47 Fonte desconhecida
+
+48 Eurípedes, Hypsipyle, Frag. 757
+
+49 Eurípedes, Antíope, Frag. 207
+
+50 Eurípedes, Frag. 910
+
+51 Fonte desconhecida
+
+52 Apologia, 28 B
+
+53 Apologia, 28 E
+
+54 Gorgias, 512 DE
+
+55 Eurípedes, Chrísipo, Frag. 836
+
+56 Eurípedes, Suplicantes, 1110
+
+57 Fonte desconhecida
+
+58 Em grego, literalmente “melhor derrubador”. A palavra aparece numa das histórias de Plutarco, onde um
+lutador espartano desanimado se queixa de que o seu adversário vitorioso não era «nada mais esperto,
+nem mais forte, apenas melhor derrubador». A história parece ter feito lembrar a Marco uma qualquer figura
+política da época.
+
+59 Platão, citado por Epicteto.
+
+60 Durante o reinado de terror dos Trinta, que se seguiu ao derrube da democracia em Atenas em 403 a.
+C., muitas pessoas inocentes foram mortas. Quando ordenaram a Sócrates, e a mais outros quatro, que
+prendessem um cidadão honesto, Leo de Salamis, ele recusou-se firmemente a cumprir a ordem dos
+tiranos.
+
+61 Um dos gracejos de Aristófanes sobre Sócrates (Nuvens, 362)
+
+62 Lucilla e Vero eram os pais do próprio Marco. Máximo foi o professor a quem ele se referiu com gratidão
+em I, 15, e Secunda, a mulher desse filósofo. Epitynchano e Diómito são desconhecidos. O imperador
+António, que era casado com Faustina, era pai adoptivo de Marco. Celer era secretário do imperador
+Adriano. De Chanax não sabemos nada. Com Demétrio, deve talvez referir-se a Demétrio de Faleron, o
+último dos famosos oradores e homens de estado a quem Marco se refere outra vez em IX, 29. Eudaemon
+diz-se que foi um astrólogo famoso.
+
+63 Agripa e Mecenas eram os dois principais ministros de Augusto, dividindo entre si o encargo de gerir
+quase todos as questões públicas. O filósofo, Areio, era seu amigo pessoal e conselheiro .
+
+64 Segundo Luciano, Panteia era amante, e Pérgamo um escravo libertado, de Vero, colega imperial de
+Marco.
+
+65 Empedocles
+
+66 Para cima e para baixo, isto é, mudando sucessivamente de fogo para ar, de ar para água, de água para
+terra, e depois de novo em sentido inverso, como Heráclito ensinava. (V. nota 18)
+
+67 Ver nota 62
+
+68 Nome genérico dos homens das tribos da região do Danúbio com que Marco e as suas legiões
+mantiveram uma guerra quase contínua.
+
+69 Eurípedes, Frag. 890
+
+70 Theaeteto, 174 D
+
+71 Supõe-se que a palavra grega para lei (nomos) deriva de um verbo que significa distribuir (nemein).
+
+72 Homero, Ilíada, vi, 147
+
+73 Se estas palavras são autênticas e não foram inseridas mais tarde, são a única referência que Marco faz
+aos cristãos. C. R. Haines, contudo, na edição da Loeb das Meditações, observa que a frase está «marginal
+à construção, e, de facto, gramaticalmente incorrecta. Tem a forma de nota à margem e todo o aspecto de
+ser uma anotação acrescentada ao texto.»
+
+74 Na tragédia de Sófocles Rei Édipo, o rei, ao aperceber-se, angustiado, da sua culpa, e com o sangue a
+correr-lhe dos olhos que ele próprio mutilou, exclama, «Ah, Cithaeron, Cithaeron, por que me protegeste?
+Por que não me levaste e me mataste logo?» Foi nas montanhas de Cithaeron, perto de Tebas, que ele, ao
+nascer, fora exposto pela mãe Jocasta.
+
+75 Este, bem como os outros versos aqui transcritos, parecem ter tido um lugar especial na memória de
+Marco, que perdera quatro dos cinco filhos. Já os mencionou antes, em VII, 41.
+
+76 Os três grandes poetas áticos daquilo a que se chama a “Comédia Antiga”, na era de Péricles, foram
+Cratino e os seus contemporâneos mais novos, Eupolis e Aristófanes. Todas as suas obras, excepto as de
+Aristófanes, se perderam; e, segundo o historiador Grote, se não tivéssemos estas diante de nós, «teria
+sido impossível imaginar a maneira desmesurada e impiedosa como a Comédia Antiga atacava os deuses,
+as instituições, os políticos, filósofos, poetas, cidadãos particulares e até as mulheres de Atenas.
+
+77 Nos últimos tempos da carreira de Aristófanes, a licenciosidade da Comédia Antiga foi restringida por lei,
+e os escritores começaram também a dispensar os dispendiosos serviços do coro, abrindo assim caminho à
+Média Comédia (400-388 a.C), donde já desapareceu o coro e onde os tipos — o soldado, o avarento, o
+cortesão — tomam o lugar de pessoas vivas como objecto do ridículo. Os autores mais importantes deste
+período, depois do próprio Aristófanes, diz-se que foram Eubulo, Antiphanes e Alexis.
+
+78 A Comédia Nova nasceu depois de Atenas ter ficado submetida à Macedónia, e foi um desenvolvimento
+da Média. Os políticos foram excluídos do palco, e as intrigas amorosas de personagens fictícios tornaram-
+se o tema principal. Neste grupo de escritores, a figura proeminente é Menander, que escreveu para cima
+de uma centena de comédias e foi confessadamente imitado pelos poetas romanos Plauto e Terêncio.
+
+79 Tanto na Grécia como em Roma, a comédia convencional foi sempre menos popular do que os Mimos,
+em que a acção era retratada pelos movimentos e gestos de um único actor enquanto o coro recitava o
+texto correspondente. Os mimos de Sophron (420 a.C.) foram durante muito tempo o divertimento favorito
+dos gregos; e em Roma, este tipo de diversão tornou-se tão popular no tempo de Augusto e dos seus
+sucessores, que por fim praticamente suplantou o teatro autêntico.
+
+80 Esta imagem de uma esfera, que simboliza a plenitude e a perfeição, é uma imagem favorita de Marco;
+compare-se VIII, 41, e XII, 3 (onde ele atribui a metáfora a Empedocles). Horácio também descreve de
+maneira semelhante o homem bom como “totus teres atque rotundus” (Sátiras II, 7, 86).
+
+81 General e homem de estado ateniense acusado de traição e condenado à morte pelo povo. Perguntado
+se tinha uma última palavra a dizer, respondeu; «Apenas que não tenho qualquer rancor contra os
+atenienses.»
+
+82 Marco já observou (X, 10) que a supressão dos mais fracos pelos mais fortes é sempre, rigorosamente
+falando, um acto de roubo; embora possa muitas vezes revestir formas que não são, em sentido nenhum,
+moralmente vergonhosas. Se tal supressão fosse eo ipso vergonhosa, seria um mal; e o próprio Marco
+seria culpado de muito mal, no simples desempenho dos seus deveres imperiais como juiz e guerreiro.
+
+83 Apolo, deus da lira, presidia às nove Musas que eram as divindades inspiradoras da poesia, da música e
+das artes.
+
+84 Marco avisa desta maneira os filósofos para não trocarem a tranquilidade das suas próprias almas pelas
+perturbações do mundo.
+
+85 Nunca se encontrou registo deste episódio. Sabemos, contudo, que Sócrates, coerentemente, recusou
+as provocações de Xantipe. Segundo Diógenes Laertio, uma vez perguntaram-lhe se ele não achava
+aquelas suas contínuas censuras intoleráveis. «Achas que o quá-quá dos teus patos é intolerável?» disse
+ele. «Não,» foi a resposta, «porque eles fornecem-me os ovos e as crias.» «Também ela me dá filhos,»
+respondeu Sócrates a sorrir. Marco pode estar a referir-se a qualquer exemplo semelhante de tolerância a
+que ele tão frequentemente se exorta a si mesmo.
+
+86 Fonte desconhecida
+
+87 Homero, Odisseia, iv, 413
+
+88 Hesíodo, Obras e Dias, 185 (adaptado)
+
+89 Epicteto, iii, 24, 87
+
+90 Epicteto, 91
+
+91 ibid., 92
+
+92 ibid., iii, 22, 105
+
+93 Os Estóicos acreditavam que as estrelas eram divinas.

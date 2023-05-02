@@ -4,20 +4,20 @@ author = "bcalvino"
 date = "2019-03-01"
 
 +++
+# The Meditations By Marcus Aurelius
 
+_Note from B.C.: As published in the quoted version, the copyright is not mine and I don't care, I don't earn a penny by making it available here on this unknown site on the computer network. I add a few notes of my own making, and I won't say more._
+
+-------------------------------------
 Provided by The Internet Classics Archive.
 See bottom for copyright. Available online at
     http://classics.mit.edu//Antoninus/meditations.html
-
-The Meditations
-By Marcus Aurelius
-
 
 Translated by George Long
 
 ----------------------------------------------------------------------
 
-BOOK ONE
+## BOOK ONE
 
 From my grandfather Verus I learned good morals and the government
 of my temper.
@@ -273,7 +273,7 @@ Among the Quadi at the Granua.
 
 ----------------------------------------------------------------------
 
-BOOK TWO
+## BOOK TWO
 
 Begin the morning by saying to thyself, I shall meet with the busy-body,
 the ungrateful, arrogant, deceitful, envious, unsocial. All these
@@ -483,7 +483,7 @@ This in Carnuntum.
 
 ----------------------------------------------------------------------
 
-BOOK THREE
+## BOOK THREE
 
 We ught to consider not only that our life is daily wasting away
 and a smaller part of it is left, but another thing also must be taken
@@ -737,7 +737,7 @@ lot.
 
 ----------------------------------------------------------------------
 
-BOOK FOUR
+## BOOK FOUR
 
 That which rules within, when it is according to nature, is so affected
 with respect to the events which happen, that it always easily adapts
@@ -1159,7 +1159,7 @@ and ostentatious display.
 
 ----------------------------------------------------------------------
 
-BOOK FIVE
+## BOOK FIVE
 
 In he morning when thou risest unwillingly, let this thought be present-
 I am rising to the work of a human being. Why then am I dissatisfied
@@ -1559,7 +1559,7 @@ fortune is good disposition of the soul, good emotions, good actions.
 
 ----------------------------------------------------------------------
 
-BOOK SIX
+## BOOK SIX
 
 The substance of the universe is obedient and compliant; and the
 reason which governs it has in itself no cause for doing evil, for
@@ -1997,7 +1997,7 @@ and how many it has covered already.
 
 ----------------------------------------------------------------------
 
-BOOK SEVEN
+## BOOK SEVEN
 
 What is badness? It is that which thou hast often seen. And on the
 occasion of everything which happens keep this in mind, that it is
@@ -2449,7 +2449,7 @@ remembered it will make thee more tranquil in many things.
 
 ----------------------------------------------------------------------
 
-BOOK EIGHT
+## BOOK EIGHT
 
 This reflection also tends to the removal of the desire of empty
 fame, that it is no longer in thy power to have lived the whole of
@@ -2902,7 +2902,7 @@ enter into thine.
 
 ----------------------------------------------------------------------
 
-BOOK NINE
+## BOOK NINE
 
 He ho acts unjustly acts impiously. For since the universal nature
 has made rational animals for the sake of one another to help one
@@ -3304,7 +3304,7 @@ he gets what is his own.
 
 ----------------------------------------------------------------------
 
-BOOK TEN
+## BOOK TEN
 
 Wilt thou, then, my soul, never be good and simple and one and naked,
 more manifest than the body which surrounds thee? Wilt thou never
@@ -3716,7 +3716,7 @@ and the writer's pen and the driver's whip.
 
 ----------------------------------------------------------------------
 
-BOOK ELEVEN
+## BOOK ELEVEN
 
 These are the properties of the rational soul: it sees itself, analyses
 itself, and makes itself such as it chooses; the fruit which it bears
@@ -4091,7 +4091,7 @@ do you fight and quarrel?
 
 ----------------------------------------------------------------------
 
-BOOK TWELVE
+## BOOK TWELVE
 
 All those things at which thou wishest to arrive by a circuitous
 road, thou canst have now, if thou dost not refuse them to thyself.
