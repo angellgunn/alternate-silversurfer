@@ -107,7 +107,7 @@ statement = "#ff8e91"
 
   [languages.en]
     title = "a free page"
-    weight = 1
+    weight = 2
 #    contentDir = "content/english"
     languageName = "English"
     [languages.en.Params]
