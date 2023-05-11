@@ -91,12 +91,12 @@ statement = "#ff8e91"
     weight = 0
 
     [languages.zh]
-      title = "一个免费页面"
+      title = "一个自由页面"
       weight = 2
   #    contentDir = "content/dothraki"
       languageName = "中文"
       [languages.zh.Params]
-      description = "没有博客"
+      description = "一个没有博客"
       [languages.zh.Taxonomies]
         "opinions" = "意见"
         "posts" = "帖子"
@@ -116,7 +116,7 @@ statement = "#ff8e91"
     [[languages.en.menu.main]]
     url    = "/"
     name   = "Home"
-    weight = 1
+    weight = 0
 
 
 [markup]
