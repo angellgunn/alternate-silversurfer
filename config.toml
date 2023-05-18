@@ -105,6 +105,21 @@ statement = "#ff8e91"
       name   = "主页"
       weight = 0
 
+    [languages.fr]
+      title = "une page libère"
+      weight = 2
+    #  contentDir = "content/dothraki"
+      languageName = "Français"
+      [languages.fr.Params]
+      description = "un pas de blog"
+      [languages.fr.Taxonomies]
+        "opinions" = "des avis"
+        "posts" = "des postes"
+      [[languages.fr.menu.main]]
+        url    = "/"
+        name   = "page d'accueil"
+        weight = 0
+
   [languages.en]
     title = "a free page"
     weight = 2
@@ -120,21 +135,7 @@ statement = "#ff8e91"
       name   = "Home"
       weight = 0
 
-
 [markup]
-
-
-
-
-
-
-
-
-
-
-
-
-
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true

@@ -2,7 +2,7 @@
 Author: "jcalangro"
 title: "Propositadamente sem título"
 date: 2007-04-17T13:00:00-00:00
-keywords: vida, morte, eternidade, alma, 
+keywords: vida, morte, eternidade, alma 
 ---
 
 Fala-se muito de violência ultimamente e o insistente repetir das mortes violentas de toda sorte na mídia tem beirado o escatológico. Mata-se como nunca, hoje em dia, tem-se a impressão. A vida humana não vale nada, é frase repisada continuamente. E, no entanto, não apenas a morte é parte integral da vida, mas também matar.
@@ -24,4 +24,3 @@ Ou seja, a diferença entre os casos não é óbvia. Não se trata do sofrimento
 Estamos errados? Não creio que esta seja uma pergunta fácil de ser respondida. Talvez nem seja pergunta correta. Quem sabe não devêssemos nos perguntar: conceitos e julgamentos à parte, o que estamos fazendo na prática que comprovadamente terá um efeito na violência que nos perturba? A despeito do que pensam os jornalistas direitistas, distribuir uma profusão de armas nas ruas, nas mãos da polícia e de "gente de bem" não se correlaciona com redução de violência, ao contrário de uma real melhoria nos índices de educação, saúde, emprego e satisfação pessoal da população, verdadeiramente associados com sociedades menos violentas.
 
 Todavia, não respondemos à pergunta inicial: quando matar torna-se socialmente intolerável? A resposta, talvez incômoda, porém mais adequada, seria: quando vai de encontro aos padrões sociais internalizados inconscientemente em nós. Ou seja, às vezes, consideramos natural matar, às vezes não. Ou seja: o velho neandertal ainda escolhe , no final, quem vive e quem morre. Na era do gelo, a família vivia, os inimigos morriam. É por isso que, apesar de tudo, ainda sou contra a pena de morte. O ser humano não está pronto para aplicá-la com justiça cega e imparcial em nenhuma sociedade existente.
-

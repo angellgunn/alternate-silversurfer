@@ -2,7 +2,7 @@
 Author: "jcalangro"
 title: "Diário de um recém ateu"
 date: 2007-12-09T13:00:00-00:00
-keywords: vida, morte, eternidade, alma, 
+keywords: vida, morte, eternidade, alma
 ---
 
 # Início
@@ -11,7 +11,7 @@ Em 13 de fevereiro de 2007 comecei a escrever textos motivado por uma profunda a
 
 # 13 de fevereiro
 
-... e então eu escrevi as primeiras palavras. Eis-me aqui, é quase meia-noite e estou deitado, iniciando pela primeira vez um 'diário'. Por que diário? Por que não um blog? Por que não um arquivo no meu computador? Por que, porque... é justamente para explicar o(s) PORQUÊS que iniciei este diário. E o imaginei pela primeira vez com estas páginas, esta tinta preta e esta letra desarrumada. Escrever tem uma magia que dificilmente algum dia srá rivalizada pelo digitar. E olha que todo mundo digita, hoje... Não sou escritor, isto não é um livro, nem obra de arte de nenhuma espécie. É apenas reflexão, materializada nesta forma específica de páginas brancas pautas e tinte preta. Apenas isso. Embora entenda apenas superficialmente PORQUE um diário escrito, sei muito bem PORQUE escrevê-lo. A questão fundamental é que, finalmente, tornei-me integral e verdadeiramente ATEU. No dizer de Niezstche, 'matei Deus'. Não consigo aceitar ou acreditar nos conceitos religiosos gerais de vida após a morte, deus ex machina, julgamento, paraíso, inferno, etc. Isto me perturba profundamente. Porém, no momento, estou com sono demais e minha fonte de luz (o celular) está descarregando. Amanhã continuarei de onde paramos..
+... e então eu escrevi as primeiras palavras. Eis-me aqui, é quase meia-noite e estou deitado, iniciando pela primeira vez um 'diário'. Por que diário? Por que não um blog? Por que não um arquivo no meu computador? Por que, porque... é justamente para explicar o(s) PORQUÊS que iniciei este diário. E o imaginei pela primeira vez com estas páginas, esta tinta preta e esta letra desarrumada. Escrever tem uma magia que dificilmente algum dia srá rivalizada pelo digitar. E olha que todo mundo digita, hoje... Não sou escritor, isto não é um livro, nem obra de arte de nenhuma espécie. É apenas reflexão, materializada nesta forma específica de páginas brancas pautas e tinte preta. Apenas isso. Embora entenda apenas superficialmente PORQUE um diário escrito, sei muito bem PORQUE escrevê-lo. A questão fundamental é que, finalmente, tornei-me integral e verdadeiramente ATEU. No dizer de Niezstche, 'matei Deus'. Não consigo aceitar ou acreditar nos conceitos religiosos gerais de vida após a morte, deus ex machina, julgamento, paraíso, inferno, etc. Isto me perturba profundamente. Porém, no momento, estou com sono demais e minha fonte de luz (o celular) está descarregando. Amanhã continuarei de onde paramos...
 
 # 14 de fevereiro
 
@@ -70,6 +70,7 @@ Voltei a ler física quântica. Mas dessa vez ela não está me acalmando como f
 # 19 de fevereiro
 
 Praia. Tudo de bom.
+
 Nós seres humanos sempre nos sentimos tranquilos e bem na praia, ou quase sempre. Essa é uma resposta meio que inata. Nossos antepassados sabiam que o litoral normalmente significava segurança e fartura. Sempre o neandertal. Ele está por trás de quase tudo o que achamos bom e nos acalma ou satisfaz?
 
 O que em nós é biológico e o que é social? E o social, o que é? Por que temos consciência?
@@ -102,18 +103,18 @@ estatística, e nosso mal uso dela. Para um médico oncologista, como
 eu, é comum ver grandes efeitos de novos tratamentos em pequenos
 trabalhos, que evaporam-se em trabalhos de maior envergadura.
 
-# 21 de fevereiro de 2007
+# 21 de fevereiro
 
 ## 20h00
 
 Estou entrando no plantão. Começo com citações:
 
-> "Onde a morte está, eu não estou. Onde estou, a morte não está." 
+> "Onde a morte está, eu não estou. Onde estou, a morte não está."
 
 - Lucrécio
 
 > "Acredito que a vida seja uma centelha entre dois vácuos idênticos: a
-escuridão antes do nascimento e aquela após a morte." 
+escuridão antes do nascimento e aquela após a morte."
 
 - Irvin D. Yalom
 
@@ -206,7 +207,7 @@ Eu tinha esse disco...
 
 Lacan dizia que a melhor idade do ser humano é quando tínhamos 3 anos.
 
-# 23 de fevereiro de 2007
+# 23 de fevereiro
 
 Estou internando uma menina de 6 anos com _miastenia gravis_ em crise e
 pneumonia - preocupo-me com seu estado.
@@ -223,19 +224,21 @@ de reanimação, enquanto massageava seu precórdio, em frenesi, somente
 conseguia pensar "não vou perdê-la, não posso perdê-la." O pior de tudo foi
 contar à mãe logo em seguida. Senti-me miserável por todo o dia e acho que
 ainda sinto-me hoje.
+
 Não consigo acreditar que algo havia naquela menina que tenha sobrevivido,
 só consigo pensar em seu fim e no vazio em seguida. Tinha medo disso - do
 contato com a morte após perder minhas ilusões. Porque vivemos, se morremos?
 Porque morremos, se vivemos?
+
 Sempre, sempre, lembro de minha mulher, e da oportunidade única e
 individual de termos nos conhecido e nos amado, e de como isso dá valor a
 toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 
-> "Haja ou não alguém que a acompanhe, uma pessoa sempre morre sozinha." 
+> "Haja ou não alguém que a acompanhe, uma pessoa sempre morre sozinha."
 
 - Irvin D. Yalom
 
-"Amor fati - Ama teu destino." 
+"Amor fati - Ama teu destino."
 
 - Nietzsche
 
@@ -266,6 +269,7 @@ toda a minha vida, minha existência fugaz e, de outra forma, fútil.
 James Cameron vai lançar amanhã um documentário e um livro "provando" que um sítio arqueológico achado em (próximo de) Jerusalém há 36 anos atrás tem os restos mortais de Jesus, Maria, Maria Madalena, além de Judas, filho de Jesus com Madalena.
 
 Provas improváveis à parte, quando há dinheiro no meio, surgem todo tipo de evidências e contra-evidências. Provavelmente veremos uma batalha de pseudociência contra religião. Resultado: poeira de nada!
+
 Obs.: quase na Páscoa? que coincidência!
 
 # 26 de Fevereiro
@@ -300,11 +304,11 @@ Ver o brilho nos olhos da minha filha e seu encantamento quando cantaram  os pa
 
 - Roy Batty, personagem de Hutger Hower em Blade Runner (1982), no diálogo final
 
-Como lágrimas na chuva..., uma bela metáfora para nós e nossas memórias. Nunca a esqueci.
+"Como lágrimas na chuva...", uma bela metáfora para nós e nossas memórias. Nunca a esqueci.
 
 Hoje, o documentário do James Cameron e do Simcha Jacobovici saiu no Discovery Channel: "The Lost Tomb of Jesus". Polêmica à parte, uma entrevista para o TODAY, da NBC na internet, foi bem interessante. Ele argumentou que sua polêmica afirmação de ter achado os ossos de Cristo não necessariamente abala o dogma da ressurreição, apenas lança outra discussão: Jesus ressuscitou "espiritualmente" ou "corporalmente"? Que pérola! Está claro que eles estão apenas se divertindo às custas dos católicos! Os judeus parecem ter gostado da novidade...
 
-Cameron diz, na entrevista: "The resurrection itself is not challenged. [...] Where you get stuck is the physical ascension to heaven, taking his bones and body with him to heaven, instead of leaving them behind on earth."
+Cameron diz, na entrevista: 'A ressurreição em si não é contestada. [...] O problema é a ascensão física ao céu, levando seus ossos e corpo com ele, em vez de deixá-los para trás na terra.'
 
 Eles estão realmente curtindo com a cara da igreja católica. Mas a idéia não deixa de ter um significado para reflexão: teria algum sentido um deus que "morresse" (embora, segundo a bíblia, tenha morrido mesmo) e, ao invés de ressuscitar corporalmente, apenas reaparece em espírito e deixa um corpo para apodrecer e restar ossos para a posteridade? Ossos divinos terão alguma propriedade especial? E a alternativa, um deus que se fez carne (ainda segundo o dogma), morreu de fato e ressuscitou essa carne e, com corpo e tudo, foi para o paraíso. O que houve com o corpo, a carne? Como sabemos, carne viva tem o péssimo hábito de envelhecer e depois morrer. Ele então ficou imortal e continua vivo até hoje em algum lugar (no mundo espiritual?). No outro mundo pode existir uma pessoa de carne e osso? Se ele ainda está vivo, pode morrer de novo? O processo que evitou que ele envelhecesse nos últimos 2000 anos pode ser aplicado em nós?
 

@@ -2,93 +2,107 @@
 Author: "jcalangro"
 title: "Journal of a recently born atheist"
 date: 2007-12-09T13:00:00-00:00
-keywords: life, death, eternity, soul, 
+keywords: life, death, eternity, soul,
 ---
 
-On February 13th, 2007 I started writing texts motivated by a deep existential anguish that came from the fact that I had (apparently) lost faith in anything. Searching, reasoning, writing, writing down things I saw or heard, I created something that could perhaps be called a diary. The name I give it derives from my current status as a newly self-included among the ranks of atheism. For the religious, I warn you that my blog will not be pleasant and my (in)decision will hardly be returned. For atheists, either, I promise intellectual satisfaction, my condition being probably too transitory to consider myself among them for long. I will start transcribing texts since February 2007, in addition to writing new texts.
+On February 13, 2007, I started writing texts driven by a deep existential anguish that arose from the fact that I had (apparently) lost faith in anything. Searching, reasoning, writing, jotting down things I saw or heard, I created something that could perhaps be called a diary. The name I give it stems from my current condition of recently self-included among the ranks of atheism. For the religious, I warn that my blog will not be pleasant, and my (in)decision will hardly be reversed. For atheists as well, I cannot promise intellectual satisfaction, as my condition is likely too transient to consider myself among them for long. I will begin transcribing texts from February 2007, in addition to writing new ones.
 
 # February 13th
 
-… and then I wrote the first words. Here I am, it's almost midnight and I'm in bed, starting a 'diary' for the first time. Why diary? Why not a blog? Why not a file on my computer? Why, because… it is precisely to explain the WHY(s) that I started this diary. And I imagined it for the first time with these pages, this black ink and this messy handwriting. Writing has a magic that can hardly ever be rivaled by typing. And look how everyone types these days… I'm not a writer, this isn't a book, or a work of art of any kind. It's just reflection, materialized in this specific form of white pages and black ink. Only that. Although I only superficially understand WHY a journal is written, I know very well WHY to write it. The bottom line is that I have finally become fully and truly ATHEIST. In Nietzsche's words, 'I killed God'. I cannot accept or believe the general religious concepts of life after death, deus ex machina, judgment, heaven, hell, etc. This disturbs me deeply. But at the moment, I'm too sleepy and my light source (the cell phone) is draining. Tomorrow I'll pick up where we left off…
+...and then I wrote the first words. Here I am, it's almost midnight, lying down, starting for the first time a 'diary'. Why a diary? Why not a blog? Why not a file on my computer? Why, because... it's precisely to explain the WHYS that I started this diary. And I imagined it for the first time with these pages, this black ink, and this messy handwriting. Writing has a magic that will hardly ever be rivaled by typing. And everyone types today... I'm not a writer, this is not a book, nor a work of art of any kind. It's just reflection, materialized in this specific form of white lined pages and black ink. That's all. Although I only superficially understand WHY a written diary, I know very well WHY to write it. The fundamental question is that I have finally become fully and truly ATHEIST. In Nietzsche's words, 'I have killed God'. I cannot accept or believe in the general religious concepts of an afterlife, deus ex machina, judgment, heaven, hell, etc. This deeply disturbs me. However, at the moment, I am too sleepy, and my source of light (the cellphone) is running out of battery. Tomorrow I will continue from where we left off...
 
 # February 14th
 
-I wake up at 6 am. The night was not very good. My wife woke up at dawn with a severe migraine. My daughter woke up coughing a lot. The news talks about violence and shows a body wrapped in a sheet. I wanted to spare my daughters these things, but they are present at all times!
+I wake up at 6:00 AM. The night wasn't great. My wife woke up in the early hours with a severe migraine. My daughter woke up coughing a lot. The news talks about violence and shows a body wrapped in a sheet. I wanted to spare my daughters from these things, but they're present all the time!
 
-Almost 10pm, I'm in the hospital on duty. The same thoughts haunt me. Are we just watches that will one day lose their winding and stop keeping time? I think so, and I can no longer convince myself otherwise. This morning my youngest daughter cried for me to stay with her. I told her to join the group that I would watch for a while from a distance. After an impromptu 'burial' of a dead insect organized by the teacher, she broke away from the group and walked back to the room, crying, obviously looking for me. I called her. Automatically she was calm and then the goodbye was without more crying or trauma. That's why I never lie to them. That's why I never threaten to abandon them, as a joke or to gain obedience. So I think all she needs from us is reassurance and patience. That's why I think these moments are and will be the closest I'll ever get to happiness and eternity.
+It's almost 10:00 PM, and I'm at the hospital on duty. The same thoughts haunt me. Are we just clocks that will one day lose their winding and stop marking time? I think so, and I can no longer convince myself otherwise. This morning, my youngest daughter cried for me to stay with her. I told her to join the group while I observed from a distance. After an impromptu 'funeral' for a dead insect organized by the teacher, she separated from the group and walked back to the classroom with a sad face, obviously looking for me. I called her. Instantly, she became calm, and our goodbye was without tears or trauma. That's why I never lie to them. That's why I never threaten to abandon them, jokingly or to gain obedience. That's why I believe all she needs from us is security and patience. That's why I think these moments are and will be the closest I'll ever get to happiness and eternity.
 
 # February 16th
 
-Today I ran out of the infirmary, left the troupe of philosophers and therapists of my unconscious/conscious (at the moment, formed by Schopenhauer, Nietzsche and Freud) in charge and went to the carnival of the girls' daycare.
+Today, I hurriedly left the infirmary, letting the troupe of philosophers and therapists of my unconscious/conscious mind (currently consisting of Schopenhauer, Nietzsche, and Freud) take charge, and went to my daughters' daycare carnival.
 
-The best thing was to jump with them and then run to the sand, barefoot.
-Always Lacan…
-
-I was with my wife, we were fine. She was happy, feeling good, enjoying herself. She was worth forgetting about the hospital and the patients. Well, after getting home, I couldn't control myself and even called the infirmary and the neurosurgery pediatrician, under the disapproving gaze of Freud, Nietzsche and Schopenhauer.
+The best part was jumping around with them and then running to the sand barefoot.
+Always Lacan...
+I was with my wife, and we were doing well. She was happy, feeling good, enjoying herself. It was worth forgetting about the hospital and the patients. Well, after getting home, I couldn't resist and still called the infirmary and the pediatrician from the neurosurgery department, under the disapproving gaze of Freud, Nietzsche, and Schopenhauer.
 
 Well, someday I'll get there.
 
+> "Become who you are."
+
+- Nietzsche
+
+I am still haunted by thoughts of the annihilation of death. A popular magazine featured an article on magical thinking. It says that the men who survived the Ice Age were only those who developed faith and religion. Religare - the communication not with a god, but with oneself. So, my "little angel" is a Neanderthal who fears his gods and respects his ancestors. And he is angry!
+
+> "We love more the desire than the desired being."
+
+- Nietzsche
+
+## Saint Patrick - Triad
+
+> Tabhair dom ghrása,
+
+> Fíormhac Dé.
+
+> Tabhair dom do neartsa,
+
+> An ghrair  gheal glé.
+
+(Give me grace,
+
+True Son of God.
+
+Give me your strength,
+
+The very bright beauty.)
+
+- Unknown author, recorded by Eithne Patricia Ní Bhraonáin (Enya)
+
 # February 18th
 
-Do nothing day, except for going to the Zoo in the afternoon. We barely managed to get in. The girls loved it, of course.
+Day off, except for going to the zoo in the afternoon. We almost didn't get in. The girls loved it, of course.
 
-I went back to reading quantum physics. But this time she's not calming me down like she used to. The contemplation of the multiverse brings no relief to the Neanderthal nudged by philosophers. What good is an immortal and infinite universe? If so, who knows for sure.
+I started reading quantum physics again. But this time it's not calming me down like it used to. Contemplating the multiverse doesn't bring relief to the Neanderthal poked by philosophers. What good is an immortal and infinite universe? If it really exists, who knows for sure.
 
 # February 19th
 
-Beach. All the best.
+Beach. Everything is great.
 
-We human beings always feel peaceful and good at the beach, or almost always. This is kind of an innate response. Our ancestors knew that the coast usually meant safety and plenty.
+We humans always feel calm and good at the beach, or almost always. It's a somewhat innate response. Our ancestors knew that the coastline usually meant safety and abundance. Always the Neanderthal. He is behind almost everything we find good and soothing or satisfying, isn't he?
 
-Always the Neanderthal. Is it behind almost everything we think is good and does it soothe or satisfy us?
-What in us is biological and what is social? And the social, what is it? Why are we aware?
-I put "proof of life after death" on google. My obsession continues. The philosophers shook their heads disapprovingly. One website has old photos of "materialized" ectoplasm. If it depends on these photos, my skepticism is unshakable.
+What in us is biological and what is social? And what is social, exactly? Why do we have consciousness?
+I searched "proof of life after death" on Google. My obsession continues. The philosophers shook their heads disapprovingly. There's a website with old photos of "materialized" ectoplasms. If it's up to these photos, my skepticism is unshakable.
 
-One guy posted his "logical proof" of the afterlife on the net. The problem is that this proof depends on at least 3 a priori dogmas that cannot be proved and our lack of knowledge about the nature of consciousness. In fact, this is the last stronghold of the Neanderthal: what is consciousness? when does it start? when it ends?
+Someone posted their "logical proof" of life after death on the internet. The problem is that this proof relies on at least three a priori dogmas that cannot be proven and our lack of knowledge about the nature of consciousness. In fact, this is the last bastion of the Neanderthal: what is consciousness? When does it begin? When does it end?
 
 # February 20th
 
-Lazy day and shopping mall.
+Lazy day and shopping center.
 
 More research - Parapsychology
 
-Two phenomena appear to have "scientific evidence" in meta-analyses of
-small studies: Ganzfeld - telepathy and microPK experiment
-(micropsychokinesis) - psychokinesis experiment with machines
-machines or small objects.
-Criticisms are that the data contain bias and are not well analyzed.
-Even if there is apparently no intentional bias, the effects are
-relatively discrete, although homogeneous.
-Another thing, one of the main current criticisms is that the small
-effect apparently seen in Ganzfeld cannot be interpreted as
-telepathy proof!
+Two phenomena seem to have "scientific evidence" in meta-analyses of small studies: Ganzfeld - telepathy experiment and microPK (micropsychokinesis) - psychokinesis experiment with automatic machines or small objects.
+Critics argue that the data contain biases and are not well analyzed.
+Even if there is no apparent intentional bias, the effects are relatively subtle, despite being homogeneous.
+Another thing, one of the main current criticisms is that the small effect apparently observed in Ganzfeld cannot be interpreted as proof of telepathy!
 
-Currently, there are several hundred small experiments in
-Ganzfeld performed by very few experimental groups accounted for
-in the meta-analyses. I believe that any small effect shown in this
-scenario speaks more about the relationship of the human being with the
-statistics, and our misuse of it. For an oncologist, as
-eu, it is common to see large effects of new treatments in small
-works, which evaporate in larger works.
+Currently, there are several hundred small Ganzfeld experiments conducted by very few experimental groups included in the meta-analyses. I believe that any small effect shown in this scenario speaks more about the human relationship with statistics and our misuse of it. For an oncologist like me, it is common to see significant effects of new treatments in small studies, which dissipate in larger-scale works.
 
 # February 21st
 
 ## 8:00 pm
 
-I'm entering the hospital shift. Start with quotes:
+I'm starting my shift. I begin with quotes:
 
-> "Where death is, I am not. Where I am, death is not." 
+> "Where death is, I am not. Where I am, death is not."
 
 - Lucretius
 
-> "I believe that life is a spark between two identical vacuums: the
-darkness before birth and that after death." 
+> "I believe that life is a spark between two identical voids: the darkness before birth and that after death."
 
 - Irvin D. Yalom
 (The latter, Yalom must have taken from a thought of Schopenhauer).
 
-I've been listening to a song a lot that I heard the first time over 10 years ago,
-when he was a medical student.
+I have been listening to a song a lot lately that I first heard over 10 years ago when I was a medical student.
 
 MERCY STREET (Peter Gabriel, Album: So)
 
@@ -172,43 +186,31 @@ MERCY STREET (Peter Gabriel, Album: So)
 
 > riding the waves on the sea
 
-I had this disk…
+I had this record...
 
-Lacan said that the best age of the human being is when we are 3 years old.
+Lacan used to say that the best age of a human being is when we were 3 years old.
 
 # February 23rd
 
-I am hospitalizing a 6-year-old girl with myasthenia gravis in crisis and
-pneumonia
--I worry about her condition.
+I am admitting a 6-year-old girl with myasthenia gravis in crisis and pneumonia - I am concerned about her condition.
 
 ## 1:00 am
 
-She has a myasthenic crisis with apnea and probably bronchoaspirate
-massively, she begins her ordeal, which I will share.
+She experiences a myasthenic crisis with apnea and likely massive bronchoaspiration, beginning her ordeal, of which I will share.
 
 ## 2:00 am
 
-She's dead - I did everything I knew to save her, and during the maneuvers
-of resuscitation, while massaging his precordium, in a frenzy, only
-she could think "I won't lose her, I can't lose her." The worst of all was
-tell the mother right away. I felt miserable all day and I think
-I still feel today.
+She is dead - I did everything I knew to save her, and during the resuscitation maneuvers, while massaging her precordium in frenzy, all I could think was 'I won't lose her, I can't lose her.' The worst part was telling the mother right after. I felt miserable throughout the day, and I think I still feel it today.
 
-I can't believe there was something about that girl that survived,
-I can only think of the end of it and the emptiness afterwards. I was afraid of it - of
-contact with death after losing my illusions. Why do we live if we die?
-Why do we die, if we live?
+I can't believe that there was anything in that girl that could have survived. I can only think of her end and the emptiness that followed. I was afraid of this - the encounter with death after losing my illusions. Why do we live if we die? Why do we die if we live?
 
-Always, always, I remember Juvenia, my wife, and the unique and
-individual of having known and loved each other, and how that gives value to
-my whole life, my fleeting and otherwise futile existence.
+Always, always, I remember my wife and the unique and individual opportunity we had to know and love each other, and how that gives value to my entire life, my fleeting and otherwise futile existence.
 
-> "Whether or not there is someone accompanying you, a person always dies alone." 
+> "Whether or not there is someone accompanying you, a person always dies alone."
 
 - Irvin D. Yalom
 
-> "Amor fati - Love thy fate." 
+> "Amor fati - Love thy fate."
 
 - Nietzsche
 
@@ -235,56 +237,53 @@ my whole life, my fleeting and otherwise futile existence.
 
 # February 25th
 
-James Cameron will release tomorrow a documentary and a book "proving" that an archaeological site found in (near) Jerusalem 36 years ago has the remains of Jesus, Mary, Mary Magdalene, as well as Judas, son of Jesus and Magdalene.
+James Cameron will release a documentary and a book tomorrow "proving" that an archaeological site found near Jerusalem 36 years ago contains the remains of Jesus, Mary, Mary Magdalene, as well as Judas, the son of Jesus and Magdalene.
 
-Unlikely evidence aside, when there's money in the mix, all sorts of evidence and counter-evidence come out. We will likely see a battle of pseudoscience versus religion. Result: dust of nothing!
+Unlikely evidence aside, when money is involved, all kinds of evidence and counter-evidence emerge. We will likely witness a battle between pseudoscience and religion. The result: dust of nothing!
 
-Obs.: almost at Easter? what a coincidence!
+Note: Almost at Easter? What a coincidence!
 
 # February 26th
 
-Make any contact with another human being an occasion worth remembering.
+Make every contact with another human being an occasion worth remembering.
 
 # February 27th
 
-Comment on human intelligence and its biological roots: after all, cockroaches also make decisions…
+Comment on human intelligence and its biological roots: after all, cockroaches also make decisions...
 
 # March 4th
 
-You always have to be ready to die not just today, but now! This is the only freedom that is possible for us.
+You must always be ready to die, not only today, but now! That is the only freedom that is possible for us.
 
-Is there fate? This is a very interesting discussion. Until recently (say, some 100 years ago), the laws of physics, if applied "to the letter", could imply that the fate of any system in this universe is pre-fixed by initial conditions. Like that ball and inclined plane throw: knowing all the variables, you can calculate EXACTLY where the ball will be in the future. If the system has two spheres, when we know all the initial variables and laws of the system, we predict with absolute certainty (as absolute as the exact values ​​we have) where each sphere will be at each moment in the future, whether they will meet, etc.
+Is there destiny? That is a very interesting discussion. Until recently (let's say, about 100 years ago), the laws of physics, if applied "to the letter," could imply that the destiny of any system in this universe is predetermined by the initial conditions. Like that thing with the ball and the inclined plane: knowing all the variables, one could calculate EXACTLY where the ball will be in the future. If the system involves two spheres, knowing all the initial variables and the laws of the system, we can predict with absolute certainty (as absolute as the exact values we have) where each sphere will be at each moment in the future, whether they will meet, etc.
 
-Theoretically, this progression could be repeated, in a linear crescendo of complexity, without altering the accuracy of the predictions, provided that the quantity and precision of the initial data and the power to calculate the mathematics derived from the laws that describe any system also increased. Even in an organism with hundreds of billions of cells, given the initial conditions with sufficient accuracy and detail and exhaustively complete laws, we could calculate where EVERY ATOM AND MOLECULE WOULD BE AT ANY TIME, that is, everything that happens to an organism. Since the brain is material, even every little action and decision could be predicted. Like Laplace's perfect computer, which knew everything, present, past and future.
+Theoretically, this progression could be repeated, increasing in linear complexity, without altering the accuracy of the predictions, as long as the quantity and precision of the initial data and the ability to calculate the mathematics derived from the laws describing any system also increase. Even in an organism with hundreds of billions of cells, given the initial conditions with precision and sufficient details, along with exhaustively complete laws, we could calculate where EVERY ATOM AND MOLECULE WOULD BE AT ANY MOMENT, that is, everything that would happen to an organism. Since the brain is material, every small action and decision could also be predicted. Like Laplace's perfect computer, which knew everything in the present, past, and future.
 
-That is, everything could be predicted, everything is determined, everything IS WRITTEN, Maktub!
-Well, the laws of physics are no longer the same, and the Heisenberg Uncertainty Principle and the Lorenz Butterfly Effect have sabotaged the Laplacian ideal of a deterministic universe.
+In other words, everything could be predicted, everything is determined, everything is WRITTEN, Maktub!
+Well, the laws of physics are no longer the same, and Heisenberg's Uncertainty Principle and Lorenz's Butterfly Effect have sabotaged the Laplacian ideal of a deterministic universe.
 
-But what is the practical impact of these new principles on the question of destiny? In fact, nobody knows! Risking any answer would be a mixture of literature and cheap spirituality. Perhaps, more than that, our own imperfection sabotages fate…
+But what is the practical impact of these new principles on the question of destiny? In truth, no one knows! Risking any answer would be a mixture of literature and cheap spirituality. Perhaps, more than that, our own imperfection sabotages destiny...
 
 March 2nd was my daughter's birthday party.
+Another taste of eternity.
+The best part was seeing her joy.
+The children loved it. The adults, as always, think it's just part of it. Adults don't necessarily have fun at kids' parties. But I did.
 
-One more taste of eternity.
-
-The best thing was to see her joy
-.
-The kids enjoyed it the most. Adults, as always, think this is part of it. Adults don't necessarily have fun at children's parties. I had fun.
-
-Seeing the sparkle in my daughter's eyes and her delight when they sang happy birthday was enough. As I write these lines, two days later, I remember that those moments linger for me only in memory, and human memory is not a "photograph" or a "film", I don't have precise details "imprinted" in my brain, but a sophisticated virtual "recreation" from the modifications that hundreds of millions of neurons underwent that day, induced by the experiences I had. In short: the brain never really remembers anything, it reconstructs "previous" moments in the present. This reconstruction is not always perfect and may change over time. That's why it's no use living on memories… that's an illusion. Carpe diem! Enjoy life TODAY!
+Seeing the sparkle in my daughter's eyes and her enchantment when they sang "Happy Birthday" was enough. As I write these lines, two days later, I remember that those moments only exist in my memory, and human memory is not a "photograph" or a "recording," I don't have precise details "printed" in my brain, but rather a sophisticated virtual "recreation" based on the modifications that hundreds of millions of neurons underwent that day, induced by the experiences I lived. In short: the brain never really remembers anything, it reconstructs "previous" moments in the present. This reconstruction is not always perfect and may change over time. That's why it's no use living on memories… that's an illusion. Carpe diem! Enjoy life TODAY!
 
 > "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tanhauser gate. All those moments will be lost in time, like tears in rain . Time to die."
 
-- Roy Batty, Hutger Hower's character in Blade Runner (1982), in final dialogue
+- Roy Batty, character played by Rutger Hauer in Blade Runner (1982), in the final dialogue.
 
-Like tears in the rain…, a beautiful metaphor for us and our memories. I never forgot it.
+"Like tears in rain...", a beautiful metaphor for us and our memories. I have never forgotten it.
 
-Today, the documentary by James Cameron and Simcha Jacobovici came out on Discovery Channel: "The Lost Tomb of Jesus". Controversy aside, an interview with NBC's TODAY on the internet was quite interesting. He argued that his controversial claim to have found the bones of Christ doesn't necessarily undermine the resurrection dogma, it just launches another argument: Was Jesus resurrected "spiritually" or "bodily"? What a pearl! It is clear that they are just having fun at the expense of Catholics! The Jews seem to have liked the news…
+Today, the documentary by James Cameron and Simcha Jacobovici aired on Discovery Channel: 'The Lost Tomb of Jesus'. Controversy aside, an interview for TODAY on NBC's website was quite interesting. He argued that his controversial claim of having found the bones of Jesus does not necessarily undermine the dogma of resurrection but rather sparks another discussion: Did Jesus rise 'spiritually' or 'bodily'? What a gem! It's clear that they are just having fun at the expense of Catholics! The Jews seem to have enjoyed the novelty...
 
-Cameron says, in the interview: "The resurrection itself is not challenged. […] Where you get stuck is the physical ascension to heaven, taking his bones and body with him to heaven, instead of leaving them behind on earth."
+In the interview, Cameron says: 'The resurrection itself is not challenged. [...] Where you get stuck is the physical ascension to heaven, taking his bones and body with him to heaven, instead of leaving them behind on earth.'
 
-They're really enjoying the look of the Catholic church. But the idea is not without meaning for reflection: it would have some meaning for a god who "dies" (although, according to the bible, he really died) and, instead of resurrecting bodily, just reappears in spirit and leaves a body to rot. and bones remain for posterity? Will divine bones have any special properties? And the alternative, a god who became flesh (still according to dogma), actually died and resurrected that flesh and, body and all, went to paradise. What happened to the body, the flesh? As we know, living flesh has a nasty habit of aging and then dying. He then became immortal and is still alive today somewhere (in this world
+They are really making a mockery of the Catholic Church. But the idea still holds significance for reflection: would it make any sense for a god to 'die' (although, according to the Bible, he did die) and instead of physically resurrecting, only reappears in spirit and leaves a body to decay and turn into bones for posterity? Do divine bones possess any special properties? And the alternative, a god who became flesh (according to the doctrine), truly died and resurrected that flesh, and with body and all, ascended to paradise. What happened to the body, the flesh? As we know, living flesh has the unfortunate habit of aging and eventually dying. Did he then become immortal and still remains alive somewhere today (in the spiritual realm?)? Can there be a person of flesh and bone in the afterlife? If he is still alive, can he die again? Can the process that prevented him from aging in the last 2000 years be applied to us?
 
-The notes from previous days continue…
+The notes of past days continue...
 
 # March 06th
 
