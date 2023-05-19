@@ -87,3 +87,5 @@ Por favor, complete
 Obrigado, este foi um exercício altamente proveitoso
 ----
 >Você é bem-vindo! Estou sempre aqui para ajudar a esclarecer dúvidas e fornecer informações precisas e confiáveis. Se você tiver mais alguma pergunta, não hesite em perguntar. Estou à disposição!
+
+Obs.: transcrito como a IA criou, o uso da expressão "você é bem-vindo" pode ter sido uma confusão com a expressão em inglês "you're welcome" e, por algum motivo, a IA traduziu literalmente, e não no sentido utilizado coloquialmente.
