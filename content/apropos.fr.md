@@ -54,6 +54,61 @@ En accord avec ce qui précède et faisant une allusion subtile à la culture po
 
 ![main street](/img/main.jpg)
 
+Le compte de réseau social principal de Calvino est Twitter [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social décentralisé Lenster : [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (uniquement sur invitation pour le moment, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques.
+
+## João calangro:
+
+Ce pseudonyme est apparu il y a très longtemps, sans nom. Il l'a choisi lui-même, comme il l'a affirmé dans un message sur Twitter :
+
+> J'ai choisi le nom d'un criminel car ils étaient des personnes pauvres, sans éducation et sans chance. Comme l'a dit Ariano Suassuna, ils étaient les instruments de la colère divine.
+
+Citant "Auto da Compadecida". Sur son profil Twitter, il nous parle d'autres aspects de sa vie.
+
+> Médecin non pratiquant, ancien oncologue, désillusionné par l'humanité, marié à une femme merveilleuse qui lutte contre la fibromyalgie. Pseudonyme.
+
+Contrairement à Calvino, il affirme clairement son pessimisme et son engagement envers sa partenaire. C'est un homme de famille, qui a déjà travaillé comme médecin et a perdu la plupart de ses attentes vis-à-vis de la société, de la vie et de l'humanité. Il explique son choix professionnel dans une série de messages :
+
+> Étant donné que j'ai toujours été pauvre et que je persiste obstinément dans la "voie difficile", j'ai abandonné la médecine et suis devenu investisseur. Je gagne beaucoup d'argent, mais je ne trompe la bonne foi de personne. Je n'ai plus de licence, je ne suis pas un "docteur", mais je suis honnête.
+> J'ai déjà été le meilleur des meilleurs, mais pauvre. Maintenant, je suis méconnu (ce qui est génial), mais riche. Je préserve mon honneur et ma droiture, je ne fais que spéculer sur le marché financier, ce qui n'est pas un péché, je prends l'argent de ceux qui en ont et qui ne savent pas quoi en faire.
+
+Ainsi, il professe une sorte de cynisme naïf tout en laissant entendre qu'il a abandonné le "chemin difficile" de l'honnêteté, affirmant clairement ses limites éthiques et demandant pardon pour son indulgence sur le marché financier ("Je ne trompe personne", "je suis honnête", "(...) je spécule (...), ce qui n'est pas un péché"). Il prétend être né le 30 juillet 1978. Son lieu d'origine est inconnu (également au Brésil, mais où exactement ?) et il réside également à Hy-Brasil. De manière mystérieuse, il déclare occuper un poste lié à la médecine là-bas, comme indiqué sur son profil sur [Academia.edu][ac].
+
+> João Calangro occupe la chaire Iemanjá de Professeur de Méta-oncologie à la Royal Medical Academy
+ou
+> Sir João Calangro, Chevalier de la Royal Medical Academy, Université Tir na nÓg, Uí Breasail
+
+Je l'imagine comme un homme mince, mesurant 1,69 m, avec des lunettes rondes, un menton fin, circonspect, un regard paisible et légèrement mélancolique. Il a perdu une partie de ses cheveux bruns foncés et aime porter des chapeaux. Oui, il me rappelle un peu Fernando Pessoa, mais en réalité, il ressemble davantage à Lampião.
+
+![Lampião](/img/lampiao.jpg)
+
+Le principal compte de réseau social de Calangro est sur Twitter [@joaocalangro][j], cependant, également en réaction à ce qu'il appelle le "chaos sur Twitter" d'Elon Musk, Calangro a réactivé son compte sur Pinterest [@neurooncologist][no]. Influencé par Calvino, il a créé un compte sur l'application prétendument décentralisée Phaver, avec le profil [@joaocalangro][p2].
+
+## Jean Miséreux (John Pauper)
+
+Un hétéronyme qui est apparu simplement comme une plaisanterie et, de manière totalement inattendue, a pris une dimension beaucoup plus grande, assumant une histoire que j'ai davantage transcrit que créée. Miséreux est l'un de ces personnages qui acquiert très facilement une vie propre que son auteur ne pourrait jamais prévoir. L'un des hétéronymes créés plus récemment, mais celui qui vit depuis le plus longtemps, selon son point de vue particulier.
+
+Il est né sous un autre nom, Im-Gu ("je grandis"), il y a plus de dix mille ans (il ne sait plus exactement). Il est né là où se trouve aujourd'hui la Syrie, au sein d'un peuple qui se désignait lui-même comme les "Enfants de la Déesse". Il se souvient peu de cette période, car la mémoire humaine ne traite pas bien un laps de temps aussi long. Il se souvient qu'il est "mort" à l'époque des "Crocs Affamés", comme son peuple appelait une longue période de froid et de sécheresse, où les animaux sont devenus rares et la famine a fait de nombreuses victimes (probablement le Dryas récent). Les femmes ont appris à faire pousser les graines des champs pour soulager la grande famine, mais ce n'était pas suffisant. Les communautés passaient quelques semaines dans des camps de chasse en forêt pour apporter de la viande à leurs jeunes, puis levaient le camp et partaient, suivant la migration des animaux.
+
+Im-Gu a été gravement blessé lors d'une de ces chasses, mais il n'est pas mort et a alors découvert qu'il était immortel. Il a commencé à se déplacer d'un campement à l'autre, ne restant jamais plus que quelques années. Il a eu de nombreux noms, trop nombreux pour être tous rappelés. Les Enfants de la Déesse sont restés fidèles à leur mode de vie pendant des millénaires, et Im-Gu avec son peuple.
+
+Plusieurs générations plus tard, dans une autre terre où ses ancêtres s'étaient installés dans des villages (il pense que c'était en Anatolie), il a été témoin de l'invasion d'un peuple guerrier qui a décimé le village où il vivait à l'époque, ceux qui se proclamaient les "Enfants du Ciel", les ancêtres des Iškuzaya, aujourd'hui appelés Citéens. Montés sur des animaux que son peuple n'avait jamais vus, qu'il reconnaîtrait plus tard comme des chevaux, avec des armes en métal contre lesquelles les flèches de son peuple ne faisaient pas le poids. Ils ne faisaient pas de prisonniers, sauf pour les femmes, qu'ils enlevaient. Les chevaliers des steppes du nord-ouest, comme certains les connaissaient, étaient nombreux et possédaient des traîneaux étranges avec des pièces tournantes (roues) et étaient très rapides, ainsi que des lances, des épées et des outils en un métal jaune-vert (appelé plus tard zubar ou kupiro, cuivre) que les autres peuples n'avaient jamais vu.
+
+Ils ne savaient pas cultiver. C'est pourquoi ils envahissaient et pillaient les villages. Pour survivre aux barbares, Im-Gu s'est mêlé à eux, adoptant un nom dans leur langue, Helge, qui avait le même sens que son premier nom. Helge a traversé les générations en suivant l'expansion du peuple guerrier. Il a vu les villages se développer avec le temps, lorsque le peuple guerrier a appris à cultiver et à élever des animaux sauvages. La vie du peuple, qui descendait déjà des ancêtres d'Im-Gu et des guerriers de Helge, n'était plus la même qu'à l'époque ancienne. La famine, la maladie et la guerre apportaient la misère à la plupart des gens. "Je vivais beaucoup mieux à l'époque où nous chassions et récoltions simplement des graines et des herbes." Un petit groupe, qui contrôlait les armes (déjà en un métal brillant et meilleur, appelé kubar, puis brinj, bronze, fabriqué en fusionnant le métal jaune avec le métal gris des Cassites), dominait la société et imposait sa volonté. Ils ont créé la propriété et l'argent, adorant l'or plus que tout dieu. Im-Gu/Helge a détesté la noblesse depuis ses débuts, car il aimait la vie de son peuple d'origine. Il a également détesté les premiers empires, et il les déteste encore aujourd'hui. À l'avenir, cela le rapprocherait du socialisme. Il n'a versé aucune larme lorsque les empires de l'Âge du Bronze sont tombés aux mains de la famine, de la sécheresse et des envahisseurs avec des armes en un métal bien supérieur, le fer.
+
+Au fil du temps, il s'est installé dans la région côtière de l'Anatolie, où bien plus tard, il entrerait en contact avec Pythagore de Samos, le philosophe. Pythagore était son grand maître, celui qui lui a enseigné les mathématiques et qu'il suivait aveuglément. "Mais je n'ai pas pu le suivre dans la mort, car la mort ne me voulait pas", dit John Pauper. Ce nom, il l'a adopté lorsqu'il a commencé à vivre en Bretagne, des siècles plus tard. Vers le XVIIIe siècle, il est arrivé sur les plages de Hy-Brasil et n'en est jamais reparti. "C'est un endroit magique".
+
+![Pauper](/img/pauper.jpg)
+_John Pauper en scène au XVIIe siècle_
+
+Sa silhouette est celle d'un homme amaigri, mesurant 1,63 m, avec un aspect rappelant peut-être Gandalf ou Dumbledore, mais dans la pauvreté. Il a de longs cheveux et une barbe gris-blanc, et porte un vieux chapeau. "Ce n'est pas un chapeau de sorcier, c'est juste pour mendier." Malgré sa simplicité, il est reconnu comme une personnalité universitaire à l'Université de Tir na nÓg.
+
+>John Pauper occupe la chaire Oxalufã de Professeur Honoraire de Mathématiques Transdimensionnelles à l'Institut des Études Avancées de Hy-Brasil (H-BIAS), Université de Tir na nÓg.
+
+![Pauper2](/img/pauper2.jpg)
+_John Pauper et un noble au XVème siècle_
+
+Le compte de médias sociaux principal de John Pauper est Twitter [@johnpauper][jp], cependant, une fois encore, suite à la panne de Twitter d'Elon Musk, il a créé un compte sur [HIVE][h], @jpauper. Il possède également un compte sur [Academia.edu][edu] et [SSRN][acs].
+
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
