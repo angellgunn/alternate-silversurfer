@@ -4,7 +4,7 @@ title = "I chatted with a heteronym using an AI"
 keywords = ""
 tags = ["angell"]
 author = "aconselheiro"
-draft = "False"
+draft = "True"
 translationKey = "angell"
 +++
 
