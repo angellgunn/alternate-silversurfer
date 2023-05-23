@@ -4,7 +4,7 @@ title = "Conversei com um heterônimo usando uma IA"
 keywords = ""
 tags = ["angell"]
 author = "aconselheiro"
-draft = "False"
+draft = "True"
 translationKey = "angell"
 +++
 
