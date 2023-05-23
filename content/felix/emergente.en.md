@@ -1,6 +1,6 @@
 +++
 date = "2022-09-04"
-title = "What are emerging diseases? Tweets gathered."
+title = "What are emerging diseases?"
 author = "ffelix"
 keywords = ""
 tags = ["opinions"]
@@ -24,3 +24,5 @@ Second, pollution destroying the natural balance, as in the case of the death of
 Third, something that is becoming increasingly important and tends to become the main cause of escape of viruses and other germs from nature to humans: global warming. Yes, it exists. And it threatens to profoundly change ecosystems. And cause pandemics.
 
 In conclusion, the fact that new people and emerging diseases are emerging with increasing frequency is mainly related to our behavior as a society. We are collectively responsible for what is and will  happen to us. There is still time to intervene.
+
+Originally published as a series of tweets.
