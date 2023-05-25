@@ -17,8 +17,7 @@ O [Tribalismo cultural][tribalismo] pode gerar um sistema persistente percebido 
 
 O escândalo de dados do Facebook-Cambridge Analytica é apenas o arauto de uma era potencialmente problemática de relacionamento social na esteira do [viés generalizado de algoritmo][vies]. Podemos antecipar que essa tendência se fortaleça e permeie muitos níveis de organização da sociedade. Isso vai corroer nossa atual organização social, instituições e semear o desequilíbrio generalizado. Na verdade, deveríamos realmente ter medo disso. Pode-se prever massas insurgentes invadindo espaços públicos que nunca foram objeto de conflito neste período moderno. Espero sinceramente que esta minha previsão sombria se revele completamente errada, mas aconselho que sejam tomadas medidas no presente para evitar esse resultado potencial.
 
-## Referências:
-
+### Referências:
 1. Scoble, Robert e Shel Israel. 2006. Conversas Nuas, Hoboken, NJ: John Wiley & Sons.
 2. Sherif, M.; Harvey, O.J.; White, B.J.; Hood, W. & Sherif, C.W. (1961). Conflito e Cooperação Intergrupal: O Experimento da Caverna dos Ladrões. Norman, OK: The University Book Exchange.
 3. Magnani, Lorenzo; Bertolotti, Tommaso (2011). "Bolhas Cognitivas e Firewalls: Imunizações Epistêmicas no Raciocínio Humano". Proceedings of the Annual Meeting of the Cognitive Science Society. 33 (33).
