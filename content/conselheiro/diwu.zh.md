@@ -45,7 +45,7 @@ Feb;90(2):49-59.
 Life Evol Biosph. 2012 Dec;42(6):543-67.
 7. Guttinger, Stephan and Dupré, John, "Genomics and Postgenomics", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives /win2016/entries/genomics/>.
 
-[biocog]:{{< relref "b-o-c.en.md">}}
+<!-- [biocog]:{{< relref "b-o-c.en.md">}} -->
 [lettvin]: https://en.wikipedia.org/wiki/Jerome_Lettvin
 [construct]: https://en.wikipedia.org/wiki/Constructivist_epistemology
 [maturana]: https://en.wikipedia.org/wiki/Humberto_Maturana
