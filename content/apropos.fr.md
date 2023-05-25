@@ -18,7 +18,7 @@ Au fil du temps, les textes que j'écrivais ont formé leurs propres auteurs, d'
 
 Certains auteurs déclarent que les hétéronymes de Pessoa étaient simplement des constructions stylistiques, une stratégie de création artistique. Pessoa lui-même les contredit dans sa "Lettre à Adolfo Casais Monteiro du 13 janvier 1935". Il a créé plus d'une centaine de personnalités hétéronymes, mais trois d'entre elles ont été plus développées et sont devenues "indépendantes", dans le sens où un personnage peut être indépendant de son créateur. Il s'agit d'Álvaro de Campos, de Ricardo Reis et d'Alberto Caeiro. Ce dernier est devenu le "maître" à la fois des autres hétéronymes et de Pessoa lui-même.
 
-> [Pessoa:] Un jour, j'ai pensé à jouer un tour à Sá-Carneiro, à inventer un poète bucolique, d'une espèce compliquée, et à lui présenter, je ne me souviens plus comment, dans une certaine réalité. J'ai passé quelques jours à élaborer le poète, mais je n'ai rien réussi. Un jour où j'avais finalement abandonné, c'était le 8 mars 1914, je me suis approché d'une commode haute, et en prenant une feuille de papier, j'ai commencé à écrire debout, comme je le fais chaque fois que je peux. Et j'ai écrit trente et quelques poèmes à la suite, dans une sorte d'extase dont je ne saurais définir la nature. Ce fut le jour triomphal de ma vie, et je ne pourrai jamais en avoir un autre de cette manière-là. J'ai ouvert avec un titre, "Le Gardien de troupeaux". Et ce qui a suivi, c'était l'apparition de quelqu'un en moi, à qui j'ai immédiatement donné le nom d'Alberto Caeiro. Pardonnez-moi l'absurdité de la phrase : mon maître était apparu en moi. C'est la sensation immédiate que j'ai eue.
+> [Pessoa:] Un jour, j'ai pensé à jouer un tour à Sá-Carneiro, à inventer un poète bucolique, d'une espèce compliquée, et à lui présenter, je ne me souviens plus comment, dans une certaine réalité. J'ai passé quelques jours à élaborer le poète, mais je n'ai rien réussi. Un jour où j'avais finalement abandonné, c'était le 8 mars 1914, je me suis approché d'une commode haute, et en prenant une feuille de papier, j'ai commencé à écrire debout, comme je le fais chaque fois que je peux. Et j'ai écrit trente et quelques poèmes à la suite, dans une sorte d'extase dont je ne saurais définir la nature. Ce fut le jour triomphal de ma vie, et je ne pourrai jamais en avoir un autre de cette manière-là. J'ai ouvert avec un titre, "Le Gardien de troupeaux". Et ce qui a suivi, c'était l'apparition de quelqu'un en moi, à qui j'ai immédiatement donné le nom d'Alberto Caeiro. Pardonnez-moi l'absurdité de la phrase: mon maître était apparu en moi. C'est la sensation immédiate que j'ai eue.
 
 Ainsi l'auteur décrit l'émergence soudaine et fantastique de son plus grand hétéronyme. Pessoa explique à Casais Monteiro que la genèse de ses personnages-auteurs provenait d'une tendance "psychiatrique" en lui, bien plus qu'un simple recours stylistique. Cependant, il ne fait aucun doute que Pessoa a réalisé l'un des exploits stylistiques les plus originaux et brillants de toute la littérature mondiale (car il existe très peu d'exemples d'écrivains avec sa géniale originalité). En ses propres mots:
 
@@ -30,23 +30,23 @@ Mes hétéronymes suivent cette tradition de Pessoa, émergeant progressivement 
 
 Voici une liste des hétéronymes que j'ai créés ou découverts jusqu'à présent:
 
-## Baldolino Calvino :
+## Baldolino Calvino:
 
-Son nom est évidemment inspiré du livre "Baudolino" d'Umberto Eco et de l'œuvre de l'écrivain Italo Calvino. Il ne pouvait donc pas être un personnage ordinaire. Plus qu'une compréhension en profondeur des sujets auxquels il s'attache, il les comprend dans une mutation continue et une interaction fluide avec de nombreux sujets apparemment non liés. Un "philosophe liquide", un citoyen du monde à la manière de Bauman. Voici ma première description de lui :
+Son nom est évidemment inspiré du livre "Baudolino" d'Umberto Eco et de l'œuvre de l'écrivain Italo Calvino. Il ne pouvait donc pas être un personnage ordinaire. Plus qu'une compréhension en profondeur des sujets auxquels il s'attache, il les comprend dans une mutation continue et une interaction fluide avec de nombreux sujets apparemment non liés. Un "philosophe liquide", un citoyen du monde à la manière de Bauman. Voici ma première description de lui:
 
 > Baldolino Calvino est un menteur, et c'est tout ce qu'il y a à savoir sur lui. Il prétend être un économiste écologique, ou un écologue économique. On ne sait pas vraiment.
 
-Et voici la description confessionnelle du profil Twitter, sa première manifestation dans ce monde :
+Et voici la description confessionnelle du profil Twitter, sa première manifestation dans ce monde:
 
 Économiste écologique. Professeur d'Histoire Naturalis Phantastica à l'Université Tír na nÓg, Uí Breasail. Je suis un simulacre de troisième ordre et un hétéronyme.
 
-Et encore dans ses titres :
+Et encore dans ses titres:
 
 BC occupe la chaire Oxumarê de Professeur d'Histoire Naturalis Phantastica au College of Natural Philosophy, à l'Université Tír na nÓg.
 
 L'autoproclamé simulacre baudrillardien fait savoir qu'il enseigne une discipline de fantaisie dans une université de fantaisie, sur une île de fantaisie, _Uí Breasail_ ou _Hy-Brasil_, une île qui apparaît sur les cartes maritimes du XIIIe au XIXe siècle. Aussi appelée "île Brasil", "île de São Brandão", etc., elle est définie dans [l'article][br] de Wikipédia comme "une île fantôme de l'océan Atlantique liée à la tradition de Saint Brandão des terres fortunées situées à l'ouest du continent européen". Elle fait partie de la mythologie celtique irlandaise, et l'étymologie de "Brasil" en portugais aurait des racines gaéliques, le nom même de notre pays venant de cette signification mythologique, légendaire, et non du nom de l'arbre "Pau-brasil" de couleur rougeâtre, comme le veut le canon. Baldolino a choisi de se définir comme une créature fantastique, à l'image d'Ariel dans les œuvres de Shakespeare. Cependant, il adopte une apparence moderne (ou hypermoderne) et fait de sa Hy-Brasil quelque chose de plus proche de la vision de l'île décrite dans le [livre][hy] de Margaret Elphinstone, l'écrivaine britannique qui enseignait la littérature écossaise aux Écossais et a transformé l'île fictive en une "satire joyeuse", une description de ce que serait Hy-Brasil si elle existait dans notre réalité. Il a créé une nouvelle discipline, l'"Histoire Naturelle Fantastique", qu'il définit comme étant distincte de l'art, des mathématiques, de la philosophie et de la science, les autres connaissances fondamentales selon lui.
 
-Passionné par la technologie de la blockchain et les cryptoactifs, il aurait prétendument fait fortune en négociant dans ce secteur. Sur le "graphe social décentralisé" du [Lens Protocol][l], son profil ajoute :
+Passionné par la technologie de la blockchain et les cryptoactifs, il aurait prétendument fait fortune en négociant dans ce secteur. Sur le "graphe social décentralisé" du [Lens Protocol][l], son profil ajoute:
 
 > J'aime les chats, les longues promenades et la glace à la tapioca. Je suis un économiste écologique, un cryptophilosophe et un intellectuel vagabond.
 
@@ -54,11 +54,11 @@ En accord avec ce qui précède et faisant une allusion subtile à la culture po
 
 ![main street](/img/main.jpg)
 
-Le compte de réseau social principal de Calvino est Twitter [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social décentralisé Lenster : [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (uniquement sur invitation pour le moment, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques.
+Le compte de réseau social principal de Calvino est Twitter [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social décentralisé Lenster: [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (uniquement sur invitation pour le moment, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques.
 
 ## João calangro:
 
-Ce pseudonyme est apparu il y a très longtemps, sans nom. Il l'a choisi lui-même, comme il l'a affirmé dans un message sur Twitter :
+Ce pseudonyme est apparu il y a très longtemps, sans nom. Il l'a choisi lui-même, comme il l'a affirmé dans un message sur Twitter:
 
 > J'ai choisi le nom d'un criminel car ils étaient des personnes pauvres, sans éducation et sans chance. Comme l'a dit Ariano Suassuna, ils étaient les instruments de la colère divine.
 
@@ -66,12 +66,12 @@ Citant "Auto da Compadecida". Sur son profil Twitter, il nous parle d'autres asp
 
 > Médecin non pratiquant, ancien oncologue, désillusionné par l'humanité, marié à une femme merveilleuse qui lutte contre la fibromyalgie. Pseudonyme.
 
-Contrairement à Calvino, il affirme clairement son pessimisme et son engagement envers sa partenaire. C'est un homme de famille, qui a déjà travaillé comme médecin et a perdu la plupart de ses attentes vis-à-vis de la société, de la vie et de l'humanité. Il explique son choix professionnel dans une série de messages :
+Contrairement à Calvino, il affirme clairement son pessimisme et son engagement envers sa partenaire. C'est un homme de famille, qui a déjà travaillé comme médecin et a perdu la plupart de ses attentes vis-à-vis de la société, de la vie et de l'humanité. Il explique son choix professionnel dans une série de messages:
 
 > Étant donné que j'ai toujours été pauvre et que je persiste obstinément dans la "voie difficile", j'ai abandonné la médecine et suis devenu investisseur. Je gagne beaucoup d'argent, mais je ne trompe la bonne foi de personne. Je n'ai plus de licence, je ne suis pas un "docteur", mais je suis honnête.
 > J'ai déjà été le meilleur des meilleurs, mais pauvre. Maintenant, je suis méconnu (ce qui est génial), mais riche. Je préserve mon honneur et ma droiture, je ne fais que spéculer sur le marché financier, ce qui n'est pas un péché, je prends l'argent de ceux qui en ont et qui ne savent pas quoi en faire.
 
-Ainsi, il professe une sorte de cynisme naïf tout en laissant entendre qu'il a abandonné le "chemin difficile" de l'honnêteté, affirmant clairement ses limites éthiques et demandant pardon pour son indulgence sur le marché financier ("Je ne trompe personne", "je suis honnête", "(...) je spécule (...), ce qui n'est pas un péché"). Il prétend être né le 30 juillet 1978. Son lieu d'origine est inconnu (également au Brésil, mais où exactement ?) et il réside également à Hy-Brasil. De manière mystérieuse, il déclare occuper un poste lié à la médecine là-bas, comme indiqué sur son profil sur [Academia.edu][ac].
+Ainsi, il professe une sorte de cynisme naïf tout en laissant entendre qu'il a abandonné le "chemin difficile" de l'honnêteté, affirmant clairement ses limites éthiques et demandant pardon pour son indulgence sur le marché financier ("Je ne trompe personne", "je suis honnête", "(...) je spécule (...), ce qui n'est pas un péché"). Il prétend être né le 30 juillet 1978. Son lieu d'origine est inconnu (également au Brésil, mais où exactement?) et il réside également à Hy-Brasil. De manière mystérieuse, il déclare occuper un poste lié à la médecine là-bas, comme indiqué sur son profil sur [Academia.edu][ac].
 
 > João Calangro occupe la chaire Iemanjá de Professeur de Méta-oncologie à la Royal Medical Academy
 ou

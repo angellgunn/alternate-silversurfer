@@ -35,7 +35,7 @@ P. Luisi将生物学界最初和长期对"自构性"概念的接受不足归因�
 
 [![佩德罗·贝尔特朗 (Pedro Beltrão) 的画像](/img/bio_hype.jpg)][biohype]
 
-1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
+1. Biology of Cognition. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
 2. Bunnell P. & Riegler A. (2011) Maturana across the disciplines. Constructivist Foundations 6(3): 287–292. http://constructivist.info/6/3/287
 3. Varela, F, Maturana H, Uribe R (1974) Autopoiesis: the organization of living systems, its characterization and a model. BioSystems 5:187–195
 4. Fanaya, Patricia M. S. Fonseca. Autopiesis, semiosis and translation: pathways to subjectivity in digital networks. 2014. 152 f. Thesis (Doctorate in Communication) - Pontifical Catholic University of São Paulo, São Paulo, 2014.
