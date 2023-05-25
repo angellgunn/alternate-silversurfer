@@ -25,15 +25,15 @@ Facebook-Cambridge Analytica数据丑闻只是[算法偏见][vies]广泛存在�
 3. Magnani, Lorenzo; Bertolotti, Tommaso (2011). "Bolhas Cognitivas e Firewalls: Imunizações Epistêmicas no Raciocínio Humano". Proceedings of the Annual Meeting of the Cognitive Science Society. 33 (33).
 
 [pariser]: https://en.wikipedia.org/wiki/Eli_Pariser
-[bolha]: https://en.wikipedia.org/wiki/Filter_bubble
-[algoritmo]: https://en.wikipedia.org/wiki/Online_algorithm
-[wylie]: https://en.wikipedia.org/wiki/Christopher_Wylie
-[analytica]: https://en.wikipedia.org/wiki/Cambridge_Analytica
-[brexit]: https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
-[echo]: https://en.wikipedia.org/wiki/Echo_chamber_(media)
+[bolha]: https://zh.wikipedia.org/wiki/%E9%81%8E%E6%BF%BE%E6%B0%A3%E6%B3%A1
+[algoritmo]: https://zh.wikipedia.org/wiki/%E7%B7%9A%E4%B8%8A%E6%BC%94%E7%AE%97%E6%B3%95
+[wylie]: https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97%C2%B7%E6%80%80%E5%88%A9
+[analytica]: https://zh.wikipedia.org/wiki/%E5%8A%8D%E6%A9%8B%E5%88%86%E6%9E%90%E5%85%AC%E5%8F%B8
+[brexit]: https://zh.wikipedia.org/wiki/%E8%8B%B1%E5%9C%8B%E5%8E%BB%E7%95%99%E6%AD%90%E7%9B%9F%E5%85%AC%E6%8A%95
+[echo]: https://zh.wikipedia.org/wiki/%E8%BF%B4%E8%81%B2%E5%AE%A4%E6%95%88%E6%87%89
 [rct]: https://en.wikipedia.org/wiki/Realistic_conflict_theory
-[campbell]: https://en.wikipedia.org/wiki/Realist
-[soma-zero]: https://en.wikipedia.org/wiki/Zero-sum_game
+[campbell]: https://en.wikipedia.org/wiki/Donald_T._Campbell
+[soma-zero]: https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88
 [tribalismo]: https://en.wikipedia.org/wiki/Tribalism
 [grafico]: https://en.wikipedia.org/wiki/Social_graph
 [vies]: https://en.wikipedia.org/wiki/Algorithmic_bias

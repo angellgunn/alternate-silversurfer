@@ -22,5 +22,5 @@ keywords: 比特币，能源，权力下放，他不
 [post]: https://think.ing.com/opinions/why-bitcoin-transactions-are-more-expensive-than-you-think
 [indice]: https://digiconomist.net/bitcoin-energy-consumption
 [block]: {{< relref "disi.zh.md">}}
-[moore]: https://en.wikipedia.org/wiki/Moore%27s_law
-[energia]: https://en.wi
+[moore]: https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B
+[energia]: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%83%BD%E6%BA%90%E6%B6%88%E8%80%97%E9%87%8F

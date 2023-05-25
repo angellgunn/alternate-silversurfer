@@ -19,4 +19,4 @@ Hoje, vejo com mais clareza o assunto e, mesmo sem ter um conhecimento formal so
 
 Há mais, porém: nunca acreditei a sério no bem e no mal universais, mas não somente acredito como temo o mal de que o ser humano é capaz. E, na minha visão, muito do que está por trás do preconceito e da tentativa de controlar os outros é o mal da humanidade, pura e simplesmente. Eu prefiro ser bom, e não ter preconceito, e apoiar a ideologia de gênero.
 
-![equality](http://dralisonblock.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-07-at-9.19.04-AM.png)
+![equality](/img/equality.png)

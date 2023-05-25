@@ -23,4 +23,4 @@ Minha proposta é que o valor bloqueado no BTC seja na verdade essa energia, o v
 [indice]: https://digiconomist.net/bitcoin-energy-consumption
 [block]: {{< relref "quarta.pt-br.md">}}
 [moore]: https://en.wikipedia.org/wiki/Moore%27s_law
-[energia]: https://en.wi
+[energia]: https://en.wikipedia.org/wiki/World_energy_supply_and_consumption

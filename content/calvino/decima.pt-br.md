@@ -1,12 +1,9 @@
 ---
 Author: "bcalvino"
-title: "
-
-O que é economia ecológica?"
+title: "O que é economia ecológica?"
 date: 2019-12-02T13:00:00-00:00
-keywords: 
+keywords: economia ecológica, sustentabilidade, rendimento máximo sustentável, equilíbrio semi-estável, capacidade de suporte
 ---
-
 
 _É um estudo ambientalmente direcionado das atividades econômicas, com foco na sustentabilidade._ Embora a resposta fácil não esteja totalmente errada, também não está totalmente certa. Na verdade, a economia ecológica é um campo multidisciplinar (ou seja, muitas disciplinas diferentes se misturam a ele) que estuda a economia como um subsistema das ciências naturais aplicadas, vis a vis a ecologia, mas também a biologia, a química e, finalmente, a física. E tem uma participação considerável em matemática, filosofia, sociologia, antropologia, política e um monte de campos.
 
@@ -23,9 +20,9 @@ A maneira mais simples de modelar o MSY é modificar uma equação logística pa
 
 Novamente, essa abordagem simplista não inclui as complexidades da interação social. Cavalcanti insistiu que o _bem-estar_ das populações humanas deve ser considerado em qualquer teoria bem-sucedida de economia sustentável [7]. A economia ecológica é um campo multidisciplinar novo e crescente, e já impulsionou uma série de modificações na forma como percebemos e nos relacionamos com o meio ambiente como sociedade e como espécie econômica.
 
-## Referências:
+### Referências:
 
-1.Georgescu-Roegen, N. 1971, The Entropy Law e the Economic Process, Harvard Universidade Press.
+1. Georgescu-Roegen, N. 1971, The Entropy Law e the Economic Process, Harvard Universidade Press.
 
 2. Passet, R. 1979, L’Économique et le Vivant, 2nd ed. 1996, Economica, Paris.
 
@@ -38,3 +35,7 @@ Novamente, essa abordagem simplista não inclui as complexidades da interação 
 6. Clark, C.W. (1990), Mathematical Bioeconomics: The Optimal Management of Renewable Resources, 2nd ed. Wiley-Interscience, New York
 
 7. Cavalcanti. C. (2010) Conceptions of Ecological Economics: its Relationship with Mainstream and Environmental Economics. Estudos Avançados. 24 (68): 53
+
+Versão acadêmica deste texto:
+
+Calvino, Baldolino and Gunn, Angell, What is Ecological Economics? (December 2, 2019). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4353008

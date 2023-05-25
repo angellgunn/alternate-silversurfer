@@ -30,7 +30,7 @@ O escândalo de dados do Facebook-Cambridge Analytica é apenas o arauto de uma 
 [brexit]: https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
 [echo]: https://en.wikipedia.org/wiki/Echo_chamber_(media)
 [rct]: https://en.wikipedia.org/wiki/Realistic_conflict_theory
-[campbell]: https://en.wikipedia.org/wiki/Realist
+[campbell]: https://en.wikipedia.org/wiki/Donald_T._Campbell
 [soma-zero]: https://en.wikipedia.org/wiki/Zero-sum_game
 [tribalismo]: https://en.wikipedia.org/wiki/Tribalism
 [grafico]: https://en.wikipedia.org/wiki/Social_graph

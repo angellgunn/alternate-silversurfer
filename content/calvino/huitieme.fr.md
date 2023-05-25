@@ -24,16 +24,16 @@ Le scandale des données Facebook-Cambridge Analytica n'est que le précurseur d
 2. Sherif, M.; Harvey, O.J.; White, B.J.; Hood, W. & Sherif, C.W. (1961). Conflito e Cooperação Intergrupal: O Experimento da Caverna dos Ladrões. Norman, OK: The University Book Exchange.
 3. Magnani, Lorenzo; Bertolotti, Tommaso (2011). "Bolhas Cognitivas e Firewalls: Imunizações Epistêmicas no Raciocínio Humano". Proceedings of the Annual Meeting of the Cognitive Science Society. 33 (33).
 
-[pariser]: https://en.wikipedia.org/wiki/Eli_Pariser
-[bolha]: https://en.wikipedia.org/wiki/Filter_bubble
-[algoritmo]: https://en.wikipedia.org/wiki/Online_algorithm
-[wylie]: https://en.wikipedia.org/wiki/Christopher_Wylie
-[analytica]: https://en.wikipedia.org/wiki/Cambridge_Analytica
-[brexit]: https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum
-[echo]: https://en.wikipedia.org/wiki/Echo_chamber_(media)
+[pariser]: https://fr.wikipedia.org/wiki/Eli_Pariser
+[bolha]: https://fr.wikipedia.org/wiki/Bulle_de_filtres
+[algoritmo]: https://fr.wikipedia.org/wiki/Algorithme_online
+[wylie]: https://fr.wikipedia.org/wiki/Christopher_Wylie
+[analytica]: https://fr.wikipedia.org/wiki/Cambridge_Analytica
+[brexit]: https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_sur_l%27appartenance_du_Royaume-Uni_%C3%A0_l%27Union_europ%C3%A9enne
+[echo]: https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)
 [rct]: https://en.wikipedia.org/wiki/Realistic_conflict_theory
-[campbell]: https://en.wikipedia.org/wiki/Realist
-[soma-zero]: https://en.wikipedia.org/wiki/Zero-sum_game
+[campbell]: https://fr.wikipedia.org/wiki/Donald_Campbell_(psychologue)
+[soma-zero]: https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle
 [tribalismo]: https://en.wikipedia.org/wiki/Tribalism
 [grafico]: https://en.wikipedia.org/wiki/Social_graph
-[vies]: https://en.wikipedia.org/wiki/Algorithmic_bias
+[vies]: https://fr.wikipedia.org/wiki/Biais_algorithmique
