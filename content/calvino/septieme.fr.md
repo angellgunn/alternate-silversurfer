@@ -2,7 +2,7 @@
 author: "bcalvino"
 title: "Bitcoin est de l'énergie"
 date: 2018-03-16T13:00:00-00:00
-keywords: bitcoin, énergie, décentralisation, il n'en a pas
+keywords: bitcoin, énergie, décentralisation, il non
 ---
 
 Alors, le Bitcoin (BTC) gaspille une énorme quantité d'électricité. Un titre devenu une nouvelle mondiale indique qu'une seule transaction BTC consomme autant d'énergie qu'une maison moyenne en un mois. Ces informations proviennent d'un [article][post] de 2017 de l'économiste en chef de la banque néerlandaise ING, Teunis Brosens. Il a basé son opinion sur l'[indice de consommation d'énergie du Bitcoin de Digiconomist][indice]. Selon cette source, une seule transaction BTC utilise plus de 200 kWh, en utilisant la puissance de hachage totale du BTC et en supposant que la plupart des mineurs utilisent le même type de machine pour effectuer les calculs. Est-ce vraiment beaucoup ? Pour comparer, l'auteur partage sa consommation domestique hebdomadaire : 45 kWh. Apparemment, c'est beaucoup. De plus, il affirme qu'un réseau de paiement traditionnel (VISA) utilise une fraction très faible de cette énergie (0,01 kWh) par transaction.

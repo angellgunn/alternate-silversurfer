@@ -2,7 +2,7 @@
 title: "La technologie blockchain"
 author: "bcalvino"
 date: 2017-12-01T23:04:12-03:00
-keywords: blockchain, science, science ouverte, confiance, examen par les pairs, financement de la recherche, conflit d'intérêts, foraTemer
+keywords: blockchain, science, science ouverte, confiance, examen par les pairs, financement de la recherche, conflit d'intérêts, hors Temer
 ---
 
 Dans ce nouveau post, nous allons parler de l'utilisation possible de la technologie blockchain dans la communication scientifique. J'ai découvert sur Twitter un [article](https://bit.ly/AltSilverSurfer4) publié sur le blog d'actualités de _Digital Science_, qui parle du potentiel de la technologie blockchain dans la recherche scientifique. [**Digital Science & Research**](https://digital-science.com) est une entreprise fondée par l'anglais Timmo Hannay et exploitée par le grand groupe éditorial Holtzbrinck, qui contrôle certaines des plus grandes maisons d'édition du monde, telles que Springer Nature et MacMillan. Après avoir travaillé chez Nature, fondé et dirigé Digital Science et Overleaf, Hannay aide maintenant à diriger SAGE. Autrement dit, c'est un jeu de géants.

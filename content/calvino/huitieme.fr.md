@@ -1,8 +1,8 @@
 ---
 author: "bcalvino"
-title: "Profecia cumprida"
+title: "Prophétie accomplie"
 date: 2018-12-20T13:00:00-00:00
-keywords: algoritmo, liberdade, preconceito, internet, bolha, Cambridge Analytica, eleNao
+keywords: algorithme, liberté, préjugé, internet, bulle, Cambridge Analytica, il non
 ---
 
 Cette année, une prophétie s'est réalisée. En 2011, [Eli Pariser][pariser], auteur, activiste, entrepreneur, a publié un best-seller du New York Times intitulé _The Filter Bubble: What the Internet Is Hiding from You_. Il a introduit ce nouveau concept de *[bulle de filtre][bolha]* créée par les algorithmes des services de médias Internet. Il a prédit que ce phénomène nuirait à la société, à la démocratie et finalement à l'humanité dans son ensemble. Cela s'est déjà produit. En mars, [Christopher Wylie][wylie] a divulgué des documents de son ancien employeur, la société [Cambridge Analytica][analytica], qui ont révélé une opération secrète visant à utiliser les données personnelles de millions d'utilisateurs de Facebook pour influencer les élections aux États-Unis et potentiellement les processus de vote dans le monde entier, comme le [référendum sur le Brexit][brexit].
