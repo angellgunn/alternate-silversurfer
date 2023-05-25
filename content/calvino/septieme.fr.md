@@ -21,6 +21,6 @@ Ma proposition est que la valeur verrouillée dans le BTC soit en réalité cett
 
 [post]: https://think.ing.com/opinions/why-bitcoin-transactions-are-more-expensive-than-you-think
 [indice]: https://digiconomist.net/bitcoin-energy-consumption
-[block]: {{< relref "quarta.pt-br.md">}}
+[block]: {{< relref "quatrieme.fr.md">}}
 [moore]: https://en.wikipedia.org/wiki/Moore%27s_law
 [energia]: https://en.wi
