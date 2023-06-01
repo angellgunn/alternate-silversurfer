@@ -9,17 +9,17 @@ keywords: vie, mort, éternité, âme
 
 Le 13 février 2007, j'ai commencé à écrire des textes motivé par une profonde angoisse existentielle découlant du fait que j'avais (apparemment) perdu la foi en quoi que ce soit. Cherchant, raisonnant, écrivant, prenant note de ce que je voyais ou entendais, j'ai créé quelque chose qui pourrait peut-être être qualifié de journal. Le nom que je lui donne découle de ma condition actuelle de nouvellement inclus parmi les rangs de l'athéisme. Pour les religieux, je préviens que mon blog ne sera pas agréable, et ma (in)décision ne sera guère réversible. Pour les athées également, je ne peux pas promettre de satisfaction intellectuelle, car ma condition est probablement trop transitoire pour me considérer parmi eux pendant longtemps. Je commencerai à transcrire des textes à partir de février 2007, en plus d'écrire de nouveaux textes.
 
-# 13 février
+# 13 février 2007
 
 ...et puis j'ai écrit les premiers mots. Me voici, il est presque minuit, allongé, commençant pour la première fois un 'journal'. Pourquoi un journal? Pourquoi pas un blog? Pourquoi pas un fichier sur mon ordinateur? Parce que... c'est justement pour expliquer les RAISONS pour lesquelles j'ai commencé ce journal. Et je l'ai imaginé pour la première fois avec ces pages, cette encre noire et cette écriture désordonnée. Écrire a une magie qui sera difficilement égalée par la frappe au clavier. Et tout le monde tape aujourd'hui... Je ne suis pas écrivain, ce n'est pas un livre, ni une œuvre d'art en aucun genre. C'est simplement une réflexion, matérialisée dans cette forme spécifique de pages blanches lignées et d'encre noire. C'est tout. Bien que je comprenne seulement superficiellement POURQUOI un journal écrit, je sais très bien POURQUOI l'écrire. La question fondamentale est que je suis enfin devenu pleinement et véritablement ATHÉE. Pour reprendre les mots de Nietzsche, 'j'ai tué Dieu'. Je ne peux pas accepter ou croire aux concepts religieux généraux d'une vie après la mort, deus ex machina, jugement, paradis, enfer, etc. Cela me perturbe profondément. Cependant, pour l'instant, je suis trop fatigué et ma source de lumière (le téléphone portable) se décharge. Demain, je continuerai là où nous nous sommes arrêtés...
 
-# 14 février
+# 14 février 2007
 
 Je me réveille à 6h00. La nuit n'a pas été très bonne. Ma femme s'est réveillée en pleine nuit avec un terrible mal de tête. Ma fille s'est réveillée en toussant beaucoup. Les actualités parlent de violence et montrent un corps enveloppé dans un drap. Je voulais épargner à mes filles ces choses-là, mais elles sont présentes à tout moment!
 
 Il est presque 22h00, et je suis de garde à l'hôpital. Les mêmes pensées me hantent. Ne sommes-nous que des horloges qui, un jour, perdront leur ressort et cesseront de marquer le temps? Je le pense, et je ne peux plus me convaincre du contraire. Ce matin, ma plus jeune fille a pleuré pour que je reste avec elle. Je lui ai dit de rejoindre le groupe pendant que je les observais de loin. Après des funérailles improvisées pour un insecte mort organisées par l'enseignant, elle s'est séparée du groupe et est retournée en classe avec un visage triste, évidemment à ma recherche. Je l'ai appelée. Instantanément, elle s'est calmée, et notre au revoir s'est passé sans pleurs ni traumatisme. C'est pourquoi je ne mens jamais à mes enfants. C'est pourquoi je ne les menace jamais de les abandonner, en plaisantant ou pour obtenir leur obéissance. C'est pourquoi je crois que tout ce dont elle a besoin de notre part, c'est de la sécurité et de la patience. C'est pourquoi je pense que ces moments-ci sont et seront les plus proches que je pourrai jamais approcher du bonheur et de l'éternité.
 
-# 16 février
+# 16 février 2007
 
 Aujourd'hui, j'ai quitté précipitamment l'infirmerie, laissant la troupe de philosophes et thérapeutes de mon inconscient/conscient (actuellement composée de Schopenhauer, Nietzsche et Freud) prendre les commandes, et je suis allé au carnaval de la crèche de mes filles.
 
@@ -59,13 +59,13 @@ La beauté très lumineuse.)
 
 - Auteur inconnu, enregistré par Eithne Patricia Ní Bhraonáin (Enya)
 
-# 18 février
+# 18 février 2007
 
 Jour de congé, sauf pour aller au zoo l'après-midi. Nous avons failli ne pas entrer. Les filles ont adoré, bien sûr.
 
 J'ai recommencé à lire la physique quantique. Mais cette fois, cela ne me calme pas comme avant. Contempler le multivers ne soulage pas le Néandertalien piqué par les philosophes. À quoi bon un univers immortel et infini? Si cela existe vraiment, qui sait vraiment.
 
-# 19 février
+# 19 février 2007
 
 Plage. Que du bonheur.
 
@@ -76,7 +76,7 @@ J'ai cherché "preuve de vie après la mort" sur Google. Mon obsession continue.
 
 Quelqu'un a publié sa "preuve logique" de la vie après la mort sur internet. Le problème est que cette preuve repose sur au moins trois dogmes a priori qui ne peuvent être prouvés et sur notre manque de connaissance de la nature de la conscience. En fait, c'est le dernier bastion du Néandertal: qu'est-ce que la conscience? Quand commence-t-elle? Quand se termine-t-elle?
 
-# 20 février
+# 20 février 2007
 
 Journée de fainéantise et centre commercial.
 
@@ -89,7 +89,7 @@ Autre chose, l'une des principales critiques actuelles est que le petit effet ap
 
 Actuellement, il y a plusieurs centaines de petites expériences de Ganzfeld réalisées par très peu de groupes expérimentaux inclus dans les méta-analyses. Je pense que tout petit effet observé dans ce scénario parle davantage de la relation entre l'être humain et les statistiques, ainsi que de notre mauvaise utilisation de celles-ci. En tant qu'oncologue, il m'est courant de constater d'importants effets de nouveaux traitements dans de petites études, qui s'estompent dans des travaux de plus grande envergure.
 
-# 20 février
+# 20 février 2007
 
 ## 20h00
 
@@ -190,7 +190,7 @@ J'avais ce disque...
 
 Lacan disait que le meilleur âge de l'être humain est lorsque nous avions 3 ans.
 
-# 23 février
+# 23 février 2007
 
 J'admet une petite fille de 6 ans en crise de myasthénie grave et avec une pneumonie - je suis préoccupé par son état.
 
@@ -214,7 +214,7 @@ Toujours, toujours, je me souviens de ma femme et de l'opportunité unique et in
 
 - Nietzsche
 
-# 24 février
+# 24 février 2007
 
 > (...) What if god was one of us
 
@@ -236,7 +236,7 @@ Toujours, toujours, je me souviens de ma femme et de l'opportunité unique et in
 
 (One of Us, Relish, paroles et musique d'Eric Bazilian)
 
-# 25 février
+# 25 février 2007
 
 James Cameron va sortir demain un documentaire et un livre "prouvant" qu'un site archéologique découvert près de Jérusalem il y a 36 ans contient les restes de Jésus, Marie, Marie-Madeleine, ainsi que Judas, le fils de Jésus et de Madeleine.
 
@@ -244,15 +244,15 @@ En dehors de preuves peu probables, quand il y a de l'argent en jeu, toutes sort
 
 Remarque: Presque à Pâques? Quelle coïncidence!
 
-# 26 février
+# 26 février 2007
 
 Faites de chaque contact avec un autre être humain une occasion digne d'être mémorisée.
 
-# 27 février
+# 27 février 2007
 
 Commentaire sur l'intelligence humaine et ses racines biologiques: après tout, les cafards prennent aussi des décisions...
 
-# 4 mars
+# 4 mars 2007
 
 Vous devez toujours être prêt à mourir, non seulement aujourd'hui, mais maintenant! C'est la seule liberté qui nous est possible.
 
@@ -333,7 +333,7 @@ En revenant au destin et à la médecine basée sur des preuves, évidemment lor
 Aux spiritualistes : maintenant que ces caractéristiques de l'esprit humain ont été "volées" à
 l'âme pour être placées dans le cerveau physique, que devient notre capacité intuitive dans la vie après la mort ? L'âme a-t-elle aussi un inconscient ?
 
-# 18 de março de 2007
+# 18 mars 2007
 
 Tout ce que nous faisons, disons, changeons ne changera jamais notre destin final, ni n'aura de signification pour nous ou pour ceux que nous aimons. Un jour, tôt ou tard, tout ce que nous sommes, accomplissons et rêvons n'aura plus aucun sens pour personne.
 Alors pourquoi vivre, si la mort est notre destin ?
@@ -349,7 +349,7 @@ Les spirites : lorsque l'humanité finira enfin, que deviendront les âmes humai
 
 Je ne crois pas au paradis, au ciel, à la récompense céleste pour les justes, mais je crois en l'enfer : il existe dans la tête, dans l'esprit des personnes perverses et malades.
 
-# 26/03/2007
+# 26 mars 2007
 
 Nous ne sommes que nous-mêmes, la seule chose que nous pouvons être, vrais ou non, bons ou mauvais, simplement nous.
 
@@ -366,7 +366,7 @@ NOUS PENSONS ensuite que nous voulons rester jeunes pour toujours, pour que la v
 
 Et pourtant, nous mourrons.
 
-# 28/03/2007
+# 28 mars 2007
 
 Notre existence étant éphémère, notre anéantissement inévitable, notre nature égoïste, le temps irrécupérable, cela vaut-il la peine de croire en l'altruisme, en toute forme de bonté et de gratuité ?
 Pour moi, la réponse est catégoriquement OUI !
