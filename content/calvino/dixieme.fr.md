@@ -1,6 +1,6 @@
 ---
 Author: "bcalvino"
-title: "Qu'est-ce que l'économie écologique ?"
+title: "Qu'est-ce que l'économie écologique?"
 date: 2019-12-02T13:00:00-00:00
 keywords: économie écologique, durabilité, rendement maximal durable, équilibre semi-stable, capacité de charge
 ---
