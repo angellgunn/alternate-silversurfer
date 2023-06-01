@@ -1,8 +1,8 @@
 ---
 author: "jcalangro"
-title: "Desperdício inteligente"
+title: "déchets intelligents"
 date: 2018-02-24T23:04:12-03:00
-keywords: patologia, câncer, reconhecimento de padrões, metologia científica, ética científica, cortes no orçamento, C&T, foraTemer
+keywords: pathologie, cancer, reconnaissance des formes, méthodologie scientifique, éthique scientifique, coupes budgétaires, S&T, hors de Temer
 ---
 
 Mon ami Silver Surfer m'a invité à écrire un billet sur son blog perdu dans les confins du réseau. Pourquoi ai-je décidé d'accepter? Pour reprendre les mots de Sabine Hossenfelder, "pour préserver ma santé mentale". Il est probable que j'aie besoin d'écrire de nombreux autres billets, si j'en ai l'occasion, afin d'y parvenir.

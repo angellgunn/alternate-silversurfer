@@ -2,7 +2,7 @@
 title: "Épistémologie de l'objectivité"
 author: "aconselheiro"
 date: 2018-01-12T23:04:12-03:00
-keywords: épistémologie, Maturana, philosophie, modernité liquide, hors Temer
+keywords: épistémologie, Maturana, philosophie, modernité liquide, hors de Temer
 ---
 
 Nos précédents messages portaient sur la technologie et étaient en accord avec l'impulsion initiale de créer un nouveau canal de communication ici, aux confins du réseau mondial, où personne ne nous entendra (ne lira). Peu importe, l'objectif principal de ce canal, en dehors de ne pas avoir d'objectif particulier, était simplement de jeter ces idées au vent et de les laisser au gré du flux d'informations du réseau. Les statistiques pures et simples nous disent que la probabilité pour qu'une personne en particulier tombe aléatoirement sur ces lignes et les lise est infime, en particulier en l'absence d'une diffusion systématique sur les réseaux sociaux, comme c'est la norme de nos jours. Ainsi, l'acte pur d'écrire et l'exposition (pseudo) de le faire sur un canal libre et public sont les fétiches qui nous motivent.

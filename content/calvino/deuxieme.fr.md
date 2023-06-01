@@ -2,7 +2,7 @@
 title: "Intégration continue avec Bitbucket"
 author: "bcalvino"
 date: 2017-11-01T23:04:12-03:00
-keywords: Hugo, Bitbucket, git, deploy, intégration continue, thème, hors Temer
+keywords: Hugo, Bitbucket, git, deploy, intégration continue, thème, hors de Temer
 ---
 
 Dans ce deuxième billet, je vais décrire le processus d'intégration continue avec Bitbucket, qui me permet, par exemple, d'écrire ce texte directement dans l'interface du navigateur web. Bitbucket, le référentiel de contrôle de version de la grande entreprise Atlassian, dispose de sa propre solution d'intégration continue, _bitbucket-pipelines_. Sa configuration est essentiellement la même que d'habitude, en utilisant un fichier au format YAML.

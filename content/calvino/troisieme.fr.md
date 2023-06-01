@@ -2,7 +2,7 @@
 title: "Mort et vie du MacBook 2011"
 author: "bcalvino"
 date: 2017-11-07T23:04:12-03:00
-keywords: macbook pro, dGPU, arch linux, efi vars, force iGPU, hack of the year, hors Temer
+keywords: macbook pro, dGPU, arch linux, efi vars, force iGPU, hack of the year, hors de Temer
 ---
 
 Troisième publication: mon courageux _macbook pro 15' early 2011_ est décédé. Jour triste. Je l'ai acheté à l'Apple Store nationale en décembre 2011. Il a déjà enduré beaucoup de choses, y compris une chute qui a entraîné le remplacement de l'écran LCD. En 2013, le fameux problème de la carte graphique AMD (_discrete GPU, dGPU_) a frappé mon MBP pour la première fois. Sans aucune couverture de service après-vente (je n'ai pas souscrit à une extension de garantie, une erreur, et à l'époque, le rappel d'Apple n'avait pas encore commencé), et fuyant les prix exorbitants des nouveaux macbooks avec écran Retina (il était impossible d'en acheter un nouveau à l'époque), je n'avais d'autre choix que de payer l'équivalent de 800 dollars pour une nouvelle carte logique.

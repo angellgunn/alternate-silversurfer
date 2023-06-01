@@ -1,8 +1,8 @@
 ---
 author: "jcalangro"
-title: "Desperdício inteligente"
+title: "智能垃圾"
 date: 2018-02-24T23:04:12-03:00
-keywords: patologia, câncer, reconhecimento de padrões, metologia científica, ética científica, cortes no orçamento, C&T, foraTemer
+keywords: 病理学、癌症、模式识别、科学方法、科学伦理、预算削减、科学技术、特梅尔以外
 ---
 
 我的朋友银色冲浪者邀请我在他迷失在网络边缘的博客上写一篇文章。为什么我决定接受呢？引用Sabine Hossenfelder的话来说，"为了保持我的理智"。如果有机会的话，我可能需要写更多的文章来实现这一点。
