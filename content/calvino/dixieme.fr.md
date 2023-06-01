@@ -37,6 +37,6 @@ Encore une fois, cette approche simpliste ne tient pas compte des complexités d
 
 7. Cavalcanti. C. (2010) Conceptions of Ecological Economics: its Relationship with Mainstream and Environmental Economics. Estudos Avançados. 24 (68): 53
 
-Version académique de ce texte :
+Version académique de ce texte:
 
 Calvino, Baldolino and Gunn, Angell, What is Ecological Economics? (December 2, 2019). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4353008

@@ -19,7 +19,7 @@ You can use this theme either for your blog or your personal website. A demo is 
 
 ## Features
 
-Simple but complete, here are the main features of this theme :
+Simple but complete, here are the main features of this theme:
 
 * Possibility to have sections with a header and a list of articles.
 * Possibility to have single pages.
@@ -31,7 +31,7 @@ Simple but complete, here are the main features of this theme :
 
 #### Typography
 
-The **typography** is what makes Cocoa-EH look cool, here are the fonts used :
+The **typography** is what makes Cocoa-EH look cool, here are the fonts used:
 
 * *Nexa Bold* for the blog name, a strong and opinionated font
 * *Raleway* for the titles, light but clearly visible
@@ -40,19 +40,19 @@ The **typography** is what makes Cocoa-EH look cool, here are the fonts used :
 
 #### Blazing fast
 
-Everything is made here to make the theme **really fast** to load : inline CSS, deferred Javascript, fonts loaded in an asynchronous way with replacement fonts when they're not loaded, etc. ... Even with a GPRS connection, your blog is readable.
+Everything is made here to make the theme **really fast** to load: inline CSS, deferred Javascript, fonts loaded in an asynchronous way with replacement fonts when they're not loaded, etc. ... Even with a GPRS connection, your blog is readable.
 
 > With gzip enabled, this theme takes less than **400**ms to load entirely, and the content is readable at only **50**ms. Also scores 99/100 on Pagespeed.
 
 ### Differences from the original Cocoa
 
-This theme is less minimalist than the original Cocoa, with some new features :
+This theme is less minimalist than the original Cocoa, with some new features:
 
 * Displays a logo on the side of the header, and there is a title different from the author name.
 * Very modular with sections and single pages.
 * Group articles by month and year.
 * Progressive images.
-* Fonts are different : stronger and sharper, with a clear identity.
+* Fonts are different: stronger and sharper, with a clear identity.
 * The font size in articles is higher, the text justified and lines are more spaced.
 * More features.
 

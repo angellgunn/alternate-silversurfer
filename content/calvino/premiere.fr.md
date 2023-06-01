@@ -18,7 +18,7 @@ $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/maste
 $ brew install hugo
 ```
 
-J'ai choisi le thème parmi les [centaines][temas] disponibles et l'ai installé en téléchargeant le contenu du référentiel dans le dossier ```themes\cocoa-eh``` à l'emplacement que j'ai choisi pour héberger le code de la page. Étant donné que j'utilise le gestionnaire de versions [Git][git], j'ai initialisé un référentiel Git dans le dossier où je stocke les fichiers de la page, puis j'ai cloné le thème en tant que sous-module :
+J'ai choisi le thème parmi les [centaines][temas] disponibles et l'ai installé en téléchargeant le contenu du référentiel dans le dossier ```themes\cocoa-eh``` à l'emplacement que j'ai choisi pour héberger le code de la page. Étant donné que j'utilise le gestionnaire de versions [Git][git], j'ai initialisé un référentiel Git dans le dossier où je stocke les fichiers de la page, puis j'ai cloné le thème en tant que sous-module:
 
 ```git
 $ cd pasta
@@ -26,13 +26,13 @@ $ git init
 $ git submodule add https://github.com/fuegowolf/cocoa-eh-hugo-theme.git themes/cocoa-eh
 ```
 
-J'ai ajouté cette ligne dans le fichier ```config.toml``` :
+J'ai ajouté cette ligne dans le fichier ```config.toml```:
 
 ```bash
 $ echo 'theme = cocoa-eh' >> config.toml
 ```
 
-Ce fichier stocke les paramètres de configuration au format ```toml```. Le thème est livré avec un exemple qui peut être personnalisé :
+Ce fichier stocke les paramètres de configuration au format ```toml```. Le thème est livré avec un exemple qui peut être personnalisé:
 
 ```toml
 baseurl = "https://example.com/"
@@ -89,7 +89,7 @@ value = "#96c2d7"
 statement = "#ff8e91"
 ```
 
-Après avoir installé Hugo et téléchargé le thème, il suffit d'exécuter le code :
+Après avoir installé Hugo et téléchargé le thème, il suffit d'exécuter le code:
 
 ```golang
 $ hugo
@@ -98,14 +98,14 @@ $ hugo server
 
 Après avoir démarré le serveur, j'ai ouvert le navigateur sur http://localhost:1313 et la page était visible.
 
-Cependant, il manquait encore l'implémentation de la page sur un serveur. Plus précisément, je voulais utiliser [Bitbucket][bucket], et le service d'hébergement de code d'Atlassian sert du contenu statique à des adresses de type ```<utilisateur>.bitbucket.io```. Pour ce faire, j'ai créé un référentiel dans mon compte Bitbucket, en lui donnant le nom correspondant à la convention susmentionnée (le nom de la page). Ensuite, j'ai synchronisé l'origine avec la branche _master_ du référentiel local de la page :
+Cependant, il manquait encore l'implémentation de la page sur un serveur. Plus précisément, je voulais utiliser [Bitbucket][bucket], et le service d'hébergement de code d'Atlassian sert du contenu statique à des adresses de type ```<utilisateur>.bitbucket.io```. Pour ce faire, j'ai créé un référentiel dans mon compte Bitbucket, en lui donnant le nom correspondant à la convention susmentionnée (le nom de la page). Ensuite, j'ai synchronisé l'origine avec la branche _master_ du référentiel local de la page:
 
 ```git
 $ git remote add origin https://<usuário>@bitbucket.org/<usuário>/<usuário>.bitbucket.io.git
 $ git push -u origin master
 ```
 
-Étant donné que _seul le contenu du dossier **public**_ doit être servi, j'ai créé une nouvelle branche du référentiel en filtrant le dossier en question :
+Étant donné que _seul le contenu du dossier **public**_ doit être servi, j'ai créé une nouvelle branche du référentiel en filtrant le dossier en question:
 
 ```git
 $ git subtree split --branch deploy --prefix public/

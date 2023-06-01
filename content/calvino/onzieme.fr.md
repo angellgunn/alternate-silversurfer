@@ -9,7 +9,7 @@ Hannah Arendt, peut-être la philosophe la plus influente du XXe siècle, a ét�
 
 En tant que juive, elle ne voulait pas être appelée philosophe, mais théoricienne politique. Dans sa vie et son œuvre, elle a critiqué la démocratie représentative telle qu'elle est pratiquée aujourd'hui, défendant un modèle plus direct. Sa valeur principale était la liberté humaine en tant qu'antagoniste du totalitarisme, qu'il fallait combattre.
 
-À ce sujet, elle a écrit : "les membres fanatisés sont insensibles à l'expérience et à l'argumentation ; l'identification au mouvement et la conformité totale semblent avoir détruit la capacité même de ressentir, même face à des choses aussi extrêmes que la torture ou la peur de la mort".
+À ce sujet, elle a écrit: "les membres fanatisés sont insensibles à l'expérience et à l'argumentation ; l'identification au mouvement et la conformité totale semblent avoir détruit la capacité même de ressentir, même face à des choses aussi extrêmes que la torture ou la peur de la mort".
 
 Notre pays traverse un moment très critique de son histoire, qui pourrait avoir des répercussions sur l'histoire mondiale. Notre société donne naissance à un néofascisme, inspiré et influencé par le nazisme et d'autres mouvements du passé, mais encore plus radical, car il ne connaît pas de limites.
 

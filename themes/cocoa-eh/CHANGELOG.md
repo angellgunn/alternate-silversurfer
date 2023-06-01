@@ -2,21 +2,21 @@
 
 > v1.4.0
 
-- Add PR #48 : Fix the default archetype
-- Add PR #49 : Add an `align_left` option for left text alignment
+- Add PR #48: Fix the default archetype
+- Add PR #49: Add an `align_left` option for left text alignment
 - Add a `small_banner_logo` option to have a small logo on every page
 
 > v1.3.0
 
-- Add PR #47 : Redesign the 404 page
+- Add PR #47: Redesign the 404 page
 
 > v1.2.0
 
-- Add PR #39 : Add a URL for licence
-- Add PR #40 : Add a github repo for the blog
-- Add PR #38 : Add a HackerNews and lobste.rs link in metadatas
-- Add PR #41 : Add FB account in social links
-- Add PR #42 : Add the support for the comment framework Isso
+- Add PR #39: Add a URL for licence
+- Add PR #40: Add a github repo for the blog
+- Add PR #38: Add a HackerNews and lobste.rs link in metadatas
+- Add PR #41: Add FB account in social links
+- Add PR #42: Add the support for the comment framework Isso
 
 > v1.1.0
 

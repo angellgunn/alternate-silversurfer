@@ -10,7 +10,7 @@
 
             {{ if isset .Site.Params "latestpostcount" }}
                 <div class="posts">
-                {{ $nbPosts := len (where .Data.Pages "Section" "blog") }}
+                {{ $nbPosts:= len (where .Data.Pages "Section" "blog") }}
                 {{ if gt $nbPosts 0 }}
                     <div class="page-heading">Latest posts</div>
                     <ul>
@@ -30,7 +30,7 @@
             {{ end }}
 
             <div class="best-posts">
-            {{ $nbPosts := len (where .Data.Pages "Params.best" true) }}
+            {{ $nbPosts:= len (where .Data.Pages "Params.best" true) }}
             {{ if gt $nbPosts 0 }}
                 <div class="page-heading">Best posts</div>
                 <ul>

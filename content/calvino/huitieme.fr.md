@@ -19,7 +19,7 @@ Le [tribalisme culturel][tribalismo] peut générer un système persistant perç
 
 Le scandale des données Facebook-Cambridge Analytica n'est que le précurseur d'une ère potentiellement problématique de relations sociales à la suite du [biais généralisé des algorithmes][vies]. Nous pouvons anticiper que cette tendance se renforce et imprègne de nombreux niveaux d'organisation de la société. Cela érodera notre organisation sociale actuelle, nos institutions et semera le déséquilibre généralisé. En réalité, nous devrions vraiment en avoir peur. On peut prévoir des masses insurgées envahissant des espaces publics qui n'ont jamais été l'objet de conflits à cette époque moderne. J'espère sincèrement que cette sombre prédiction se révèlera complètement fausse, mais je recommande que des mesures soient prises dès maintenant pour éviter cette issue potentielle.
 
-### Références :
+### Références:
 1. Scoble, Robert e Shel Israel. 2006. Conversas Nuas, Hoboken, NJ: John Wiley & Sons.
 2. Sherif, M.; Harvey, O.J.; White, B.J.; Hood, W. & Sherif, C.W. (1961). Conflito e Cooperação Intergrupal: O Experimento da Caverna dos Ladrões. Norman, OK: The University Book Exchange.
 3. Magnani, Lorenzo; Bertolotti, Tommaso (2011). "Bolhas Cognitivas e Firewalls: Imunizações Epistêmicas no Raciocínio Humano". Proceedings of the Annual Meeting of the Cognitive Science Society. 33 (33).

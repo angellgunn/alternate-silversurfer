@@ -7,7 +7,7 @@ keywords: Hugo, Bitbucket, git, deploy, intégration continue, thème, hors Teme
 
 Dans ce deuxième billet, je vais décrire le processus d'intégration continue avec Bitbucket, qui me permet, par exemple, d'écrire ce texte directement dans l'interface du navigateur web. Bitbucket, le référentiel de contrôle de version de la grande entreprise Atlassian, dispose de sa propre solution d'intégration continue, _bitbucket-pipelines_. Sa configuration est essentiellement la même que d'habitude, en utilisant un fichier au format YAML.
 
-La structure de base du fichier _bitbucket-pipelines.yaml_ est simple :
+La structure de base du fichier _bitbucket-pipelines.yaml_ est simple:
 
 ```yaml
 image: andthensome/alpine-hugo-git-bash
@@ -20,7 +20,7 @@ pipelines:
             - hugo
 ```
 
-J'ai choisi cette image Docker en particulier car elle est basée sur Alpine Linux (et donc de taille minimale, seulement 5 Mo) et contient Hugo et Git. L'auteur de l'image l'a créée spécifiquement pour l'intégration continue avec Wercker. Dans mon cas, j'ai dû ajouter quelques petites choses supplémentaires :
+J'ai choisi cette image Docker en particulier car elle est basée sur Alpine Linux (et donc de taille minimale, seulement 5 Mo) et contient Hugo et Git. L'auteur de l'image l'a créée spécifiquement pour l'intégration continue avec Wercker. Dans mon cas, j'ai dû ajouter quelques petites choses supplémentaires:
 
 ```yaml
 pipelines:
@@ -48,4 +48,4 @@ En outre, il a fallu générer une paire de clés cryptographiques dans le menu 
 
 _Très, très simple !_ J'ai tout fait depuis une tablette ! Et l'intégration s'est faite à la vitesse de l'éclair, en moins de 15 secondes !
 
-P.S. : la seule limitation pour moi était qu'Alpine Linux n'a pas d'option pour configurer les _locales_, ce qui m'a empêché d'accentuer le titre de la page. Mais c'était juste ça. Les symboles et les accents à l'intérieur du texte des billets sont préservés.
+P.S.: la seule limitation pour moi était qu'Alpine Linux n'a pas d'option pour configurer les _locales_, ce qui m'a empêché d'accentuer le titre de la page. Mais c'était juste ça. Les symboles et les accents à l'intérieur du texte des billets sont préservés.
