@@ -280,3 +280,101 @@ Dans l'interview, Cameron déclare: 'La résurrection elle-même n'est pas remis
 Ils se moquent vraiment de l'Église catholique. Mais l'idée conserve une signification pour la réflexion: aurait-il un sens pour un dieu de 'mourir' (bien que, selon la Bible, il soit effectivement mort) et au lieu de ressusciter physiquement, il réapparaît uniquement en esprit et laisse un corps se décomposer et se transformer en os pour la postérité? Les os divins possèdent-ils des propriétés particulières? Et l'alternative, un dieu qui s'est fait chair (selon la doctrine), qui est réellement mort et a ressuscité cette chair, et avec son corps et tout, est monté au paradis. Que s'est-il passé avec le corps, la chair? Comme nous le savons, la chair vivante a la fâcheuse habitude de vieillir et de mourir. Est-il alors devenu immortel et reste-t-il vivant quelque part aujourd'hui (dans le monde spirituel?)? Peut-il y avoir une personne de chair et d'os dans l'au-delà? S'il est toujours vivant, peut-il mourir à nouveau? Le processus qui l'a empêché de vieillir ces derniers 2000 ans peut-il être appliqué à nous?
 
 Les notes des jours passés se poursuivent...
+
+# 06 mars 2007
+
+Fernando Portela Câmara écrit, dans le n° 7, volume 10, du Psychiatry on line Brasil, en juillet 2005 :
+
+> "Nous sommes le résultat inattendu de bonds qualitatifs. Dans toute la nature, en particulier dans le domaine biologique, nous percevons ces bonds et leurs traces dans toutes sortes de combinaisons de programmes, de comportements et de formes partout. La société humaine représente l'un de ces bonds et nous ne penserions pas, ne planifierions pas et peut-être même n'aurions pas le langage que nous avons et les moyens de communication si la vie en société ne nous poussait pas un peu plus vers la frontière du chaos."
+
+La théorie de la complexité explique-t-elle l'émergence de la conscience à partir des systèmes complexes ?
+Le psychiatre Eulen Bleuler a appelé "psychoides" toutes les manifestations vitales dotées d'analogies réelles avec les phénomènes psychiques. Pour lui, la psyché humaine serait un cas "psychoide" spécial.
+Des larmes sous la pluie...
+
+> "L'église dit que la Terre est plate, mais je sais qu'elle est ronde, car j'ai vu l'ombre sur la Lune, et j'ai plus confiance en une ombre qu'en l'église."
+
+- Fernão de Magalhães
+
+# 07 mars 2007
+
+> "Le monde est si exquis, avec tant d'amour et de profondeur morale, qu'il n'y a aucune raison de nous tromper avec de jolies histoires pour lesquelles il y a peu de bonnes preuves. Pour mieux nous semble-t-il, dans notre vulnérabilité, de regarder la mort en face et d'être reconnaissant chaque jour pour la brève mais magnifique opportunité que la vie nous offre."
+
+- Carl Sagan
+
+L'argument principal de notre finitude réelle et de l'absence de continuité après la mort est celui (à mon avis) qui parle de notre désir. Nous ne voudrions pas du tout mourir, c'est pourquoi nous voulons tellement voir des preuves de continuité. Rien dans ce climat ne peut être considéré comme objectif. Notre quête de vie après la mort, à travers la religion, la pseudo-science ou quoi que ce soit d'autre, sert avant tout à combler un besoin profond, pas à rechercher la vérité.
+La vérité est déjà là : si même l'Univers que nous connaissons va "mourir" un jour, comment osons-nous prétendre être immortels ?
+
+Des larmes sous la pluie...
+
+Plus de notes antérieures...
+
+# 8 mars 2007
+
+Qui sommes-nous ?
+
+En fin de compte, nous sommes capables d'être plus libidineux et violents que nos ancêtres et cousins ​​simiens eux-mêmes, sans jamais être capables de contempler la nature divine que nous avons créée et essayons d'inculquer aux choses, seulement à nous-mêmes, reflétés dans le miroir de toutes les choses, sans même pouvoir nous guider par notre supposée rationalité.
+
+Qu'est-ce qui nous différencie réellement ?
+
+Qu'est-ce qui nous rend uniques, s'il y en a ?
+
+LE RÊVE !
+
+(Un animal rêve-t-il ?)
+
+En réalité, les animaux (mammifères) ont également un sommeil paradoxal (REM) comme les humains, mais on ne sait rien du contenu. Je crois que probablement les animaux rêvent aussi, des rêves différents des nôtres, tout comme les rêves des jeunes enfants sont différents (plus simples). Après tout, la phylogénie montre qu'aucune capacité n'émerge "prête". Elle évolue et se "perfectionne" avec le temps.
+
+Cependant, lorsque je parle du rêve, ou du fait de rêver, je ne parle pas de la capacité biologique à créer ou construire un contenu mental "virtuel" pendant le sommeil ; il est clair qu'une telle capacité, basée sur les réseaux neuronaux existant dans nos cerveaux, n'est pas apparue chez l'être humain, mais est le fruit de l'évolution. Ainsi, même si l'être humain peut être capable d'une activité onirique radicalement différente de celle des autres animaux, il doit exister des "précurseurs" d'activité onirique, un contenu "oniroïde" même chez les mammifères primitifs et peut-être même chez les animaux précédemment placés dans l'échelle évolutive. Autrement dit, rêver est biologique, et tout ce qui est biologique n'est pas exclusivement notre particularité, mais le fruit d'une longue évolution, même nos esprits.
+
+Ce mécanisme de comparaison de similitude de motifs me rappelle le principe de similitude des homéopathes : _similia similibus curantur_. Peut-être que le goût humain pour cette pratique et d'autres pratiques non scientifiques est lié au mécanisme neuronal humain de reconnaissance des motifs. Comme l'art, elles nous "parlent"...
+
+En revenant au destin et à la médecine basée sur des preuves, évidemment lorsque je parle de ses concepts, c'est seulement en tant qu'analogie. Mais je crois que lorsque nous parlons du "destin" de quelqu'un, nous avons une idée bien objective (un motif), inconsciemment, de ce que nous voulons pour le patient. Autrement dit, notre concept "réel" de destin n'a rien de philosophique, c'est très pratique, même si nous n'en prenons pas conscience. Le destin, c'est la souffrance, la mort, dans le cas des patients. De même que pour les enfants (et pour la grande majorité des adultes), tout ce qui se déplace avec intention (ou apparemment, c'est-à-dire ce que nous comprenons comme intention) est vivant. Ainsi, inconsciemment, nous choisissons toujours des "résultats", nous construisons des "modèles" et nous recueillons des "preuves", de manière heuristique, non rationnelle. Souvent, même si nous arrivons rationnellement à une certaine conclusion, nous prenons une décision différente. C'est la base de ce que nous appelons l'intuition. C'est aussi la base de l'inconscient de Freud.
+
+Aux spiritualistes : maintenant que ces caractéristiques de l'esprit humain ont été "volées" à
+l'âme pour être placées dans le cerveau physique, que devient notre capacité intuitive dans la vie après la mort ? L'âme a-t-elle aussi un inconscient ?
+
+# 18 de março de 2007
+
+Tout ce que nous faisons, disons, changeons ne changera jamais notre destin final, ni n'aura de signification pour nous ou pour ceux que nous aimons. Un jour, tôt ou tard, tout ce que nous sommes, accomplissons et rêvons n'aura plus aucun sens pour personne.
+Alors pourquoi vivre, si la mort est notre destin ?
+
+Amor fati - aime ton destin !
+
+Carpe diem ! - profite du moment présent !
+
+Tout ce que nous sommes, accomplissons et rêvons a du sens maintenant ! Et c'est tout ce qui importe !
+La vie après la mort - si elle existe - ne serait qu'un triste réconfort. Et cela nous priverait de la douce irresponsabilité de l'effacement complet dans le futur.
+
+Les spirites : lorsque l'humanité finira enfin, que deviendront les âmes humaines ? Seront-elles améliorées ? Ou la théorie spirite exige-t-elle que l'humanité ne se termine jamais ?
+
+Je ne crois pas au paradis, au ciel, à la récompense céleste pour les justes, mais je crois en l'enfer : il existe dans la tête, dans l'esprit des personnes perverses et malades.
+
+# 26/03/2007
+
+Nous ne sommes que nous-mêmes, la seule chose que nous pouvons être, vrais ou non, bons ou mauvais, simplement nous.
+
+J'ai toujours eu ce sentiment de ne pas faire partie, de ne pas appartenir ici, de ne pas être connecté, d'être à part. Ce sont seulement mes filles qui m'ont fait me sentir différent.
+
+Un jour, je mourrai et tout ce que je suis disparaîtra sans laisser de trace. Un jour, tout ce que j'ai fait sera oublié et ma trace sera aussi anonyme que des empreintes dans le sable. Un jour, l'humanité elle-même disparaîtra pour toujours et je n'aurai plus de descendants sur Terre. Un jour, la Terre elle-même périra dans les flammes d'un soleil géant et jamais l'univers ne se souviendra qu'un jour l'humanité a existé.
+
+Drôle, tous ces faits sont plus certains que mon destin dans 5 minutes.
+Pourquoi ?
+
+Des forces aveugles nous ont conduits jusqu'ici, jusqu'au point de nous contempler nous-mêmes et l'univers dans toute sa splendeur ? Un ensemble d'équations sans conscience ? Est-il plus facile de croire en cela qu'en un dieu ? Non, ce n'est pas plus facile, en réalité, c'est simplement plus probable. Pourquoi croire en ce que nous voulons simplement parce que nous le voulons ? Ne serait-il pas plus honnête d'ouvrir les yeux et de voir la vérité, aussi cruelle qu'elle puisse paraître ? Et, en outre, la vérité n'est pas cruelle, car la cruauté est une caractéristique humaine. La vérité peut être frustrante, mais pas cruelle. Cependant, cette frustration provient de nos attentes erronées. NOUS PENSONS que nous voulons vivre éternellement, mais ce n'est pas ce que nous voulons réellement. Qui voudrait vraiment vieillir pour toujours... ?
+
+NOUS PENSONS ensuite que nous voulons rester jeunes pour toujours, pour que la vieillesse ne nous vole pas notre vitalité, mais encore une fois, ce n'est pas ce que nous voulons. Imaginez la vie éternellement jeune. Nous aurions des enfants, des petits-enfants, des arrière-petits-enfants, et à un certain moment, nous ne pourrions plus nous occuper de nos descendants, ils perdraient leur signification pour nous. Alors nous passerions l'éternité stériles, à moins de revenir au début et d'avoir à nouveau des enfants, et notre vie éternelle serait un cycle éternel de recommencer au même point et de tout perdre à partir d'un certain moment. Imaginez quel amour pourrait réellement résister à l'éternité. Dans les histoires romantiques, la formule de l'éternité "et ils vécurent heureux pour toujours" est invariablement suivie de "FIN" et ensuite, le film se termine. Et dans les films et les romans spirites, la rencontre des âmes sœurs, toujours à la fin, juste avant le "fade out", se fait sous la forme d'une désincorporation éthérée en myriades de belles lumières. Personne qui admire les "fins heureuses" et nourrit l'espoir de la vie éternelle n'a jamais imaginé la ROUTINE ÉTERNELLE, j'en suis sûr. Quand j'étais enfant (l'âge où nous sommes les plus intelligents), cette idée me fascinait et me défiait : que fait-on pendant la VIE ÉTERNELLE ? La réponse catholique d'une contemplation éternelle de Dieu, statique, me remplissait d'horreur. Je pense que cela remplirait d'horreur n'importe quel enfant. Donc, en réalité, NOUS PENSONS que nous voulons la vie éternelle, mais logiquement, nous n'imaginons jamais ses conséquences les plus évidentes. Simplement, j'arrive à la conclusion, simplement nous ne voulons pas vieillir ni mourir. Nous sommes des êtres mortels qui hésitent à mourir.
+
+Et pourtant, nous mourrons.
+
+# 28/03/2007
+
+Notre existence étant éphémère, notre anéantissement inévitable, notre nature égoïste, le temps irrécupérable, cela vaut-il la peine de croire en l'altruisme, en toute forme de bonté et de gratuité ?
+Pour moi, la réponse est catégoriquement OUI !
+
+Dans certaines limites, car notre nature est clairement centrée sur nous-mêmes, comme elle doit l'être pour tout animal qui cherche à se préserver, je crois que le simple fait d'être en vie est quelque chose de merveilleux, de miraculeux. Pas dans le sens surnaturel, du miracle qui subvertit à notre gré les lois naturelles, mais un miracle du réel ! Simplement parce qu'il n'y a pas de magique et de surnaturel, nous ne devons pas mépriser la beauté transcendante de la réalité ! L'énorme cosmos rempli d'étoiles et de galaxies, le mystère et l'émerveillement de la matière noire et de l'énergie sombre éthérée. La quintessence récemment découverte. L'émergence subtile de la vie au milieu du chaos de la matière inorganique. L'explosion de complexité des formes de vie de plus en plus nombreuses et diverses. L'émergence de l'étincelle miraculeuse de la conscience de soi au cœur de réseaux neuronaux qui ont évolué pour refléter le monde et le connaître. Pourquoi ne parlons-nous plus des miracles qui nous entourent ? Ainsi, je pense que, en retour du merveilleux cadeau que nous avons reçu, notre vie, qu'il s'agisse d'un dieu ou d'une profonde force cosmique inconsciente de ce qui crée, devient très peu même si nous faisons tout le bien dont nous sommes capables dans cette vie. C'est presque une obligation, certainement un honneur et en réalité un grand plaisir, de passer toute la vie que nous avons à apporter bonté et gratuité à cette existence, à tous les êtres ! C'est une infime rétribution en échange de tout ce que nous avons reçu du fait d'être nés un jour. En dehors de cela, il en résulte également que, outre le don de la vie elle-même, tout ce que nous vivrons ou aurons de bon et de plaisant est un bonus, une récompense supplémentaire pour ceux qui ont déjà été récompensés. Ainsi, il vaut la peine de sortir de notre égoïsme naturel pour vivre ainsi, par la simple gratitude de vivre !
+
+Dans cette perspective, la mort annihilante perd de sa force et devient pâle, car elle est elle-même incapable de revenir en arrière et d'effacer la vie que nous avons vécue auparavant. La mort, en réalité, n'est qu'une partie de la vie, sa fin. Comme tout ce qui a un début, il doit nécessairement avoir une fin.
+
+# 09/12/2007
+
+Mourir, c'est revenir au début de tout...
