@@ -56,6 +56,10 @@ Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na f
 
 A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p]. Ele também tem um perfil na [Academia.edu][ac], onde ele publica artigos "quase" acadêmicos.
 
+O desenvolvimento mais recente de Calvino foi a criação de um avatar fotográfico feito por IA. Ele criou o prompt e escolheu a melhor das imagens que mais lhe agradava, que mais se parecia com o que ele mesmo imaginava de si (confesso que pensava nele de uma forma algo diferente). 
+
+![](/authors/bcalvino.jpg)
+
 ## João Calangro:
 
 Esse heterônimo surgiu há muito tempo, sem nome. Ele mesmo o escolheu, como afirmado em um post no Twitter:
