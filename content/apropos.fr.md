@@ -30,7 +30,7 @@ Mes hétéronymes suivent cette tradition de Pessoa, émergeant progressivement 
 
 Voici une liste des hétéronymes que j'ai créés ou découverts jusqu'à présent:
 
-## Baldolino Calvino:
+## Baldolino Calvino
 
 Son nom est évidemment inspiré du livre "Baudolino" d'Umberto Eco et de l'œuvre de l'écrivain Italo Calvino. Il ne pouvait donc pas être un personnage ordinaire. Plus qu'une compréhension en profondeur des sujets auxquels il s'attache, il les comprend dans une mutation continue et une interaction fluide avec de nombreux sujets apparemment non liés. Un "philosophe liquide", un citoyen du monde à la manière de Bauman. Voici ma première description de lui:
 
@@ -52,11 +52,17 @@ Passionné par la technologie de la blockchain et les cryptoactifs, il aurait pr
 
 En accord avec ce qui précède et faisant une allusion subtile à la culture pop, sous la forme d'une scène du film d'animation Shrek (celle où le miroir magique présente les princesses comme dans une émission de télé-réalité). J'imagine Baldolino comme une personne de genre fluide, à la peau claire, aux cheveux noirs, mesurant 1,80 m, pesant 75 kg, né le 1er avril 1990 dans la ville de Riacho das Almas (État de Pernambouc, Brésil), vivant depuis de nombreuses années à Hy-Brasil, où il réside au 101 Main Street (dans la ville elphinstonienne de St Brandons).
 
-![main street](/img/main.jpg)
+![Photo de la Villa Léandre, le Notting Hill de Montmartre, Paris](/img/main.jpg)
+_Rue principale de St. Brandons, sur l'île de São Brandão (Hy-Brasil)._
 
-Le compte de réseau social principal de Calvino est Twitter [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social décentralisé Lenster: [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (uniquement sur invitation pour le moment, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques.
+Le compte de médias sociaux principal de Calvino est sur Twitter, [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social "décentralisé" Lenster : [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (actuellement réservée sur invitation, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques, ainsi que sur la plateforme [SSRN][acs].
 
-## João calangro:
+La dernière évolution de Calvino a été la création d'un avatar photographique généré par IA. Il a fourni les instructions et a choisi la meilleure image parmi celles qui lui plaisaient le plus et qui ressemblaient le plus à son image de lui-même (j'avoue l'avoir imaginé quelque peu différemment).
+
+![](/authors/bcalvino.jpg)
+_Baldolino Calvino dans une région de l'île de São Brandão (Hy-Brasil) qui lui rappelle le Sertão de Pernambuco, sa terre natale._
+
+## João calangro
 
 Ce pseudonyme est apparu il y a très longtemps, sans nom. Il l'a choisi lui-même, comme il l'a affirmé dans un message sur Twitter:
 
@@ -79,9 +85,14 @@ ou
 
 Je l'imagine comme un homme mince, mesurant 1,69 m, avec des lunettes rondes, un menton fin, circonspect, un regard paisible et légèrement mélancolique. Il a perdu une partie de ses cheveux bruns foncés et aime porter des chapeaux. Oui, il me rappelle un peu Fernando Pessoa, mais en réalité, il ressemble davantage à Lampião.
 
+![João Calangro](/authors/jcalangro.jpg)
+_Dans cette photo manipulée par IA, João Calangro dit qu'il était lors d'un événement costumé, profitant de sa ressemblance fantomatique avec le bandit. "J'ai fait du cosplay en tant que cangaceiro", déclare-t-il. (Photo originale ci-dessous)_
+
+----
+
 ![Lampião](/img/lampiao.jpg)
 
-Le principal compte de réseau social de Calangro est sur Twitter [@joaocalangro][j], cependant, également en réaction à ce qu'il appelle le "chaos sur Twitter" d'Elon Musk, Calangro a réactivé son compte sur Pinterest [@neurooncologist][no]. Influencé par Calvino, il a créé un compte sur l'application prétendument décentralisée Phaver, avec le profil [@joaocalangro][p2].
+Le compte de médias sociaux principal de Calangro est sur Twitter [@joaocalangro][j], mais également, après ce qu'il appelle le "twitterchaos" d'Elon Musk, Calangro a réactivé son compte sur Pinterest, [@neurooncologist][no]. Influencé par Calvino, il a créé un compte sur l'application prétendument décentralisée Phaver, avec le profil [@joaocalangro][p2]. Il a également un profil sur la plateforme [OSF.io][osf].
 
 ## Jean Miséreux (John Pauper)
 
@@ -107,9 +118,26 @@ Sa silhouette est celle d'un homme amaigri, mesurant 1,63 m, avec un aspect rapp
 ![Pauper2](/img/pauper2.jpg)
 _John Pauper et un noble au XVème siècle_
 
-Le compte de médias sociaux principal de John Pauper est Twitter [@johnpauper][jp], cependant, une fois encore, suite à la panne de Twitter d'Elon Musk, il a créé un compte sur [HIVE][h], @jpauper. Il possède également un compte sur [Academia.edu][edu] et [SSRN][acs].
+Le compte de médias sociaux principal de John Pauper est Twitter [@johnpauper][jp], cependant, une fois encore, suite à la panne de Twitter d'Elon Musk, il a créé un compte sur [HIVE][h], @jpauper.
 
-[br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
+## Antônio Conselheiro
+
+Cet autre hétéronyme est apparu davantage comme une plaisanterie, une caricature, mais a pris une dimension et une direction inattendues, comme cela arrive parfois aux personnages. Les écrivains rencontrent une difficulté connue à maintenir le contrôle sur leurs créations littéraires et se plaignent fréquemment de créatures qui prennent parfois des initiatives totalement inattendues et acquièrent (presque) une vie propre. Cela s'est produit dans le cas d'Antônio Vicente Mendes Maciel, l'Antônio Conselheiro, un clone moderne du personnage mystique de Belo Monte. Cependant, ce Conselheiro est passé d'une figure mythique du Sertão à un philosophe de l'esprit, un constructiviste radical, créateur d'une approche nouvelle et originale de l'esprit humain basée sur les œuvres de Humberto Maturana, le biologiste et philosophe chilien, et de Jacques Lacan, qui n'a pas besoin d'être présenté.
+
+Même moi, l'auteur, je ne comprends pas complètement la théorie de Conselheiro, il est donc nécessaire de donner une brève explication du processus créatif. Il est courant que la construction de personnages par les écrivains soit un processus complexe qui n'est que rarement linéaire. Lorsqu'ils créent une histoire cohérente dans un univers fictif, les auteurs font face à des limites et à des pressions qui dépassent la logique, la technique et le style narratif. Il est fréquent que les écrivains déclarent quelque chose comme "elles/eux (les personnages) ont pratiquement une personnalité individuelle et des opinions fortes à leur sujet". Les personnages les plus importants des grands écrivains ont été développés différemment de ce qui était initialement prévu par leurs auteurs. Reconnaissons un fait : l'idée initiale d'une œuvre artistique narrative, quelle qu'elle soit, implique un objectif principal à défendre. Pour cela, l'auteur établit l'univers où se déroule l'action narrative, certaines conditions initiales et un ensemble de règles qui suivent une logique définie. Ces éléments peuvent être adaptés en cours de route, mais le "destin" de la création narrative change rarement. S'il change, en réalité, nous avons une nouvelle œuvre et l'ancienne a été abandonnée, ce qui peut éventuellement arriver. En bref, il y a des choses qu'une personne ne change pas lorsqu'elle écrit, et le développement des personnages n'en fait pas partie.
+
+Les personnages sont créés avec un état initial, un passé, un profil de personnalité, des prémisses de base, et ce, dans cet univers. Cependant, à partir de là, l'auteur devient si passif, si dépendant, si impuissant face à l'univers, à la logique et aux prémisses qu'il a créés, tout comme n'importe lequel de ses personnages. Si l'auteur confère à un personnage un comportement ou une décision qu'il ne pourrait jamais prendre (ou qui serait extrêmement improbable) dans cet univers narratif, son plan pour l'œuvre sera violé et nous arriverons à
+
+ la situation où l'œuvre initialement prévue aura été abandonnée, comme je l'ai décrit plus tôt. Autrement dit, si l'auteur souhaite réaliser son plan initial, il doit également obéir aux règles qu'il a lui-même créées et permettre aux personnages de prendre des décisions cohérentes avec leur développement et celui de l'univers narratif. De toute évidence, il est possible pour l'auteur de "ne pas céder" à ce type de limite et de tenter de maintenir l'image initialement idéalisée pour un personnage, mais le résultat général de l'œuvre en souffrira. Lorsqu'il crée, l'auteur devient également dépendant de la créature. Dans ce sens, tous les personnages jouissent d'une liberté de "choix". Plus précisément, l'état global de l'œuvre évolue et les personnages, pour rester cohérents, doivent évoluer en conséquence, et non pas selon ce que l'auteur peut naïvement planifier initialement. Ainsi, les créations peuvent acquérir une "vie propre".
+
+Conselheiro a un profil sur le réseau social Instagram : [@antonio_0_conselheiro][ant], ainsi que des essais publiés sur ses profils sur [Academia.edu][ac3] et [SSRN][acs2]. Selon les informations présentes sur ces plateformes :
+
+> Antônio Conselheiro occupe la chaire Orumilá de Professeur de Philosophie de l'Esprit à l'Institut d'Études Avancées de Hy-Brasil (H-BIAS), Université de Tir na nÓg, Uí Bhreasail - Tir na nÓg. Il est un hétéronyme, concept introduit par Fernando Pessoa, l'auteur portugais.
+
+![Conselheiro](/authors/antonio-conselheiro.png)
+_Antônio Conselheiro, Mystique du Sertão et Philosophe de l'Esprit, une figure charismatique (image produite par IA)._
+
+[br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
@@ -123,6 +151,11 @@ Le compte de médias sociaux principal de John Pauper est Twitter [@johnpauper][
 [h]: https://hivesocial.app
 [ac]: https://independent.academia.edu/SilverSurfer20
 [ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
-[edu]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
-[bcs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
-[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[ac3]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
+[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
+[acs2]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[osf]: https://osf.io/k92qj/
+[mist]: https://en.wikipedia.org/wiki/Ant%C3%B4nio_Conselheiro
+[mat]: https://en.wikipedia.org/wiki/Humberto_Maturana
+[lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
+[ant]: https://instagram.com/antonio_0_conselheiro

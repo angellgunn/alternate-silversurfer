@@ -32,7 +32,7 @@ My heteronyms follow this tradition of Pessoa, having emerged little by little f
 
 I sketch below the list of heteronyms that I [created] or discovered so far:
 
-## Baldolino Calvino:
+## Baldolino Calvino
 
 His name is obviously inspired by the book _Baudolino_ by Umberto Eco and the work of the writer Ítalo Calvino. He could not fail to be, then, a somewhat surprising, unexpected type, which, more than understanding in depth the subjects in which he is involved, understands them in continuous mutation and fluid interaction with many apparently unrelated topics. A _liquid philosopher_, a citizen of the Baumanian world. My first description of him:
 
@@ -54,11 +54,17 @@ A technology enthusiast of blockchain and cryptocurrencies, he supposedly grew r
 
 Agreeing with the aforementioned and making a subtle allusion to pop culture in the form of a scene from the movie Shrek (the one where the magic mirror presents the princesses as if it were a reality show), I imagine Baldolino as a gender-fluid person with fair skin, black hair, 1.80m tall, weighing 75kg. Born on the suggestive date of April 1, 1990, in the city of Riacho das Almas (PE), living for many years in Hy-Brasil, where he resides at Main Street 101 (in the Elphinstonean city of St. Brandons).
 
-![main street](/img/main.jpg)
+![Photo of Villa Léandre, the Notting Hill of Montmarte, Paris](/img/main.jpg)
+_Main Street of St. Brandons on São Brandão Island (Hy-Brasil)._
 
-Calvino's primary social media account is Twitter [@altsilversurfer][t], but after the purchase of this company by Elon Musk, in protest Calvino reactivated his Tumbler account, [@alternate-silversurfer-blog][tm]. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not so decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@altsilversurfer][p]. He has also a [Academia.edu][ac], and [SSRN][bcs] profiles, where he publishes quasi-academic papers.
+Calvino's primary social media account is on Twitter, [@altsilversurfer][t], but after Elon Musk's acquisition of the company, Calvino reactivated his account on Tumblr, [@alternate-silversurfer-blog][tm], as a protest. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not-so-decentralized" app Phaver (currently invite-only, but you can simply use the code EARLYBIRD when starting the app to gain a profile) with the profile [@altsilversurfer][p]. He also has a profile on [Academia.edu][ac], where he publishes "almost" academic articles, and on the [SSRN][acs] platform.
 
-## João Calangro:
+Calvino's latest development was the creation of a photographic avatar made by AI. He provided the prompt and chose the best of the images that most appealed to him and resembled his own self-image (I confess I had imagined him somewhat differently).
+
+![](/authors/bcalvino.jpg)
+_Baldolino Calvino in a region of São Brandão Island (Hy-Brasil) that reminds him of the Sertão in Pernambuco, his homeland._
+
+## João Calangro
 
 This heteronym appeared long ago, without a name. He himself has chosen it, as stated in a Twitter post:
 
@@ -82,9 +88,14 @@ João Calangro is the Iemanjá Professor of Meta-oncology, Royal Medical Academy
 I picture him as a slender man, 1,69 m, round glasses, thin chin, circumspect, placid gaze, somewhat melancholic. He has lost some of his dark brown hair, and likes to use hats.
 Yes, he somewhat reminds me of Fernando Pessoa. However, he actually resembles Lampião.
 
+![João Calangro](/authors/jcalangro.jpg)
+_In this AI-manipulated photo, João Calangro says he was at a costume event, taking advantage of his ghostly resemblance to the bandit. "I cosplayed as a cangaceiro," he declares. (Original photo below)_
+
+----
+
 ![Lampião](/img/lampiao.jpg)
 
-Calangro's primary social media account is Twitter [@joaocalangro][j], but, again, after what he calls Elon Musk's "twitterchaos", Calangro reactivated his Pinterest account, [@neurooncologist][no]. Under the influence of Calvino, he made an account on the "I wanna be decentralized" app Phaver (invitation only at this point, but just use the code EARLYBIRD when launching the app to win a profile), with the handle [@joaocalangro][p2].
+Calangro's primary social media account is on Twitter [@joaocalangro][j], but equally, after what he calls Elon Musk's "twitterchaos," Calangro reactivated his account on Pinterest, [@neurooncologist][no]. Influenced by Calvino, he created an account on the supposedly decentralized app Phaver, with the profile [@joaocalangro][p2]. He also has a profile on the platform [OSF.io][osf].
 
 ## John Pauper
 
@@ -110,7 +121,26 @@ His complexion is that of an emaciated man, 1.63 m, with an aspect that reminds 
 ![Pauper2](/img/pauper2.jpg)
 _John Pauper and a noble man in the 15th century_
 
-Pauper's primary social media account is Twitter [@johnpauper][jp], but, also, after Elon Musk's Twitter blackout, Pauper made an account at the [Hive][h], @jpauper. And he has [Academia.edu][edu] and [SSRN][acs] accounts.
+Pauper's primary social media account is Twitter [@johnpauper][jp], but, also, after Elon Musk's Twitter blackout, Pauper made an account at the [Hive][h], @jpauper.
+
+## Antonio Conselheiro
+
+This other heteronym emerged more as a joke, a caricature, but took on an unexpected dimension and direction, as often happens with characters. Writers have a well-known difficulty in maintaining control over their literary creations and frequently complain about creatures that sometimes take completely unexpected actions and acquire (almost) a life of their own. This happened in the case of Antônio Vicente Mendes Maciel, the Antônio Conselheiro, a modern clone of the mystical figure from Belo Monte. However, this Conselheiro went from being a mythical figure from the Sertão to a philosopher of the mind, a radical constructivist, creator of a new and original approach to the human mind based on the works of Humberto Maturana, the Chilean biologist and philosopher, and Jacques Lacan, who needs no introduction.
+
+Even I, the author, do not fully understand Conselheiro's theory, so a brief explanation of the creative process is necessary. It is a common fact that the construction of characters by writers is a complex process that is rarely linear. When creating a coherent story in a fictional universe, the author faces limitations and pressures that go beyond logic, technique, and narrative style. It is common for writers to declare something like, "they (the characters) practically have an individual personality and strong opinions about themselves." The most important characters of great writers have been developed differently from what was initially planned by their authors. Let's establish a fact: the initial idea for a narrative artistic work, whatever it may be, involves a main objective to be defended. For that, the author establishes the universe where the narrative action takes place, some initial conditions, and a set of rules that follow a defined logic. These elements can be adapted along the way, but the "destiny" of the narrative creation rarely changes. If it does change, in fact, we have a new work and the previous one has been abandoned, which can eventually happen. In short, there are things that a person does not change when writing, and the development of characters is not one of those things.
+
+Characters are created with an initial state, a past, a sketch of personality, basic premises, and within this universe. From there, however, the author becomes so passive, so dependent, so helpless, facing the universe, logic, and premises that they created, just like any of their characters. If the author infuses a character with a behavior or decision that the character would never (or would be extremely unlikely to) take within that narrative universe, their plan for the work will be violated, and we will arrive at a situation where the initially proposed work has been abandoned, as I described earlier. In other words, if the author wants to complete their initial plan, they must also obey the rules they created and allow the characters to act consistently with their own development and that of the narrative universe. Clearly, it is possible for the author to "not yield" to this type of limitation and try to maintain the initially idealized image of a character, but the overall result of the work will be unsatisfactory. When creating, the author also becomes dependent on the creature. In this sense, all characters enjoy a freedom of "choice." More precisely, the global state of the work evolves and the characters, to remain coherent, need to evolve accordingly, not as the author may naively plan initially. Creations can thus acquire a "life of their own."
+
+Conselheiro has yet another argument about this situation. According to him, the human mind is a multidimensional construct (in the sense of having an immense number of parameters) and, in its original state, *without unity*. It is a bundle of cognitive procedures barely aligned by a kind of internal consensus
+
+. However, during early childhood, influenced by internal factors (genetic, metabolic, systemic) or external factors (physical environment, psychosocial environment, communication), the human mind begins to create unity, an *identity*, which forms and solidifies to persist throughout the rest of life. It is no coincidence that adversity during this early phase of childhood can partially or even (more rarely) completely impair the formation of this unity. However, even with the proper development of the human mind, of what we call the ego (Lacanian Imaginary), the rest of cognition that was not integrated into the mind (most of it, according to Conselheiro, like an iceberg) remains in the unconscious (Lacanian Symbolic). Occasionally, in various situations, such as Kekulé's dream or the construction of characters by authors, this unconscious Symbolic world partially emerges. Authors often declare that the "inspiration" for their creations comes by itself, spontaneously. In this sense, characters capture unconscious cognitive processes and, therefore, have a partially independent "mental life" from the author.
+
+Returning to Antônio Conselheiro, he himself claimed his abilities, without me having a say in his final development, except, of course, accepting him and using this epiphenomenon as an important part of my own personal development, as well as being a great character for a fictional world! Conselheiro has a profile on the social network Instagram: [@antonio_0_conselheiro][ant], as well as essays posted on his profiles on [Academia.edu][ac3] and [SSRN][acs2]. According to the information on these platforms:
+
+> Antônio Conselheiro is the Orumilá Professor of Philosophy of Mind at the Institute of Advanced Studies of Hy-Brasil (H-BIAS), University of Tir na nÓg, Uí Bhreasail - Tir na nÓg. He is a heteronym, a concept introduced by Fernando Pessoa, the Portuguese author.
+
+![Conselheiro](/authors/antonio-conselheiro.png)
+_Antônio Conselheiro, Mystic of the Sertão and Philosopher of the Mind, a charismatic figure (image produced by AI)._
 
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
@@ -126,6 +156,11 @@ Pauper's primary social media account is Twitter [@johnpauper][jp], but, also, a
 [h]: https://hivesocial.app
 [ac]: https://independent.academia.edu/SilverSurfer20
 [ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
-[edu]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
-[bcs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
-[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[ac3]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
+[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
+[acs2]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[osf]: https://osf.io/k92qj/
+[mist]: https://en.wikipedia.org/wiki/Ant%C3%B4nio_Conselheiro
+[mat]: https://en.wikipedia.org/wiki/Humberto_Maturana
+[lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
+[ant]: https://instagram.com/antonio_0_conselheiro

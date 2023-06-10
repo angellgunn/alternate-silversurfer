@@ -30,7 +30,7 @@ Meus heterônimos seguem essa tradição de Pessoa, tendo surgido aos poucos par
 
 Esboço a seguir a lista dos heterônimos que [criei] ou descobri até o momento:
 
-## Baldolino Calvino:
+## Baldolino Calvino
 
 O nome dele tem óbvia inspiração no livro _Baudolino_ de Umberto Eco e na obra do escritor Ítalo Calvino. Ele não poderia deixar de ser, então, um tipo meio surpreendente, inesperado, o qual, mais do que entender em profundidade os assuntos nos quais se envolve, os entende em contínua mutação e interação fluida com muitos tópicos aparentemente não relacionados. Um _filósofo líquido_, um cidadão do mundo Baumaniano. Minha primeira descrição sobre ele:
 
@@ -62,7 +62,7 @@ O desenvolvimento mais recente de Calvino foi a criação de um avatar fotográf
 ![](/authors/bcalvino.jpg)
 _Baldolino Calvino numa região da Ilha de São Brandão (Hy-Brasil) que lhe lembra o Sertão pernambucano, sua terra natal._
 
-## João Calangro:
+## João Calangro
 
 Esse heterônimo surgiu há muito tempo, sem nome. Ele mesmo o escolheu, como afirmado em um post no Twitter:
 
