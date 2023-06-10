@@ -52,13 +52,15 @@ Aficionado pela tecnologia de _cadeia de blocos (blockchain)_ e pelos criptoativ
 
 Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na forma de uma cena da animação Shrek (aquela onde o espelho mágico apresenta as princesas como se fosse um _reality show_). Imagino Baldolino como uma pessoa de gênero fluido, pele clara, cabelo negro, 1,80 m, 75 kg, nascido na sugestiva data de 01 de abril de 1990 na cidade de Riacho das Almas (PE), vivendo há muitos anos em Hy-Brasil, onde ocupa o endereço da Main Street 101 (na cidade Elphinstoneana de St Brandons).
 
-![main street](/img/main.jpg)
+![Foto da Villa Léandre, a Notting Hill de Montmarte, Paris](/img/main.jpg)
+_Main Street de St. Brandons, na Ilha de São Brandão (Hy-Brasil)._
 
-A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p]. Ele também tem um perfil na [Academia.edu][ac], onde ele publica artigos "quase" acadêmicos.
+A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p]. Ele também tem um perfil na [Academia.edu][ac], onde ele publica artigos "quase" acadêmicos, além da plataforma [SSRN][acs].
 
-O desenvolvimento mais recente de Calvino foi a criação de um avatar fotográfico feito por IA. Ele criou o prompt e escolheu a melhor das imagens que mais lhe agradava, que mais se parecia com o que ele mesmo imaginava de si (confesso que pensava nele de uma forma algo diferente). 
+O desenvolvimento mais recente de Calvino foi a criação de um avatar fotográfico feito por IA. Ele criou o prompt e escolheu a melhor das imagens que mais lhe agradava, que mais se parecia com o que ele mesmo imaginava de si (confesso que pensava nele de uma forma algo diferente).
 
 ![](/authors/bcalvino.jpg)
+_Baldolino Calvino numa região da Ilha de São Brandão (Hy-Brasil) que lhe lembra o Sertão pernambucano, sua terra natal._
 
 ## João Calangro:
 
@@ -75,7 +77,7 @@ Diferentemente de Calvino, ele afirma claramente seu pessimismo e comprometiment
 > Por sempre ter sido pobre e seguir teimosamente o "caminho difícil", larguei a medicina e virei investidor. Estou ganhando muito dinheiro, mas não estou enganando a boa fé de ninguém. Não tenho mais registro, não sou "doutor", mas sou honesto.
 Já fui o melhor dos melhores, mas pobre. Agora, sou desconhecido (o que é ótimo), mas sou rico. Mantenho minha honra e retidão, só especulo no mercado financeiro, o que nem é pecado, estou tirando de quem tem dinheiro e não sabe lidar com ele.
 
-Assim, ele professa uma espécie de cinismo ingênuo, ao mesmo tempo em que dá a entender que abandonou o "difícil caminho" da honestidade, afirmando claramente seus limites éticos e pedindo perdão por sua indulgência no mercado financeiro ("Não estou enganando", "sou honesto", "(...) especulo (...), o que nem é pecado"). Afirma ter nascido em 30 de julho de 1978. Seu local de origem é desconhecido (também no Brasil, mas onde?) e ele também mora em Hy-Brasil. Misteriosamente, ele declara que tem algum cargo ali relacionado à medicina, conforme divulgado em seu perfil na [Academia.edu][ac].
+Assim, ele professa uma espécie de cinismo ingênuo, ao mesmo tempo em que dá a entender que abandonou o "difícil caminho" da honestidade, afirmando claramente seus limites éticos e pedindo perdão por sua indulgência no mercado financeiro ("Não estou enganando", "sou honesto", "(...) especulo (...), o que nem é pecado"). Afirma ter nascido em 30 de julho de 1978. Seu local de origem é desconhecido (também no Brasil, mas onde?) e ele também mora em Hy-Brasil. Misteriosamente, ele declara que tem algum cargo ali relacionado à medicina, conforme divulgado em seu perfil na [Academia.edu][ac2].
 
 > João Calangro ocupa a cátedra Iemanjá de Professor de Meta-oncologia, na Royal Medical Academy
 ou
@@ -83,9 +85,14 @@ Sir João Calangro, Cavaleiro da Real Academia Médica, Universidade _Tir na nÓ
 
 Imagino-o como um homem esguio, 1,69 m, óculos redondos, queixo fino, circunspecto, olhar plácido, um tanto melancólico. Ele perdeu um pouco de seu cabelo castanho escuro e gosta de usar chapéus. Sim, ele me lembra um pouco Fernando Pessoa mas, na verdade, ele se parece mais com Lampião.
 
+![João Calangro](/authors/jcalangro.jpg)
+_Nesta foto manipulada por IA, João Calangro diz que estava num evento à fantasia, aproveitando sua fantasmagórica semelhança com o bandoleiro. "Fiz cosplay de cangaceiro", declara ele. (Foto original abaixo)_
+
+----
+
 ![Lampião](/img/lampiao.jpg)
 
-A conta de rede social primária de Calangro é o Twitter [@joaocalangro][j], porém, igualmente, após o que ele chama de "twitterchaos" de Elon Musk, Calangro reativou sua conta no Pinterest, [@neurooncologist][no]. Influenciado por Calvino, ele criou uma conta no aplicativo supostamente descentralizado Phaver, com o perfil [@joaocalangro][p2].
+A conta de rede social primária de Calangro é o Twitter [@joaocalangro][j], porém, igualmente, após o que ele chama de "twitterchaos" de Elon Musk, Calangro reativou sua conta no Pinterest, [@neurooncologist][no]. Influenciado por Calvino, ele criou uma conta no aplicativo supostamente descentralizado Phaver, com o perfil [@joaocalangro][p2]. Ele também tem perfil na plataforma [OSF.io][osf].
 
 ## João Pobretão (John Pauper)
 
@@ -111,10 +118,22 @@ Sua figura é de um homem emagrecido, 1,63 m, com um aspecto que lembra talvez G
 ![Pauper2](/img/pauper2.jpg)
 _John Pauper e um nobre no século XV_
 
-A conta de rede social primária de John Pauper é o Twitter [@johnpauper][jp], porém, mais uma vez, após o apagão do Twitter de Elon Musk, ele criou uma conta no [HIVE][h], @jpauper. Ele também tem conta na [Academia.edu][edu] e [SSRN][acs].
+A conta de rede social primária de John Pauper é o Twitter [@johnpauper][jp], porém, mais uma vez, após o apagão do Twitter de Elon Musk, ele criou uma conta no [HIVE][h], @jpauper.
 
-## Antônio conselheiro
+## Antônio Conselheiro
 
+Este outro heterônimo surgiu mais como uma piada, uma caricatura, porém tomou uma dimensão e um rumo inesperados, como ora ocorre com personagens. Escritoras(es) tem uma conhecida dificuldade em manter o controle de suas criações literárias, e queixam-se com frequência de criaturas que tomam atitudes às vezes totalmente inesperadas e adquirem (quase) vida própria. Isso aconteceu no caso de Antônio Vicente Mendes Maciel, o Antônio Conselheiro, um clone moderno do [místico][mist] de Belo Monte. Este Conselheiro, no entanto, passou de figura mitológica do Sertão para um filósofo da mente, construtivista radical, criador de uma nova e original abordagem da mente humana, baseada nas obras de [Humberto Maturana][mat], o biólogo e filósofo chileno, e Jacques Lacan, o qual prescinde de apresentação.
+
+Eu mesmo, o autor, não entendo completamente a teoria de Conselheiro, e cumpre uma breve explicação sobre o processo criativo agora. É fato corriqueiro que a construção de personagens por escritoras(es) é um processo complexo que raramente é linear. Ao montar uma história coerente num universo ficcional, o autor se depara com limitações e pressões que vão muito além da lógica, técnica, e estilo narrativo. É comum que escritoras(es) acabem declarando algo parecido com "eles/elas (elus?), as personagens, têm praticamente uma personalidade individual e opiniões fortes sobre si mesmas(os)". As mais importantes personagens das grandes escritoras(es) foram desenvolvidos de uma forma diferente daquele inicialmente planejado por suas autoras(es). Vamos estabelecer um fato: a idéia inicial para uma obra artística narrativa, qualquer que seja, envolve um objetivo principal a ser defendido. Para isso, o autor estabelece o universo onde a ação narrativa se desenvolve, algumas condições iniciais e um conjunto de regras que obedecem a uma lógica definida. Esses elementos podem ser adaptados ao longo do trajeto, mas o "destino" da criação narrativa raramente muda. Se mudar, na verdade teremos uma nova obra e anterior terá sido abandonada, o que pode eventualmente ocorrer. Enfim, existem coisas que uma pessoa não muda ao escrever, e o desenvolvimento das personagens não é uma dessas coisas.
+
+As personagens são criadas com um estado inicial, um passado, um esboço de personalidade, premissas básicas e dentro deste universo. A partir daí, no entanto, o autor fica tão passivo, tão dependente, tão desamparado, diante do universo, lógica e premissas que ele mesmo criou, como qualquer uma de suas personagens. _Se o autor infundir numa personagem um comportamento ou decisão que essa mesma personagem jamais poderia (ou seria extremamente improvável) tomar dentro daquele universo narrativo_, seu plano da obra será violado e chegaremos na situação em que a obra inicialmente proposta terá sido abandonada, como descrevi a pouco. Ou seja, se o autor deseja completar seu plano inicial, precisa obedecer também as regras criadas por si, e permitir que as personagens tomem atitudes coerentes com o seu desenvolvimento e o do universo narrativo. Claramente, é possível para o autor "não ceder" a esse tipo de limite e tentar manter a imagem inicialmente idealizada para uma personagem, mas o resultado geral da obra será sofrível. Ao criar, o autor se torna também dependente da criatura. Nesse sentido, as personagens todas gozam de uma liberdade de "escolha". Mais propriamente, o estado global da obra evolui e as personagens, para manter-se coerentes, precisam evoluir de acordo, e não como o autor pode ingenuamente planejar inicialmente. As criações podem, assim, adquirir "vida própria".
+
+Conselheiro tem ainda outro argumento sobre esta situação. Segundo ele, a mente humana é um construto multidimensional (no sentido de ter um imenso número de parâmetros) e, em seu estado original, _*sem unidade*_. Um feixe de procedimentos cognitivos mal e mal alinhados por um tipo de consenso interno. Porém, durante a primeira infância, a partir de influências internas (genéticas, metabólicas, sistêmicas) ou externas (ambiente físico, meio psicossocial, comunicação), a mente humana vai criando uma unidade, uma _identidade_, que se forma e se fixa para persistir durante todo o restante da vida. Não é por acaso que agravos durante essa fase inicial da infância sejam capazes de prejudicar parcial ou até (mais raramente) de forma completa a formação dessa unidade. No entanto, mesmo com um adequado desenvolvimento da mente humana, daquilo que chamamos ego (o Imaginário Lacaniano), o restante da cognição que não foi integrado na mente (a maior parte, segundo Conselheiro, algo como um iceberg) permanece no inconsciente (o Simbólico lacaniano). Eventualmente, em diversas situações, como por exemplo, no sonho de Kekulé ou na construção de personagens por autores, esse mundo Simbólico inconsciente emerge parcialmente. Autores frequentemente declaram que a "inspiração" para suas criações vem por si mesma, espontaneamente. Nesse outro sentido, as personagens capturam processos cognitivos inconscientes e, assim, tem como que uma "vida mental" parcialmente independente do autor.
+
+Voltando para Antônio Conselheiro, ele mesmo reivindicou para si as suas habilidades, sem que eu tivesse uma palavra no seu desenvolvimento final, exceto, é claro, por aceitá-lo, e usar esse epifenômeno como parte importante de meu próprio desenvolvimento particular como pessoa, além de ser um baita personagem para um mundo ficcional! Conselheiro tem um perfil da rede social Instagram: [@antonio_0_conselheiro][ant], além de ensaios postados em seus perfis da [Academia.edu][ac3] e [SSRN][acs2].
+
+![Conselheiro](/authors/antonio-conselheiro.png)
+_Antônio Conselheiro, Místico do Sertão e Filósofo da Mente, um tipo carismático._
 
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
@@ -130,6 +149,10 @@ A conta de rede social primária de John Pauper é o Twitter [@johnpauper][jp], 
 [h]: https://hivesocial.app
 [ac]: https://independent.academia.edu/SilverSurfer20
 [ac2]: https://independent.academia.edu/Jo%C3%A3oCalangro
-[edu]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
-[bcs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
-[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[ac3]: https://independent.academia.edu/Ant%C3%B4nioConselheiro
+[acs]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5452464
+[acs2]: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5719343
+[osf]: https://osf.io/k92qj/
+[mist]: https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Conselheiro
+[mat]: https://pt.wikipedia.org/wiki/Humberto_Maturana
+[ant]: https://instagram.com/antonio_0_conselheiro
