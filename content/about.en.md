@@ -6,6 +6,8 @@ translationKey = "about"
 
 ### created for nothing in particular
 
+_Last update: 06/10/23_
+
 > In the beginning, the world did not exist. Darkness covered everything. While there was nothing, a woman appeared by herself. (...) She was called Yebá Buró, the “Grandmother of the World”. (...) That is why she is called the “Uncreated”.
 >
 > - Creation myth of the Desana Kehíripõrã people
@@ -38,19 +40,19 @@ His name is obviously inspired by the book _Baudolino_ by Umberto Eco and the wo
 
 And here is the confessional description of the Twitter profile, its first manifestation in this world:
 
-> Ecological economist. Professor of Historia Naturalis Phantastica, _Tír at nÓg_ University, _Uí Breasail_. I am a simulacrum of the third order and a heteronym.
+> Ecological economist. Professor of Historia Naturalis Phantastica, _Tír na nÓg_ University, _Uí Breasail_. I am a simulacrum of the third order and a heteronym.
 
 An also in his credentials:
 
 > Oxumarê Professor of Historia Naturalis Phantastica, College of Natural Philosophy, Tir na nÓg University
 
-The self-asserted Baudrillardian simulacrum makes it known that it teaches a fantasy discipline, in a fantasy university, on a fantasy island, _Uí Breasail_, or _Hy-Brasil_, an island that appears on maritime maps from the 13th to the 19th century. Also known as _island Brazil_, _island of Saint Brandons_, etc., it is defined in Wikipedia's [entry][br] as "a phantom island said to lie in the Atlantic Ocean west of Ireland. Irish myths described it as cloaked in mist except for one day every seven years, when it becomes visible but still cannot be reached". It is part of Irish Celtic mythology, and the etymology of _Brasil_ in Portuguese would have roots in Gaelic, with the very name of our country coming from this mythological, legendary meaning, and not from the name of the reddish _Pau-brasil_ tree, as the canon states. Baldolino chose to define himself as a fantastic being, like the Shakespearean Ariel. However, it takes on a modern (or hyper-modern) look, and makes its Hy-Brasil something closer to the vision of the island described in the [book][hy] by Margaret Elphinstone, the British writer who went to teach Scottish literature to the Scots and turned the fictional island into a "happy satire", a description of what Hy-Brasil would be like if it existed in our reality. He created a new discipline, _Fantastic Natural History_, and defined it as being different from art, mathematics, philosophy and science, the other fundamental knowledge for him.
+The self-proclaimed Baudrillardian simulacrum reveals that he teaches a discipline of fantasy at a fantasy university on a fantasy island, *Uí Breasail* or *Hy-Brasil*, an island that appears on maritime maps from the 13th to the 19th century. Also known as the *Brasil Island*, *São Brandão Island*, etc., it is defined in the [entry][br] on Wikipedia as "a ghost island in the Atlantic Ocean linked to the tradition of São Brandão and the fortunate lands located west of the European continent." It is part of Irish Celtic mythology, and the etymology of *Brasil* in Portuguese is said to have Gaelic roots. The name of our country itself would come from this mythological and legendary meaning, not from the name of the reddish tree *Pau-brasil*, as the canon suggests. Baldolino has chosen to define himself as a fantastical being, like Shakespeare's Ariel. However, he assumes a modern (or hyper-modern) guise and presents his Hy-Brasil as something closer to the vision of the island described in Margaret Elphinstone's [book][hy], the British writer who went to teach Scottish literature to the Scots and transformed the fictional island into a "happy satire," a depiction of what Hy-Brasil would be like if it existed in our reality. He has created a new discipline, *Fantastic Natural History*, and defines it as different from art, mathematics, philosophy, and science, the other fundamental knowledge in his view.
 
-Passionate about _blockchain technology_ and crypto assets, he supposedly got rich trading it. In the _decentralized social graph_ [Lens Protocol][l], his profile adds:
+A technology enthusiast of blockchain and cryptocurrencies, he supposedly grew rich through trading in this sector. In the decentralized social graph [Lens Protocol][l], his profile adds:
 
-> I like cats, long walks and tapioca ice cream. I am an ecological economist, cryptophilosopher and intellectual wanderer.
+> I like cats, long walks, and tapioca ice cream. I am an ecological economist, crypto-philosopher, and intellectual wanderer.
 
-Agreeing with the above and making a subtle allusion to pop culture, in the form of a scene from the animation Shrek (the one where the magic mirror presents the princesses as if it were a _reality show_). I imagine Baldolino as a person of fluid gender, light skin, black hair, 1.80 m, 75 kg, born on the suggestive date of April 1, 1990 in the city of Riacho das Almas (souls creek), living for many years in Hy-Brasil, where it occupies the house on 101 Main Street (in the Elphinstonean town of St Brandons).
+Agreeing with the aforementioned and making a subtle allusion to pop culture in the form of a scene from the movie Shrek (the one where the magic mirror presents the princesses as if it were a reality show), I imagine Baldolino as a gender-fluid person with fair skin, black hair, 1.80m tall, weighing 75kg. Born on the suggestive date of April 1, 1990, in the city of Riacho das Almas (PE), living for many years in Hy-Brasil, where he resides at Main Street 101 (in the Elphinstonean city of St. Brandons).
 
 ![main street](/img/main.jpg)
 
