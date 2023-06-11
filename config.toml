@@ -90,6 +90,22 @@ statement = "#ff8e91"
       name   = "Home"
       weight = 0
 
+
+  [languages.yrl
+    title = "uhu wa'ukari"
+    weight = 2
+#    contentDir = "content/dothraki"
+    languageName = "nheengatu"
+    [languages.dt.Params]
+    description = "uhu manarau blog"
+    [languages.dt.Taxonomies]
+      "opinions" = "nemokõ"
+      "posts" = "xu'ukã"
+    [[languages.dt.menu.main]]
+      url    = "/"
+      name   = "Home"
+      weight = 0
+
   [languages.zh]
     title = "一个自由页面"
     weight = 2
