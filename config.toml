@@ -91,7 +91,7 @@ statement = "#ff8e91"
       weight = 0
 
 
-  [languages.yrl
+  [languages.yrl]
     title = "uhu wa'ukari"
     weight = 2
 #    contentDir = "content/dothraki"
@@ -103,7 +103,7 @@ statement = "#ff8e91"
       "posts" = "xu'ukã"
     [[languages.dt.menu.main]]
       url    = "/"
-      name   = "Home"
+      name   = "wehi pohã"
       weight = 0
 
   [languages.zh]
