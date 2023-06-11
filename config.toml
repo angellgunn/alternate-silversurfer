@@ -155,3 +155,7 @@ statement = "#ff8e91"
     [markup.goldmark.parser.attribute]
       block = true
       title = true
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
