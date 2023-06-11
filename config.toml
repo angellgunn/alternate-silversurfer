@@ -91,17 +91,17 @@ statement = "#ff8e91"
       weight = 0
 
 
-  [languages.yrl]
+  [languages.yr]
     title = "uhu wa'ukari"
     weight = 2
-#    contentDir = "content/dothraki"
+#    contentDir = "content/nheengatu"
     languageName = "nheengatu"
-    [languages.yrl.Params]
+    [languages.yr.Params]
     description = "uhu manarau blog"
-    [languages.yrl.Taxonomies]
+    [languages.yr.Taxonomies]
       "opinions" = "nemokõ"
       "posts" = "xu'ukã"
-    [[languages.yrl.menu.main]]
+    [[languages.yr.menu.main]]
       url    = "/"
       name   = "wehi pohã"
       weight = 0
