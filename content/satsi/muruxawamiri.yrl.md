@@ -4,5 +4,4 @@ title = "Muruxawamirĩ"
 author = "ffelix"
 +++
 
-O texto a seguir é a tradução de um trecho o livro "Le Petit Prince", de Antoine de Saint-Exupery do francês para o Nheengatu, Língua Geral Amazônica, de autoria de Rodrigo Godinho Trevisan.
-
+Ô pala uhu nheẽri ikiti diwé "Le Petit Prince", Antoine de Saint-Exupery asinama ke'di francês tuxaua ikiti nheengatu, Língua Geral Amazônica, Rodrigo Godinho Trevisan ke'di kêri.
