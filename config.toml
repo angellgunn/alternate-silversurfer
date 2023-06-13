@@ -92,12 +92,12 @@ statement = "#ff8e91"
 
 
   [languages.gn]
-    title = "uhu wa'ukari"
+    title = "yepé sowa yuráu"
     weight = 2
 #    contentDir = "content/nheengatu"
     languageName = "Nheengatu"
     [languages.gn.Params]
-    description = "uhu manarau blog"
+    description = "yepé manarau blog"
     [languages.gn.Taxonomies]
       "opinions" = "nemokõ"
       "posts" = "xu'ukã"
