@@ -92,7 +92,7 @@ statement = "#ff8e91"
 
 
   [languages.gn]
-    title = "yepé sowa yuráu"
+    title = "yepé sowa yurawa"
     weight = 2
 #    contentDir = "content/nheengatu"
     languageName = "Nheengatu"
@@ -103,7 +103,7 @@ statement = "#ff8e91"
       "posts" = "xu'ukã"
     [[languages.gn.menu.main]]
       url    = "/"
-      name   = "wehi pohã"
+      name   = "yupirungawa"
       weight = 0
 
   [languages.zh]
