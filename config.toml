@@ -97,10 +97,10 @@ statement = "#ff8e91"
 #    contentDir = "content/nheengatu"
     languageName = "Nheengatu"
     [languages.gn.Params]
-    description = "yepé manarau blog"
+    description = "yepé umbaá blog"
     [languages.gn.Taxonomies]
-      "opinions" = "nemokõ"
-      "posts" = "xu'ukã"
+      "opinions" = "manduarisawa"
+      "posts" = "papera"
     [[languages.gn.menu.main]]
       url    = "/"
       name   = "yupirungawa"
