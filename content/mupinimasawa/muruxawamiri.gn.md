@@ -40,7 +40,7 @@ O texto a seguir é a tradução de um trecho do livro “Le Petit Prince”, de
 
 13 – Yawé upitá se mukũisáwa kwatiarisawa: 
 
-![](/img/fig3.png
+![](/img/fig3.png)
 
 14 – Mira-itá turusú tá umungitá ixé se resarái arama buyawasú kwatiarisawa-itá suí, ayumbué arama puranga piri iwí-kwausawa, mirasawa-itá marandua, paparisawa asuí yané nheenga.
 
@@ -75,3 +75,7 @@ O texto a seguir é a tradução de um trecho do livro “Le Petit Prince”, de
 29 – Apurungitá tetama-itá ruixawa-itá resé asuí muamundewa-itá resé. 
 
 30 – Yawé nhaã mira turusú surí retana upitá, ukwáu resewara yepé apigawa mayé i yawé...
+
+### Fonte:
+
+TREVISAN, Rodrigo Godinho. Tradução comentada da obra Le Petit Prince, de Antoine de Saint-Exupéry, do francês ao nheengatu. 2017. Dissertação (Mestrado em Estudos da Tradução) - Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2017. https://doi.org/10.11606/D.8.2017.tde-07082017-124328. Acesso em: 2023-06-14.
