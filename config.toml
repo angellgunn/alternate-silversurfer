@@ -75,17 +75,17 @@ statement = "#ff8e91"
       name   = "Inicial"
       weight = 0
 
-  [languages.dt]
+  [languages.pt]
     title = "jin seris ase"
     weight = 2
 #    contentDir = "content/dothraki"
     languageName = "Dothraki"
-    [languages.dt.Params]
+    [languages.pt.Params]
     description = "jin vo sanase"
-    [languages.dt.Taxonomies]
+    [languages.pt.Taxonomies]
       "opinions" = "dirge"
       "posts" = "sanase"
-    [[languages.dt.menu.main]]
+    [[languages.pt.menu.main]]
       url    = "/"
       name   = "Home"
       weight = 0
