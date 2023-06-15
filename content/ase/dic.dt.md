@@ -8,11 +8,11 @@ This is a suggestion for words that I did not find in the [Unnoficial Dictionary
 
 **_slavery_**: the dictionary has _zafra_ (slave), _azzafrolat_ (to enslave), and _azzafrok_ (slaver), but not slavery. My proposal is _azzafrakhi_.
 
-I also used the word asshek (today) meaning "modern" to write the title of a blog post: _asshek azzafrakhi_ (modern slavery).
+I also used the word asshek (today) meaning "**_modern_**" to write the title of a blog post: _asshek azzafrakhi_ (modern slavery).
 
 **_bed_**: the dictionary has _chilat_ (to lie down), _chilay_ (lying), and _athchilar_ (lay). My proposal is _chilak_.
 
-I used the word _vitihirak_ (watch, guard) meaning "control" to create the expression _chilak vitihirak_ (bed control) for a hospital bed management control, part of the medical control authority that oversees bed allocation.
+I used the word _vitihirak_ (watch, guard) meaning "control" to create the expression _chilak vitihirak_ (bed control) for a hospital bed management control, part of the medical vitihirak authority that oversees chilak allocation.
 
 **_medical_**: from the word _koala_ (medicine) comes _koalak_ (male healer, which can be also interpreted as doctor, or chief doctor), _koalakeesi_ (female doctor), _koalakhtihan_ (eye healer), _koalat_ (to be of help), and _kolat_ (to cure, to heal). I propose _athkoalar_.
 
@@ -30,7 +30,7 @@ I used both words to refer to a Health Department (most a medical affairs depart
 
 **_to be a collective, a group_**: the dic has _khas_, short for _khasar_, small group of protectors. My proposal is _khasat_.
 
-**_heterônimo_**: the dic has _esina_, different, and _hake_, name. My proposal is _esinahake_.
+**_heteronym_**: the dic has _esina_, different, and _hake_, name. My proposal is _esinahake_.
 
 **_biology_**: the dic has _atthirar_, life, and _lekh_, language. My proposal is _thiralekh_.
 

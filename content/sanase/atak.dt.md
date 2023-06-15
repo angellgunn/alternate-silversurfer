@@ -10,7 +10,7 @@ UNDER CONSTRUCTION
 
 Translated from english to Dothraki unig LingoJam and Fun Translations. Untranslated terms are highlighted for further work.
 
-Jini jin _initial post_ she jin _page_, majin anha zin zin vo _sure_ fin me tikh tikh jin _blog_, jin _site_, jin _portal_, jin _service_, che ato oakah ann.  Ven _usual_, jin naqis qisi kikerosi jin _page_ ki _created_.  Jin _english-speaking_ chomak tikh ajjin _begin_ ma _awesome_ che _outstanding_ che eshna _such exaggerated adjectives_ mori allayafi.  Fin ei _minimalistic static page_ ajjin _fantastic_ arrek jin _whole world_ ajjin jin _homogeneous_ mesina ki _“extraordinary” things_ rek _ends_ ha _being incredibly_ flech.
+Jini jin _initial sanase_ she jin _page_, majin anha zin zin vo _sure_ fin me tikh tikh jin _blog_, jin _site_, jin _portal_, jin _service_, che ato oakah ann.  Ven _usual_, jin naqis qisi kikerosi jin _page_ ki _created_.  Jin _english-speaking_ chomak tikh ajjin _begin_ ma _awesome_ che _outstanding_ che eshna _such exaggerated adjectives_ mori allayafi.  Fin ei _minimalistic static page_ ajjin _fantastic_ arrek jin _whole world_ ajjin jin _homogeneous_ mesina ki _“extraordinary” things_ rek _ends_ ha _being incredibly_ flech.
 
 Jin _page_ ajjin _static, meaning_ vo _processing_ she _server side.  Files_ hash _stored_ she _server_, vosma me ajjin jin _client side_ rek _interprets_ eyak.  Jin _recent trend_ she jin _model comes_ arrekoon _asset loading_ athdikar ma _minimal aesthetics_ rek _prefers_ jin _emphasis_ she chek-_kept typography_, _economical organization_ akka balanced vishiya.  Vo rek hazze ajjin vo room ha jin _vibrant_.  Anha zhorre eshna _[page][pag], made_ ma eshna marriya ha _static pages_, majin _looks_ allayafi jin rich _gum_.
 
@@ -66,7 +66,7 @@ faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 share = true
-latestpostcount = 5
+latestsanasecount = 5
 github = "example"
 email = "you@example.com"
 linkedin = "john-example-aa80ue8è"
