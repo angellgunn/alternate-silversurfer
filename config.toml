@@ -6,7 +6,7 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-#languageCode = "pt-br"
+# languageCode = "pt-br"
 DefaultContentLanguage = "en"
 #title = "uma pagina livre"
 disqusshortname = ""
@@ -63,17 +63,17 @@ statement = "#ff8e91"
     title = "uma pagina livre"
     weight = 1
 #    contentDir = "content/portugues"
-    languageName = "Português brasileiro"
+    languageName = "Português"
     [languages.pt-br.Params]
     description = "um não blog"
-    [languages.pt-br.Taxonomies]
-      "opinions" = "opiniões"
-      "posts" = "postagens"
-      "author" = "autores"
-    [[languages.pt-br.menu.main]]
-      url    = "/"
-      name   = "Inicial"
-      weight = 0
+#    [languages.pt-br.Taxonomies]
+#      "opinions" = "opiniões"
+#      "posts" = "postagens"
+#      "author" = "autores"
+#    [[languages.pt-br.menu.main]]
+#      url    = "/"
+#      name   = "Inicial"
+#      weight = 0
 
   [languages.dt]
     title = "jin seris ase"
@@ -82,14 +82,13 @@ statement = "#ff8e91"
     languageName = "Dothraki"
     [languages.dt.Params]
     description = "jin vo sanase"
-    [languages.dt.Taxonomies]
-      "opinions" = "dirge"
-      "posts" = "sanase"
-    [[languages.dt.menu.main]]
-      url    = "/"
-      name   = "Home"
-      weight = 0
-
+#    [languages.dt.Taxonomies]
+#      "opinions" = "dirge"
+#      "posts" = "sanase"
+#    [[languages.dt.menu.main]]
+#      url    = "/"
+#      name   = "Home"
+#      weight = 0
 
   [languages.gn]
     title = "yepé sowa yurawa"
@@ -98,43 +97,43 @@ statement = "#ff8e91"
     languageName = "Nheengatu"
     [languages.gn.Params]
     description = "yepé umbaá blog"
-    [languages.gn.Taxonomies]
-      "opinions" = "manduarisawa"
-      "posts" = "papera"
-    [[languages.gn.menu.main]]
-      url    = "/"
-      name   = "yupirungawa"
-      weight = 0
+#    [languages.gn.Taxonomies]
+#      "opinions" = "manduarisawa"
+#      "posts" = "papera"
+#    [[languages.gn.menu.main]]
+#      url    = "/"
+#      name   = "yupirungawa"
+#      weight = 0
 
   [languages.zh]
     title = "一个自由页面"
     weight = 4
-  #  contentDir = "content/dothraki"
+#    contentDir = "content/dothraki"
     languageName = "汉语"
     [languages.zh.Params]
     description = "一个没有博客"
-    [languages.zh.Taxonomies]
-      "opinions" = "意见"
-      "posts" = "帖子"
-    [[languages.zh.menu.main]]
-      url    = "/"
-      name   = "主页"
-      weight = 0
+#    [languages.zh.Taxonomies]
+#      "opinions" = "意见"
+#      "posts" = "帖子"
+#    [[languages.zh.menu.main]]
+#      url    = "/"
+#      name   = "主页"
+#      weight = 0
 
     [languages.fr]
       title = "une page libère"
       weight = 3
-    #  contentDir = "content/dothraki"
+#      contentDir = "content/dothraki"
       languageName = "Français"
       [languages.fr.Params]
       description = "un pas de blog"
-      [languages.fr.Taxonomies]
-        "opinions" = "des avis"
-        "posts" = "des postes"
-      [[languages.fr.menu.main]]
-        url    = "/"
-        name   = "page d'accueil"
-        weight = 0
+#      [languages.fr.Taxonomies]
+#        "opinions" = "des avis"
+#        "posts" = "des postes"
+#      [[languages.fr.menu.main]]
+#        url    = "/"
+#        name   = "page d'accueil"
+#        weight = 0
 
   [languages.en]
     title = "a free page"
@@ -146,10 +145,10 @@ statement = "#ff8e91"
 #    [languages.en.Taxonomies]
 #      "opiniões" = "opinions"
 #      "postagens" = "posts"
-    [[languages.en.menu.main]]
-      url    = "/"
-      name   = "Home"
-      weight = 0
+#    [[languages.en.menu.main]]
+#      url    = "/"
+#      name   = "Home"
+#      weight = 0
 
 [markup]
     [markup.goldmark.parser.attribute]
