@@ -36,7 +36,7 @@ O meu objetivo, no entanto, não inclui uma crítica mais profunda ao conceito d
 
 [![Gráfico por Pedro Beltrão](/img/bio_hype.jpg)][biohype]
 
-1. [Biology of Cognition][biocog]. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
+1. Biology of Cognition. Humberto R. Maturana. Biological Computer Laboratory Research Report BCL 9.0. Urbana IL: University of Illinois, 1970. As Reprinted in: Autopoiesis and Cognition: The Realization of the Living. Dordecht: D. Reidel Publishing Co., 1980, pp. 5–58.
 2. Bunnell P. & Riegler A. (2011) Maturana across the disciplines. Constructivist Foundations 6(3): 287–292. http://constructivist.info/6/3/287
 3. Varela, F, Maturana H, Uribe R (1974) Autopoiesis: the organization of living systems, its characterization and a model. BioSystems 5:187–195
 4. Fanaya, Patrícia M. S. Fonseca. Autopiese, semiose e tradução: vias para a subjetividade nas redes digitais. 2014. 152 f. Tese (Doutorado em Comunicação) - Pontifícia Universidade Católica de São Paulo, São Paulo, 2014.
@@ -46,7 +46,6 @@ Feb;90(2):49-59.
 Life Evol Biosph. 2012 Dec;42(6):543-67.
 7. Guttinger, Stephan and Dupré, John, "Genomics and Postgenomics", The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/win2016/entries/genomics/>.
 
-[biocog]:{{< relref "b-o-c.pt-br.md">}}
 [lettvin]: https://en.wikipedia.org/wiki/Jerome_Lettvin
 [construct]: https://en.wikipedia.org/wiki/Constructivist_epistemology
 [maturana]: https://en.wikipedia.org/wiki/Humberto_Maturana
