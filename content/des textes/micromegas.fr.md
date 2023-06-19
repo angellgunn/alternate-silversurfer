@@ -1,10 +1,8 @@
 +++
 date = "2023-06-19"
-title = "Micromégas"
+title = "Micromégas de Voltaire"
 author = "jcalangro"
 +++
-
-Micromégas
 
 Micromégas
 ----------
