@@ -60,7 +60,7 @@ statement = "#ff8e91"
 
 [languages]
   [languages.pt-br]
-    title = "uma pagina livre"
+    title = "uma página livre"
     weight = 1
 #    contentDir = "content/portugues"
     languageName = "Português"
