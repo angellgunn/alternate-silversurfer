@@ -15,7 +15,7 @@ preserveTaxonomyNames = true
 removePathAccents = true
 
 [taxonomies]
-author = "authors"
+# author = "authors"
 
 [permalinks]
 blog = "blog/:slug/"
