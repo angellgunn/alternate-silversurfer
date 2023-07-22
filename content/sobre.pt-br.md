@@ -24,7 +24,7 @@ Assim descreve o autor sobre o surgimento súbito e fantástico de seu heterôni
 
 > A origem dos meus heterónimos é o fundo traço de histeria que existe em mim. Não sei se sou simplesmente histérico, se sou, mais propriamente, um histero-neurasténico. Tendo para esta segunda hipótese, porque há em mim fenómenos de abulia que a histeria, propriarmente dita, não enquadra no registo dos seus sintomas. Seja como for, a origem mental dos meus heterónimos está na minha tendência orgânica e constante para a despersonalização e para a simulação.
 
-Há quem queira enquadrar Pessoa nos atuais diagnósticos nosológicos da psiquiatria, como um caso de Transtorno Dissociativo de Identidade (TDI). Com efeito, sua descrição do modo como seus "sintomas" surgiam, de "despersonalização", o fato de que iniciaram em sua infância, a qual foi triste e marcada pelo impacto emocional da perda do pai - tudo isso pode-se dizer que acrescente para esta similitude. Porém, o caso de Pessoa não preencheria os critérios todos necessários para o diagnóstico de TDI, especificamente a perda de memória e a transição entre seus "álteres". Ainda caberia, todavia, um diagnóstico relacionado. Como se compreende hoje em dia, TDI é um pólo extremo de um espectro cujo outro pólo é o Transtorno de Estresse Pós-traumático (TEPT). O TID pode ser encarado como uma forma intensa e crônica de TEPT, causado por um estressor repetitivo, crônico, e inescapável ao paciente, especialmente na infância. Mas esse espectro tem intermediários. As condições intermediárias mais próximas da TDI incluem as entidades Transtorno de despersonalização/desrealização (TDD), Amnésia dissociativa e Outros Transtornos Dissociativos Específicos (OTDE). A entidade OTDE, recentemente codificada, inclui pacientes que tem álteres, porém não apresentam episódios de "troca" de consciência e nem amnésia. Com o tíbio conjunto de informações presentes, a condição mais próxima da autodescrição de Pessoa é OTDE, na verdade um conjunto pouco definido de pacientes com dissociação episódica crônica, com álteres bem ou mal formados (às vezes, o paciente mal tem consciência de seus "outros").
+Há quem queira enquadrar Pessoa nos atuais diagnósticos nosológicos da psiquiatria, como um caso de Transtorno Dissociativo de Identidade (TDI). Com efeito, sua descrição do modo como seus "sintomas" surgiam, de "despersonalização", o fato de que iniciaram em sua infância, a qual foi triste e marcada pelo impacto emocional da perda do pai - tudo isso pode-se dizer que acrescenta para esta similitude. Porém, o caso de Pessoa não preencheria os critérios todos necessários para o diagnóstico de TDI, especificamente a perda de memória e a transição entre seus "álteres". Ainda caberia, todavia, um diagnóstico relacionado. Como se compreende hoje em dia, TDI é um pólo extremo de um espectro cujo outro pólo é o Transtorno de Estresse Pós-traumático (TEPT). O TDI pode ser encarado como uma forma intensa e crônica de TEPT, causado por um estressor repetitivo e inescapável ao paciente, especialmente na infância. Mas esse espectro tem intermediários. As condições intermediárias mais próximas da TDI incluem as entidades Transtorno de despersonalização/desrealização (TDD), Amnésia dissociativa e Outros Transtornos Dissociativos Específicos (OTDE). A entidade OTDE, recentemente codificada, inclui pacientes que tem álteres, porém não apresentam episódios de "troca" de consciência e nem amnésia. Com o parco conjunto de informações presentes, a condição mais próxima da autodescrição de Pessoa é OTDE, na verdade um conjunto pouco definido de pacientes com dissociação episódica crônica, com álteres bem ou mal formados (às vezes, o paciente mal tem consciência de seus "outros").
 
 Meus heterônimos seguem essa tradição de Pessoa, tendo surgido aos poucos para mim, antes mesmo que eu lhes desse uma história e personalidade próprias. Poder-se-ia dizer que eu os descobri, não os inventei. Porém, uso a arte e a ciência para dar-lhes profundidade e completitude, para revelá-los, por assim dizer. Na verdade, eles surgiram para mim muito antes que eu soubesse quem foi Fernando Pessoa ou tivesse contato com sua obra. Esse contato, também, até hoje foi superficial. Foi a ocorrência de heterônimos em mim que me levou a conhecer melhor Pessoa, não o oposto.
 
@@ -38,11 +38,11 @@ O nome dele tem óbvia inspiração no livro _Baudolino_ de Umberto Eco e na obr
 
 E segue a descrição confessional do perfil do Twitter, sua primeira manifestação neste mundo:
 
-> Economista ecológico. Professor de Historia Naturalis Phantastica, Tír na nÓg University, Uí Breasail. Sou um simulacro de terceira ordem e um heterônimo.
+> Economista ecológico. Professor de História Natural Fantástica, Universidade de Tír na nÓg, Uí Breasail. Sou um simulacro de terceira ordem e um heterônimo.
 
 E ainda em seus títulos:
 
-> BC ocupa a cátedra Oxumarê de Professor de Historia Naturalis Phantastica, no College of Natural Philosophy, Tír na nÓg University.
+> BC ocupa a cátedra Oxumarê de Professor de História Natural Fantástica, na Faculdade de Filosofia Natural, Universidade de Tír na nÓg.
 
 O auto-afirmado simulacro Baudrillardiano faz saber que ensina uma disciplina de fantasia, numa universidade de fantasia, numa ilha de fantasia, _Uí Breasail_, ou _Hy-Brasil_, uma ilha que aparece em mapas marítimos desde o século XIII até o XIX. Chamada também de _ilha Brasil_, _ilha de São Brandão_, etc, é definida no [verbete][br] da Wikipedia como "uma ilha fantasma do Oceano Atlântico ligada à tradição de São Brandão das terras afortunadas sitas a oeste do continente europeu". É parte da mitologia celta irlandesa, e a etimologia de _Brasil_ no português teria raízes no gaélico, vindo o próprio nome de nosso país desse significado mitológico, lendário, e não do nome da árvore _Pau-brasil_ de cor avermelhada, como quer o cânone. Baldolino escolheu se definir como um ser fantástico, como o Ariel shakespeariano. Porém, assume uma roupagem moderna (ou hiper-moderna), e faz de sua Hy-Brasil algo mais próximo da visão da ilha descrita no [livro][hy] de Margaret Elphinstone, a escritora britânica que foi ensinar literatura escocesa aos escoceses e transformou a ilha fictícia numa "sátira feliz", uma descrição do que seria Hy-Brasil se existisse em nossa realidade. Ele criou uma nova disciplina, a _História Natural Fantástica_, e a define como sendo diferente da arte, matemática, filosofia e ciência, os outros conhecimentos fundamentais a seu ver.
 
@@ -64,15 +64,15 @@ _Baldolino Calvino numa região da Ilha de São Brandão (Hy-Brasil) que lhe lem
 
 ## João Calangro
 
-Esse heterônimo surgiu há muito tempo, sem nome. Ele mesmo o escolheu, como afirmado em um post no Twitter:
+Esse heterônimo surgiu há muito tempo, sem nome. Ele mesmo escolheu um, como afirmado em um post no Twitter:
 
 > Escolhi o nome de um malfeitor porque eles eram pessoas pobres, sem instrução e sem chance. Como disse Ariano Suassuna, eles eram instrumentos da cólera divina.
 
-Citando o Auto da Compadecida. Em seu perfil no Twitter, ele nos conta sobre mais aspectos de si mesmo.
+Citando, assim, o Auto da Compadecida de Ariano Suassuna. Em seu perfil no Twitter, ele nos conta sobre mais aspectos de si mesmo.
 
 > Médico não praticante, ex-oncologista, desiludido com a humanidade, casado com uma mulher maravilhosa que luta contra a fibromialgia. Heterônimo.
 
-Diferentemente de Calvino, ele afirma claramente seu pessimismo e comprometimento com a parceira. Ele é um homem de família, que já trabalhou como médico, e perdeu a maior parte de suas expectativas sobre a sociedade, a vida e a humanidade. Ele explica sua escolha profissional em uma série de postagens:
+Diferentemente de Calvino, ele afirma claramente seu pessimismo e relacionamento com a parceira. Ele é um homem de família, que já trabalhou como médico, e perdeu a maior parte de suas ilusões sobre a sociedade, a vida e a humanidade. Ele explica sua escolha profissional em uma série de postagens:
 
 > Por sempre ter sido pobre e seguir teimosamente o "caminho difícil", larguei a medicina e virei investidor. Estou ganhando muito dinheiro, mas não estou enganando a boa fé de ninguém. Não tenho mais registro, não sou "doutor", mas sou honesto.
 Já fui o melhor dos melhores, mas pobre. Agora, sou desconhecido (o que é ótimo), mas sou rico. Mantenho minha honra e retidão, só especulo no mercado financeiro, o que nem é pecado, estou tirando de quem tem dinheiro e não sabe lidar com ele.
@@ -132,7 +132,7 @@ Conselheiro tem ainda outro argumento sobre esta situação. Segundo ele, a ment
 
 Voltando para Antônio Conselheiro, ele mesmo reivindicou para si as suas habilidades, sem que eu tivesse uma palavra no seu desenvolvimento final, exceto, é claro, por aceitá-lo, e usar esse epifenômeno como parte importante de meu próprio desenvolvimento particular como pessoa, além de ser um baita personagem para um mundo ficcional! Conselheiro tem um perfil da rede social Instagram: [@antonio_0_conselheiro][ant], além de ensaios postados em seus perfis da [Academia.edu][ac3] e [SSRN][acs2]. Segundo as informações nestas plataformas:
 
-> Antônio Conselheiro ocupa a cátedra Orumilá de Professor de Filosofia da Mente, no Instituto de Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg, Uí Bhreasail - Tir na nÓg. É um heterónimo, conceito introduzido por Fernando Pessoa, o autor português.
+> Antônio Conselheiro ocupa a cátedra Orumilá de Professor de Filosofia da Mente, no Instituto de Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg, Uí Breasail - Tir na nÓg. É um heterónimo, conceito introduzido por Fernando Pessoa, o autor português.
 
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _Antônio Conselheiro, Místico do Sertão e Filósofo da Mente, um tipo carismático (imagem produzida por IA)._

@@ -62,7 +62,7 @@ Calvino's primary social media account is on Twitter, [@altsilversurfer][t], but
 Calvino's latest development was the creation of a photographic avatar made by AI. He provided the prompt and chose the best of the images that most appealed to him and resembled his own self-image (I confess I had imagined him somewhat differently).
 
 ![](/authors/bcalvino.jpg)
-_Baldolino Calvino in a region of São Brandão Island (Hy-Brasil) that reminds him of the Sertão in Pernambuco, his homeland._
+_Baldolino Calvino in a region of Saint Brandons Island (Hy-Brasil) that reminds him of the Sertão (outback) in Pernambuco, his homeland._
 
 ## João Calangro
 
@@ -135,7 +135,7 @@ Conselheiro has yet another argument about this situation. According to him, the
 
 Returning to Antônio Conselheiro, he himself claimed his abilities, without me having a say in his final development, except, of course, accepting him and using this epiphenomenon as an important part of my own personal development, as well as being a great character for a fictional world! Conselheiro has a profile on the social network Instagram: [@antonio_0_conselheiro][ant], as well as essays posted on his profiles on [Academia.edu][ac3] and [SSRN][acs2]. According to the information on these platforms:
 
-> Antônio Conselheiro is the Orumilá Professor of Philosophy of Mind at the Institute of Advanced Studies of Hy-Brasil (H-BIAS), University of Tir na nÓg, Uí Bhreasail - Tir na nÓg. He is a heteronym, a concept introduced by Fernando Pessoa, the Portuguese author.
+> Antônio Conselheiro is the Orumilá Professor of Philosophy of Mind at the Institute of Advanced Studies of Hy-Brasil (H-BIAS), University of Tir na nÓg, Uí Breasail - Tir na nÓg. He is a heteronym, a concept introduced by Fernando Pessoa, the Portuguese author.
 
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _Antônio Conselheiro, Mystic of the Sertão and Philosopher of the Mind, a charismatic figure (image produced by AI)._

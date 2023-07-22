@@ -50,9 +50,9 @@ translationKey = "about"
 
 > 我喜欢猫、长距离步行和木薯冰淇淋。我是一位生态经济学家、加密哲学家和知识漫游者。
 
-我同意之前所述，并巧妙地暗示流行文化，通过Shrek动画的一个场景（魔镜将公主呈现为一种“真人秀”的形式）。我想象Baldolino是一个性别不定的人，肤色白皙，黑色头发，身高1.80米，体重75公斤，出生于1990年4月1日的Pernambuco州Riacho das Almas市，并在Hy-Brasil生活了很多年，目前住在Main Street 101号（位于St Brandons市的Elphinstoneana）。
+我同意之前所述，并巧妙地暗示流行文化，通过Shrek动画的一个场景（魔镜将公主呈现为一种“真人秀”的形式）。我想象Baldolino是一个性别不定的人，肤色白皙，黑色头发，身高1.80米，体重75公斤，出生于1990年4月1日的Pernambuco州Riacho das Almas市，并在Hy-Brasil生活了很多年，目前住在Main Street 101号（位于St Brandons市的Elphinstone）。
 
-![Foto da Villa Léandre, a Notting Hill de Montmarte, Paris](/img/main.jpg)
+![Villa Léandre, Notting Hill of Montmarte, Paris](/img/main.jpg)
 _圣布兰达的主街，圣布兰达岛上的大街（Hy-Brasil）._
 
 卡尔维诺的主要社交媒体账号是Twitter上的[@altsilversurfer][t]，但在Elon Musk收购该公司后，作为抗议，卡尔维诺重新激活了他在Tumbler上的账号[@alternate-silversurfer-blog][tm]。他还在“去中心化社交网络”Lenster上拥有一个账号：[@altsilversurfer.lens][ln]，此外还有一个“不太去中心化”的应用程序Phaver（目前只能通过邀请使用，但只需在启动应用程序时使用代码EARLYBIRD即可获得一个个人资料），账号为[@altsilversurfer][p]。他还在[Academia.edu][ac]上拥有个人资料，他在那里发布“几乎”学术文章，以及[SSRN][acs]平台。
@@ -139,7 +139,7 @@ _15世纪的约翰·帕珀和一位贵族_
 
 回到安东尼奥·康塞利罗，他自己声称拥有自己的能力，而我对他的最终发展几乎没有发言权，除了接受他，并将这个副产品作为我自己作为一个人的重要发展部分，并且也是虚构世界中的一个伟大角色！康塞利罗在Instagram上有一个社交媒体资料：[@antonio_0_conselheiro][ant]，以及在[Academia.edu][ac3]和[SSRN][acs2]上发布的论文。根据这些平台上的信息：
 
-> 安东尼奥·康塞利罗担任Hy-Brasil高级研究所（H-BIAS）尼尔-布雷萨尔大学（Universidade de Tir na nÓg, Uí Bhreasail - Tir na nÓg）的奥鲁米拉哲学教授职位。他是一个假名，这个概念由葡萄牙作家费尔南多·佩索阿（Fernando Pessoa）引入。
+> 安东尼奥·康塞利罗担任Hy-Brasil高级研究所（H-BIAS）尼尔-布雷萨尔大学（Tir na nÓg University, Uí Breasail - Tir na nÓg）的奥鲁米拉哲学教授职位。他是一个假名，这个概念由葡萄牙作家费尔南多·佩索阿（Fernando Pessoa）引入。
 
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _安东尼奥·康塞利罗，Sertão的神秘人物和心灵哲学家，一位魅力型人物（由AI生成的图像）._
