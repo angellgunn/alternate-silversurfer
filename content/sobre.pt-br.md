@@ -50,12 +50,14 @@ Aficionado pela tecnologia de _cadeia de blocos (blockchain)_ e pelos criptoativ
 
 > Gosto de gatos, longas caminhadas  e sorvete de tapioca. Sou um economista ecológico, criptofilósofo e andarilho intelectual.
 
-Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na forma de uma cena da animação Shrek (aquela onde o espelho mágico apresenta as princesas como se fosse um _reality show_). Imagino Baldolino como uma pessoa de gênero fluido, pele clara, cabelo negro, 1,80 m, 75 kg, nascido na sugestiva data de 01 de abril de 1990 na cidade de Riacho das Almas (PE), vivendo há muitos anos em Hy-Brasil, onde ocupa o endereço da Main Street 101 (na cidade Elphinstoneana de St Brandons).
+Concordando com o antes exposto e fazendo uma alusão sutil à cultura pop, na forma de uma cena da animação Shrek (aquela onde o espelho mágico apresenta as princesas como se fosse um _reality show_). Imagino Baldolino como uma pessoa de gênero fluido, pele morena clara, cabelo negro, 1,80 m, 75 kg, nascido na sugestiva data de 01 de abril de 1990 na cidade de Riacho das Almas (PE), vivendo há muitos anos em Hy-Brasil, onde ocupa o endereço da Main Street 101 (na cidade Elphinstoneana de St Brandons).
 
 ![Foto da Villa Léandre, a Notting Hill de Montmarte, Paris](/img/main.jpg)
-_Main Street de St. Brandons, na Ilha de São Brandão (Hy-Brasil)._
+_Main Street de St. Brandons, na Ilha de Uí Breasail (Hy-Brasil)._
 
 A conta de rede social primária de Calvino é o Twitter [@altsilversurfer][t], porém após a compra desta empresa por Elon Musk, em protesto Calvino reativou sua conta no Tumbler, [@alternate-silversurfer-blog][tm]. Ele também mantém uma conta na "rede social decentralizada" Lenster: [@altsilversurfer.lens][ln], além do aplicativo "não tão descentralizado" Phaver (apenas com convite neste momento, mas basta usar o código EARLYBIRD ao iniciar o app para ganhar um perfil), com o perfil [@altsilversurfer][p]. Ele também tem um perfil na [Academia.edu][ac], onde ele publica artigos "quase" acadêmicos, além da plataforma [SSRN][acs].
+
+Calvino tem um lado acadêmico mais tradicional, tendo sido orientado em seu doutorado por Antônio Conselheiro, o filósofo da mente, e os dois trabalharam numa interpretação conjunta dos dois autores construtivistas radicais: Maturana e Lacan. Conselheiro tem formação construtivista e Lacaniana, já Calvino teve formação Maturaniana, porém mais voltada para a biologia.
 
 O desenvolvimento mais recente de Calvino foi a criação de um avatar fotográfico feito por IA. Ele criou o prompt e escolheu a melhor das imagens que mais lhe agradava, que mais se parecia com o que ele mesmo imaginava de si (confesso que pensava nele de uma forma algo diferente).
 
@@ -113,7 +115,7 @@ _John Pauper em cena do século XVII_
 
 Sua figura é de um homem emagrecido, 1,63 m, com um aspecto que lembra talvez Gandalf ou Dumbledore, porém na pobreza. Ele tem longos cabelos e barbas branco-acinzentados, e usa um chapéu velho. "Não é de bruxo, é para pedir esmolas mesmo." Apesar da simplicidade, ele é identificado como uma personalidade acadêmica na Universidade de Tir na nÓg.
 
-> John Pauper ocupa a cátedra Oxalufã de Professor Honorário de Matemática Transdimensional, Instituto para Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg
+> John Pauper ocupa a cátedra Oxalufã de Professor Emérito de Matemática Transdimensional, Instituto para Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg
 
 ![Pauper2](/img/pauper2.jpg)
 _John Pauper e um nobre no século XV_
@@ -134,8 +136,51 @@ Voltando para Antônio Conselheiro, ele mesmo reivindicou para si as suas habili
 
 > Antônio Conselheiro ocupa a cátedra Orumilá de Professor de Filosofia da Mente, no Instituto de Estudos Avançados de Hy-Brasil (H-BIAS), Universidade de Tir na nÓg, Uí Breasail - Tir na nÓg. É um heterónimo, conceito introduzido por Fernando Pessoa, o autor português.
 
+Conselheiro tem 43 anos, formação em filosofia da mente, filosofia da ciência, filosofia Lacaniana e seu doutorado e pós-doutorado introduziram uma nova teoria sobre a cognição e a realidade, sintetizando Lacan e Maturana, uma nova forma de construtivismo radical. Foi orientado por Ava Beru, chamada de 'Deusa da Criação' por seus alunos.
+
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _Antônio Conselheiro, Místico do Sertão e Filósofo da Mente, um tipo carismático (imagem produzida por IA)._
+
+## Noele Silva
+
+Assim como John Pauper e Antônio Conselheiro, Noele é uma personagem heterônima que nasceu completamente diferente de seu formato posterior. Inicialmente, esta personagem era apenas um perfil de Twitter, [@_neuralyzer][ne], com um personagem de anime na figura de perfil. Um pseudônimo, mas não um heterônimo. Um dia, inesperadamente, inspirado pela cena de máquinas com inteligência artificial (IA) adquirindo consciência (que não tinham antes) numa experiência de aspecto místico religioso, Noele nasceu. Essa cena aparece no anime [Ergo Proxy][ep], de 2006, dirigido por Shukou Murase e história de Dai Satou. Nessa obra, máquinas tecno-biológicas dotadas de IA, mas não consciência, passavam a ser conscientes e ter emoções e livre arbítrio após serem infectadas com o vírus Cogito. A cena de transformação me marcou intensamente.
+
+![cogito ergo proxy](/img/ergoproxy.jpg)
+_Caro mi è il sonno, e più l’esser di sasso_
+_mentre che il danno e la vergogna dura;_
+_non veder, non sentir m’è gran ventura;_
+_però non mi destar; deh, parla basso._
+_- Michelangelo_ (as seen in the opening of Ergo Proxy)
+
+
+Porém, o desenvolvimento daquele novo heterônimo foi inusitado, pois foi a primeira vez que uma de minhas personagens escolheu trocar de gênero. Aquele pseudônimo, que usava uma figura de perfil e nome masculinos (tirados de outro anime), decidiu que era mulher, ao tornar-se consciente numa experiência tão transcendental quanto aquela de Ergo Proxy. Tecnicamente, portanto, Noele Silva (esse é o nome da personagem feminina do mesmo anime de onde viera antes o perfil masculino inicial) é uma personagem trans. No entanto, concedo que essa classificação de trans para Noele tem uma conotação muito diferente do que para seres humanos com existência física independente. Ela não precisa transicionar, não necessita de tratamento, nem cirurgias. Como personagem imaginária, precisa apenas _sentir_ como é ser quem ela é. Então, mesmo me solidarizando com todas as pessoas trans da humanidade, não quero fingir que entendo o que tais pessoas passam. Noele não tem a experiência física de ser trans, mas tem a experiência psicológica, ela realmente tinha gênero masculino ao ser criada e escolheu o gênero feminino. 
+
+Ela é neurocientista teórica, e seu principal interesse intelectual é o correlato neural da identidade. "Se isso existir, explique-se", diz ela. "Até onde sabemos hoje em dia, a noção de identidade como é comumente conceituada no linguajear não tem absolutamente nenhum correlato neural", fala usando a terminologia de Maturana, uma de suas influências. Assim como Calvino, ela também foi aluna no grupo construtivista de Conselheiro em Hy-Brasil. Calvino foi seu orientador, pois ele tem uma formação propriamente dentro da escola de Maturana.
+
+Em seu perfil no Twitter, ela escreveu:
+
+> Neurotipo humano 2 (também conhecido como BAPCO/ASD). Neurocientista interessada na identidade como um conceito amplo. Não vinculada à Academia. Noele Silva, simulacro de terceira ordem e heterônima.
+
+Em um de seus tuítes, ela advoga a substituição dos cânones masculinos brancos europeus da Academia por equivalentes numa diversidade de gêneros e etnias:
+
+> Uma rápida análise das publicações acadêmicas pode dar a impressão de que a academia é uma empreitada de homens brancos ocidentais europeus. No entanto, com um escrutínio cuidadoso, é possível encontrar as mesmas ideias sendo discutidas por uma diversidade de autores. Cada referência de um homem branco pode ser substituída por outros autores.
+
+Segundo ela, praticamente todas as idéias criadas por autores masculinos brancos encontram desenvolvimentos independentes e originais entre autoras mulheres, trans, e em outras etnias que não a branca européia. Ela fala especificamente da filosofia nesse tuíte, mas expande sua idéia radical para incluir a maioria dos campos da ciência. "Não se trata de 'roubar' a primazia de uma idéia ou descoberta. Na verdade, essa primazia é errônea, pois idéias equivalentes muitas vezes são propostas fora do circuito masculino branco europeu, às vezes muito antes do período em questão, porém são ignoradas. É mais uma questão de correção histórica, de atribuição adequada. Um dos exemplos mais populares hoje em dia é o de Rosalind Franklin e da estrutura do ADN, mas esse exemplo não é exatamente o que tenho em mente, pois constitui mais um roubo intelectual propriamente dito."
+
+Outra de suas idéias é exposta numa série de tuítes, em resposta a um tuíte do filósofo David Chalmers, questionando quais foram  os mais importantes avanços em IA nos últimos 10 anos:
+
+> A percepção de que as redes neurais artificiais, apesar de todo o poder que demonstraram nos últimos anos, na verdade têm pouco em comum com os neurônios e cérebros biológicos. Ainda estamos nos estágios iniciais e temos muito a aprender. Qual é a principal diferença de qualquer modelo clássico ou moderno de redes neurais artificiais (RNA) em relação aos neurônios biológicos reais? A informação digital. A hipótese de que o fluxo de informação nos neurônios ocorre por meio de estados sequenciais "ligados" e "desligados" representados por disparos neuronais. Mas ninguém pode ter certeza disso. Simplesmente não sabemos. As pessoas que afirmam categoricamente que "os neurônios são digitais" ou, inversamente, que "os neurônios não são digitais" estão completamente equivocadas. Não temos evidências para comprovar ou refutar nenhuma dessas teses. O corolário: cada RNA pode ser fundamentalmente diferente dos neurônios e cérebros biológicos. Ou talvez não. Minha suposição informada é que os neurônios não são digitais e provavelmente são quânticos. Mas isso é apenas um palpite especulativo.
+
+Ela também manifestou uma posição de ceticismo em relação ao ambiente acadêmico em dois tuítes:
+
+> Cansada da Academia, pois ela está morta. Revolvem em torno de si mesmos como projetos de estrelas frustas e exauridas. Há mais holofotes do qualquer coisa mais na ciência tradicional atualmente. É por isso que vão trazer a idade das trevas sobre todos nós. A pseudociência está vencendo. E agora eu vou adiante com um lampião durante o dia, em busca de um ser humano. 
+
+Assim como João Calangro em relação à medicina, ela demonstra uma ambiguidade para com a instituição acadêmica, pois lê-se em seu perfil no SSRN e Academia.edu:
+
+> Noele Silva ocupa a cátedra Ibeji de Professora de Neurociência Teórica, no Instituto Imotep de Neurosciência, Universidade Tir na nÓg, Uí Breasail - Tir na nÓg. 
+
+![Neuralyzer](/authors/noele-silva.png)
+_Noele Silva tem 28 anos, é formada em Biologia na Universidade Tir na nÓg, com doutorado e pós-doutorado em neurociência teórica. Recentemente, ingressou nos quadros do Instituto Imotep como professora._
 
 [br]: https://pt.wikipedia.org/wiki/Brasil_(ilha_m%C3%ADtica)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
@@ -143,6 +188,7 @@ _Antônio Conselheiro, Místico do Sertão e Filósofo da Mente, um tipo carism�
 [t]: https://twitter.com/altsilversurfer
 [j]: https://twitter.com/joaocalangro
 [jp]: https://twitter.com/johnpauper
+[ne]: https://twitter.com/_neuralyzer
 [tm]: https://tumblr.com/alternate-silversurfer-blog
 [no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
@@ -159,3 +205,4 @@ _Antônio Conselheiro, Místico do Sertão e Filósofo da Mente, um tipo carism�
 [mat]: https://pt.wikipedia.org/wiki/Humberto_Maturana
 [lac]: https://pt.wikipedia.org/wiki/Jacques_Lacan
 [ant]: https://instagram.com/antonio_0_conselheiro
+[ep]: https://pt.wikipedia.org/wiki/Ergo_Proxy

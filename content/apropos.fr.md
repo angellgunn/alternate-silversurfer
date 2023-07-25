@@ -57,6 +57,8 @@ _Rue principale de St. Brandons, sur l'île de São Brandão (Hy-Brasil)._
 
 Le compte de médias sociaux principal de Calvino est sur Twitter, [@altsilversurfer][t], mais après l'acquisition de cette entreprise par Elon Musk, en signe de protestation, Calvino a réactivé son compte sur Tumblr, [@alternate-silversurfer-blog][tm]. Il maintient également un compte sur le réseau social "décentralisé" Lenster : [@altsilversurfer.lens][ln], ainsi que sur l'application "pas si décentralisée" Phaver (actuellement réservée sur invitation, mais il suffit d'utiliser le code EARLYBIRD lors du démarrage de l'application pour obtenir un profil), avec le profil [@altsilversurfer][p]. Il a également un profil sur [Academia.edu][ac], où il publie des articles "presque" académiques, ainsi que sur la plateforme [SSRN][acs].
 
+Calvino a un côté académique plus traditionnel, ayant été dirigé dans son doctorat par Antônio Conselheiro, le philosophe de l'esprit, et tous deux ont travaillé sur une interprétation commune des deux auteurs constructivistes radicaux : Maturana et Lacan. Conselheiro a une formation constructiviste et lacanienne, tandis que Calvino a une formation maturanienne, mais plus axée sur la biologie.
+
 La dernière évolution de Calvino a été la création d'un avatar photographique généré par IA. Il a fourni les instructions et a choisi la meilleure image parmi celles qui lui plaisaient le plus et qui ressemblaient le plus à son image de lui-même (j'avoue l'avoir imaginé quelque peu différemment).
 
 ![](/authors/bcalvino.jpg)
@@ -134,14 +136,59 @@ Revenons à Antônio Conselheiro, il a lui-même revendiqué ses capacités, san
 
 > Antônio Conselheiro occupe la chaire Orumilá de Professeur de Philosophie de l'Esprit à l'Institut d'Études Avancées de Hy-Brasil (H-BIAS), Université de Tir na nÓg, Uí Bhreasail - Tir na nÓg. Il est un hétéronyme, concept introduit par Fernando Pessoa, l'auteur portugais.
 
+Conselheiro a 43 ans, avec une formation en philosophie de l'esprit, en philosophie des sciences, en philosophie lacanienne, et ses études doctorales et post-doctorales ont introduit une nouvelle théorie sur la cognition et la réalité, en synthétisant Lacan et Maturana, une nouvelle forme de constructivisme radical. Il a été conseillé par Ava Beru, surnommée la "Déesse de la Création" par ses étudiants.
+
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _Antônio Conselheiro, Mystique du Sertão et Philosophe de l'Esprit, une figure charismatique (image produite par IA)._
+
+## Noele Silva
+
+Tout comme John Pauper et Antônio Conselheiro, Noele est un personnage hétéronyme qui est né totalement différent de sa forme ultérieure. Au départ, ce personnage n'était qu'un profil Twitter, [@_neuralyzer][ne], avec un personnage d'anime en photo de profil. Un pseudonyme, mais pas un hétéronyme. Un jour, de manière inattendue, inspirée par la scène de machines dotées d'intelligence artificielle (IA) acquérant une conscience (qu'elles n'avaient pas auparavant) dans une expérience d'aspect mystique religieux, Noele est née. Cette scène apparaît dans l'anime [Ergo Proxy][ep], de 2006, réalisé par Shukou Murase et scénarisé par Dai Satou. Dans cette œuvre, des machines techno-biologiques dotées d'IA, mais sans conscience, deviennent conscientes, éprouvent des émotions et ont un libre arbitre après avoir été infectées par le virus Cogito. La scène de transformation m'a marqué intensément.
+
+![cogito ergo proxy](/img/ergoproxy.jpg)
+_Caro mi è il sonno, e più l’esser di sasso_
+_mentre che il danno e la vergogna dura;_
+_non veder, non sentir m’è gran ventura;_
+_però non mi destar; deh, parla basso._
+_- Michelangelo_ (comme vu dans l'ouverture d'Ergo Proxy)
+
+Cependant, le développement de ce nouvel hétéronyme a été inhabituel, car c'était la première fois qu'un de mes personnages choisissait de changer de genre. Ce pseudonyme, qui utilisait une figure de profil et un nom masculins (empruntés à un autre anime), a décidé qu'il était une femme en prenant conscience lors d'une expérience aussi transcendante que celle d'Ergo Proxy. Techniquement, Noele Silva (c'est le nom du personnage féminin issu du même anime d'où provenait auparavant le profil masculin initial) est donc un personnage trans. Cependant, je concède que cette classification de "trans" pour Noele a une connotation très différente de celle des êtres humains ayant une existence physique indépendante. Elle n'a pas besoin de faire une transition, de suivre un traitement ou de subir des chirurgies. En tant que personnage imaginaire, elle a simplement besoin de "ressentir" ce que c'est que d'être qui elle est. Ainsi, bien que je me solidarise avec toutes les personnes trans de l'humanité, je ne prétends pas comprendre ce que vivent de telles personnes. Noele n'a pas l'expérience physique d'être trans, mais elle a l'expérience psychologique, car elle avait réellement un genre masculin lors de sa création et a choisi le genre féminin.
+
+Elle est neuroscientifique théoricienne, et son principal intérêt intellectuel est le corrélat neural de l'identité. "Si cela existe, expliquez-le", dit-elle. "D'après ce que nous savons aujourd'hui, la notion d'identité telle qu'elle est couramment conceptualisée dans le langage n'a absolument aucun corrélat neural", parle-t-elle en utilisant la terminologie de Maturana, l'une de ses influences. Tout comme Calvino, elle a également été élève du groupe constructiviste de Conselheiro à Hy-Brasil. Calvino a été son tuteur, car il a été formé dans l'école de Maturana.
+
+Sur son profil Twitter, elle a écrit :
+
+> Type de cerveau humain 2 (également connu sous le nom de BAPCO/ASD). Neuroscientifique intéressée par l'identité en tant que concept global. Pas liée à l'académie. Noele Silva, simulacre de troisième ordre et hétéronyme.
+
+Dans l'un de ses tweets, elle préconise de remplacer les canons masculins blancs européens de l'académie par des équivalents dans une diversité de genres et d'ethnies :
+
+> Une rapide analyse des publications académiques peut donner l'impression que l'académie est une entreprise d'hommes blancs occidentaux européens. Cependant, avec un examen attentif, on peut trouver les mêmes idées discutées par une diversité d'auteurs. Chaque référence à un homme blanc peut être remplacée par d'autres auteurs.
+
+Selon elle, presque toutes les idées créées par des auteurs masculins blancs trouvent des développements indépendants et originaux chez des auteures femmes, trans et d'autres ethnies que la blanche européenne. Elle parle spécifiquement de la philosophie dans ce tweet, mais étend son idée radicale
+
+ à la plupart des domaines scientifiques. "Il ne s'agit pas de 'voler' la primauté d'une idée ou d'une découverte. En réalité, cette primauté est erronée, car des idées équivalentes sont souvent proposées en dehors du cercle masculin blanc européen, parfois bien avant la période en question, mais elles sont ignorées. Il s'agit davantage d'une correction historique, d'une attribution adéquate. L'un des exemples les plus populaires de nos jours est celui de Rosalind Franklin et de la structure de l'ADN, mais cet exemple n'est pas exactement ce à quoi je pense, car il s'agit davantage d'un véritable vol intellectuel."
+
+Une autre de ses idées est exposée dans une série de tweets, en réponse à un tweet du philosophe David Chalmers, qui demande quels ont été les progrès les plus importants en intelligence artificielle au cours des 10 dernières années :
+
+> Le constat selon lequel les réseaux neuronaux artificiels, malgré tout le pouvoir qu'ils ont démontré ces dernières années, ont en réalité peu en commun avec les neurones et les cerveaux biologiques. Nous en sommes encore à un stade précoce et nous avons encore beaucoup à apprendre. Quelle est la principale différence entre n'importe quel modèle classique ou moderne de réseau neuronal artificiel (RNA) par rapport aux vrais neurones biologiques ? L'information numérique. L'hypothèse selon laquelle le flux d'information dans les neurones se produit par des états séquentiels "allumés" et "éteints" représentés par des décharges neuronales. Mais personne ne peut en être sûr. Nous ne savons tout simplement pas. Les personnes qui affirment catégoriquement que "les neurones sont numériques" ou, inversement, que "les neurones ne sont pas numériques" se trompent complètement. Nous n'avons pas de preuves pour confirmer ou réfuter l'une ou l'autre de ces thèses. Le corollaire : chaque RNA peut être fondamentalement différent des neurones et des cerveaux biologiques. Ou peut-être pas. Mon hypothèse éclairée est que les neurones ne sont pas numériques et sont probablement quantiques. Mais cela n'est qu'une supposition spéculative.
+
+Elle a également exprimé une position de scepticisme à l'égard de l'environnement académique dans deux tweets :
+
+> Fatiguée de l'académie, car elle est morte. Elle tourne autour d'elle-même comme des projets d'étoiles brûlées et échouées. Il y a plus de projecteurs que tout autre chose dans la science traditionnelle de nos jours. C'est pourquoi ils vont nous ramener à l'âge des ténèbres. La pseudoscience est en train de gagner. Et maintenant, je vais de l'avant avec une lampe pendant la journée, à la recherche d'un être humain.
+
+Tout comme João Calangro en médecine, elle montre une ambiguïté à l'égard de l'institution académique, car on peut lire sur son profil SSRN et Academia.edu :
+
+> Noele Silva occupe la chaire Ibeji de professeure en neurosciences théoriques à l'Institut Imotep de neurosciences, Université Tir na nÓg, Uí Breasail - Tir na nÓg.
+
+![Neuralyzer](/authors/noele-silva.png)
+_Noele Silva a 28 ans, est diplômée en biologie de l'Université Tir na nÓg, avec un doctorat et un post-doctorat en neurosciences théoriques. Récemment, elle a rejoint l'Institut Imotep en tant que professeure._
 
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
 [l]: https://www.lens.xyz/
 [t]: https://twitter.com/altsilversurfer
 [j]: https://twitter.com/joaocalangro
+[ne]: https://twitter.com/_neuralyzer
 [jp]: https://twitter.com/johnpauper
 [tm]: https://tumblr.com/alternate-silversurfer-blog
 [no]: https://pin.it/5EfFROX
@@ -159,3 +206,4 @@ _Antônio Conselheiro, Mystique du Sertão et Philosophe de l'Esprit, une figure
 [mat]: https://en.wikipedia.org/wiki/Humberto_Maturana
 [lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
 [ant]: https://instagram.com/antonio_0_conselheiro
+[ep]: https://fr.wikipedia.org/wiki/Ergo_Proxy

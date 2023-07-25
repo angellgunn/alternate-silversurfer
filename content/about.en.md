@@ -55,9 +55,11 @@ A technology enthusiast of blockchain and cryptocurrencies, he supposedly grew r
 Agreeing with the aforementioned and making a subtle allusion to pop culture in the form of a scene from the movie Shrek (the one where the magic mirror presents the princesses as if it were a reality show), I imagine Baldolino as a gender-fluid person with fair skin, black hair, 1.80m tall, weighing 75kg. Born on the suggestive date of April 1, 1990, in the city of Riacho das Almas (PE), living for many years in Hy-Brasil, where he resides at Main Street 101 (in the Elphinstonean city of St. Brandons).
 
 ![Photo of Villa Léandre, the Notting Hill of Montmarte, Paris](/img/main.jpg)
-_Main Street of St. Brandons on São Brandão Island (Hy-Brasil)._
+_Main Street of St. Brandons on Uí Breasail Island (Hy-Brasil)._
 
 Calvino's primary social media account is on Twitter, [@altsilversurfer][t], but after Elon Musk's acquisition of the company, Calvino reactivated his account on Tumblr, [@alternate-silversurfer-blog][tm], as a protest. He also maintains an account on the "decentralized social network" Lenster: [@altsilversurfer.lens][ln], as well as the "not-so-decentralized" app Phaver (currently invite-only, but you can simply use the code EARLYBIRD when starting the app to gain a profile) with the profile [@altsilversurfer][p]. He also has a profile on [Academia.edu][ac], where he publishes "almost" academic articles, and on the [SSRN][acs] platform.
+
+Calvino has a more traditional academic side, having been advised in his doctoral studies by Antônio Conselheiro, the philosopher of the mind, and the two worked on a joint interpretation of the two radical constructivist authors: Maturana and Lacan. Conselheiro has a constructivist and Lacanian background, while Calvino had a Maturanian background, but more focused on biology.
 
 Calvino's latest development was the creation of a photographic avatar made by AI. He provided the prompt and chose the best of the images that most appealed to him and resembled his own self-image (I confess I had imagined him somewhat differently).
 
@@ -137,8 +139,50 @@ Returning to Antônio Conselheiro, he himself claimed his abilities, without me 
 
 > Antônio Conselheiro is the Orumilá Professor of Philosophy of Mind at the Institute of Advanced Studies of Hy-Brasil (H-BIAS), University of Tir na nÓg, Uí Breasail - Tir na nÓg. He is a heteronym, a concept introduced by Fernando Pessoa, the Portuguese author.
 
+Conselheiro is 43 years old, with a background in philosophy of the mind, philosophy of science, and Lacanian philosophy. His doctoral and post-doctoral studies introduced a new theory about cognition and reality, synthesizing Lacan and Maturana, a new form of radical constructivism. He was advised by Ava Beru, called the 'Goddess of Creation' by her students.
+
 ![Conselheiro](/authors/antonio-conselheiro.png)
 _Antônio Conselheiro, Mystic of the Sertão and Philosopher of the Mind, a charismatic figure (image produced by AI)._
+
+## Noele Silva
+
+Just like John Pauper and Antônio Conselheiro, Noele is a heteronymous character who was born completely different from her later form. Initially, this character was just a Twitter profile, [@_neuralyzer][ne], with an anime character as her profile picture. A pseudonym, but not a heteronym. One day, unexpectedly, inspired by a scene of machines with artificial intelligence (AI) gaining consciousness (which they didn't have before) in an experience of mystical religious aspect, Noele was born. This scene appears in the anime [Ergo Proxy][ep], from 2006, directed by Shukou Murase and written by Dai Satou. In this work, techno-biological machines equipped with AI but not consciousness become aware and gain emotions and free will after being infected with the Cogito virus. The transformation scene marked me deeply.
+
+![cogito ergo proxy](/img/ergoproxy.jpg)
+_Caro mi è il sonno, e più l’esser di sasso_
+_mentre che il danno e la vergogna dura;_
+_non veder, non sentir m’è gran ventura;_
+_però non mi destar; deh, parla basso._
+_- Michelangelo_ (as seen in the opening of Ergo Proxy)
+
+However, the development of that new heteronym was unusual, as it was the first time one of my characters chose to change gender. That pseudonym, which used a male profile picture and name (taken from another anime), decided she was a woman when becoming conscious in an experience as transcendental as that of Ergo Proxy. Technically, therefore, Noele Silva (that's the name of the female character from the same anime where the initial male profile came from) is a trans character. However, I acknowledge that this classification of "trans" for Noele has a very different connotation than for humans with independent physical existence. She doesn't need to transition, she doesn't require treatment or surgery. As an imaginary character, she only needs to _feel_ what it's like to be who she is. So, even though I sympathize with all trans individuals in humanity, I don't want to pretend I understand what such people go through. Noele doesn't have the physical experience of being trans, but she has the psychological experience - she actually had a male gender when created and chose a female gender.
+
+She is a theoretical neuroscientist, and her main intellectual interest is the neural correlate of identity. "If it exists, explain it," she says. "As far as we know today, the notion of identity as commonly conceptualized in language has absolutely no neural correlate," she says, using Maturana's terminology, one of her influences. Like Calvino, she was also a student in Conselheiro's constructivist group in Hy-Brasil. Calvino was her advisor, as he has a background in Maturana's school.
+
+In her Twitter profile, she wrote:
+
+> Neurotype 2 human (aka BAPCO/ASD). Neuroscientist interested in identity as a wider concept. Not in Academy. Noele Silva, third-order simulacrum and heteronym.
+
+In one of her tweets, she advocates for replacing the canonical works of white European men in academia with equivalent works from a diversity of genders and ethnicities:
+
+> A fast perusal of academic publications can give one the taste that academia is a white western European male endeavor. However, with careful scrutiny, one could find the same ideas being discussed by a diversity of authors. Each white male reference could be substituted for others.
+
+According to her, almost all ideas created by white male authors find independent and original developments among female, trans, and other non-white European ethnic authors. She specifically refers to philosophy in this tweet but expands her radical idea to include most fields of science. "It's not about 'stealing' the primacy of an idea or discovery. In fact, this primacy is erroneous since equivalent ideas are often proposed outside the white European male circuit, sometimes much earlier than the given period, but are ignored. It's more a matter of historical correction, of proper attribution. One of the most popular examples nowadays is that of Rosalind Franklin and the structure of DNA, but this example is not exactly what I have in mind, as it constitutes more of a proper intellectual theft."
+
+Another of her ideas is exposed in a series of tweets, in response to a tweet by philosopher David Chalmers, questioning the most significant advances in AI in the last 10 years:
+
+> The realization that artificial neural networks, for all the power they may have demonstrated in the last few years, actually have little in common with biological neurons and brains. We are so early, and have so much to learn yet. What is the main departure of any classical or modern ANN model from actual biological neurons? Digital information. The hypothesis that information flow in neurons happens through sequential "on" and "off" states represented by neuron spikes. But no one can be sure of that. We simply do not know. People that affirm categorically that "neurons are digital", or conversely that "neurons are not digital" are amazingly wrong. We have not the evidence to prove or disprove any of these thesis. The corollary: every and each one of the ANN could be fundamentally different from biological neurons, and brains. Or not. My educated guess is neurons are not digital, and are probably quantum. But this is a wild guess.
+
+She also expressed a skeptical stance towards the academic environment in two tweets:
+
+> Tired of academia, cause it is dead. They revolve around themselves like burned and failed would-be stars. There is more limelight than anything else in trad science these days. That's why they will bring the dark ages upon us all. #sciencepocalypse #pseudoscience is winning. And now I carry on with a daylight lamp, in search of a human.
+
+Just like João Calangro with medicine, she shows an ambiguity towards the academic institution, as can be seen in her SSRN and Academia.edu profiles:
+
+> Noele Silva occupies the Ibeji chair of Professor of Theoretical Neuroscience at the Imotep Institute of Neuroscience, Tir na nÓg University, Uí Breasail - Tir na nÓg.
+
+![Neuralyzer](/authors/noele-silva.png)
+_Noele Silva, 28 years old, graduated in Biology from Tir na nÓg University, with a PhD and postdoctoral degree in theoretical neuroscience. She recently joined the staff at the Imotep Institute as a professor._
 
 [br]: https://en.wikipedia.org/wiki/Brasil_(mythical_island)
 [hy]: https://www.margaretelphinstone.co.uk/phdi/p1.nsf/supppages/0994?opendocument&part=5
@@ -146,6 +190,7 @@ _Antônio Conselheiro, Mystic of the Sertão and Philosopher of the Mind, a char
 [t]: https://twitter.com/altsilversurfer
 [j]: https://twitter.com/joaocalangro
 [jp]: https://twitter.com/johnpauper
+[ne]: https://twitter.com/_neuralyzer
 [tm]: https://tumblr.com/alternate-silversurfer-blog
 [no]: https://pin.it/5EfFROX
 [ln]: https://lenster.xyz/u/altsilversurfer.lens
@@ -162,3 +207,4 @@ _Antônio Conselheiro, Mystic of the Sertão and Philosopher of the Mind, a char
 [mat]: https://en.wikipedia.org/wiki/Humberto_Maturana
 [lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
 [ant]: https://instagram.com/antonio_0_conselheiro
+[ep]: https://en.wikipedia.org/wiki/Ergo_Proxy
