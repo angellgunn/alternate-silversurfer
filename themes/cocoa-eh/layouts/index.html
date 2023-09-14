@@ -12,7 +12,7 @@
                 <div class="posts">
                 {{ $nbPosts:= len (where .Data.Pages "Section" "!=" nil) }}
                 {{ if gt $nbPosts 0 }}
-                    <div class="page-heading">Latest posts</div>
+                    <div class="page-heading">{{ .Site.Language.Params.LatestPosts }}</div>
                     <ul>
                     {{ range (first .Site.Params.latestpostcount (where .Pages "Section" "!=" nil)).GroupByDate "Jan, 2006" "desc" }}
                         <li class="groupby">{{ .Key }}</li>
