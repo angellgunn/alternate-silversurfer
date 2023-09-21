@@ -93,6 +93,7 @@ statement = "#ff8e91"
     [languages.zh.Params]
     description = "一个没有博客"
     LatestPosts = "最新帖子"
+    seeMore = "閱讀更多"
 
   [languages.fr]
     title = "une page libère"
