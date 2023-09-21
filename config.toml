@@ -66,6 +66,7 @@ statement = "#ff8e91"
     [languages.pt-br.Params]
     description = "um não blog"
     LatestPosts = "Últimas postagens"
+    seeMore = "Leia mais"
 
   [languages.dt]
     title = "jin seris ase"
@@ -74,6 +75,7 @@ statement = "#ff8e91"
     [languages.dt.Params]
     description = "jin vo sanase"
     LatestPosts = "Ha nakhaan sanase"
+    seeMore = "Athtihar alikh"
 
   [languages.gn]
     title = "yepé sowa yurawa"
@@ -82,6 +84,7 @@ statement = "#ff8e91"
     [languages.gn.Params]
     description = "yepé umbaá blog"
     LatestPosts = "Ana papera"
+    seeMore = "Amú maã"
 
   [languages.zh]
     title = "一个自由页面"
@@ -98,6 +101,7 @@ statement = "#ff8e91"
     [languages.fr.Params]
     description = "un pas de blog"
     LatestPosts = "Derniers articles"
+    seeMore = "En savoir plus"
 
   [languages.en]
     title = "a free page"
@@ -106,6 +110,7 @@ statement = "#ff8e91"
     [languages.en.Params]
     description = "a non blog"
     LatestPosts = "Latest posts"
+    seeMore = "See more"
 
 [markup]
     [markup.goldmark.parser.attribute]

@@ -23,7 +23,7 @@
                     </ul>
 
                     {{ if gt $nbPosts .Site.Params.latestpostcount }}
-                        <a href="./posts/" class="see-more">See more ...</a>
+                        <a href="./posts/" class="see-more">{{ .Site.Language.Params.seeMore }} ...</a>
                     {{ end }}
                 {{ end }}
                 </div>
