@@ -1,4 +1,4 @@
-image: andthensome/alpine-hugo-git-bash
+image: hugomods/hugo
 
 pipelines:
   # Master branch deployment to live - no drafts
@@ -10,7 +10,7 @@ pipelines:
             - apk add openssh
             - git submodule update
             - hugo
-            - git config user.name 'silversurfer'
+            - git config user.name 'Baldolino Calvino'
             - git config user.email 'alternate-silversurfer@outlook.com'
             - git add . && git commit -m 'new update'
             - git filter-branch --prune-empty --subdirectory-filter public
