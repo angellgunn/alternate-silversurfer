@@ -1,7 +1,7 @@
 +++
 date = "2022-09-04"
 title = "Quelles sont les maladies émergentes?"
-author = "ffelix"
+author = "francisco"
 keywords = ""
 tags = ["des avis"]
 translationKey = "emergent"

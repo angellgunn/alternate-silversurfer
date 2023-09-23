@@ -1,0 +1,11 @@
+{
+    "name": "Francisco",
+    "bio": "Francisco é o personagem chorão da história.",
+    "image": "/media/authors/francisco.png",
+    "weight": 1,
+    "social": {
+        "twitter": "francisco",
+        "github": "https://www.github.com/francisco",
+        "website": "https://www.francisco.com"
+    }
+}

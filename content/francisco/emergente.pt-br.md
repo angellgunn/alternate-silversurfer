@@ -1,7 +1,7 @@
 +++
 date = "2022-09-04"
 title = "O que são doenças emergentes?"
-author = "ffelix"
+author = "francisco"
 keywords = ""
 tags = ["opiniões"]
 translationKey = "emergent"

@@ -1,7 +1,7 @@
 +++
 date = "2022-09-04"
 title = "What are emerging diseases?"
-author = "ffelix"
+author = "francisco"
 keywords = ""
 tags = ["opinions"]
 translationKey = "emergent"
