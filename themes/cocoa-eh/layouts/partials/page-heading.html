@@ -1,4 +1,3 @@
-<!-- This code from @nraboy -->
 <div class="page-heading">
 {{ if .Params.heading }}
     {{ .Params.heading }}
@@ -6,13 +5,13 @@
     {{ .Title }}
 {{ end }}
 
-<span> - </span>
-
+<div class="date" title="{{ .Date | time.Format .Site.Params.dateformfull }}">{{ .Date | time.Format .Site.Params.dateform }}</div>
+<div class="middot">
 {{ if isset .Params "author" }}
     {{ $author:= index .Site.Data.authors .Params.author }}
     {{ $author.name }}
 {{ else }}
     Unown
 {{ end }}
-
+</div>
 </div>

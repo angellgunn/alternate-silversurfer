@@ -47,4 +47,18 @@ E, sentindo-se invadido por uma grande tranqüilidade, uma paz divina de espíri
 
 -- Vejam quantas estrelas!  
 
- 
+----
+
+# AMOR 
+
+>Psicovírus do grupo amorvírus 
+>
+>Rede eletrorreativa de elementos metalóides 
+
+A partícula patogênica identificada pela primeira vez numa colônia de Algol II foi designada como vírus por suas características cristalinas e reprodução intracelular. Estudos modernos comprovaram que não se trata de um vírus/viróide base carbono, mas uma microentidade pseudomaterial capaz de infectar seres de naturezas díspares. Embora as teorias divirjam, aceita-se que o amorvírus tem origem em outra dimensão e chegou ao nosso universo em busca de fluxos ativos de informação. Tal entidade hipotética, acognitiva, especializou-se em parasitar emoções (apesar de assim classificado, não interfere com o metabolismo celular, não provocando degeneração ou morte). 
+
+AMOR, como foi chamado o vírus que provocou a epidemia da espaçonave Leonoreta (mais tarde Joyride, mais tarde Escuna do Destino) teve seu tropismo emocional ativado por um evento fortuito. Determinou-se que a entrada do vírus no tecido nodal ocorreu através dos elementos minerais de esponjas belgas, uma das cargas da Leonoreta. Coincidentemente, um casal de tripulantes da nave, não agüentando a enorme distância entre eles (trinta metros) e atendendo a uma fantasia erótica, usaram o conteúdo de um container das macias esponjas belgas para um encontro. A proximidade entre o embrião do psicovírus e o ardente casal pode ter determinado a preferência emotiva do patógeno. 
+
+AMOR, transmitido principalmente por secreções orgânicas (as mais favoráveis ao frágil vírus são o esperma e a saliva), logo contaminou a Leonoreta. Seus efeitos, que valeram seu nome, são a indução de hipersexualidade e facilitação de encontros amorosos, além de forte necessidade de troca de carinho. Interessantemente, AMOR reprime encontros homossexuais enquanto superestimula os heterossexuais (o recém-descoberto psicovírus VIA II parece ter o efeito inverso). AMOR, por outro lado, provoca a liberação total da libido e a troca desenfreada de casais (mas inibe fortemente relações entre mais de 2 pessoas). As pessoas infectadas com AMOR desenvolvem condições psicológicas e físicas perfeitas, sem o menor sinal de stress ou preocupações. Algumas pessoas, porém, podem passar por breves períodos de esgotamento fisiológico, depois de séries de encontros ardentes. Pesquisa-se, atualmente, o suposto retardo do envelhecimento provocado por AMOR. Os inconvenientes da infecção são principalmente: irresponsabilidade, ousadia, desrespeito (síndrome da adolescência recuperada); ocorrência (um tanto rara) de fixação na fase fálica, inveja peniana ou reação cruzada com sadomasoquismo (as famosas “bad dicks”). 
+
+AMOR foi restrito por um embargo de saúde e passou a ser utilizado como uma espécie de “droga” perfeita, o afrodisíaco final. Milhares de pessoas com condições de pagar pelo serviço mudaram-se para a nave do prazer, Joyride (antes Leonoreta, depois Escuna do Destino).  
