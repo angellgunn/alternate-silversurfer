@@ -1,5 +1,5 @@
 +++
-date = "2022-09-04"
+date = "2023-09-22"
 title = "Um conto do AmorVírus"
 author = "francisco"
 keywords = ""
@@ -62,3 +62,30 @@ AMOR, como foi chamado o vírus que provocou a epidemia da espaçonave Leonoreta
 AMOR, transmitido principalmente por secreções orgânicas (as mais favoráveis ao frágil vírus são o esperma e a saliva), logo contaminou a Leonoreta. Seus efeitos, que valeram seu nome, são a indução de hipersexualidade e facilitação de encontros amorosos, além de forte necessidade de troca de carinho. Interessantemente, AMOR reprime encontros homossexuais enquanto superestimula os heterossexuais (o recém-descoberto psicovírus VIA II parece ter o efeito inverso). AMOR, por outro lado, provoca a liberação total da libido e a troca desenfreada de casais (mas inibe fortemente relações entre mais de 2 pessoas). As pessoas infectadas com AMOR desenvolvem condições psicológicas e físicas perfeitas, sem o menor sinal de stress ou preocupações. Algumas pessoas, porém, podem passar por breves períodos de esgotamento fisiológico, depois de séries de encontros ardentes. Pesquisa-se, atualmente, o suposto retardo do envelhecimento provocado por AMOR. Os inconvenientes da infecção são principalmente: irresponsabilidade, ousadia, desrespeito (síndrome da adolescência recuperada); ocorrência (um tanto rara) de fixação na fase fálica, inveja peniana ou reação cruzada com sadomasoquismo (as famosas “bad dicks”). 
 
 AMOR foi restrito por um embargo de saúde e passou a ser utilizado como uma espécie de “droga” perfeita, o afrodisíaco final. Milhares de pessoas com condições de pagar pelo serviço mudaram-se para a nave do prazer, Joyride (antes Leonoreta, depois Escuna do Destino).  
+
+----
+
+Depoimento:
+
+Eu cresci numa família de religião PanAnatólica, que assegura 
+o celibato pré-marital através de um punhado de psicotáticas e 
+implantes repressores colocados na infância. Entre os 16 e os 26 
+anos sofri crises de hiperestresse, com pensamentos obsessivos, 
+suicidas ou, pior, homicidas, além de fadiga crônica, perda de 
+raciocínio e momentos de depressão. Fui internado logo após o 
+“casamento” e os médicos me desenganaram, dizendo que jamais 
+poderia sentir prazer. Hoje, depois de infectado pelo AMORVIRUS™ , 
+sou um novo homem, um trabalhador honesto, feliz com sua 
+companheira, como oficial de patrulha ecológica no planeta Serpia.
+- Oedipus Primigestu
+
+AMORVIRUS é marca registrada da EROSFUTURA INC., Baldeivarq, Cinturão O, 
+Setor J.
+
+As sensações referidas por um indivíduo submetido ao tratamento transfectivo 
+com AMORVIRUS não necessariamente serão reproduzidas em todos os pacientes.
+
+Preço de transbordo e transfecção individual autorizada depende de tarifas locais 
+de cada setor, planeta, ou estado nacional.
+
+_Texto originalmente escrito muitos anos atrás._
