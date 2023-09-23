@@ -6,7 +6,6 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-# languageCode = "pt-br"
 DefaultContentLanguage = "en"
 #title = "uma pagina livre"
 disqusshortname = ""
@@ -15,7 +14,6 @@ preserveTaxonomyNames = true
 removePathAccents = true
 
 [taxonomies]
-# author = "authors"
 
 [permalinks]
 blog = "blog/:slug/"
@@ -26,7 +24,6 @@ dateform = "2 Jan, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "a non blog"
 copyright = "Copyright 2017-9 silversurfer, using theme Cocoa EH (with enhancements)"
-# copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.png"
 faviconfile = "favicon.ico"
 highlightjs = true
@@ -41,8 +38,6 @@ facebook = "facebook_id"
 social_banner = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation = true
-# issoHost = "comments.domain.tld:1234"
-# githubRepo = "githubUsername/repositoryName"
 small_banner_logo = false
 
 [params.colors]
