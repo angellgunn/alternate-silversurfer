@@ -13,7 +13,7 @@ Um objeto atravessa o frio sideral, meio iluminado pelo já distante sol que est
 
 A quem possa alcançar esta mensagem, às estações deste quadrante e à Central da Frota, queiram gravar e retransmitir nosso relatório até segunda ordem, como convém a um código 5 de segurança.” 
 
- Atrás do homem alto que ditava para o rádio de pé junto ao console do operador, os relés e tripulantes trabalhavam nas manobras de aceleração, debaixo do ruído surdo de aparelhos. O barco avançava insensível rumo a seu destino, obedecendo ordens ecoadas nos cristais de memória do conjunto de navegação. 
+Atrás do homem alto que ditava para o rádio de pé junto ao console do operador, os relés e tripulantes trabalhavam nas manobras de aceleração, debaixo do ruído surdo de aparelhos. O barco avançava insensível rumo a seu destino, obedecendo ordens ecoadas nos cristais de memória do conjunto de navegação. 
 
 “Há algumas horas atrás estávamos entrando na gravisfera de Achebar quando recebemos um sinal automático. Vinha de um cargueiro que localizamos à deriva em órbita hiperbólica a 0.2 unidades de distância do sol. Juntamente com o pedido robô de ajuda, recebemos estranhas mensagens, aparentemente de um dos tripulantes. A nave foi alcançada por uma lançadeira e identificada como a LEONORETA, regular da KCT, servindo entre Altañera  e Baudum, e desaparecida desde sua partida de Porto Belle há cinco dias. Parecia tratar-se de um caso rotineiro de resgate e rodamos a mensagem padrão para o Controle de Achebar I. A seguir, ordenei um grupo de abordagem para avaliar a situação e trazer a bordo quaisquer tripulantes em necessidade de ajuda médica. Os eventuais feridos poderiam ser levados para a estação central.  
 
@@ -41,7 +41,7 @@ O comandante assinou o penpad da intendência e caminhou sem nada dizer até seu
 Alguém riu, outra pessoa suspirou. No fundo da sala, ouviu-se um soluço contido e entrecortado. 
 Bashevi sentiu-se subitamente fraco e teve que apoiar-se no espaldar de sua poltrona. Os olhos escureceram e a consciência fugiu-lhe por um segundo.  
 
--- Escutem, -- ele falou -- Não sentiram uma brisa? 
+-- Escutem, -- ele falou -- não sentiram uma brisa? 
 
 E, sentindo-se invadido por uma grande tranqüilidade, uma paz divina de espírito, apontou para a tela de proa: 
 
@@ -51,9 +51,9 @@ E, sentindo-se invadido por uma grande tranqüilidade, uma paz divina de espíri
 
 # AMOR 
 
->Psicovírus do grupo amorvírus 
+> Psicovírus do grupo amorvírus 
 >
->Rede eletrorreativa de elementos metalóides 
+> Rede eletrorreativa de elementos metalóides 
 
 A partícula patogênica identificada pela primeira vez numa colônia de Algol II foi designada como vírus por suas características cristalinas e reprodução intracelular. Estudos modernos comprovaram que não se trata de um vírus/viróide base carbono, mas uma microentidade pseudomaterial capaz de infectar seres de naturezas díspares. Embora as teorias divirjam, aceita-se que o amorvírus tem origem em outra dimensão e chegou ao nosso universo em busca de fluxos ativos de informação. Tal entidade hipotética, acognitiva, especializou-se em parasitar emoções (apesar de assim classificado, não interfere com o metabolismo celular, não provocando degeneração ou morte). 
 
@@ -65,7 +65,7 @@ AMOR foi restrito por um embargo de saúde e passou a ser utilizado como uma esp
 
 ----
 
-Depoimento:
+# Depoimento:
 
 Eu cresci numa família de religião PanAnatólica, que assegura 
 o celibato pré-marital através de um punhado de psicotáticas e 
@@ -76,16 +76,16 @@ raciocínio e momentos de depressão. Fui internado logo após o
 “casamento” e os médicos me desenganaram, dizendo que jamais 
 poderia sentir prazer. Hoje, depois de infectado pelo AMORVIRUS™ , 
 sou um novo homem, um trabalhador honesto, feliz com sua 
-companheira, como oficial de patrulha ecológica no planeta Serpia.
+companheira, como oficial de patrulha ecológica no planeta Serpia.  
 - Oedipus Primigestu
 
-AMORVIRUS™ é marca registrada da EROSFUTURA INC., Baldeivarq, Cinturão O, 
+> AMORVIRUS™ é marca registrada da EROSFUTURA INC., Baldeivarq, Cinturão O, 
 Setor J.
-
-As sensações referidas por um indivíduo submetido ao tratamento transfectivo 
+>
+> As sensações referidas por um indivíduo submetido ao tratamento transfectivo 
 com AMORVIRUS™ não necessariamente serão reproduzidas em todos os pacientes.
-
-Preço de transbordo e transfecção individual autorizada depende de tarifas locais 
+>
+> Preço de transbordo e transfecção individual autorizada depende de tarifas locais 
 de cada setor, planeta, ou estado nacional.
 
 _Texto originalmente escrito muitos anos atrás._
