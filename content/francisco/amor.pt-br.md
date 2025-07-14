@@ -49,7 +49,7 @@ E, sentindo-se invadido por uma grande tranqüilidade, uma paz divina de espíri
 
 ----
 
-# AMOR
+## AMOR
 
 > Psicovírus do grupo amorvírus
 >
@@ -76,7 +76,8 @@ raciocínio e momentos de depressão. Fui internado logo após o
 “casamento” e os médicos me desenganaram, dizendo que jamais
 poderia sentir prazer. Hoje, depois de infectado pelo AMORVIRUS™ ,
 sou um novo homem, um trabalhador honesto, feliz com sua
-companheira, como oficial de patrulha ecológica no planeta Serpia.  
+companheira, como oficial de patrulha ecológica no planeta Serpia.
+
 - Oedipus Primigestu
 
 > AMORVIRUS™ é marca registrada da EROSFUTURA INC., Baldeivarq, Cinturão O,
