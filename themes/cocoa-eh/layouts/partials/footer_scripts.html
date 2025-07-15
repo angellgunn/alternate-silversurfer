@@ -35,19 +35,20 @@
 
 <script>
   window.onload = function() {
+    // Highlight.js
     {{ if .Site.Params.highlightjs }}
-      hljs.initHighlighting();
+    if (typeof hljs !== 'undefined') hljs.initHighlighting();
     {{ end }}
+    // Progressively
     {{ if .Site.Params.progressively }}
-      progressively.init({delay: 30, throttle: 50});
+    if (typeof progressively !== 'undefined') progressively.init({delay: 30, throttle: 50});
     {{ end }}
+    // SocialShareKit
     {{ if .Site.Params.share }}
-      SocialShareKit.init({
-        twitter: {
-            text: '',
-            {{ if .Site.Params.twitter }}via: '{{ .Site.Params.twitter }}'{{ end }}
-        }
-      });
+    var shareKitConfig = {{ if .Site.Params.twitter }}{"twitter": {"text": "", "via": "{{ .Site.Params.twitter }}"}} {{ else }}{"twitter": {"text": ""}} {{ end }};
+    if (typeof SocialShareKit !== 'undefined') {
+      SocialShareKit.init(shareKitConfig);
+    }
     {{ end }}
   };
 </script>
