@@ -1,7 +1,7 @@
 +++
 date = "2017-10-25"
 title = "il n'y a pas de genre"
-author = "bcalvino"
+author = "jcalangro"
 keywords = "idéologie, genre, liberté, préjugé"
 tags = ["des avis"]
 translationKey = "ideology"
