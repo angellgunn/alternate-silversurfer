@@ -1,7 +1,7 @@
 +++
 date = "2017-10-25"
 title = "没有性别"
-author = "bcalvino"
+author = "jcalangro"
 keywords = "ideologia, gênero, liberdade, preconceito"
 tags = ["意见"]
 translationKey = "ideology"
