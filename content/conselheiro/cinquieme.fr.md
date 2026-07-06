@@ -1,6 +1,6 @@
 ---
 title: "Épistémologie de l'objectivité"
-author: "aconselheiro"
+author: "bcalvino"
 date: 2018-01-12T23:04:12-03:00
 keywords: épistémologie, Maturana, philosophie, modernité liquide, hors de Temer
 ---
