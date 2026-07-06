@@ -1,6 +1,6 @@
 ---
 title: "客观性认识论"
-author: "aconselheiro"
+author: "bcalvino"
 date: 2018-01-12T23:04:12-03:00
 keywords: 认识论，马图拉纳，哲学，液体现代性，特梅尔之外
 ---
