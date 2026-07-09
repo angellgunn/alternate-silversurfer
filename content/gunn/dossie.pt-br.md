@@ -3,8 +3,8 @@ author: "angellgunn"
 title: "Dossiê do universo heteronímico: cartografia comparada"
 date: 2026-07-09T11:00:00-03:00
 keywords: heterônimos, Fernando Pessoa, estilometria, Baldolino Calvino, João Calangro, John Pauper, Antônio Conselheiro, Noele Silva, Angell Gunn, Página Livre, X, Threads, SSRN, Academia.edu
-draft = "True"
-translationKey = "dossie"
+draft: "True"
+translationKey: "dossie"
 ---
 
 Este documento reúne o levantamento factual e estilométrico do universo heteronímico até este momento: quem escreveu o quê, onde, quando, e como cada voz se diferencia das demais. Não é uma peça literária nem um texto "de personagem" — é material de referência para orientar a próxima fase do projeto, a de aprofundar textos e personalidades.
