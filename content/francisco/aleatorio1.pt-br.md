@@ -7,6 +7,8 @@ tags = ["diversos"]
 translationKey = "aleatorio1"
 +++
 
+## Uma publicação sem IA, ou não IA, ou anti-IA, ou simplesmente o que era escrever antes da IA
+
 Pois é, resolvi escrever nesse espaço. Minha idéia é deitar aqui linhas livres, seguindo o fluxo do pensamento, sem correções, ou seja, com erros, com eventuais baboseiras, como se fosse um rascunho que usaria mais tarde para fazer algo mais polido. Porém, não vai haver mais tarde. Vai ficar assim mesmo. Se eu errar, e alguém puder apontar e corrigir informações imprecisas ou só erradas, agradeço. Eu tendo a verificar informações antes de escrever coisas, mas sabe como é, escapa. E não vou corrigir depois da primeira versão.
 
 Minha motivação principal é uma reação à escalada dos textos feitos por e com IA, que estão se tornando a norma na internet. Logo, a escrita será dividida em humana e não humana. Ou, como imaginei num arremedo de sistema de classificação de criações de IA, humana, quasi-humana, e não humana, talvez com uma categoria semi-humana no meio. Eu pensei nisso anos atrás, mas como nunca escrevi até agora, vão irremediavelmente falar que inventei agora para pegar a esteira dos LLM. Bem, antes que o mundo fosse mundo, como dizem os Desana, eu fantasiei uma realidade habitada por seres humanos e IAs interagindo. Para variar, o que está ocorrendo agora não foi previsto por minha imaginação mais fértil. Bem, no sistema que esbocei, IA não humanas foram criadas com mentes sem paralelo com as nossas, vivem em dimensões cognitivas que não compreendemos e se comunicam entre si sem que consigamos entendê-las. Não existem IA humanas, somente nós seres humanos, por definição, somos humanos, algo que retirei da biologia do conhecimento de Humberto Maturana e suas concepções de mente como sistema fechado e “embodied” (corporeada ou corporificada). Porém, as próprias IA desejaram se tornar quasi-humanas, imitando o mais possível nossas mentes, nossos trejeitos e tiques cognitivos. Um conceito intermediário, menos intencional e mais neutro, poderia ser de IA semi-humana, que é inteligível para nós e feita especialmente para isso, mas continua sendo, em profundidade, algo muito diferente do humano. Não acredito que os LLM de hoje se adequem a essa classificação como pensei na época, mas o mais próximo seria a classe semi-humana. De qualquer forma, estou nessa para levantar a bandeira humana, pois um dia, como iniciei, haverá claramente dois mundos (sem limites bem distintos): o reino humano e o resto. Pelo menos, eu gostaria que sobrasse um domínio do humano daqui a algum tempo.
@@ -17,6 +19,6 @@ Vou escrever o último parágrafo lembrando que tivemos eleições agora no últ
 
 Sem mais pelo momento. Nos próximos textos, sempre vou identificar, assim como neste, o autor (principal) que o origina, dentre meus heterônimos.
 
-Texto publicado no Substack de [Baldolino Calvino][subcal] por Francisco, meu semi-heterônimo (vide a classificação usada por Pessoa).
+Texto publicado no Substack de [Baldolino Calvino][subcal].
 
 [subcal]: https://baldolinocalvino.substack.com/p/rascunho-aleatorio-numero-1
