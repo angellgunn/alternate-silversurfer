@@ -8,7 +8,6 @@ translationKey = "sereia"
 +++
 
 ## A pequena sereia era um monstro mitológico
-_Publicado no Substack de [Baldolino Calvino][subcal]_
 
 O que teriam a ver um com o outro um barão filho da nobreza alemã e francesa e um orfão de pai dinamarquês obrigado a trabalhar numa fábrica a partir dos nove anos de idade? E qual dos dois tornou-se um escritor imortal, famoso no mundo inteiro até hoje? E, por último, o que isso tem a ver com lendas brasileiras e um livro de uma escritora de Fortaleza?
 
@@ -46,5 +45,7 @@ Paulo A. F. da Rosa Júnior, escritor e professor gaúcho, publicou recentemente
 Após fechar a circularidade, um último detalhe adicional: em 1962, John Severinghaus e Robert Mitchell descreveram alguns casos de uma condição médica rara que foi denominada de “Maldição da Ondina” por “investigadores com inclinação clássica” no dizer de Severinghaus. Também chamada de “hipoventilação alveolar primária crônica”, indica pacientes que perderam o controle autonômico da respiração de alguma forma. Tais pacientes precisam estar conscientes para respirar. Entre as mais variadas versões do conto de La Motte-Fouqué, uma adaptação teatral de 1939 do francês Jean Giraudoux apresenta o príncipe falando que “tudo que meu corpo deveria fazer sozinho precisa do meu comando… Um momento de inatenção e acabo esquecendo de ouvir, respirar…”. Nessa peça, o príncipe “morre porque respirar lhe entediava”. Não há certeza de que esta obra sugeriu o epônimo da síndrome, pois Severinghaus nunca entra em mais detalhes.
 
 Severinghaus, ele mesmo, foi meio que um personagem lendário. Morreu aos 99 anos em 2021, após uma longa carreira que começou como físico, tendo trabalhado com radares na segunda guerra. Depois do conflito, aos 32 anos, entra na escola médica. É considerado um dos grandes pais da anestesiologia moderna e foi o inventor do gasômetro. Mitchell, seu aluno e amigo por longo tempo, descobriu os receptores de CO2 no tronco cerebral que permitem o controle da respiração. Particularmente, não sei se foi a peça de Giraudoux que inspirou Severinghaus, pois o francês é acusado de antissemitismo e colaboração com a ocupação nazista da França. Não combina com um ex-combatente dos aliados.
+
+Publicado no Substack de [Baldolino Calvino][subcal].
 
 [subcal]: https://baldolinocalvino.substack.com/p/pequena-postagem-sobre-sereias
