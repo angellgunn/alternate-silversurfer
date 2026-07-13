@@ -6,7 +6,7 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "pt-br"
 #title = "uma pagina livre"
 disqusshortname = ""
 pluralizelisttitles = false
@@ -65,7 +65,7 @@ statement = "#ff8e91"
 
   [languages.dt]
     title = "jin seris ase"
-    weight = 6
+    weight = 3
     languageName = "Dothraki"
     [languages.dt.Params]
     description = "jin vo sanase"
@@ -74,7 +74,7 @@ statement = "#ff8e91"
 
   [languages.gn]
     title = "yepé sowa yurawa"
-    weight = 5
+    weight = 2
     languageName = "Nheengatu"
     [languages.gn.Params]
     description = "yepé umbaá blog"
@@ -92,7 +92,7 @@ statement = "#ff8e91"
 
   [languages.fr]
     title = "une page libère"
-    weight = 3
+    weight = 5
     languageName = "Français"
     [languages.fr.Params]
     description = "un pas de blog"
@@ -101,7 +101,7 @@ statement = "#ff8e91"
 
   [languages.en]
     title = "a free page"
-    weight = 2
+    weight = 6
     languageName = "English"
     [languages.en.Params]
     description = "a non blog"
