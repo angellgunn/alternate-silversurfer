@@ -24,3 +24,5 @@ Ma proposition est que la valeur verrouillée dans le BTC soit en réalité cett
 [block]: {{< relref "quatrieme.fr.md">}}
 [moore]: https://fr.wikipedia.org/wiki/Loi_de_Moore
 [energia]: https://fr.wikipedia.org/wiki/Ressources_et_consommation_%C3%A9nerg%C3%A9tiques_mondiales
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

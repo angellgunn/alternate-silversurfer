@@ -49,3 +49,5 @@ En outre, il a fallu générer une paire de clés cryptographiques dans le menu 
 _Très, très simple !_ J'ai tout fait depuis une tablette ! Et l'intégration s'est faite à la vitesse de l'éclair, en moins de 15 secondes !
 
 P.S.: la seule limitation pour moi était qu'Alpine Linux n'a pas d'option pour configurer les _locales_, ce qui m'a empêché d'accentuer le titre de la page. Mais c'était juste ça. Les symboles et les accents à l'intérieur du texte des billets sont préservés.
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

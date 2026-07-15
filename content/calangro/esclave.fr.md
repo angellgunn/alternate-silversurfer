@@ -26,3 +26,5 @@ Et la cruauté ne fait qu'augmenter: même avec un brouillard d'euphémismes dis
 Ainsi, nous revenons à notre patient solitaire en attente d'un lit dans un système de santé défaillant. Pauvre homme, qui veillera sur lui après avoir sacrifié ses meilleures années et sa santé à travailler comme esclave pour un latifundiaire sans scrupules qui donnerait la nausée aux premiers chrétiens? Qui sera avec lui lorsqu'il mourra pauvre et seul, après avoir été trompé pendant des années par le "système de méritocratie" brésilien? Qui lèvera ne serait-ce qu'un doigt contre cela?
 
 ![liberdade](/img/Hunger-Games-unite-salute.png)
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

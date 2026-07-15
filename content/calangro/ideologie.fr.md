@@ -20,3 +20,5 @@ Aujourd'hui, je vois plus clairement le sujet et, même sans avoir de connaissan
 Il y a plus, cependant: je n'ai jamais cru sérieusement au bien et au mal universels, mais je crains le mal dont l'être humain est capable. Et, à mon avis, une grande partie de ce qui se cache derrière les préjugés et la tentative de contrôler les autres est tout simplement le mal de l'humanité. Je préfère être bon, ne pas avoir de préjugés et soutenir l'idéologie de genre.
 
 ![equality](/img/equality.png)
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

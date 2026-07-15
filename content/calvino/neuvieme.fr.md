@@ -23,3 +23,5 @@ Et cela ne s'arrête pas là. Je ne pense pas que les perspectives soient positi
 
 [inpe]: https://www.oeco.org.br/wp-content/uploads/2019/08/EventoNuvemEscuridaoFumaca_SaoPaulo_SP-1.pdf
 [impa]: https://ipam.org.br/bibliotecas/nota-tecnica-amazonia-em-chamas/
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

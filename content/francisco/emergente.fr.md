@@ -26,3 +26,5 @@ Troisièmement, quelque chose qui devient de plus en plus important et qui tend 
 En conclusion, le fait que de nouvelles maladies émergentes apparaissent de plus en plus fréquemment est principalement lié à notre comportement en tant que société. Nous sommes collectivement responsables de ce qui se passe et de ce qui nous attend. Il est encore temps d'intervenir.
 
 Publié à l'origine sous la forme d'une série de tweets.
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

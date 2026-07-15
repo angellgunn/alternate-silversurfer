@@ -52,3 +52,5 @@ Du point de vue de la recherche clinique dans notre pays, elle est pratiquement 
 [valkyrie]:
 [why]:
 [corte]: http://portal.sbpcnet.org.br/noticias/associadas-da-sbpc-se-manifestam-contra-os-cortes-a-cti/
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

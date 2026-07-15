@@ -207,3 +207,5 @@ _Noele Silva a 28 ans, est diplômée en biologie de l'Université Tir na nÓg, 
 [lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
 [ant]: https://instagram.com/antonio_0_conselheiro
 [ep]: https://fr.wikipedia.org/wiki/Ergo_Proxy
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

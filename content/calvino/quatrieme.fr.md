@@ -35,3 +35,5 @@ Assisterons-nous à ce jour de notre vivant?
 
 ### Références:
 1. Science, Digital; van Rossum, Joris (2017): Blockchain for Research. figshare. doi:[10.6084/m9.figshare.5607778.v1](https://doi.org/10.6084/m9.figshare.5607778.v1)
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

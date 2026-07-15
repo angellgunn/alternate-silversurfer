@@ -87,3 +87,5 @@ Life Evol Biosph. 2012 Dec;42(6):543-67.
 [luhmann]: https://en.wikipedia.org/wiki/Niklas_Luhmann
 [guattari]: https://en.wikipedia.org/wiki/Félix_Guattari
 [biohype]: http://www.evocellnet.com/2007/04/
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

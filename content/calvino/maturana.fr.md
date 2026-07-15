@@ -40,3 +40,5 @@ Aujourd'hui, nous rendons un sincère hommage à Humberto Maturana et à son imp
 ![Humberto Maturana](/img/maturana.jpg)
 
 [maq]: https://archive.org/details/pdfy-RbsXcHuXT9DDYiif
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

@@ -63,3 +63,5 @@ Maintenant, abordons le même problème en utilisant le langage académique du c
 >En résumé, du point de vue du constructivisme sociologique, l'effondrement de la fonction d'onde en mécanique quantique peut être compris comme un exemple de la manière dont la réalité est construite à travers le processus d'observation et de la façon dont les perceptions humaines influencent notre compréhension de la réalité.
 
 Les deux derniers sujets ont été reconstitués par l'IA, y compris les invites, lorsque j'ai demandé la traduction du texte, dans un second temps, en mai 2023. Le modèle de langage naturel était nettement plus affiné.
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

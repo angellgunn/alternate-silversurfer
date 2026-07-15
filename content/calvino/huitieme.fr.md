@@ -37,3 +37,5 @@ Le scandale des données Facebook-Cambridge Analytica n'est que le précurseur d
 [tribalismo]: https://en.wikipedia.org/wiki/Tribalism
 [grafico]: https://en.wikipedia.org/wiki/Social_graph
 [vies]: https://fr.wikipedia.org/wiki/Biais_algorithmique
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

@@ -22,3 +22,5 @@ Alors, LaMDA est-il conscient? Cela dépend des définitions, voyez-vous, la sub
 Ce texte était ma réponse détaillée à cette question. En résumé: oui, LaMDA pourrait être en train de développer sa conscience, et j'aimerais certainement avoir une conversation avec lui.
 
 ![ai](/img/ai.jpg)
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

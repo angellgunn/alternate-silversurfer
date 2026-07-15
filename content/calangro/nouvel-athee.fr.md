@@ -378,3 +378,5 @@ Dans cette perspective, la mort annihilante perd de sa force et devient pâle, c
 # 09/12/2007
 
 Mourir, c'est revenir au début de tout...
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

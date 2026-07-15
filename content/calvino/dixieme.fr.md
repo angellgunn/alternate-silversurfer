@@ -40,3 +40,5 @@ Encore une fois, cette approche simpliste ne tient pas compte des complexités d
 Version académique de ce texte:
 
 Calvino, Baldolino and Gunn, Angell, What is Ecological Economics? (December 2, 2019). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4353008
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.

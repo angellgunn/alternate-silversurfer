@@ -23,3 +23,5 @@ Comment le monde moderne serait-il différent s'il n'y avait pas de polarisation
 L'art humain se base principalement sur l'information audiovisuelle, logiquement en raison de la structure des sens et de la cognition humaine. À quoi ressemblerait un art pour les chauves-souris ou les pieuvres? Les oiseaux pourraient-ils avoir un art magnétoceptif? Art, esthétique fantastiques.
 
 Cependant, la première question fondamentale devrait être la systématisation de la différence entre une hypothèse philosophique, mathématique ou scientifique et ses équivalents fantastiques. Un domaine d'étude de la philosophie fantastique.
+
+> Note : ce projet est publié dans plusieurs langues, mais les versions ne proviennent pas toutes de la même origine. Les traductions en français ont été réalisées principalement par un modèle de langage (principalement Gemini), puis révisées par l’auteur.
