@@ -15,7 +15,7 @@ Coisas aconteceram, como costumam, e aqui estou, pouco mais de um ano após, dig
 
 Quem souber que imagem é essa na figura imediatamente abaixo, saberá que não deveria estar aqui, porém está. Então, ela existe agora, depois que você a viu, ou existia antes disso? E quando eu escrevi esse texto, ela passou a existir e ficou existindo até você encontrá-la, ou deixou de existir enquanto ninguém a mirava? E quem a produziu, há mais de 10 anos atrás? Esse fragmento de cedro (pronto, agora você sabe que isso foi uma árvore que caiu, o som dela existiu mesmo, somente agora, quando eu escrevi essa postagem, quando a foto foi batida, há mais de 7 mil anos atrás quando a árvore foi derrubada e o fragmento entalhado? Tantas questões…) permaneceu existindo entre o momento da foto e minha leitura do artigo (e sabemos agora que a imagem foi publicada, e o texto citado academicamente 19 vezes, são tantas as existências independentes desse objeto, ou somente existe uma vez, ou nunca existiu de fato)?
 
-![](https://substackcdn.com/image/fetch/$s_!gKRH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d1acde-2e2c-4c4c-923d-8fafc9bec0d3_403x425.png)
+![Tablete de Dispilio, o verdadeiro](https://substackcdn.com/image/fetch/$s_!gKRH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4d1acde-2e2c-4c4c-923d-8fafc9bec0d3_403x425.png)
 _esta imagem não deveria estar aqui, mas está,e agora?_
 
 Não estou a fim de facilitar, não é? Desculpem-me os gregos que se deram ao esforço enorme de encontrar essa inscrição e publicá-la, por não declarar aqui os seus nomes (prometo que o farei em outra ocasião). Voltando, responda-me se puder: esse meu texto existe de fato? Como meu próprio experimento mental confuso aí em cima mostra, o empirismo e o racionalismo não oferecem soluções não contraditórias, e tampouco a versão fisicalista do empirismo que nunca se decide sobre a natureza do conhecimento e da mente (especialmente depois de Max Planck, que declarou uma opinião sobre essa questão: ele disse que ninguém sabia o suficiente para concluir nada!).
@@ -26,4 +26,8 @@ Marilena Chaui, em 2018, disse: “Espinosa teria permanecido inteiramente desco
 
 Texto publicado no Substack de [Baldolino Calvino][subcal].
 
+P.S. (15/07/26): caso alguém se pergunte porque essa imagem da Tábua ou Tablete de Dispilio aí no artigo não se parece com aquela que talvez já tenha visto, isso acontece por que a tal Tábua que você conhece é falsa! Tem um [video][falsa] do canal The Prehistory Guys onde eles contam essa história. A imagem mostrada aqui vem do artigo original sobre os achados no sítio arqueológico de Dispilio. Coloquei uma hiperligação para ele no [segundo][segundo] artigo desta série.
+
 [subcal]: https://baldolinocalvino.substack.com/p/mais-de-um-ano-depois
+[falsa]: https://youtu.be/6eUfOBMB8w8
+[segundo]: https://alternate-silversurfer.bitbucket.io/calvino/e-tudo-culpa-do-kant/

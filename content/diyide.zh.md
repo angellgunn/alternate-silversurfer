@@ -123,3 +123,5 @@ $ git push -u origin deploy
 [temas]: https://themes.gohugo.io
 [git]: https://git-scm.com
 [bucket]: https://bitbucket.org
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

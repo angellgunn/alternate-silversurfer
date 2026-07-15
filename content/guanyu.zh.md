@@ -216,3 +216,5 @@ _诺艾莉·希尔瓦今年28岁，毕业于提尔·纳·诺格（Tir na nÓg）
 [lac]: https://en.wikipedia.org/wiki/Jacques_Lacan
 [ant]: https://instagram.com/antonio_0_conselheiro
 [ep]: https://zh.wikipedia.org/wiki/%E6%AD%BB%E4%BA%A1%E4%BB%A3%E7%90%86%E4%BA%BA
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

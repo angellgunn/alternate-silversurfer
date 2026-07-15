@@ -35,3 +35,5 @@ Digital Science 的重点是为研究人员和研究机构提供软件和数字�
 
 ### 参考资料：
 1. Science, Digital; van Rossum, Joris (2017): Blockchain for Research. figshare. doi:[10.6084/m9.figshare.5607778.v1](https://doi.org/10.6084/m9.figshare.5607778.v1)
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

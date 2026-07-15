@@ -24,3 +24,5 @@ keywords: 比特币，能源，权力下放，他不
 [block]: {{< relref "disi.zh.md">}}
 [moore]: https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B
 [energia]: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%83%BD%E6%BA%90%E6%B6%88%E8%80%97%E9%87%8F
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

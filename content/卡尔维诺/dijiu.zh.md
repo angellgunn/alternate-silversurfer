@@ -23,3 +23,5 @@ keywords: 算法，自由，偏见，互联网，泡沫，剑桥分析，他不
 
 [inpe]: https://www.oeco.org.br/wp-content/uploads/2019/08/EventoNuvemEscuridaoFumaca_SaoPaulo_SP-1.pdf
 [impa]: https://ipam.org.br/bibliotecas/nota-tecnica-amazonia-em-chamas/
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

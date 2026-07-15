@@ -37,3 +37,5 @@ Facebook-Cambridge Analytica数据丑闻只是[算法偏见][vies]广泛存在�
 [tribalismo]: https://en.wikipedia.org/wiki/Tribalism
 [grafico]: https://en.wikipedia.org/wiki/Social_graph
 [vies]: https://en.wikipedia.org/wiki/Algorithmic_bias
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。

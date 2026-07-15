@@ -40,3 +40,5 @@ _这是一项环境导向的经济研究，专注于可持续性。_ 虽然简�
 本文学术版：
 
 Calvino, Baldolino and Gunn, Angell, What is Ecological Economics? (December 2, 2019). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4353008
+
+> 附记：本项目采用多语言发布，但各语种版本的翻译来源并不统一。中文版本的翻译主要由大语言模型（尤其是 Gemini）独立完成，尚未经过人工审校。
