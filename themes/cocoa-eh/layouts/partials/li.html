@@ -1,4 +1,4 @@
 <li class="post-item">
-    <span class="meta">{{ .Date | time.Format .Site.Params.dateform }}</span>
+    <span class="meta">{{ partial "date-format.html" (dict "date" .Date "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}</span>
     <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
 </li>

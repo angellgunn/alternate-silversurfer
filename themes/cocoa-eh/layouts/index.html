@@ -14,8 +14,10 @@
                 {{ if gt $nbPosts 0 }}
                     <div class="page-heading">{{ .Site.Language.Params.LatestPosts }}</div>
                     <ul>
-                    {{ range (first .Site.Params.latestpostcount (where .Site.RegularPages "Section" "!=" nil)).GroupByDate "Jan, 2006" "desc" }}
-                        <li class="groupby">{{ .Key }}</li>
+                    {{ $posts := first .Site.Params.latestpostcount (where .Site.RegularPages "Section" "!=" nil) }}
+                    {{ range $posts.GroupByDate "2006-01" "desc" }}
+                        {{ $groupDate := index .Pages.ByPublishDate 0 }}
+                        <li class="groupby">{{ partial "date-format.html" (dict "date" $groupDate.Date "lang" $.Site.Language.Lang "group" true) }}</li>
                         {{ range .Pages.ByPublishDate }}
                             {{ partial "li.html" . }}
                         {{ end }}

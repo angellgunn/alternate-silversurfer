@@ -5,10 +5,10 @@
     {{ .Title }}
 {{ end }}
 
-<div class="date" title="{{ .Date | time.Format .Site.Params.dateformfull }}">{{ .Date | time.Format .Site.Params.dateform }}</div>
+<div class="date" title="{{ partial "date-format.html" (dict "date" .Date "lang" .Site.Language.Lang "layout" .Site.Params.dateformfull "full" true) }}">{{ partial "date-format.html" (dict "date" .Date "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}</div>
 <div class="middot">
 {{ if isset .Params "author" }}
-    {{ $author:= index .Site.Data.authors .Params.author }}
+    {{ $author := index hugo.Data.authors .Params.author }}
     {{ $author.name }}
 {{ else }}
     Unown

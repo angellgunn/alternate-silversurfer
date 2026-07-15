@@ -6,7 +6,7 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-DefaultContentLanguage = "pt-br"
+defaultContentLanguage = "pt-br"
 #title = "uma pagina livre"
 disqusshortname = ""
 pluralizelisttitles = false
@@ -57,7 +57,7 @@ statement = "#ff8e91"
   [languages.pt-br]
     title = "uma página livre"
     weight = 1
-    languageName = "Português"
+    label = "Português"
     [languages.pt-br.Params]
     description = "um não blog"
     LatestPosts = "Últimas postagens"
@@ -66,7 +66,7 @@ statement = "#ff8e91"
   [languages.dt]
     title = "jin seris ase"
     weight = 3
-    languageName = "Dothraki"
+    label = "Dothraki"
     [languages.dt.Params]
     description = "jin vo sanase"
     LatestPosts = "Ha nakhaan sanase"
@@ -75,7 +75,7 @@ statement = "#ff8e91"
   [languages.gn]
     title = "yepé sowa yurawa"
     weight = 2
-    languageName = "Nheengatu"
+    label = "Nheengatu"
     [languages.gn.Params]
     description = "yepé umbaá blog"
     LatestPosts = "Ana papera"
@@ -84,7 +84,7 @@ statement = "#ff8e91"
   [languages.zh]
     title = "一个自由页面"
     weight = 4
-    languageName = "汉语"
+    label = "汉语"
     [languages.zh.Params]
     description = "一个没有博客"
     LatestPosts = "最新帖子"
@@ -93,7 +93,7 @@ statement = "#ff8e91"
   [languages.fr]
     title = "une page libère"
     weight = 5
-    languageName = "Français"
+    label = "Français"
     [languages.fr.Params]
     description = "un pas de blog"
     LatestPosts = "Derniers articles"
@@ -102,7 +102,7 @@ statement = "#ff8e91"
   [languages.en]
     title = "a free page"
     weight = 6
-    languageName = "English"
+    label = "English"
     [languages.en.Params]
     description = "a non blog"
     LatestPosts = "Latest posts"
