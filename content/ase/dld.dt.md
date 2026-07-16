@@ -313,7 +313,7 @@ athchilar: [a&#952;&#116;​&#865;​&#643;il&#810;ar]DP ni. limit, lay, extreme
 
 athchomar: [a&#952;&#116;​&#865;​&#643;omar]DP ni. respect, reverence
 
-athchomar chomakea: [a&#952;&#116;​&#865;​&#643;omar&#116;​&#865;​&#643;omakea]
+athchomar chomakea: [a&#952;&#116;​&#865;​&#643;omar &#116;​&#865;​&#643;omakea]
 DP phrase respect to those that are respectful
 (A greeting said to a group)
 
@@ -815,7 +815,7 @@ esittesalat: [esit&#810;&#810;tesal&#810;at&#810;]DP v. to brag, to exaggerate
 
 essalat: [essal&#810;at&#810;]DP vin. to return
 
-essheya: [e&#643;Seja]DP ni. roof, top part, top
+essheya: [e&#643;e&#643;eja]DP ni. roof, top part, top
 
 eth: [e&#952;]DP v.aux. must, have to
 
@@ -952,7 +952,7 @@ firi: [fi&#638;i]DP n. ball
 
 firikh: [fi&#638;ix]DP ni. ring
 
-firikhnharen: [fi&#638;ixn&#810;haRen&#810;]DP ni. crown
+firikhnharen: [fi&#638;ixn&#810;ha&#638;en&#810;]DP ni. crown
 
 fish: [fi&#643;]DP adj. cold
 
@@ -1143,9 +1143,9 @@ hanna: [han&#810;n&#810;a]DP ni. rose
 
 haqat: [haq&#593;t&#810;]DP v. to be tired
 
-haqe: [haqE]DP adj. tired
+haqe: [haq&#603;]DP adj. tired
 
-haqeqqe: [haqEqqE]DP adj. exhausted
+haqeqqe: [haq&#603;qq&#603;]DP adj. exhausted
 
 haqolat: [haq&#596;l&#810;at&#810;]DP v. to grow tired
 
@@ -1249,7 +1249,7 @@ hoyali: [hojal&#810;i]DP ni. song
 
 hrakkar: [h&#638;akkar]M na. white lion
 
-hrakkarikh: [h&#638;akkaRix]DP ni. a quick, powerful, accurate sword strike
+hrakkarikh: [h&#638;akka&#638;ix]DP ni. a quick, powerful, accurate sword strike
 
 hranna: [h&#638;an&#810;n&#810;a]M ni. a type of grass, any grasslike ground cover (Accusative form is hran)
 
@@ -1279,7 +1279,7 @@ ifat (1): [ifat&#810;]DP vin. to walk
 
 ifat (2): [ifat&#810;]DP vtr. to gen. to walk beside
 
-ifeqevron: [ifeqEv&#638;on&#810;]DP n. species of forest spider
+ifeqevron: [ifeq&#603;v&#638;on&#810;]DP n. species of forest spider
 
 iffat: [iffat&#810;]DP vtr. to make someone walk
 
@@ -1312,7 +1312,7 @@ inavva: [in&#810;avva]DP n. sister
 
 indelat: [in&#810;d&#810;el&#810;at&#810;]DP v. to drink
 
-inte: [in&#810;&#810;te]DP ni. beetle
+inte: [in&#810;t&#810;e]DP ni. beetle
 
 irge (1): [i&#638;ge]DP n. back
 
@@ -1338,7 +1338,7 @@ ita: [it&#810;a]DP adj. suitably warm
 
 ithkoil: [i&#952;koil&#810;]DP adj. brittle
 
-ittelat: [it&#810;&#810;tel&#810;at&#810;]DP vtr. to make something wellproven, to test in action
+ittelat: [it&#810;t&#810;el&#810;at&#810;]DP vtr. to make something wellproven, to test in action
 
 ivezh: [ive&#658;]DP adj. wild
 
@@ -1744,7 +1744,7 @@ lekhilat: [l&#810;exil&#810;at&#810;]DP v. to taste
 
 lekhmove: [l&#810;exmove]DP ni. constructed language
 
-lenta: [l&#810;en&#810;&#810;ta]DP n. neck, stem
+lenta: [l&#810;en&#810;t&#810;a]DP n. neck, stem
 
 leqse: [l&#810;eqse]DP ni rat
 
@@ -1842,9 +1842,9 @@ marriya: [marija]DP ni-A. tool
 
 mas: [mas]DP n. valuable
 
-mattek: [mat&#810;&#810;tek]DP na. limper (insult)
+mattek: [mat&#810;t&#810;ek]DP na. limper (insult)
 
-mattelat: [mat&#810;&#810;tel&#810;at&#810;]DP v. to limp
+mattelat: [mat&#810;t&#810;el&#810;at&#810;]DP v. to limp
 
 mawizzi: [mawizzi]DP ni. rabbit
 
@@ -2529,9 +2529,9 @@ shin: [&#643;in&#810;]DP n. sound of fire going out
 
 shinat: [&#643;in&#810;at&#810;]DP v. to burn out, fizzle out
 
-shiqeth: [&#643;iqE&#952;]DP adj. gray
+shiqeth: [&#643;iq&#603;&#952;]DP adj. gray
 
-shiqethi: [&#643;iqE&#952;i]DP ni. iron
+shiqethi: [&#643;iq&#603;&#952;i]DP ni. iron
 
 shirane: [&#643;i&#638;an&#810;e]DP ni. beard
 
@@ -2606,22 +2606,22 @@ sovikh: [sovix]DP ni. pear brandy
 
 ’th: [&#952;]DP v.aux. elided version of eth
 
-taoka: [&#810;taoka]DP adj. metal
+taoka: [t&#810;aoka]DP adj. metal
 
-taso: [&#810;taso]DP n. silkworm
+taso: [t&#810;aso]DP n. silkworm
 
-tasokh: [&#810;tasox]DP ni. silk
+tasokh: [t&#810;asox]DP ni. silk
 
-tat: [&#810;tat&#810;]DP vtr. to do
+tat: [t&#810;at&#810;]DP vtr. to do
 
-tavat: [&#810;tavat&#810;]DP v. chop
+tavat: [t&#810;avat&#810;]DP v. chop
 
-tawak: [&#810;tawak]DP ni. metal, real, authentic, legitimate
+tawak: [t&#810;awak]DP ni. metal, real, authentic, legitimate
 
-tehin: [&#810;tehin&#810;]DP n. breed of horse with reddish or
+tehin: [t&#810;ehin&#810;]DP n. breed of horse with reddish or
 brown coat
 
-temme: [&#810;temme]DP na. thunder
+temme: [t&#810;emme]DP na. thunder
 
 thagwa: [&#952;agwa]DP ni. yogurt made from mare’s
 milk
@@ -2663,57 +2663,57 @@ thom: [&#952;om]DP ni. juice
 
 tif: [tif]DP n. nut (woody seed)
 
-tih: [&#810;tih]DP na. eye
+tih: [t&#810;ih]DP na. eye
 
-tihat: [&#810;tihat&#810;]DP vtr. to look, to see
+tihat: [t&#810;ihat&#810;]DP vtr. to look, to see
 
-tihikh: [&#810;tihix]DP ni. view
+tihikh: [t&#810;ihix]DP ni. view
 
-tihikhziri: [&#810;tihixzi&#638;i]DP ni. overview
+tihikhziri: [t&#810;ihixzi&#638;i]DP ni. overview
 
-tihilat: [&#810;tihil&#810;at&#810;]DP vtr. to look at, to glance at
+tihilat: [t&#810;ihil&#810;at&#810;]DP vtr. to look at, to glance at
 
-tiholat: [&#810;tihol&#810;at&#810;]DP v. to understand
+tiholat: [t&#810;ihol&#810;at&#810;]DP v. to understand
 
-tikh: [&#810;tix]DP ni. deed, act
+tikh: [t&#810;ix]DP ni. deed, act
 
-tikkheya: [&#810;tixxeja]DP ni. verb, the instigator’s
+tikkheya: [t&#810;ixxeja]DP ni. verb, the instigator’s
 half of the act (Grammatical sense) cf. melikheya
 
-tim: [&#810;tim]DP ni. boot
+tim: [t&#810;im]DP ni. boot
 
-timvir: [&#810;timvir]DP n. book (from High Valyrian
+timvir: [t&#810;imvir]DP n. book (from High Valyrian
 tembyr)
 
-tir: [&#810;tir]DP ni. finger
+tir: [t&#810;ir]DP ni. finger
 
-tirat: [&#810;ti&#638;at&#810;]DP v. to point
+tirat: [t&#810;i&#638;at&#810;]DP v. to point
 
-tirikh: [&#810;ti&#638;ix]DP ni. nail
+tirikh: [t&#810;i&#638;ix]DP ni. nail
 
-tith: [&#810;ti&#952;]DP adj. eastern
+tith: [t&#810;i&#952;]DP adj. eastern
 
-titha: [&#810;ti&#952;a]DP ni. east
+titha: [t&#810;i&#952;a]DP ni. east
 
-toki: [&#810;toki]DP adj. dumb
+toki: [t&#810;oki]DP adj. dumb
 
-tokik: [&#810;tokik]DP na. fool
+tokik: [t&#810;okik]DP na. fool
 
-tolorro: [&#810;tol&#810;oro]M ni. bone
+tolorro: [t&#810;ol&#810;oro]M ni. bone
 
-tor: [&#810;tor]DP num. four
+tor: [t&#810;or]DP num. four
 
-torak: [&#810;to&#638;ak]DP na. fourth (ordinal, use genitive form if modifying a noun.)
+torak: [t&#810;o&#638;ak]DP na. fourth (ordinal, use genitive form if modifying a noun.)
 
-torga (1): [&#810;to&#638;ga]DP ni. stomach
+torga (1): [t&#810;o&#638;ga]DP ni. stomach
 
-torga (2): [&#810;to&#638;ga]DP prep. to gen. under
+torga (2): [t&#810;o&#638;ga]DP prep. to gen. under
 
-torken: [&#810;to&#638;ken&#810;]DP num. four hundred
+torken: [t&#810;o&#638;ken&#810;]DP num. four hundred
 
-torthi: [&#810;to&#638;&#952;i]DP num. fourteen
+torthi: [t&#810;o&#638;&#952;i]DP num. fourteen
 
-tozara: [&#810;toza&#638;a]DP na. lake
+tozara: [t&#810;oza&#638;a]DP na. lake
 
 ## V
 
@@ -2820,9 +2820,9 @@ vichomerak: [vi&#116;​&#865;​&#643;ome&#638;ak]DP na. respectful one
 
 vichomerat: [vi&#116;​&#865;​&#643;ome&#638;at&#810;]DP vin. to be respectful
 
-vidrogerat: [vid&#810;&#638;ogeRat&#810;]DP v. to ride
+vidrogerat: [vid&#810;&#638;oge&#638;at&#810;]DP v. to ride
 
-vigererat: [vige&#638;eRat&#810;]DP vtr. to abl. to miss someone
+vigererat: [vige&#638;e&#638;at&#810;]DP vtr. to abl. to miss someone
 
 vijazerat: [vi&#100;​&#865;​&#658;aze&#638;at&#810;]DP vtr. to protect
 
@@ -2845,9 +2845,9 @@ villat: [vil&#810;l&#810;at&#810;]DP vin. to be wise
 
 ville: [vil&#810;l&#810;e]DP adj. wise
 
-vimatterat: [vimat&#810;&#810;te&#638;at&#810;]DP v. to limp
+vimatterat: [vimat&#810;t&#810;e&#638;at&#810;]DP v. to limp
 
-vimithrerat: [vimi&#952;&#638;eRat&#810;]DP v. to rest, to camp
+vimithrerat: [vimi&#952;&#638;e&#638;at&#810;]DP v. to rest, to camp
 
 vindelat (1): [vin&#810;d&#810;el&#810;at&#810;]DP vtr. to stab
 
@@ -2855,7 +2855,7 @@ vindelat (2): [vin&#810;d&#810;el&#810;at&#810;]DP vtr. to all. to stab at
 
 vineserat: [vin&#810;ese&#638;at&#810;]DP vtr. to remember
 
-vinte: [vin&#810;&#810;te]DP ni. portion of meat
+vinte: [vin&#810;t&#810;e]DP ni. portion of meat
 
 viqaferat: [viq&#593;fe&#638;at&#810;]DP v. to beg, to plead
 
@@ -2884,7 +2884,7 @@ vitihirat: [vit&#810;ihi&#638;at&#810;]DP v. to watch, to observe
 
 vitisherat: [vit&#810;i&#643;e&#638;at&#810;]DP vin. to grow
 
-vitteya: [vit&#810;&#810;teja]DP ni. feast, gathering with a
+vitteya: [vit&#810;t&#810;eja]DP ni. feast, gathering with a
 feast
 
 vitteyqoyi: [vit&#810;&#810;tejq&#596;ji]DP ni. feast day
@@ -2960,7 +2960,7 @@ yeri: [je&#638;i]DP pn. you (plural), your (singular)
 
 yesi: [jesi]DP na. crone
 
-yetto: [jet&#810;&#810;to]DP ni. frog
+yetto: [jet&#810;t&#810;o]DP ni. frog
 
 yofi: [jofi]DP adj. mad, crazy
 
@@ -3006,7 +3006,7 @@ zhalia: [&#658;al&#810;ia]DP ni. butterfly
 
 zhani: [&#658;an&#810;i]DP ni. spear
 
-zhaqe: [&#658;aqE]DP n. bass fish
+zhaqe: [&#658;aq&#603;]DP n. bass fish
 
 zhav: [&#658;av]DP n. lizard
 
@@ -3084,7 +3084,7 @@ zin: [zin&#810;]DP v.aux. still (particle for continuation)
 
 zinay: [zin&#810;aj]DP adj. remaining
 
-ziqwehelat: [ziqwEhel&#810;at&#810;]DP v. to retch
+ziqwehelat: [ziqw&#603;hel&#810;at&#810;]DP v. to retch
 
 zir: [zir]DP n. bird
 
@@ -3154,7 +3154,7 @@ Dothraki people
 Dovoeddi: [d&#810;ovoed&#810;d&#810;i]DP n. Unsullied (From
 Astapori Valyrian Dovoghedhy)
 
-Emrakh Hrazef: [em&#638;axhRazef]DP prop.n.
+Emrakh Hrazef: [em&#638;axh&#638;azef]DP prop.n.
 Horse Gate
 
 Haesh Rakhi: [hae&#643;raxi]M prop.n. Lamb Men,
