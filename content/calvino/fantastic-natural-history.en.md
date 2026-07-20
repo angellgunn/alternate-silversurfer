@@ -49,7 +49,7 @@ More to come, be patient.
 
 Originally a Twitter Thread by Baldolino Calvino🏳️‍🌈🚩🇧🇷✨♻️🌱, with the help of Thread Reader, in Oct 1 • 15 tweets • 4 min read
 
-Published in Calvino's [Tumblr](https://www.tumblr.com/alternate-silversurfer-blog/700569992056520704/originally-a-twitter-thread-with-the-help-of).
+Published in Calvino's [Tumblr][tumblr].
 
 [fantasy]: https://en.wikipedia.org/w/index.php?title=Fantasy&oldid=1112904023
 [fairy-dawn-img]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_violet_fairy_book_%281906%29_%2814730388126%29.jpg/1280px-The_violet_fairy_book_%281906%29_%2814730388126%29.jpg
@@ -62,3 +62,4 @@ Published in Calvino's [Tumblr](https://www.tumblr.com/alternate-silversurfer-bl
 [prince-img]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_violet_fairy_book_%281906%29_%2814566722029%29.jpg/1280px-The_violet_fairy_book_%281906%29_%2814566722029%29.jpg
 [hippogriff]: https://commons.wikimedia.org/wiki/File:Orlando_Furioso_9.jpg
 [hippogriff-img]: https://upload.wikimedia.org/wikipedia/commons/e/e2/Orlando_Furioso_9.jpg
+[tumblr]: https://www.tumblr.com/alternate-silversurfer-blog/700569992056520704/originally-a-twitter-thread-with-the-help-of

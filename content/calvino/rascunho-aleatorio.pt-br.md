@@ -7,7 +7,7 @@ tags = ["opiniões"]
 translationKey = "rascunho-aleatorio"
 +++
 
-Há 12 dias fiz duas postagens, uma inaugurando meus rascunhos aleatórios não revisados e outra com conteúdo que eu tinha escrito há algum tempo e nunca postado em nenhum lugar. Não tenho quase nenhum seguidor e acho que nem visualizações, mas, sério, não comecei esse blog para isso. É mais para minha própria saúde mental. Sendo assim, vou jogar ao léu mais umas palavras sem destino.
+Há 12 dias fiz duas postagens, [uma][uma] inaugurando meus rascunhos aleatórios não revisados e [outra][outra] com conteúdo que eu tinha escrito há algum tempo e nunca postado em nenhum lugar. Não tenho quase nenhum seguidor e acho que nem visualizações, mas, sério, não comecei esse blog para isso. É mais para minha própria saúde mental. Sendo assim, vou jogar ao léu mais umas palavras sem destino.
 
 Nestes dias, o que aconteceu de notável pelo mundinho? Eleições, claro. As eleições brasileiras já tinham se encerrado em outubro, mas como não comentei nada sobre elas, vamos também disso. Bem, como todos sabem, elegemos prefeitos (nesses a maioria lembra em quem votou) e vereadores (talvez a maioria já nem saiba em quem votou, ou pior, nem votou). Como é sabido e escorrido, da mesma forma, os dois partidos que são pintados pela mídia oficial e social como “extremos”, o PT e o PL, não tiveram bom desempenho. A maioria dos cargos eletivos ficou com os outros partidos, coletivamente jogados no saco chamado de “centro”. Mas será que temos realmente uma esquerda, uma direita, um centro e extremos na política brasileira?
 
@@ -19,7 +19,7 @@ Vamos partir de premissas básicas para pensar sobre isso. Antes da polarizaçã
 
 Se a esquerda não parece ter se modificado nos últimos 20 anos, o centro mudou? O centro é naturalmente mutável, assim como uma média, ele reflete a composição da maioria da população. Ele mudou juntamente com a população, mas não creio que ninguém vá realmente afirmar que o centro ficou “radical”. O que ocorreu, devido à polarização, foi uma redução do centro como aglutinador da maioria. Ao invés do espectro político lembrar um dromedário, como no desenho do pequeno príncipe de Saint-Exupéry (era uma serpente com um elefante na barriga, na verdade, mas tinha uma corcova, é o que importa!), ficou parecendo um camelo com duas corcovas. Ou, continuando a analogia estatística, uma distribuição bimodal.
 
-![Não é um camelo](https://substackcdn.com/image/fetch/$s_!3WUD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c7fceae-26a4-4c1a-a9c6-b009009b4cb1_5234x3489.jpeg)
+![Não é um camelo][camelo]
 
 Ok, então a esquerda não mudou, o centro perdeu representatividade, mas não mudou mais do que a média da população. Então, o que mudou? A essa altura, meus caros adeptos da maiêutica, já deve estar todo mundo sabendo o fato: foi o surgimento de uma nova direita, denominada extrema-direita por defender ideias mais radicais e fora do “centro” do que a direita tradicional. Enquanto a direita tradicional levanta pautas econômicas, de mercado, alinhadas com uma determinada elite que detém o controle da maioria dos recursos da sociedade (coletivamente chamadas de forma vaga de “empresas”, “banqueiros”, “investidores”, ou apenas “mercado”), a extrema-direita alia as mesmas pautas econômicas (com muito menos erudição) com um discurso baseado no tripé costumes, religião (apenas cristã) e moral conservadora. Dessa forma, nem foi a esquerda que realmente (há algumas exceções) passou a bater forte em pautas de costumes, e sim a novata extrema-direita.
 
@@ -29,4 +29,7 @@ O mundo vai acabar? Respondo a essa com outra pergunta: o mundo acabou? E por aq
 
 Texto publicado no Substack de [Baldolino Calvino][subcal].
 
+[uma]: https://alternate-silversurfer.bitbucket.io/francisco/aleatorio1/
+[outra]: https://alternate-silversurfer.bitbucket.io/francisco/sereia/
+[camelo]: https://substackcdn.com/image/fetch/$s_!3WUD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c7fceae-26a4-4c1a-a9c6-b009009b4cb1_5234x3489.jpeg
 [subcal]: https://open.substack.com/pub/baldolinocalvino/p/rascunho-aleatorio-numero-2
