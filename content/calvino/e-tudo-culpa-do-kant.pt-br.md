@@ -92,7 +92,8 @@ usei como base para o estudo breve que fiz de Brito a [obra][obra] do mesmo, o a
 
 Texto publicado no Substack de [Baldolino Calvino][subcal].
 
-* Vide 1:37:45
+\* Vide 1:37:45
+
 ** Um vídeo popularizado por um canal "intelectual" de extrema direita (isso não é contraditório?!) retirou um trecho [desta aula][aula] de Searle em Berkeley, disponível no YouTube (40:27).
 
 [primeira]: https://alternate-silversurfer.bitbucket.io/calvino/mais-de-um-ano-depois/

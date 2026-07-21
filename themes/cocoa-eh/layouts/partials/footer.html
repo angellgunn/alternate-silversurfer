@@ -18,6 +18,12 @@
         {{ end }}
 
         </div>
+
+        {{ if and .IsPage .GitInfo }}
+        <div class="last-updated">
+            Última atualização: {{ partial "date-format.html" (dict "date" .GitInfo.CommitDate "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}
+        </div>
+
         <div class="icons">
 
         {{ if .Site.Params.facebook }}
