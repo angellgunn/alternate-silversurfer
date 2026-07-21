@@ -1,5 +1,8 @@
 image: hugomods/hugo
 
+clone:
+  depth: full
+
 pipelines:
   # Master branch deployment to live - no drafts
   branches:
@@ -8,7 +11,7 @@ pipelines:
           script:
             - apk update
             - apk add openssh
-            - git submodule update
+            - git fetch --unshallow || true
             - hugo
             - git config user.name 'Baldolino Calvino'
             - git config user.email 'alternate-silversurfer@outlook.com'
