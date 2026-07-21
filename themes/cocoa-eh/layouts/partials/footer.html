@@ -7,25 +7,20 @@
         </div>
         {{ end }}
 
-        <div class="copyright">
+        <div class="footer-row">
+            <div class="copyright">
 
-        {{ if .Site.Params.copyright }}
-            {{ if .Site.Params.copyrightUrl }}
-                <a href="{{ .Site.Params.copyrightUrl }}">{{ .Site.Params.copyright }}</a>
-            {{ else }}
-                <a href="{{ .Site.BaseURL }}license">{{ .Site.Params.copyright }}</a>
+            {{ if .Site.Params.copyright }}
+                {{ if .Site.Params.copyrightUrl }}
+                    <a href="{{ .Site.Params.copyrightUrl }}">{{ .Site.Params.copyright }}</a>
+                {{ else }}
+                    <a href="{{ .Site.BaseURL }}license">{{ .Site.Params.copyright }}</a>
+                {{ end }}
             {{ end }}
-        {{ end }}
 
-        </div>
+            </div>
 
-        {{ if and .IsPage .GitInfo }}
-        <div class="last-updated">
-            Última atualização: {{ partial "date-format.html" (dict "date" .GitInfo.CommitDate "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}
-        </div>
-        {{ end }}
-
-        <div class="icons">
+            <div class="icons">
 
         {{ if .Site.Params.facebook }}
             <a href="https://facebook.com/{{ .Site.Params.facebook }}" target="_blank">
@@ -58,6 +53,12 @@
         {{ end }}
 
         </div>
+
+        {{ if and .IsPage .GitInfo }}
+        <div class="last-updated">
+            Última atualização: {{ partial "date-format.html" (dict "date" .GitInfo.CommitDate "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}
+        </div>
+        {{ end }}
     </div>
 </section>
 

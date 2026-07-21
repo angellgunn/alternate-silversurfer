@@ -205,6 +205,28 @@ section.footer .container {
   width: 100%;
   text-align: center;
 }
+section.footer .container .footer-row {
+  order: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+section.footer .container .last-updated {
+  order: 2;
+  margin-top: 12px;
+  width: 100%;
+  font-size: 14px;
+  color: #666666;
+}
+section.footer .container .footer-row .copyright {
+  flex-grow: 0.5;
+  text-align: start;
+}
+section.footer .container .footer-row .icons {
+  flex-grow: 0.5;
+  text-align: end;
+}
 section.footer .container a {
   font-size: 14px;
   margin-left: 6px;
