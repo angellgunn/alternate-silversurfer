@@ -628,6 +628,9 @@ section.main .content .markdown .footnotes ol {
 section.main .content .markdown .footnotes li {
   list-style-type: unset;
 }
+section.main .content .markdown .footnotes {
+  font-size: 0.90em;
+}
 section.main .content .markdown .footnote-ref {
   font-size: 0.7em;
 }
