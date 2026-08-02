@@ -1,6 +1,6 @@
 ---
 title: "CI with Bitbucket"
-author: "bcalvino"
+author: "agunn"
 date: 2017-11-01T23:04:12-03:00
 keywords: Hugo, Bitbucket, git, deploy, continuous integration, theme, outTemer
 ---

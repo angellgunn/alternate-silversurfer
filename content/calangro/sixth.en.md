@@ -47,6 +47,6 @@ From the point of view of clinical research in our country, it is practically no
 [c19mc]: https://en.wikipedia.org/wiki/C19MC_miRNA_cluster
 [mrna]: https://en.wikipedia.org/wiki/MicroRNA
 [3vent]: https://en.wikipedia.org/wiki/Third_ventricle
-[valkyrie]:
-[why]:
+[valkyrie]: https://valkyrie.blog/
+[why]: https://valkyrie.blog/why-clinical-research/
 [corte]: http://portal.sbpcnet.org.br/noticias/associadas-da-sbpc-se-manifestam-contra-os-cortes-a-cti/

@@ -1,6 +1,6 @@
 ---
 title: "Morte e Vida do MacBook 2011"
-author: "bcalvino"
+author: "agunn"
 date: 2017-11-07T23:04:12-03:00
 keywords: macbook pro, dGPU, arch linux, efi vars, force iGPU, hack of the year, foraTemer
 ---

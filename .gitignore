@@ -1,4 +1,8 @@
 .*
 !.gitignore
 !.mailmap
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
+public/
 mailmap.txt

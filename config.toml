@@ -1,4 +1,4 @@
-baseURL = "https://alternate-silversurfer.bitbucket.io/"
+baseURL = "https://angellgunn.github.io/alternate-silversurfer/"
 theme = "cocoa-eh"
 enableGitInfo = true
 builddrafts = false
