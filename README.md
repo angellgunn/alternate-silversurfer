@@ -18,11 +18,11 @@ Eu cheguei a ter uma página no extinto Geocities, mas não lembro praticamente 
 
 Criei a Página Livre em 16/09/2017, sem conteúdo no commit inicial. No sétimo commit (que ironia) já tinha a primeira postagem, a mesma que ainda está aí.
 
-[blogspot]:
-[primeira]:
-[ultima]:
-[canal]:
-[desligamento]:
+[blogspot]: /401.html
+[primeira]: /401.html
+[ultima]: /401.html
+[canal]: /401.html
+[desligamento]: /401.html
 [convergencia]: https://joaocalangro.wordpress.com
 [primeira-c]: https://joaocalangro.wordpress.com/2006/06/13/convergencia-de-saberes/
 [postagem]: https://joaocalangro.wordpress.com/2016/10/27/o-que-e-um-direitista-no-brasil/
