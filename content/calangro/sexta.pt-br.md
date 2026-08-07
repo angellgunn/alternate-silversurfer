@@ -47,6 +47,6 @@ Do ponto de vista da pesquisa clínica em nosso país, ela é praticamente inexi
 [c19mc]: https://en.wikipedia.org/wiki/C19MC_miRNA_cluster
 [mrna]: https://en.wikipedia.org/wiki/MicroRNA
 [3vent]: https://en.wikipedia.org/wiki/Third_ventricle
-[valkyrie]: https://valkyrie.blog/
-[why]: https://valkyrie.blog/why-clinical-research/
+[valkyrie]: /401.html
+[why]: /401.html
 [corte]: http://portal.sbpcnet.org.br/noticias/associadas-da-sbpc-se-manifestam-contra-os-cortes-a-cti/
