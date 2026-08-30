@@ -162,15 +162,22 @@ section.header nav {
 section.header nav ul {
   list-style: none;
   text-align: center;
-  display: -webkit-inline-flex;
-  display: -moz-inline-flex;
-  display: -ms-inline-flexbox;
-  display: -ms-inline-flex;
-  display: inline-flex;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.35rem 0.75rem;
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
 }
 section.header nav ul a {
-  margin-left: 6px;
-  margin-right: 6px;
+  margin-left: 0;
+  margin-right: 0;
+  display: inline-block;
 }
 section.header nav ul a:first-child {
   margin-left: 0;
