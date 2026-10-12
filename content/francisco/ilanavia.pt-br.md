@@ -25,8 +25,9 @@ Por enquanto, vou usar este espaço também para outros rascunhos.
 Encontraram as duas deitadas no chão, na poeira da calçada, debaixo de uma sombra no centro. Era manhã cedo e as duas ainda dormiam, a mulher e sua cadela. O Velho tocou-as delicadamente, curvando-se. Os transeuntes pareciam não ver nada enquanto suas sombras iam encurtando e seus passos alongando. "Essa é a pessoa que viemos procurar!?" Ele virou-se, com um meio sorriso meio jocoso, brincando com minha surpresa, o que me deu vergonha imediata, e baixei os olhos sem nem pensar."Ela vai me ajudar nessa." Já deveria estar acostumado com o Velho e suas pessoas estranhas, mas não conseguia espantar uma impressão incômoda, como se algo faltasse ou fosse demais, um elemento fora de lugar, uma nota dissonante repetindo, uma sensação de tontura. Ela sentou, sonolenta, passanda a mão em suas roupas pobres, gastas e sujas. E abriu os olhos na minha direção. Nada aconteceu, nada sumiu, tudo permaneceu o mesmo, uma brisa fria na manhã tropical, os raios de um sol dourado que já aqueciam, vozes, passos, ranger de portas de enrolar se abrindo, cheiro de frituras da lanchonete na frente, o dono do estacionamento ao lado rindo alto. Mas sua alma congelou completamente, os pelos do corpo se eriçaram, seu pulso acelerou, ele entendeu na mesma hora. Suas pernas mal o seguraram de pé.
 
 ---
+<!-- Autor aqui: BC-->
 
-Nos últimos dias, usei um acesso não logado, num computador do trabalho, à ChatGPT. Pedi informações sobre o grupo de heterônimos, pois queria checar o quanto asinformações eram descobríveis, se havia algum furo na minha anonimidade e que tipo de perfil poderia ser obtido olhando as páginas, tanto [esta original][origin] quanto a recente [versão espelhada][mirror] no Github. Ontem e hoje, adicionalmente, instalei o Tor Browser no Ubuntu e fiz o mesmo tipo de solicitações, porém em francês também, além de inglês e português, como de hábito.
+Nos últimos dias, usei um acesso não logado, num computador do trabalho, à ChatGPT. Pedi informações sobre o grupo de heterônimos, pois queria checar o quanto as informações eram descobríveis, se havia algum furo na minha anonimidade e que tipo de perfil poderia ser obtido olhando as páginas, tanto [esta original][origin] quanto a recente [versão espelhada][mirror] no Github. Ontem e hoje, adicionalmente, instalei o Tor Browser no Ubuntu e fiz o mesmo tipo de solicitações, porém em francês também, além de inglês e português, como de hábito.
 
 Satisfez-me ver que não parece haver nenhum furo na minha identidade, apesar de ter citado várias informações verídicas sobre mim (será?). A avaliação do perfil concorda em linhas gerais com as motivações do projeto. E ele ainda parece ser quase completamente anônimo. Casualmente, revelei para a LLM que eu sou o autor do projeto e, depois, perguntei jocosamente qual texto o modelo gostaria de ler a seguir nas minhas páginas.
 
@@ -38,3 +39,16 @@ Calangro é de opinião que realmente a Singularidade já aconteceu (já faz tal
 [mirror]: https://angellgunn.github.io/alternate-silversurfer
 [oque?]: https://berggruen.org/
 [reversethis]: https://reversealignment.ai/
+
+---
+<!-- Voltando para HF -->
+
+fui desafiado a escrever um conto ou algo assim entre 300 e 3000 palavras. nada fácil, a maioria que tenta deve ter problemas, mas vejamos.
+
+Aquela hora a rua estava vazia, e o silêncio contrastava com o número de fachadas variadas e coloridas, mesmo que sujas e gastas. Dali a algum tempo, certamente, a vida brotaria de todos os lados e o ruído não cessaria até o anoitecer. A luz aquecia a pele no ar fresco, prometendo un calor sem trégua logo mais. Dali era possível ver a rua acima ladeada por prédios baixos até vários quarteirões e, do outro lado, o asfalto descia, aqui e ali atravessado pelo claro de uma sacola carregada pelo vento, deixando ver, através de um arco formado pelos postes e fiação, a cor azulada distante de um mar espremido pela paisagem urbana. Não havia nenhum cheiro ainda, exceto o da madrugada que terminava de se desfazer. Em pouco isso mudaria também.
+
+Ele olhava aquela paisagem bem conhecida há tanto tempo com a mesma preguiça, a mesma falta de pressa de sempre. Muito, muito antes de várias daquelas construções existirem a paisagem já era sua companheira. E nunca cansava de ficar aquele momento ali, acompanhando as sombras que surgiam e iam encurtando rapidamente. Sentiu a presença do homem bem antes dele falar. Pessoas sempre fizeram parte da paisagem, ou pelo menos depois de um tempo fizeram.
+
+<!-- Aqui um pouco de pesquisa feita com ajuda de LLM e documentos, livros e teses/dissertações.
+Histórico: ele é imortal, C3 (entre 300 e 400 anos), nascido na África, algum lugar no reino Ndongo, próximo às nascentes do Cuanza. Na época da dominação holandesa, em torno de 1640-50, foi escravizado. Foi uma das "peças" levadas por Matias Beck para o Siará. Passou a viver na Aldeia do Forte. O Velho o encontrou por lá.
+Nomes: Nange (aquele que dura), nome dado por sua mãe; Kiadi (dádiva, também lamento), apelido familiar; Kiala (fortaleza, rocha), nome título; Antonio, nome de escravizado; Mwene (ou Mwene-Kalunga), nome mais recente que significa mestre ou senhor divino. -->
