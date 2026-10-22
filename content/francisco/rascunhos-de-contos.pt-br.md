@@ -30,11 +30,13 @@ Nomes: Nange (aquele que dura), nome dado por sua mãe; Kiadi (dádiva, também 
 
 ---
 
-a máquina apitava sem parar, estridente, tentando chamar a atenção de alguém. depois de um tempo sem medida, um dedo rápido parou a sirene alarmante.
+a máquina apitava sem parar, estridente, tentando chamar a atenção de alguém. depois de um tempo sem medida, um dedo rápido parou a sirene.
 "esses monitores vivem alarmando, meu juízo não dá pra isso."
 mãos ágeis torceram tubos, separaram conexões, fecharam linhas, abriram ampolas, puncionaram, encheram, diluíram, infundiram. outras mãos ágeis trocaram bandejas com potinhos e copinhos sem dono e sem destino. outras ainda reviraram, puxaram, molharam e secaram, dobraram e desdobraram lençóis, virando e desvirando pontas e fazendo nós e laços.
 "passa aí, nesse pacote, esse, obrigada!"
 os dedos ágeis agora digitavam palavras rápidas completadas automaticamente na tela, frases aparecendo como por encanto e mal sendo vistas por olhos apressados.
 "se ela colocasse uma receita de bolo, juro que eu nem notava!" um riso e um sorriso.
 
-ela viu o nó, suspenso no espaço branco como leite, vazio iluminado pela ansiedade. borromeano, 
+ela viu o nó, suspenso no espaço branco como leite, vazio iluminado pela ansiedade. borromeano, trevo, celta, de oito, infinito, panchang, desnó, de fatia, quipo, não se sabia qual o tipo ou melhor eram todos eles juntos simultaneos entrelaçados (des)contínuos criando um defeito ali lá aqui
+
+rápido precisou acionar o transformador de domínio para decompor as componentes harmônicas do espaço-tempo. ainda faltava muito para chegar no colimador. 
