@@ -39,4 +39,8 @@ os dedos ágeis agora digitavam palavras rápidas completadas automaticamente na
 
 ela viu o nó, suspenso no espaço branco como leite, vazio iluminado pela ansiedade. borromeano, trevo, celta, de oito, infinito, panchang, desnó, de fatia, quipo, não se sabia qual o tipo ou melhor eram todos eles juntos simultaneos entrelaçados (des)contínuos criando um defeito ali lá aqui
 
-rápido precisou acionar o transformador de domínio para decompor as componentes harmônicas do espaço-tempo. ainda faltava muito para chegar no colimador. 
+rápido precisou acionar o transformador de domínio para decompor as componentes harmônicas do espaço-tempo. ainda faltava muito para chegar no colimador.
+
+---
+
+essa história aconteceu mesmo, eu juro pela minha alma que há de ser salva no fim dos tempos com a intenção de Nossa Senhora, amém. eu trabalhava lá na casa das crianças, onde elas ficavam quando tavam se tratando e vi com esses olhos que já tão ficando ceguetas, vi as mãezinhas e os meninos pálidos e as meninas com a perninha cortada, dava dó, dava dó. mas nunca tive pena como no caso dela. foi um rapaz grande, tinha uns 12, 13 anos? grandão, parecia 15, magro, com olhos fundos, grandes olhos morenos e cabelo escuro e pele assim, assim, quase branco, mas era encerado. eu tava por lá e levava as crianças e acompanhava as meninas que trabalhavam nos consultórios, elas eram um doce, sempre tinha café e pão pra mim, só uma loirinha era besta e não queria conversa, as outras eram gente boa. os consultórios ficavam lá no projeto, e tinha as doutoras, sempre muito sérias, de pouca conversa, só não uma baixinha que falava o tempo todo e as mães adoravam, mas eu soube que ela saiu e não trabalha mais lá, só ficaram as de cara séria. as irmãs da casa e as doutoras eram sempre assim, as roupas e as caras muito, muito sérias, não olhavam pra gente, naquela época. agora tá diferente. 
