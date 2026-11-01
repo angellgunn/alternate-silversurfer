@@ -234,7 +234,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - themes/cocoa-eh/layouts/partials/css/main.css
   - ia-log.md
 
-# Entrada 6
+## Entrada 6
 
 - Data e hora do procedimento: 2026-10-11 09:27 -03
 - Prompt do usuário (sem modificações):
@@ -243,5 +243,29 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 
 - Arquivos modificados:
   - /themes/cocoa-eh/layouts/partials/header.html
+
+## Entrada 7
+
+- Data e hora do procedimento: 2026-10-29 16:14 -03
+- Prompt do usuário (sem modificações): vide arquivos
+- Obs.: foram introduzidos 4 arquivos com texto obtido através do chat do Modo IA da busca do Google
+
+- Arquivos modificados:
+  - /static/docs/xadrez-mental.txt
+  - /static/docs/rascunho-prionica.md
+  - /static/docs/rascunhos-cosmoquantum.md
+  - /static/docs/rascunho-eth-life.md
+
+## Entrada 8
+
+- Data e hora do procedimento: 2026-10-31 23:19:10 -03
+- Prompt do usuário (sem modificações):
+
+> No rodapé, introduza um ícone q linka para a página espelhada em https://alternate-silversurfer.bitbucket.io/
+
+- Arquivos modificados:
+  - themes/cocoa-eh/layouts/partials/footer.html
+  - themes/cocoa-eh/static/img/mirror.svg
+  - ia-log.md
 
 <!-- A Copilot gerou a estrutura básica e os registros de 0 a 4 (eram 1 a 5, eu mudei). Todavia, ao solicitar q revisasse sessões anteriores, o resultado ficou muito ruim, gerando apenas os registros que agora são -1 e -7 (foram colocados depois dos outros, como registros 6 e 7), com erros de data e arquivos modificados. Tive que fazer a revisão e acrescentar os demais registros à mão. Fica a se ver se esse log "automatizado" de solicitações de IA vai dar certo. Declaro logo que modificações mais antigas por IA não ficaram registradas, porém incluíram exclusivamente estrutura da página e traduções supervisionadas (de acordo com as declarações). Nada de texto escrito por IA por aqui, a não ser nas postagens sobre isso de Angell. -->
