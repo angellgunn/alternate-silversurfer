@@ -20,9 +20,10 @@ Criei a Página Livre em 16/09/2017, sem conteúdo no commit inicial. No sétimo
 
 ### Os textos antigos
 
-Quando era jovem, escrevia textos de ficção e poesia, no mais ruins. Mas salvam-se algumas ideias interessantes. De qualquer forma, a maioria eram apenas rascunhos nunca desenvolvidos. Revisitando os arquivos que tenho, descubro que o material mais antigo é de 1988, e anotei que a maioria se perdeu (era manuscrito e depois digitei). A maioria do restante é de 1996-7 (criação dos arquivos, alguns deles foram transcritos), última modificação em 2000-1. Ao todo, tem cerca de 72 mil palavras, exceto um arquivo protegido por senha esquecida há muito, pequeno. Hoje consegui recuperar um velho texto escrito num Lotus Ami Pro. 
+Quando era jovem, escrevia textos de ficção e poesia, no mais ruins. Mas salvam-se algumas ideias interessantes. De qualquer forma, a maioria eram apenas rascunhos nunca desenvolvidos. Revisitando os arquivos que tenho, descubro que o material mais antigo é de 1988, e anotei que a maioria se perdeu (era manuscrito e depois digitei). A maioria do restante é de 1996-7 (criação dos arquivos, alguns deles foram transcritos), última modificação em 2000-1. Ao todo, tem cerca de 72 mil palavras, exceto um arquivo protegido por senha esquecida há muito, pequeno. Hoje consegui recuperar um velho texto escrito num Lotus Ami Pro.
 
 _Usei um serviço online de verificação de metadados para verificar essas informações:_
+
 | Arquivo | Data de criação | Última modificação |
 | --- | --- | --- |
 | Projetos | 03/01/1996 12:25 | 20/09/2000 01:43 |
