@@ -268,4 +268,17 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - themes/cocoa-eh/static/img/mirror.svg
   - ia-log.md
 
+## Entrada 9
+
+- Data e hora do procedimento: 2026-11-01 10:32:03 -03
+- Prompt do usuário (sem modificações):
+
+> quero criar uma página expondo arquivos pdf em /static/docs, e vi q tem uma solução baseada em shortcode em https://github.com/anvithks/hugo-embed-pdf-shortcode, e mais comentários uteis em https://discourse.gohugo.io/t/attempting-to-make-embeded-pdf-shortcode/50324 e https://discourse.gohugo.io/t/where-to-put-pdf-files/52156, além de outros. Prepare e implemente adequadamente shortcodes para esse fim nesse projeto. Faça uma página simples de exemplo dentro do conteúdo do autor francisco. se for bem sucedido, atualize ia-log.md e termine depois
+
+- Arquivos modificados:
+  - themes/cocoa-eh/layouts/shortcodes/pdf.html
+  - content/francisco/documentos-pdf.pt-br.md
+  - ia-log.md
+
 <!-- A Copilot gerou a estrutura básica e os registros de 0 a 4 (eram 1 a 5, eu mudei). Todavia, ao solicitar q revisasse sessões anteriores, o resultado ficou muito ruim, gerando apenas os registros que agora são -1 e -7 (foram colocados depois dos outros, como registros 6 e 7), com erros de data e arquivos modificados. Tive que fazer a revisão e acrescentar os demais registros à mão. Fica a se ver se esse log "automatizado" de solicitações de IA vai dar certo. Declaro logo que modificações mais antigas por IA não ficaram registradas, porém incluíram exclusivamente estrutura da página e traduções supervisionadas (de acordo com as declarações). Nada de texto escrito por IA por aqui, a não ser nas postagens sobre isso de Angell. -->
+<!-- Nota em outubro de 2026: cerca de 2 meses depois, a Copilot,usando o novo modelo GPT-6 Luna, lançado publicamente há menos de 1 mês, consegue fazer a automação do ia-log.md (sob solicitação em prompt) sem falhas. Realmente, é bom que eu esteja deixando artefatos comprovando que minha escrita não é feita por LLM. Já começo a acreditar que isso vai ser irrelevante num futuro próximo. -->

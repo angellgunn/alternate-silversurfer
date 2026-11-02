@@ -1,0 +1,13 @@
+{{- $file := .Get "file" -}}
+{{- if or (not $file) (ne (path.Base $file) $file) (not (strings.HasSuffix (strings.ToLower $file) ".pdf")) -}}
+  {{- errorf "O shortcode pdf exige o nome de um arquivo PDF diretamente em static/docs: %s" .Position -}}
+{{- end -}}
+{{- if not (fileExists (printf "static/docs/%s" $file)) -}}
+  {{- errorf "Arquivo PDF não encontrado em static/docs: %s (%s)" $file .Position -}}
+{{- end -}}
+{{- $title := .Get "title" | default $file -}}
+{{- $url := printf "docs/%s" $file | relURL -}}
+<figure class="pdf-embed">
+  <figcaption>{{ $title }} — <a href="{{ $url }}" target="_blank" rel="noopener noreferrer">abrir PDF em nova aba</a></figcaption>
+  <iframe src="{{ $url }}" title="{{ $title }}" width="100%" height="700" loading="lazy" style="width: 100%; height: 80vh; min-height: 400px; border: 0;"></iframe>
+</figure>
