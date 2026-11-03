@@ -14,6 +14,8 @@ A estrutura HTML, os templates, os arquivos CSS, JavaScript e demais ativos do t
 
 Portanto, a licença do tema não é substituída por este aviso e a manutenção da licença original do Cocoa EH deve ser respeitada integralmente.
 
+O histórico da origem, das diferenças e das adaptações do tema neste projeto está documentado no [relatório Cocoa EH](../theme-log.md).
+
 ### 2) Textos de autoria do responsável e dos heterônimos
 
 Os textos, ensaios, artigos, notas, traduções e adaptações de autoria do responsável deste sítio e dos heterônimos associados são protegidos por direitos autorais.

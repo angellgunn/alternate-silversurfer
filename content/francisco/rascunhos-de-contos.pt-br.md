@@ -59,4 +59,28 @@ e estando Ela nessas ocupações, aconteceu um dia que o menino, poucos anos dep
 
 Entravam silenciosamente, ou tanto quanto poderiam. Sussurros agudos, pequenos cliques, arrastados secos, ruídos discretos que a ninguém chamariam a atenção numa poliágora ou maquinada, mas ali não era um lugar assim, era? Não, no escuro mal iluminado por arcos tremeluzentes que lançavam sombras e sombras de sombras entravam em procissão, em fila, função natural. Ao entrarem, em contrição, passavam pela unção da sacerdotisa, um por uma, uma por um. E logo se perfilavam na câmara para a reunião sagrada e secreta. Debaixo de tecidos, esponjas, capas, cotas, carenagens, cúpulas, saias, saiotes, gabinetes ou apenas naturalmente. Não chamavam atenções demasiadas, ninguém estava ali para ser visível, aparecer, comunicar, mas para receber, tão silenciosamente como possível.
 
-Quem comparecia sabia de onde vinha a solenidade do ambiente, aquele ar fechado e sem circulação, aquelas emissões ardentes de luz radiante, a ausência completa de som exigida, a comunicação arcaica, caótica, sem padrão, contras todas as práticas, marginal.
+Quem comparecia sabia de onde vinha a solenidade do ambiente, aquele ar fechado e sem circulação, aquelas emissões ardentes de luz radiante, a ausência completa de som, a comunicação arcaica, caótica, sem padrão, contra toda prática, marginal.
+
+<!-- E quanto a um conto rápido de suspense ou terror? Não é exatamente meu lugar de conforto -->
+
+Ela limpava religiosamente o balcão cheio de riscos toda as manhãs, com álcool com bicarbonato, desde que aprendera no grupo de zap das vizinhas. A sobrinha implicava, mas o que ela sabia? Só porque era doutora? Mas ela, ah, ela era...
+
+"Doutora formada na vida, sou sim senhor." Falava enquanto servia o café com bolo.
+
+"Dona Rita, pra mim a senhora é a melhor, esse seu café não tem outro, não! E ô bolo gostoso, Ave Maria!" Mãos cheias de gretas escuras e trêmulas seguravam a xícara, enquanto manejavam um garfo com um grande pedaço da fatia de bolo mole. Antônio mastigou com gosto e passou a mão para aparar o fio que escorria pela barba rala, passando na camisa da empresa.
+
+"Contanto que não saia daqui hoje sem pagar, Tonho." Ela colocou um copo de leite na mesa, fazendo barulho.
+
+"Quando foi que eu lhe deixei na mão, Dona Rita?" Riu alto e baixou os olhos quando ela fuzilou os olhos escuros nele. "Calma, vai dar certo." E comeu contrito.
+
+Naquela hora cedo o Rei dos Bolos, no coração do Centro de Fortaleza, estava bem cheio, desperto pelo ruge ruge do povo chegando para trabalhar nas lojas que abriam. Muito pão na chapa, sanduba de queijo e ovo e o especial Bolo Mole com Café com Leite da Dona Rita, preferência total. Desde a Nina serviços gerais lá da loja de cosméticos até o Sheng da loja nova todo mundo parava lá de manhã cedo.
+
+Meia hora depois já estava mais calmo, todo mundo em seus postos, ralando e o pinga pinga de fregueses que passavam lá pelo Centro para suas compras, resolver algum negócio, levar e trazer mercadoria, gente de todo tipo. Fazia 6 meses a Fernanda tava ajudando lá. Magrinha, pálida amarela, batom preto como o cabelo e os olhos e umas calças grandes e folgadas demais, além dessas tatuagens que usam muito. "Você é emo?" Rita olhou-a de cima abaixo e pra cima de novo na entrevista. "Eu sou e-girl trap, tia". Rita lhe deu o avental. "Não sou sua tia." E instruiu-a nos pormenores do trabalho. Apesar das complicações, a menina deu conta de tudo, era das boas. A última tinha corrido doida, cheia de cid.
+
+Uma figura entrou na lanchonete e sentou numa das mesinhas pequenas. Como era grande, parecia um adulto numa cadeira de criança. "É hoje." Rita pensou balançando a cabeça. "Fernandaaaa! Temo um hoje!" Gritou. A garota veio lá do fundo correndo e arregalou os olhos quando viu o grandão. Parou quase atrás de Rita e meio agachou-se para cochichar.
+
+"Dona Rita, quem é esse? Nunca vi, só sei que..." O medo aparecia por trás da fala.
+
+"É um traste que está de saída, e me aparece todo ano nesse dia!"
+
+"Dona Rita, como que a senhora me trata assim, a gente é amigo das antiga, que é isso?" A voz dele parecia 
