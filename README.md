@@ -34,7 +34,7 @@ _Usei um serviço online de verificação de metadados para verificar essas info
 | Trechos antigos e mentirosos | 19/07/1997 15:55 | 19/10/2003 01:38 |
 | Ômega | 10/08/1997 20:01 | 02/11/2001 23:10 |
 
-O único texto dessa época que usei na Página Livre até o momento foi _Um conto do Amorvírus_, escrito provavelmente há 30 anos atrás, e com últimas modificações em 2001 e 2003. Os arquivos das duas versões não tem mais os metadados originais. Fiz uma revisão no texto, com discretas mudanças.
+O único texto dessa época que usei na Página Livre até o momento foi _Um conto do Amorvírus_, escrito provavelmente há 30 anos atrás, e com últimas modificações em 2001 e 2003. Os arquivos das duas versões não tem mais os metadados originais. Fiz uma revisão no texto, com discretas mudanças. É seguro falar que estes textos foram iniciados entre 1988 e 1997, neste espaço de uma década. Eu tinha entre 17 e 26 anos, porém lembro de ter começado a escrever em formato manuscrito antes disso ainda, mas não antes dos 15 anos de idade. Não lembro exatamente como os manuscritos, que estavam escritos a lápis numa agenda antiga (eram duas?), se perderam, lembro vagamente de terem sido estragados com água ou algo assim. Naquela época, eu vivia sem ter muita privacidade e direito a ter escolha sobre minha vida. De qualquer forma, perderam-se estes textos mais antigos.
 
 [blogspot]: /401.html
 [primeira]: /401.html
