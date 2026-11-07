@@ -1,3 +1,10 @@
+---
+title: "Adaptações do Tema"
+date: "2026-11-03"
+type: "page"
+layout: "single"
+---
+
 # Histórico e comparação do tema Cocoa EH
 
 Este documento registra a origem do tema usado neste site, as diferenças entre a cópia local e o tema upstream, as adaptações feitas para o projeto e a situação de cópias ou derivados encontrados. A comparação foi preparada em 2 de novembro de 2026 com base nos arquivos deste repositório, no histórico Git disponível e nas páginas públicas do GitHub.

@@ -1,5 +1,6 @@
 ---
 title: "License"
+date: "2026-08-29"
 type: "page"
 layout: "single"
 ---
@@ -20,7 +21,7 @@ O histórico da origem, das diferenças e das adaptações do tema neste projeto
 
 Os textos, ensaios, artigos, notas, traduções e adaptações de autoria do responsável deste sítio e dos heterônimos associados são protegidos por direitos autorais.
 
-Copyright © 2017-2025 silversurfer. Todos os direitos reservados.
+Copyright © 2017-2026 silversurfer. Todos os direitos reservados.
 
 A reprodução total ou parcial, a cópia, a redistribuição, a publicação em outros sítios, a reutilização em qualquer meio, a adaptação, a tradução, o recorte, a extração em bases de dados ou qualquer forma de uso derivado dos textos originais é proibida sem autorização prévia e expressa por escrito do titular dos direitos.
 
