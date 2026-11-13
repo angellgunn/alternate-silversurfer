@@ -55,6 +55,12 @@ text-align: left;
 section.header nav ul li {
 color: #666666;
 }
+section.header nav.primary-nav ul li a {
+color: #666666;
+}
+section.header nav.primary-nav ul li a:hover {
+color: #333333;
+}
 section.header nav ul li:hover {
 color: #333333;
 }

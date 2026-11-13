@@ -1,0 +1,15 @@
+<head>
+    {{ partial "meta.html" . }}
+    {{ $title := .Site.Title }}
+    {{ if not .IsHome }}
+        {{ if .Params.heading }}
+            {{ $title = .Params.heading }}
+        {{ else if .Title }}
+            {{ $title = printf "%s - %s" .Site.Title .Title }}
+        {{ end }}
+    {{ end }}
+    <title>{{ $title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ partial "head_includes.html" . }}
+    {{ partial "analytics.html" . }}
+</head>

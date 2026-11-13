@@ -1,17 +1,12 @@
 baseURL = "https://angellgunn.github.io/alternate-silversurfer/"
 theme = "cocoa-eh"
 enableGitInfo = true
-builddrafts = false
+buildDrafts = false
 buildExpired = true
-canonifyurls = true
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
+canonifyURLs = false
 defaultContentLanguage = "pt-br"
 #title = "uma pagina livre"
-disqusshortname = ""
-pluralizelisttitles = false
-preserveTaxonomyNames = true
+pluralizeListTitles = false
 removePathAccents = true
 
 [taxonomies]
@@ -40,6 +35,7 @@ social_banner = "img/banner.png"
 usesmallsummarycard = true
 posts_navigation = true
 small_banner_logo = false
+googleAnalyticsEnabled = true
 
 [params.colors]
 identifier = "#527fc1f"
@@ -117,3 +113,9 @@ statement = "#ff8e91"
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[services.googleAnalytics]
+  id = 'G-JPZN5NG98Y'
+
+[services.disqus]
+  shortname = ''

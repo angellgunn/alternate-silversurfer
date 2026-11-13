@@ -1,0 +1,47 @@
+{{ if .Site.Params.highlightjs }}
+<script src="{{ "js/highlight.min.js" | relURL }}" defer></script>
+{{ range .Site.Params.highlightjslanguages }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/languages/{{ . }}.min.js" defer></script>
+{{ end }}
+{{ end }}
+
+{{ if .Site.Params.progressively }}
+<script src="{{ "js/progressively.min.js" | relURL }}" defer></script>
+{{ end }}
+
+{{ if .Site.Params.issoHost }}
+<script
+    data-isso="https://{{ .Site.Params.issoHost }}/"
+    data-isso-css="true"
+    data-isso-lang="{{ .Site.Language.Lang }}"
+    src="https://{{ .Site.Params.issoHost }}/js/embed.min.js"
+></script>
+{{ end }}
+
+{{ if .Site.Params.share }}
+<script src="{{ "js/social-share-kit.min.js" | relURL }}" defer></script>
+{{ end }}
+
+<script>
+    window.addEventListener("load", function () {
+        {{ if .Site.Params.highlightjs }}
+        if (typeof hljs !== "undefined") {
+            hljs.initHighlighting();
+        }
+        {{ end }}
+        {{ if .Site.Params.progressively }}
+        if (typeof progressively !== "undefined") {
+            progressively.init({ delay: 30, throttle: 50 });
+        }
+        {{ end }}
+        {{ if .Site.Params.share }}
+            {{ $shareConfig := dict "twitter" (dict "text" "") }}
+            {{ with .Site.Params.twitter }}
+                {{ $shareConfig = dict "twitter" (dict "text" "" "via" .) }}
+            {{ end }}
+        if (typeof SocialShareKit !== "undefined") {
+            SocialShareKit.init({{ $shareConfig | jsonify }});
+        }
+        {{ end }}
+    });
+</script>

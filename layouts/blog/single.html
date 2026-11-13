@@ -1,0 +1,81 @@
+{{ partial "header.html" . }}
+<main class="site-main">
+    <section class="main post non-narrow zero-top-spacing">
+        <div class="container">
+            <div class="content">
+                <div class="front-matter">
+                    <div class="title-container">
+                        {{ partial "page-heading.html" . }}
+                    </div>
+                    <div class="meta">
+                        <div class="date" title="{{ partial "date-format.html" (dict "date" .Date "lang" .Site.Language.Lang "layout" .Site.Params.dateformfull "full" true) }}">{{ partial "date-format.html" (dict "date" .Date "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}</div>
+                        {{ if not .Params.noauthor }}
+                            {{ with .Params.author }}
+                            <div class="author" title="{{ . }}"><div class="middot"></div>{{ . }}</div>
+                            {{ end }}
+                        {{ end }}
+                        <div class="reading-time"><div class="middot"></div>{{ .ReadingTime }} minute read</div>
+                        {{ with .Params.tags }}
+                        <div class="tags">
+                            <ul>
+                                {{ range . }}
+                                <li><span class="middot"></span><a href="{{ printf "tags/%s/" (. | urlize) | relLangURL }}">{{ . }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                        {{ end }}
+                        {{ if or (isset .Params "hacker_news_id") (isset .Params "lobsters_id") }}
+                        <div class="tags">
+                            <ul>
+                                {{ with .Params.hacker_news_id }}
+                                <li><span class="middot"></span><a href="https://news.ycombinator.com/item?id={{ . }}">Hacker News</a></li>
+                                {{ end }}
+                                {{ with .Params.lobsters_id }}
+                                <li><span class="middot"></span><a href="https://lobste.rs/s/{{ . }}">Lobsters</a></li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                <div class="markdown">
+                    {{ partial "content" . }}
+                    <br>
+                </div>
+                {{ if .Site.Params.share }}
+                <div class="share">
+                    <a href="" class="ssk ssk-facebook" aria-label="Share on Facebook"></a>
+                    <a href="" class="ssk ssk-twitter" aria-label="Share on Twitter"></a>
+                    <a href="" class="ssk ssk-google-plus" aria-label="Share on Google Plus"></a>
+                    <a href="" class="ssk ssk-linkedin" aria-label="Share on LinkedIn"></a>
+                </div>
+                {{ end }}
+                {{ if .Site.Params.posts_navigation }}
+                <div class="navigation">
+                    {{ with .PrevInSection }}
+                    <div>
+                        <img class="icon" src="{{ "img/back.svg" | relURL }}" alt="back">
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    </div>
+                    {{ end }}
+                    <div class="navigation-spacer" aria-hidden="true"></div>
+                    {{ with .NextInSection }}
+                    <div>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <img class="icon" src="{{ "img/next.svg" | relURL }}" alt="next">
+                    </div>
+                    {{ end }}
+                </div>
+                {{ end }}
+                <br>
+                <div class="disqus">
+                    {{ template "_internal/disqus.html" . }}
+                </div>
+                {{ if .Site.Params.issoHost }}
+                <div class="isso" id="isso-thread"></div>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+</main>
+{{ partial "footer.html" . }}

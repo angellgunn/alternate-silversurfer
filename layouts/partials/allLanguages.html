@@ -1,0 +1,9 @@
+<ul>
+    {{ range $.Site.Home.AllTranslations }}
+    <li>
+        <a href="{{ .Permalink }}" hreflang="{{ .Language.Lang }}"{{ if eq .Language.Lang $.Site.Language.Lang }} aria-current="true"{{ end }}>
+            {{ .Language.Label }}
+        </a>
+    </li>
+    {{ end }}
+</ul>

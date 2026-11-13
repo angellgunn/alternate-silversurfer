@@ -1,0 +1,18 @@
+{{- $content := .Content -}}
+{{- if .Site.Params.progressively -}}
+    {{- $newImage := print "<figure class=\"progressive\"><img class=\"progressive__img progressive--not-loaded\" data-progressive=\"" .Site.BaseURL "$1/$2\" src=\"" .Site.BaseURL "$1/low/$2\" alt=$3 $4></figure>" -}}
+    {{- $content = replaceRE "<img src=\"/(.*)\\/(.*)\" alt=(.*) (.*)>" $newImage $content -}}
+{{- end -}}
+{{- $content = replaceRE `(href|src)="/([^/][^"]*)"` (printf `$1="%s$2"` .Site.BaseURL) $content -}}
+{{- $content = replace $content `href="/"` (printf `href="%s"` .Site.BaseURL) -}}
+{{- $content = replaceRE "<h5([ >])" "<h6$1" $content -}}
+{{- $content = replaceRE "</h5>" "</h6>" $content -}}
+{{- $content = replaceRE "<h4([ >])" "<h5$1" $content -}}
+{{- $content = replaceRE "</h4>" "</h5>" $content -}}
+{{- $content = replaceRE "<h3([ >])" "<h4$1" $content -}}
+{{- $content = replaceRE "</h3>" "</h4>" $content -}}
+{{- $content = replaceRE "<h2([ >])" "<h3$1" $content -}}
+{{- $content = replaceRE "</h2>" "</h3>" $content -}}
+{{- $content = replaceRE "<h1([ >])" "<h2$1" $content -}}
+{{- $content = replaceRE "</h1>" "</h2>" $content -}}
+{{- $content | safeHTML -}}

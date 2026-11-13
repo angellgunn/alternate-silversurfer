@@ -1,0 +1,62 @@
+<footer class="site-footer">
+    <section class="footer">
+        <div class="container">
+            {{ if .Site.Params.githubRepo }}
+            <div class="copyright">
+                <a href="https://github.com/{{ .Site.Params.githubRepo }}/tree/master/content/{{ .File.Path }}" target="_blank" rel="noopener noreferrer">View this post on GitHub</a>
+            </div>
+            {{ end }}
+
+            <div class="footer-row">
+                <div class="copyright">
+                    {{ if .Site.Params.copyright }}
+                        {{ if .Site.Params.copyrightUrl }}
+                        <a href="{{ .Site.Params.copyrightUrl }}">{{ .Site.Params.copyright }}</a>
+                        {{ else }}
+                        <a href="{{ "license/" | relLangURL }}">{{ .Site.Params.copyright }}</a>
+                        {{ end }}
+                    {{ end }}
+                </div>
+                <div class="icons">
+                    {{ with .Site.Params.facebook }}
+                    <a href="https://facebook.com/{{ . }}" target="_blank" rel="noopener noreferrer">
+                        <img class="icon" src="{{ "img/facebook.svg" | relURL }}" alt="Facebook">
+                    </a>
+                    {{ end }}
+                    {{ with .Site.Params.github }}
+                    <a href="https://github.com/{{ . }}" target="_blank" rel="noopener noreferrer">
+                        <img class="icon" src="{{ "img/github.svg" | relURL }}" alt="GitHub">
+                    </a>
+                    {{ end }}
+                    {{ with .Site.Params.twitter }}
+                    <a href="https://twitter.com/{{ . }}" target="_blank" rel="noopener noreferrer">
+                        <img class="icon" src="{{ "img/twitter.svg" | relURL }}" alt="Twitter">
+                    </a>
+                    {{ end }}
+                    {{ with .Site.Params.linkedin }}
+                    <a href="https://www.linkedin.com/in/{{ . }}" target="_blank" rel="noopener noreferrer">
+                        <img class="icon" src="{{ "img/linkedin.svg" | relURL }}" alt="LinkedIn">
+                    </a>
+                    {{ end }}
+                    {{ with .Site.Params.email }}
+                    <a href="mailto:{{ . }}">
+                        <img class="icon" src="{{ "img/email.svg" | relURL }}" alt="Email">
+                    </a>
+                    {{ end }}
+                    <a href="https://alternate-silversurfer.bitbucket.io/" target="_blank" rel="noopener noreferrer">
+                        <img class="icon" src="{{ "img/mirror.svg" | relURL }}" alt="Página espelhada">
+                    </a>
+                </div>
+            </div>
+
+            {{ if and .IsPage .GitInfo }}
+            <div class="last-updated">
+                Última atualização: {{ partial "date-format.html" (dict "date" .GitInfo.CommitDate "lang" .Site.Language.Lang "layout" .Site.Params.dateform) }}
+            </div>
+            {{ end }}
+        </div>
+    </section>
+</footer>
+{{ partial "footer_scripts.html" . }}
+</body>
+</html>

@@ -1,0 +1,58 @@
+<style media="screen">
+    {{ partial "css/main.css" . | safeCSS }}
+</style>
+<style media="(min-width: 600px)">
+    {{ partial "css/min600px.css" . | safeCSS }}
+</style>
+<style media="(min-width: 769px)">
+    {{ partial "css/min769px.css" . | safeCSS }}
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&family=Ubuntu+Mono:wght@400;700&display=swap">
+
+{{ if .Site.Params.highlightjs }}
+<style media="screen">
+    {{ partial "css/highlight.min.css" . | safeCSS }}
+</style>
+{{ end }}
+
+{{ if .Site.Params.progressively }}
+<style media="screen">
+    {{ partial "css/progressively.min.css" . | safeCSS }}
+</style>
+{{ end }}
+
+{{ if .Site.Params.share }}
+<style media="screen">
+    {{ partial "css/social-share-kit.css" . | safeCSS }}
+</style>
+{{ end }}
+
+{{ if .Site.Params.colors }}
+<style media="screen">
+    {{ partial "css/colors.css" . | safeCSS }}
+</style>
+{{ end }}
+
+{{ range .Site.Params.extracssfiles }}
+<link rel="stylesheet" href="{{ . | absURL }}">
+{{ end }}
+
+{{ if .Site.Params.issoHost }}
+<style media="screen">
+    .isso section {
+        margin: 0;
+    }
+</style>
+{{ end }}
+
+<link rel="shortcut icon" href="{{ if .Site.Params.faviconfile }}{{ .Site.Params.faviconfile | absURL }}{{ else }}{{ "img/favicon.ico" | relURL }}{{ end }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "img/favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "img/favicon-16x16.png" | relURL }}">
+<link rel="manifest" href="{{ "img/site.webmanifest" | relURL }}">
+<link rel="mask-icon" href="{{ "img/safari-pinned-tab.svg" | relURL }}" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">

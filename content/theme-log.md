@@ -135,3 +135,51 @@ Os metadados atuais indicam que os três repositórios encontrados não estão m
 - [x] Avaliar as evidências de uso de modelos/ferramentas de IA sem presumir um histórico completo.
 - [x] Verificar cópias/derivados públicos e distinguir repositórios não arquivados de projetos com manutenção recente comprovável.
 - [x] Registrar as limitações da pesquisa para consultas futuras.
+
+## 7. Atualização e harmonização implementadas (12/11/2026)
+
+As alterações abaixo atualizam o código de apresentação e a configuração do Hugo. O conteúdo textual das páginas não foi editado; este registro e `ia-log.md` foram atualizados a pedido.
+
+### A. Melhorias com potencial prático
+
+| Checklist | Mudança | Arquivos principais |
+|---|---|---|
+| [x] | Novas alterações de templates passaram a ficar em sobrescritas do projeto (`layouts/`) e o ícone próprio do espelho em `static/`, em vez de exigir novas edições no diretório do tema. A cópia Cocoa-EH existente continua versionada como snapshot; não foi convertida em submodule, pois está arquivada e a cópia local contém adaptações sem uma revisão upstream exata identificada. | `layouts/`, `static/img/mirror.svg` |
+| [x] | Foi aplicada a correção da seleção de posts recentes usando `Site.RegularPages`, ordenação explícita por data e agrupamento cronológico, preservando a seleção do site (todas as seções de conteúdo, não apenas `blog`). | `layouts/index.html` |
+| [x] | Cabeçalho, navegação, links de idiomas e rodapé receberam landmarks e estrutura de listas semântica; nomes acessíveis foram adicionados a navegações, logo, compartilhamento e ícones. Títulos de página são headings; headings H1–H5 do corpo foram rebaixados um nível para manter a hierarquia sem alterar seu texto. | `layouts/partials/header.html`, `allLanguages.html`, `page-heading.html`, `layouts/blog/single.html`, layouts de seção/página e `layouts/partials/content.html` |
+| [x] | Analytics ficou configurável por `params.googleAnalyticsEnabled` e `services.googleAnalytics.id`, usando o template GA4 incorporado do Hugo no `<head>`. Links externos que abrem nova aba receberam `rel="noopener noreferrer"`. | `config.toml`, `layouts/partials/analytics.html`, `head.html`, `footer.html` |
+| [x] | URLs de navegação e assets usam `RelPermalink`, `relLangURL`, `relURL` ou `absURL`; URLs `/...` já presentes no HTML gerado a partir do Markdown recebem o prefixo do site sem editar os textos-fonte. `canonifyURLs` foi desligado. O HTML estático `401.html` usa links relativos para funcionar sob um prefixo de publicação. | `config.toml`, `layouts/`, `static/401.html` |
+| [x] | Metadados agora usam idioma e tipo de página corretos, título/descrição com fallback, e o locale conhecido `pt_BR`; metadados legados de compatibilidade foram removidos. Fontes passaram a carregar por CSS com `preconnect` e `display=swap`; inicializadores JS não substituem `window.onload`. | `layouts/partials/meta.html`, `layouts/partials/head_includes.html`, `layouts/partials/footer_scripts.html`, `themes/cocoa-eh/layouts/partials/css/main.css` |
+| [x] | O shortcode PDF mantém validação de arquivo, removeu estilo inline e ganhou dimensões responsivas em CSS; `width` inválido no iframe foi removido, mantendo título e carregamento tardio. | `layouts/shortcodes/pdf.html`, `themes/cocoa-eh/layouts/partials/css/main.css` |
+| [x] | Configuração foi alinhada à nomenclatura atual do Hugo, configurações de diretório redundantes foram removidas, Disqus migrou para `services.disqus`, e a versão do CI foi alinhada ao Hugo 0.169.0. | `config.toml`, `.github/workflows/ci.yml` |
+
+**Nota sobre o tema:** esta etapa separa as novas sobrescritas e alguns recursos específicos, mas não recria o Cocoa-EH como dependência externa/submodule. A cópia local continua necessária para os estilos e recursos que ainda não foram extraídos; por ser um snapshot versionado no próprio repositório, o build permanece reproduzível. A eventual remoção completa da cópia exigiria comparar e migrar o restante dos CSS/JS locais e não foi feita nesta alteração.
+
+### B. Harmonização sem impacto prático imediato
+
+- [x] Templates novos e sobrescritos usam indentação e sintaxe HTML5 mais consistentes.
+- [x] A formatação específica de datas e demais lógica de apresentação adicionada ao site foi colocada em `layouts/`, sem alterar os valores textuais exibidos.
+- [x] Estilos responsivos do PDF e as regras tipográficas estão na folha existente do tema, `themes/cocoa-eh/layouts/partials/css/main.css`.
+
+### Validação
+
+- [x] Build minificado completo em Hugo 0.169.0 para os seis idiomas.
+- [x] Inspeção de 160 arquivos HTML gerados: sem links de nova aba sem `rel`, navegações sem nome, itens de lista fora de lista ou iframes sem título.
+- [x] Verificação dos links e imagens root-relative gerados, sem caminhos internos que escapem do prefixo `/alternate-silversurfer/`.
+- [x] As páginas renderizadas têm um único `<h1>`, exceto um arquivo de redirecionamento e a página de verificação do Google, que não são páginas de conteúdo.
+
+## 8. Ajustes visuais e links de PDF (12/11/2026)
+
+- O conteúdo e o rodapé voltaram a ficar centralizados na largura usada pelo Cocoa-EH, mantendo os wrappers semânticos adicionados nas páginas.
+- Os links de idiomas e os links principais do menu voltaram a ter estilos distintos de cor e tamanho; Raleway foi aplicada ao texto geral como previsto pelos estilos do tema.
+- As URLs do shortcode PDF agora são absolutas em relação à base do site, evitando a duplicação do prefixo `/alternate-silversurfer/` pelo tratamento do conteúdo renderizado.
+
+## 9. Harmonização visual com o tema original (12/11/2026)
+
+- Restauradas as propriedades originais dos dois menus: idiomas em caixa normal e na cor de link do tema; páginas e seções no cinza do tema, em caixa alta e com tamanho original responsivo.
+- O título do site voltou a ter o comportamento de bloco esperado pela regra `.header .name`, mantendo a tipografia Nexa Bold definida pelo Cocoa-EH.
+
+## 10. Remoção da folha de estilos adicional (13/11/2026)
+
+- A folha recém-criada `static/css/site.css` foi removida. As regras necessárias aos wrappers semânticos, fontes, distinção dos menus e dimensões do iframe PDF foram integradas aos partials CSS já usados pelo tema Cocoa-EH.
+- O partial de estilos continua carregado no `<head>` e as fontes externas permanecem carregadas por CSS; portanto, o tema não depende de um novo arquivo CSS estático.
