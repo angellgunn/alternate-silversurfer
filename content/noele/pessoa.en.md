@@ -7,3 +7,5 @@ author = "neuralyzer"
 draft = "True"
 translationKey = "pessoa"
 +++
+
+This is not a technical essay. I will simply discuss some ideas about the neuroscience of what we call identity. Actually, it's more what we do not call identity.
