@@ -8,4 +8,4 @@ draft = "True"
 translationKey = "pessoa"
 +++
 
-This is not a technical essay. I will simply discuss some ideas about the neuroscience of what we call identity. Actually, it's more what we do not call identity.
+This is not a technical essay. I will simply discuss some ideas about the neuroscience of what we call identity. Actually, it's more what we do not call identity. Most of the discussion around the concept of identity has been put forward by social scientists. There is a prominent academic conversation about the social identity theory.
