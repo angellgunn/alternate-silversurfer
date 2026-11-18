@@ -1,3 +1,7 @@
+---
+date: "2026-08-02"
+---
+
 # Registro de uso de IA
 
 Este arquivo registra procedimentos assistidos por IA no repositório, com o objetivo de manter transparência sobre a participação da ferramenta nas alterações do projeto.
@@ -96,8 +100,8 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - themes/cocoa-eh/layouts/partials/date-format.html
   - themes/cocoa-eh/layouts/partials/page-heading.html
   - themes/cocoa-eh/layouts/partials/li.html
-  - themes/cocoa-eh/layouts/partials/single.html
-  - themes/cocoa-eh/layouts/partials/index.html
+  - themes/cocoa-eh/layouts/blog/single.html
+  - themes/cocoa-eh/layouts/index.html
 
 # Entrada -2
 
@@ -310,5 +314,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - ia-log.md
 
 <!-- A Copilot gerou a estrutura básica e os registros de 0 a 4 (eram 1 a 5, eu mudei). Todavia, ao solicitar q revisasse sessões anteriores, o resultado ficou muito ruim, gerando apenas os registros que agora são -1 e -7 (foram colocados depois dos outros, como registros 6 e 7), com erros de data e arquivos modificados. Tive que fazer a revisão e acrescentar os demais registros à mão. Fica a se ver se esse log "automatizado" de solicitações de IA vai dar certo. Declaro logo que modificações mais antigas por IA não ficaram registradas, porém incluíram exclusivamente estrutura da página e traduções supervisionadas (de acordo com as declarações). Nada de texto escrito por IA por aqui, a não ser nas postagens sobre isso de Angell. -->
-<!-- Nota em outubro de 2026: cerca de 2 meses depois, a Copilot,usando o novo modelo GPT-6 Luna, lançado publicamente há menos de 1 mês, consegue fazer a automação do ia-log.md (sob solicitação em prompt) sem falhas. Realmente, é bom que eu esteja deixando artefatos comprovando que minha escrita não é feita por LLM. Já começo a acreditar que isso vai ser irrelevante num futuro próximo. -->
-<!-- Apenas Github. Ontem e hoje solicitei algumas modificações para o Copilot, o qual usou GPT-6 Luna para planejar e implementar, porém com resultado ruim. A questão é que pedi uma modernização do código do projeto, a partir de boas práticas e das últimas versões do tema e do Hugo. Porém, o modelo mudou de forma não solicitada a identidade visual do projeto, mesmo após várias iterações tentando corrigir. Uma amostra de que esses modelos mais recentes, mesmo altamente inteligentes, rápidos e eficientes, não tem noção adequada da resposta mais apropriada dentro da perspectiva humana. E a iteração sucessiva ainda é um calcanhar de Aquiles, aumenta os erros. Salvei em outro ramo "alternativo" e voltei ao ponto anterior. -->
+<!-- Nota em 1 de novembro de 2026: cerca de 2 meses depois, a Copilot,usando o novo modelo GPT-6 Luna, lançado publicamente há menos de 1 mês, consegue fazer a automação do ia-log.md (sob solicitação em prompt) sem falhas. Realmente, é bom que eu esteja deixando artefatos comprovando que minha escrita não é feita por LLM. Já começo a acreditar que isso vai ser irrelevante num futuro próximo. -->
+<!-- Apenas Github, 13 de novembro de 2026. Ontem e hoje solicitei algumas modificações para o Copilot, o qual usou GPT-6 Luna para planejar e implementar, porém com resultado ruim. A questão é que pedi uma modernização do código do projeto, a partir de boas práticas e das últimas versões do tema e do Hugo. Porém, o modelo mudou de forma não solicitada a identidade visual do projeto, mesmo após várias iterações tentando corrigir. Uma amostra de que esses modelos mais recentes, mesmo altamente inteligentes, rápidos e eficientes, não tem noção adequada da resposta mais apropriada dentro da perspectiva humana. E a iteração sucessiva ainda é um calcanhar de Aquiles, aumenta os erros. Salvei em outro ramo "alternativo" e voltei ao ponto anterior. -->
+<!-- Apenas Github, 18 de novembro de 2026. Decidi implementar aos poucos algumas mudanças propostas pela LLM no ramo alternativo, sem mudar a identidade visual. Além disso, eu mesmo, à moda "antiga" (de 5 anos atrás!), desejo implementar submenus para organizar melhor a Página. Apenas algumas dessas mudanças vão passar também para o repo original no Bitbucket, aumentando a divergência entre eles. Efetivamente, estão se tornando realidades paralelas. -->
+<!-- Acrescentei a data de criação deste arquivo, que também foi a data da criação do repo no Github e espelhamento do projeto lá, após a desidentificação. -->

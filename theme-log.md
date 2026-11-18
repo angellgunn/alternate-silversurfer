@@ -1,8 +1,6 @@
 ---
 title: "Adaptações do Tema"
 date: "2026-11-03"
-type: "page"
-layout: "single"
 ---
 
 # Histórico e comparação do tema Cocoa EH
@@ -135,3 +133,5 @@ Os metadados atuais indicam que os três repositórios encontrados não estão m
 - [x] Avaliar as evidências de uso de modelos/ferramentas de IA sem presumir um histórico completo.
 - [x] Verificar cópias/derivados públicos e distinguir repositórios não arquivados de projetos com manutenção recente comprovável.
 - [x] Registrar as limitações da pesquisa para consultas futuras.
+
+<!-- Decidi deixar theme-log.md na raiz, da mesma forma que ia-log.md e manter apenas o título e a data de criação no frontmatter. -->

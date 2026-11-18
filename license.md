@@ -1,8 +1,6 @@
 ---
 title: "License"
 date: "2026-08-29"
-type: "page"
-layout: "single"
 ---
 
 ## Aviso de direitos
@@ -42,3 +40,5 @@ Materiais de terceiros, trechos de domínio público ou textos cedidos por outra
 Salvo autorização expressa por escrito, nenhum direito de uso, reprodução, transformação ou distribuição é concedido sobre os textos originais deste sítio.
 
 Se houver interesse em autorização para reprodução ou uso autorizado, o contato deve ser feito com o responsável pelo sítio, via os canais disponíveis na página.
+
+<!-- Assim como ia-log.md e theme-log.md, license.md vai viver na raiz, como uma versão em português, amigável, da licença.  -->
