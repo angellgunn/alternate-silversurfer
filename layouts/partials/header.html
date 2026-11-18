@@ -22,7 +22,7 @@
 <section class="header header-home">
 {{ end }}
     <div class="container">
-        <a href="{{ "/" | absLangURL }}"><img class="logo" src="{{ .Site.Params.logofile | absURL }}" alt="logo" /></a>
+        <a href="{{ site.Home.RelPermalink }}"><img class="logo" src="{{ .Site.Params.logofile | absURL }}" alt="logo" /></a>
         <div class="content">
             <a href="{{ "/" | absLangURL }}"><div class="name"><h1>{{ .Site.Title }}</h1></div></a>
           <nav>

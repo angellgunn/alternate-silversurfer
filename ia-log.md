@@ -32,7 +32,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 - Prompt do usuário (sem modificações):
 - Arquivos modificados:
 
-## Entrada -7
+## Entrada -8
 
 - Data e hora do procedimento: 2026-07-10 20:42:00 -03
 - Prompt do usuário (sem modificações):
@@ -43,7 +43,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 - Arquivos modificados:
   - content/calvino/rascunho-aleatorio.pt-br.md
 
-## Entrada -6
+## Entrada -7
 
 - Data e hora do procedimento: 2026-07-10 20:42:00 -03
 - Prompt do usuário (sem modificações):
@@ -54,7 +54,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 - Arquivos modificados:
   - content/calvino/mais-de-um-ano-depois.pt-br.md
 
-## Entrada -5
+## Entrada -6
 
 - Data e hora do procedimento: 2026-07-12 19:20:00 -03
 - Prompt do usuário (sem modificações):
@@ -71,7 +71,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 - Arquivos modificados:
   - content/calvino/e-tudo-culpa-do-kant.pt-br.md
 
-## Entrada -4
+## Entrada -5
 
 - Data e hora do procedimento: 2026-07-14 16:35:00 -03
 - Prompt do usuário (sem modificações):
@@ -85,7 +85,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - themes/cocoa-eh/layouts/partials/footer_scripts.html
   - themes/cocoa-eh/layouts/partials/page-heading.html
 
-## Entrada -3
+## Entrada -4
 
 - Data e hora do procedimento: 2026-07-14 20:37:00 -03
 - Prompt do usuário (sem modificações):
@@ -103,7 +103,7 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - themes/cocoa-eh/layouts/blog/single.html
   - themes/cocoa-eh/layouts/index.html
 
-# Entrada -2
+# Entrada -3
 
 - Data e hora do procedimento: 2026-07-15 16:28:00 -03
 - Prompt do usuário (sem modificações):
@@ -313,8 +313,18 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
   - content/license.md
   - ia-log.md
 
+## Entrada 11
+
+- Data e hora do procedimento: 2026-11-18 12:35 e 13:10 -03
+- Buscas no Google (respondida no modo IA): "hugo .GitInfo" e "hugo cocoa-eh logo link wrong url"
+- Arquivos modificados:
+  - .github/workflows/ci.yml
+  - partials/layouts/header.html
+  - ia-log.md
+
 <!-- A Copilot gerou a estrutura básica e os registros de 0 a 4 (eram 1 a 5, eu mudei). Todavia, ao solicitar q revisasse sessões anteriores, o resultado ficou muito ruim, gerando apenas os registros que agora são -1 e -7 (foram colocados depois dos outros, como registros 6 e 7), com erros de data e arquivos modificados. Tive que fazer a revisão e acrescentar os demais registros à mão. Fica a se ver se esse log "automatizado" de solicitações de IA vai dar certo. Declaro logo que modificações mais antigas por IA não ficaram registradas, porém incluíram exclusivamente estrutura da página e traduções supervisionadas (de acordo com as declarações). Nada de texto escrito por IA por aqui, a não ser nas postagens sobre isso de Angell. -->
 <!-- Nota em 1 de novembro de 2026: cerca de 2 meses depois, a Copilot,usando o novo modelo GPT-6 Luna, lançado publicamente há menos de 1 mês, consegue fazer a automação do ia-log.md (sob solicitação em prompt) sem falhas. Realmente, é bom que eu esteja deixando artefatos comprovando que minha escrita não é feita por LLM. Já começo a acreditar que isso vai ser irrelevante num futuro próximo. -->
 <!-- Apenas Github, 13 de novembro de 2026. Ontem e hoje solicitei algumas modificações para o Copilot, o qual usou GPT-6 Luna para planejar e implementar, porém com resultado ruim. A questão é que pedi uma modernização do código do projeto, a partir de boas práticas e das últimas versões do tema e do Hugo. Porém, o modelo mudou de forma não solicitada a identidade visual do projeto, mesmo após várias iterações tentando corrigir. Uma amostra de que esses modelos mais recentes, mesmo altamente inteligentes, rápidos e eficientes, não tem noção adequada da resposta mais apropriada dentro da perspectiva humana. E a iteração sucessiva ainda é um calcanhar de Aquiles, aumenta os erros. Salvei em outro ramo "alternativo" e voltei ao ponto anterior. -->
 <!-- Apenas Github, 18 de novembro de 2026. Decidi implementar aos poucos algumas mudanças propostas pela LLM no ramo alternativo, sem mudar a identidade visual. Além disso, eu mesmo, à moda "antiga" (de 5 anos atrás!), desejo implementar submenus para organizar melhor a Página. Apenas algumas dessas mudanças vão passar também para o repo original no Bitbucket, aumentando a divergência entre eles. Efetivamente, estão se tornando realidades paralelas. -->
 <!-- Acrescentei a data de criação deste arquivo, que também foi a data da criação do repo no Github e espelhamento do projeto lá, após a desidentificação. -->
+<!-- Hoje, 18 de novembro de 2026, percebi que todo este rigor sobre uso de IA vai ficar, em sua maior parte, defasado rapidamente. Pensei em fazer manutenção sem usar IA e tentei usar o método tradicional, avaliar o código e buscar no Google por soluções. Porém, o modo IA sempre traz uma análise e sugestões e acabei usando algumas delas. Não tem como ficar atualizando aqui cada busca realizada na internet, seriam centenas em pouco tempo. A partir de agora, IA (LLM) está definitivamente associada a codificação. O que posso fazer é garantir que minhas produções textuais são "livres de LLM" (exceto quando explicitamente declarado, como no caso de algumas traduções), e as alterações mais substanciais feitas no VSCode através da Copilot serão anotadas aqui. -->
