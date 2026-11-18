@@ -1,0 +1,35 @@
+{{- $date := .date -}}
+{{- $lang := .lang | default "" -}}
+{{- $layout := .layout | default "2 Jan, 2006" -}}
+{{- $full := .full | default false -}}
+{{- $group := .group | default false -}}
+
+{{- if eq $lang "gn" -}}
+  {{- $monthName := "" -}}
+  {{- $month := int $date.Month -}}
+  {{- if eq $month 1 -}}{{- $monthName = "kauré yepewara" -}}{{- end -}}
+  {{- if eq $month 2 -}}{{- $monthName = "kauré mukũiwara" -}}{{- end -}}
+  {{- if eq $month 3 -}}{{- $monthName = "kauré muçapíwara" -}}{{- end -}}
+  {{- if eq $month 4 -}}{{- $monthName = "kauré irũdíwara" -}}{{- end -}}
+  {{- if eq $month 5 -}}{{- $monthName = "kauré waxiníwara" -}}{{- end -}}
+  {{- if eq $month 6 -}}{{- $monthName = "kauré poyepéwara" -}}{{- end -}}
+  {{- if eq $month 7 -}}{{- $monthName = "kauré pomukũiwara" -}}{{- end -}}
+  {{- if eq $month 8 -}}{{- $monthName = "kauré pomuçapíwara" -}}{{- end -}}
+  {{- if eq $month 9 -}}{{- $monthName = "kauré poirũdiwara" -}}{{- end -}}
+  {{- if eq $month 10 -}}{{- $monthName = "kauré paĩpowara" -}}{{- end -}}
+  {{- if eq $month 11 -}}{{- $monthName = "kauré paĩpóyepéwara" -}}{{- end -}}
+  {{- if eq $month 12 -}}{{- $monthName = "kauré paĩpómukũiwara" -}}{{- end -}}
+  {{- if $group -}}
+    {{- printf "%s, %d" $monthName $date.Year -}}
+  {{- else if $full -}}
+    {{- printf "%d %s %d 00:00:00 UTC" $date.Day $monthName $date.Year -}}
+  {{- else -}}
+    {{- printf "%d %s, %d" $date.Day $monthName $date.Year -}}
+  {{- end -}}
+{{- else -}}
+  {{- if $group -}}
+    {{- $date | time.Format "Jan, 2006" -}}
+  {{- else -}}
+    {{- $date | time.Format $layout -}}
+  {{- end -}}
+{{- end -}}
