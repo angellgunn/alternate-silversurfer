@@ -40,29 +40,21 @@ _Agora, fale sobre o mesmo problema com linguagem acadêmica da física, sob a �
 >
 > A interpretação de Muitos Mundos é uma maneira de explicar o colapso da função de onda sem recorrer à ideia de que a realidade é influenciada pela observação. No entanto, ela é amplamente considerada uma teoria controvertida e não é amplamente aceita pela comunidade científica.
 
-_Agora, vamos falar sobre o mesmo problema, usando a linguagem acadêmica da matemática._
+_Agora, fale sobre o mesmo problema, usando a linguagem acadêmica da matemática._
 
-> Na teoria matemática da mecânica quântica, a evolução temporal de um sistema quântico é descrita pela equação de Schrödinger, que descreve a mudança do estado quântico ao longo do tempo. O estado quântico de um sistema é representado por um vetor em um espaço de Hilbert complexo de dimensão finita ou infinita.
+> No contexto da mecânica quântica, o colapso da função de onda pode ser entendido a partir da perspectiva matemática da teoria de operator. De acordo com essa teoria, uma partícula quântica é descrita por um estado quântico, que é representado por uma função de onda. A função de onda pode ser usada para calcular as probabilidades de encontrar a partícula em diferentes posições no espaço, mas não pode ser usada para prever com certeza qual será a posição da partícula em uma observação futura.
 >
-> A evolução do estado quântico é determinada pelo operador de evolução unitário, que é obtido a partir do Hamiltoniano do sistema. A equação de Schrödinger descreve como o estado quântico se transforma de um estado inicial para um estado futuro, representando assim a dinâmica do sistema.
+> Quando uma observação é feita em uma partícula quântica, o estado quântico da partícula é medido por um operador de observável, que é uma função matemática que atua sobre a função de onda da partícula. O resultado da observação é então dado pela aplicação do operador de observável à função de onda da partícula. Isso é conhecido como "redução do pacote de onda", ou colapso da função de onda.
 >
-> No entanto, quando ocorre uma medição em um sistema quântico, a equação de Schrödinger não é mais aplicável. Em vez disso, o colapso do estado ocorre e o sistema é encontrado em um dos seus estados possíveis, com uma probabilidade determinada pelas amplitudes de probabilidade associadas a cada estado.
->
-> O colapso do estado é formalmente descrito pela projeção do vetor de estado em um dos autoestados do operador associado à observável medida. Essa projeção é governada pelo chamado postulado da projeção ou postulado do colapso.
-> 
-> A interpretação matemática dessa projeção tem sido objeto de debate. Alguns matemáticos argumentam que o colapso é uma modificação irreversível do estado quântico, enquanto outros defendem que é apenas uma atualização do conhecimento do observador, sem alterar o estado físico do sistema.
->
-> Em resumo, a matemática da mecânica quântica fornece uma descrição precisa e formal do fenômeno do colapso do estado. No entanto, a interpretação e o significado físico desse colapso continuam a ser tópicos de intensa discussão e pesquisa na comunidade científica.
+> Em resumo, o colapso da função de onda é um processo matemático que ocorre quando uma observação é feita em uma partícula quântica. Ele é descrito pela teoria de operator e é um dos aspectos mais estranhos e intrigantes da mecânica quântica.
 
-_Agora, vamos falar sobre o mesmo problema usando a linguagem acadêmica do construtivismo sociológico._
+_Agora, fale sobre o mesmo problema com a linguagem acadêmica da sociologia construtivista._
 
-> O colapso da função de onda na mecânica quântica pode ser abordado a partir da perspectiva do construtivismo sociológico, que enfatiza como as percepções e crenças humanas influenciam a forma como compreendemos a realidade. De acordo com essa perspectiva, o colapso da função de onda pode ser visto como um exemplo de como a realidade é construída por meio do processo de observação e medição.
+> O colapso da função de onda na mecânica quântica pode ser abordado a partir da perspectiva sociológica construtivista, que enfatiza como as percepções e crenças humanas influenciam a maneira como entendemos a realidade. De acordo com essa perspectiva, o colapso da função de onda pode ser visto como um exemplo de como a realidade é construída através do processo de observação e medição.
 >
-> Para os sociólogos construtivistas, o colapso da função de onda sugere que a realidade não é uma entidade objetiva e independente que existe independentemente de nós. Em vez disso, a realidade é construída por meio de nossas interações com o mundo e como interpretamos essas interações. O colapso da função de onda é um exemplo de como essa construção da realidade pode ser influenciada pelo processo de observação e medição.
+> Para os sociólogos construtivistas, o colapso da função de onda sugere que a realidade não é uma entidade objetiva e independente que existe independentemente de nós. Em vez disso, a realidade é construída através de nossas interações com o mundo e de como interpretamos essas interações. O colapso da função de onda é um exemplo de como essa construção da realidade pode ser influenciada pelo processo de observação e medição.
 >
-> Em resumo, do ponto de vista do construtivismo sociológico, o colapso da função de onda na mecânica quântica pode ser entendido como um exemplo de como a realidade é construída por meio do processo de observação e como as percepções humanas influenciam nossa compreensão da realidade.
-
-Os dois últimos tópicos foram reconstruídos pela IA, incluindo os prompts, quando pedi a tradução do texto, num segundo momento, em maio de 2023. O modelo de linguagem natural estava claramente mais aperfeiçoado.
+> Em resumo, a partir da perspectiva sociológica construtivista, o colapso da função de onda na mecânica quântica pode ser entendido como um exemplo de como a realidade é construída através do processo de observação e como as percepções humanas influenciam a maneira como entendemos a realidade.
 
 _Agora, fale sobre o mesmo problema, sob a perspectiva de um leigo que acredita em teorias da conspiração e terraplanismo._
 
@@ -91,3 +83,54 @@ _Por favor, complete._
 > Além disso, as pessoas podem ter uma necessidade de sentido e explicação, e podem estar dispostas a aceitar explicações falsas ou distorcidas se elas parecerem fornecer uma explicação coerente para um fenômeno complexo, como o colapso da função de onda. Isso pode levar ao que é conhecido como "aproximação do senso comum", em que as pessoas tendem a preferir explicações que se ajustam ao que elas já sabem ou acreditam, mesmo que essas explicações não sejam cientificamente precisas ou corretas.
 >
 > Essas explicações sugerem que as interpretações erradas ou distorcidas da realidade, como acreditar em teorias da conspiração ou em teorias cientificamente falsas, podem ser o resultado de fatores como a falta de conhecimento científico, a confirmação do preconceito e a aproximação do senso comum. No entanto, é importante lembrar que essas explicações são apenas hipóteses e que ainda há muito a ser entendido sobre os processos psicológicos envolvidos na interpretação da realidade.
+
+<!-- Terminei essa versão, que aqui tem apenas correções de formato, em 7 de janeiro de 2023. Em 22 de maio do mesmo ano, troquei dois blocos de perguntas e respostas por reconstruções que o chatGPT (GPT-4, liberado em março) fez, durante a tradução para outras línguas. A conversa original que criou o diálogo, em algum momento antes de janeiro de 2023, com o recém-lançado chatGPT (GPT-3.5), não ficou preservada (foi nas primeiras semanas, não tinha histórico salvo). Agora, em 2026, fiz uma "arqueologia" do projeto, um pouco para exemplificar e provar como pode funcionar essa auditoria de um repositório versionado. O motivo principal foi outro: simplesmente recuperar lado a lado duas versões da mesma geração de texto, depois da primeira grande atualização do modelo da OpenAI. Nessa versão atualizada, ficam todos os textos e meus comentários. -->
+
+----
+
+Os dois tópicos a seguir foram reconstruídos pela IA, incluindo os prompts, quando pedi a tradução do texto, num segundo momento, em maio de 2023. O modelo de linguagem natural estava claramente mais aperfeiçoado.
+
+_Agora, vamos falar sobre o mesmo problema, usando a linguagem acadêmica da matemática._
+
+> Na teoria matemática da mecânica quântica, a evolução temporal de um sistema quântico é descrita pela equação de Schrödinger, que descreve a mudança do estado quântico ao longo do tempo. O estado quântico de um sistema é representado por um vetor em um espaço de Hilbert complexo de dimensão finita ou infinita.
+>
+> A evolução do estado quântico é determinada pelo operador de evolução unitário, que é obtido a partir do Hamiltoniano do sistema. A equação de Schrödinger descreve como o estado quântico se transforma de um estado inicial para um estado futuro, representando assim a dinâmica do sistema.
+>
+> No entanto, quando ocorre uma medição em um sistema quântico, a equação de Schrödinger não é mais aplicável. Em vez disso, o colapso do estado ocorre e o sistema é encontrado em um dos seus estados possíveis, com uma probabilidade determinada pelas amplitudes de probabilidade associadas a cada estado.
+>
+> O colapso do estado é formalmente descrito pela projeção do vetor de estado em um dos autoestados do operador associado à observável medida. Essa projeção é governada pelo chamado postulado da projeção ou postulado do colapso.
+>
+> A interpretação matemática dessa projeção tem sido objeto de debate. Alguns matemáticos argumentam que o colapso é uma modificação irreversível do estado quântico, enquanto outros defendem que é apenas uma atualização do conhecimento do observador, sem alterar o estado físico do sistema.
+>
+> Em resumo, a matemática da mecânica quântica fornece uma descrição precisa e formal do fenômeno do colapso do estado. No entanto, a interpretação e o significado físico desse colapso continuam a ser tópicos de intensa discussão e pesquisa na comunidade científica.
+
+_Agora, vamos falar sobre o mesmo problema usando a linguagem acadêmica do construtivismo sociológico._
+
+> O colapso da função de onda na mecânica quântica pode ser abordado a partir da perspectiva do construtivismo sociológico, que enfatiza como as percepções e crenças humanas influenciam a forma como compreendemos a realidade. De acordo com essa perspectiva, o colapso da função de onda pode ser visto como um exemplo de como a realidade é construída por meio do processo de observação e medição.
+>
+> Para os sociólogos construtivistas, o colapso da função de onda sugere que a realidade não é uma entidade objetiva e independente que existe independentemente de nós. Em vez disso, a realidade é construída por meio de nossas interações com o mundo e como interpretamos essas interações. O colapso da função de onda é um exemplo de como essa construção da realidade pode ser influenciada pelo processo de observação e medição.
+>
+> Em resumo, do ponto de vista do construtivismo sociológico, o colapso da função de onda na mecânica quântica pode ser entendido como um exemplo de como a realidade é construída por meio do processo de observação e como as percepções humanas influenciam nossa compreensão da realidade.
+
+----
+
+Retornei a esta postagem em 2026, após fazer nota pedindo calma aos matemáticos na minha [postagem][post] de 2025 sobre LLM. Já está passando da hora de outra postagem, não é? Bem, vamos à ordem do dia para este texto. Primeiro, demonstrar como funciona na prática a funcionalidade deste projeto em relação ao versionamento. Segundo, comentar sobre as gerações de texto das primeiras versões do chatGPT.
+
+Afinal, a idéia do [Baldolino][bald] é que o repositório inteiro se torna uma obra de arte digital do século 21 (ele diz que é do 21 _em diante_, mas ele não é dessa área), onde cada registro (_commit_), ramo (_branch_), bifurcação (_fork_), envios de alterações (_pull requests_) e outros elementos do dia a dia de um sistema de versionamento servem a uma função artística. Na prática, a principal funcionalidade deste sistema é dar ao leitor que tiver um tempo absurdamente grande, ou mais provavelmente, ao crítico e ao historiador (se chegar a existir quem se interesse) a ferramenta para analisar o processo criativo do início até o estado da arte (seja quando for, pois o projeto não foi feito para parar e sim evoluir sempre). Estado da arte aqui não é a ideia complicada do [Francisco][fran] sobre localização no espaço-tempo ou seja o que for. É apenas a última versão. NInguém em nosso grupo chegou a concordar se vamos incluir etiquetas (_tags_) de versão. Eu acharia legal termos a _Página 12.0.5_ daqui a um tempo, mas essa sou eu.
+
+Bem, essa funcionalidade foi posta à prova na revisão desta postagem. Como fiz: busquei a linha do tempo dos registros, que está mais fácil de avaliar no repo do Bitbucket (ele é privado, sinto muito). Antes de migrar para o Github eu modifiquei o autor de quase 3/4 dos registros e isso muda a data de registro (mudaram para 28/07/26, dia da reestrutução da história do repo). Porém, ainda é possível buscar as datas de autoria dos registros no Github, estas não mudaram. Não é tão trabalhoso, eu mesma usei o modelo Dola para pegar o histórico completo do meu Github (não baixei e forneci, solicitei e o modelo foi lá, extraiu tudo e analisou) e gerar o histograma temporal que coloquei no README. Depois de avaliar as versões diferentes da postagem em janeiro e maio de 2023, disponíveis integralmente no histórico de registros, decidi mesclar as duas versões nessa versão atual, com ambos os textos gerados. Fácil demais!
+
+Olhando criticamente para as gerações das versões iniciais do chatGPT, é bem simples entender porque ocorreu a explosão de interesse no seu lançamento. Eu fui uma das milhões de pessoas que começou a usar nas primeiras semanas. Antes do chatGPT, não existia nada parecido. A experiência de usar a GPT-3 não chegava nem próximo em PLN do chatGPT e a diferença desde o início não justificava quem dizia que LLM eram apenas preditores da próxima palavra. Muito além de gerarem uma resposta coerente, coisa que um modelo base como GPT-3 fazia bem, no chatGPT já se implementou ajuste fino e alinhamento usando RLHF (Aprendizado por Reforço com Feedback Humano). Isso transformou uma máquina que gerava um texto compreensível em uma que gerava um texto capaz de mimetizar uma criação humana (até certo ponto). Vamos deixar bem claro: LLM nunca foram apenas preditores de próxima palavra, mas nunca passaram (nem mesmo hoje) de mimetizadores de texto humano. Notem que, sem o reforço com participação de seres humanos no pós-treinamento, o chatGPT nunca teria existido.
+
+Em relação à qualidade do texto, gostaria de chamar a atenção para o fato que salta mais aos olhos: solicitei ao chatGPT uma explicação do problema do colapso da função de onda sob a perspectiva de várias pessoas com atividades diferentes, leigo, filósofo, físico da escola de Copenhagem, físico everetiano, matemático, sociólogo construtivista, terraplanista, psicólogo. Naquele momento este tipo de solicitação era modismo. Observe que todas as respostas são curtas e, essencialmente, em linguagem leiga. A tentativa de gerar texto técnico matemático e construtivista levou a um resultado realmente sofrível (saudades de 2023, matemáticos?). Isso se deve ao tamanho do modelo base (na época a OpenAI declarava abertamente: "apenas" 175 bilhões de parâmetros) e o tamanho da janela de contexto no aplicativo de execução (4096 tokens, cerca de 3000 palavras, incluindo a resposta). Aquele modelo de abismais 4 anos atrás (falo em novembro de 2026) tinha algo inédito, a geração de linguagem natural mimetizando humanos, mas sua capacidade de resolver problemas (a "inteligência") era limitada. Especialmente para resolver problemas de matemática, os memes se acumulavam (não vou comentar mais sobre os pobres matemáticos!).
+
+Em março de 2023, 4 meses depois, o modelo base GPT-4 foi lançado e logo mostrou-se capaz de desempenho técnico bem melhor. Naquele momento a OpenAI alardeava cheia de felicidade que o modelo se classificava em alguns testes importantes, como o _bar exam_ (exame de ordem) dos advogados dos EUA, ficando no percentil 10. Dá para ver que o texto reconstruído em maio de 2023 das respostas sem qualidade nas áreas da matemática e construtivismo gerou respostas bem mais coerentes e passáveis como especializadas para leigos, mas é só. A resposta do ponto de vista da matemática não tem nada a ver com matemática, realmente, apenas joga um jargão a mais e uma passagem superficialmente relacionada com filosofia dos fundamentos da física quântica ("alguns matemáticos argumentam que o colapso é uma modificação irreversível do estado quântico, enquanto outros defendem que é apenas uma atualização do conhecimento do observador, sem alterar o estado físico do sistema"). Nada de matemática. Do ponto de vista do construtivismo, a resposta usando GPT-4 parece algo melhor construída (embora ainda tenha a infame repetição "independente que existe independentemente"), mas igualmente vazia de sentido real.
+
+Além disso, são facilmente observáveis os cacoetes de LLM que se tornaram famosos, como a repetição de "em resumo" e a organização rígida em 3 parágrafos com estruturas frasais quase iguais. Falo um pouco mais sobre isso na postagem de 2025. E veja só onde chegamos em fim de 2026! Porém nem tudo está perdido, ouço falar que a bolha da IA acabou de romper esses dias...
+
+![Um meme matemático da chatGPT de 2023](/img/chatgpt-math.jpg)
+_Primeiro, levaram os artistas, mas fiquei calado, eu era matemático!_
+
+[post]: pobres-geracoes.pt-br.md
+[bald]: ../calvino/
+[fran]: ../francisco/
