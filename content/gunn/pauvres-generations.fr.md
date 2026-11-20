@@ -46,7 +46,7 @@ _Du calme, mathématicien !_
 Traduit en français par un modèle de langage, puis révisées par l’auteur.
 
 [chiang]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
-[meu]: colapso.fr.md
+[meu]: enffondrement.fr.md
 [tao]: https://teorth.github.io/tao-web/ai-views.html
 [clever]: https://mathstodon.xyz/@tao/115722360006034040
 [dec]: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/

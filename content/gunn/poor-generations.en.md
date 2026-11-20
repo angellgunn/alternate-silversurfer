@@ -46,7 +46,7 @@ _Easy there, mathematician!_
 This post was translated with LLM and checked by the author.
 
 [chiang]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
-[meu]: colapso.en.md
+[meu]: colapse.en.md
 [tao]: https://teorth.github.io/tao-web/ai-views.html
 [clever]: https://mathstodon.xyz/@tao/115722360006034040
 [dec]: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/
