@@ -137,4 +137,4 @@ Translated to english by LLM, and further revised by the author.
 [bald]: ../calvino/
 [fran]: ../francisco/
 
-<!-- Translated by MAI models with VSCode Copilot integration, and revised by the author -->
+<!-- Translated by chat GPT (2023) and by MAI models with VSCode Copilot integration (2026), and revised by the author -->

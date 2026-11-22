@@ -121,4 +121,4 @@ Traduit en français par un modèle de langage, puis révisées par l’auteur.
 [bald]: ../calvino/
 [fran]: ../francisco/
 
-<!-- Traduit pour MAI Copilot models avec révisions de l'auteur -->
+<!-- Traduit pour chatGPT (2023) et pour MAI Copilot models sur VSCode (2026) avec révisions de l'auteur -->
