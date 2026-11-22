@@ -328,3 +328,18 @@ Este arquivo registra procedimentos assistidos por IA no repositório, com o obj
 <!-- Apenas Github, 18 de novembro de 2026. Decidi implementar aos poucos algumas mudanças propostas pela LLM no ramo alternativo, sem mudar a identidade visual. Além disso, eu mesmo, à moda "antiga" (de 5 anos atrás!), desejo implementar submenus para organizar melhor a Página. Apenas algumas dessas mudanças vão passar também para o repo original no Bitbucket, aumentando a divergência entre eles. Efetivamente, estão se tornando realidades paralelas. -->
 <!-- Acrescentei a data de criação deste arquivo, que também foi a data da criação do repo no Github e espelhamento do projeto lá, após a desidentificação. -->
 <!-- Hoje, 18 de novembro de 2026, percebi que todo este rigor sobre uso de IA vai ficar, em sua maior parte, defasado rapidamente. Pensei em fazer manutenção sem usar IA e tentei usar o método tradicional, avaliar o código e buscar no Google por soluções. Porém, o modo IA sempre traz uma análise e sugestões e acabei usando algumas delas. Não tem como ficar atualizando aqui cada busca realizada na internet, seriam centenas em pouco tempo. A partir de agora, IA (LLM) está definitivamente associada a codificação. O que posso fazer é garantir que minhas produções textuais são "livres de LLM" (exceto quando explicitamente declarado, como no caso de algumas traduções), e as alterações mais substanciais feitas no VSCode através da Copilot serão anotadas aqui. -->
+
+## Entrada 12
+
+- Data e hora do procedimento: 2026-11-22 11:41:45 -03
+- Prompt do usuário (sem modificações):
+
+> A postagem colapso.pt-br.md foi atualizada e tem trechos novos que não estão nas versões traduzidas. Atualize as versões traduzidas de acordo com essas ultimas mudanças, sem alterar mais nada. Ao final, atualize ia-lo.md.
+>
+> Atualize tb a versão em mandarim tansuo.zh.md e acrescente este prompt no mesmo item de ia-log.md
+
+- Arquivos modificados:
+  - content/gunn/colapse.en.md
+  - content/gunn/enffondrement.fr.md
+  - content/古恩/tansuo.zh.md
+  - ia-log.md
