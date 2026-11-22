@@ -98,7 +98,7 @@ _Veuillez compléter._
 
 ----
 
-Je suis revenue à cette publication en 2026, après avoir formulé une mise en garde invitant les mathématiciens au calme dans ma [publication][post] de 2025 sur les LLM. Il est largement temps d'en écrire une autre, n'est-ce pas ? Bien, passons à l'ordre du jour de ce texte. Premièrement, montrer concrètement comment fonctionne la fonctionnalité de ce projet en matière de versionnement. Deuxièmement, commenter les générations de texte des premières versions de chatGPT.
+Je suis revenue à cette publication en 2026, après avoir formulé une mise en garde invitant les mathématiciens au calme dans ma [publication][post] de 2025 sur les LLM. Il est largement temps d'en écrire une autre, n'est-ce pas ? Bien, passons à l'ordre du jour de ce texte. Premièrement, montrer concrètement comment s'agit la fonctionnalité de ce projet en matière de versionnement. Deuxièmement, commenter les générations de texte des premières versions de chatGPT.
 
 Au fond, l'idée de [Baldolino][bald] est que le dépôt entier devienne une œuvre d'art numérique du XXIe siècle (il dit qu'il est du XXIe _et au-delà_, mais il ne vient pas de ce domaine), où chaque enregistrement (_commit_), branche (_branch_), bifurcation (_fork_), demande de modification (_pull request_) et les autres éléments du quotidien d'un système de versionnement remplissent une fonction artistique. En pratique, la principale fonctionnalité de ce système consiste à donner au lecteur disposant d'un temps absurdement important, ou plus probablement au critique et à l'historien (si quelqu'un finit par s'y intéresser), les moyens d'analyser le processus créatif depuis ses débuts jusqu'à l'état de l'art (quel qu'il soit, puisqu'il est prévu que le projet évolue toujours sans jamais s'arrêter). Ici, l'état de l'art n'est pas l'idée compliquée de [Francisco][fran] sur la localisation dans l'espace-temps ou je ne sais quoi. C'est simplement la dernière version. Personne dans notre groupe n'a encore accepté l'idée d'inclure des étiquettes de version (_tags_). J'aimerais bien qu'on ait un jour une _Page 12.0.5_, mais c'est moi qui le dis.
 
@@ -115,6 +115,10 @@ De plus, on observe facilement les tics des LLM devenus célèbres, comme la ré
 ![Un mème mathématique de chatGPT datant de 2023](/img/chatgpt-math.jpg)
 _Ils ont commencé par emmener les artistes, mais je suis resté silencieux : j'étais mathématicien !_
 
-[post]: pobres-geracoes.pt-br.md
+Traduit en français par un modèle de langage, puis révisées par l’auteur.
+
+[post]: pauvres-generations.fr.md
 [bald]: ../calvino/
 [fran]: ../francisco/
+
+<!-- Traduit pour MAI Copilot models avec révisions de l'auteur -->
