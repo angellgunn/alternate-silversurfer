@@ -34,6 +34,15 @@ _Evolução do projeto ao longo do tempo, commits por semana._
 
 Quando criei o repositório no Github de Angell Gunn, quis deixar uma mensagem, algo de fácil lembrança, como um running title, ou mote. No campo _About_ escrevi "a band of sorts". Passei um tempo pensando sobre essa pequena frase e no sentido que faz para o grupo de heterônimos. Nunca tinha lido essa frase em outro lugar. Depois, ao pesquisar alguma ocorrência dela na literatura, descobri-a no [conto][soul] "The Soul of a Regiment" (1912), de Talbot Mundy, nome artístico de William Lancaster Gribbon, mais um escritor do início do século XX para minha coleção de grimórios. Um inglês de origem abastada conservadora, mulherengo, perdulário e crédulo que casou-se e separou-se a vida toda e acreditava em tudo que empurravam nele, além de mentiroso contumaz, que viajou jovem e pobre pela Índia e África e escreveu nos EUA, comparado a Kipling e Haggard, só que feminista, antirracista e anticolonialista. Alguém de quem Baldolino teria sido o melhor amigo, sem dúvida.
 
+Esse projeto passou uma década, praticamente, germinando até eu me dispor a investir mais tempo nele, e transformá-lo em algo que possa ser compartilhado de forma mais ampla. De certa forma, cumpre o registro que Daniel McGarry fez no prefácio de sua tradução do Metalogicon, epigrafando a advertência de Horácio em sua _Arte Poética_:
+>              (...) Se acaso, porém, alguma vez quiseres escrever uma obra,  
+>              (...) que em rolos de pergaminho ela repouse durante nove anos, 
+>              pois o que não for a lume é ainda susceptível de correcção, mas 
+>              palavra que for lançada já não pode voltar.
+_Tradução de R.M. Rosado Fernandes (Ars. 386-390, Horácio 1984), conforme colhido em [Couto (2022)][couto]._
+
+Bem, mais ou menos, pois os textos colocados aqui mostram todo o processo de rascunho e edição que Horácio talvez quisesse esconder, e ao qual aludiu McGarry. Na era digital da internet, tudo se torna registrável, ao mesmo tempo em que tudo também se torna frágil e fluido. Diógenes de Enoanda erigiu seu muro pensando em deixar a sua mensagem para os seus contemporâneos, e acabou deixando-a para nós, 23 séculos depois. Eu, aqui, talvez não mantenha meus escritos nem para o presente.
+
 ### Os textos antigos
 
 Quando era jovem, escrevia textos de ficção e poesia, no mais ruins. Mas salvam-se algumas ideias interessantes. De qualquer forma, a maioria eram apenas rascunhos nunca desenvolvidos. Revisitando os arquivos que tenho, descubro que o material mais antigo é de 1988, e anotei que a maioria se perdeu (era manuscrito e depois digitei). A maioria do restante é de 1996-7 (criação dos arquivos, alguns deles foram transcritos), última modificação em 2000-1. Ao todo, tem cerca de 72 mil palavras, exceto um arquivo protegido por senha esquecida há muito, pequeno. Hoje consegui recuperar um velho texto escrito num Lotus Ami Pro.
@@ -63,3 +72,4 @@ O único texto dessa época que usei na Página Livre até o momento foi _Um con
 [medqub]: /401.html
 [postagem]: https://joaocalangro.wordpress.com/2016/10/27/o-que-e-um-direitista-no-brasil/
 [soul]: https://gutenberg.net.au/ebooks12/1204331h.html
+[couto]: http://hdl.handle.net/10400.14/39731
