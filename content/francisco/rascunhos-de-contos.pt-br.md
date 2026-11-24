@@ -49,7 +49,7 @@ ela viu o nó, suspenso no espaço branco como leite, vazio iluminado pela ansie
 rápido precisou acionar o transformador de domínio para decompor as componentes harmônicas do espaço-tempo. ainda faltava muito para chegar no colimador.
 
 ---
-<!-- Até o momento, esse é o conto para a revista bula -->
+<!-- Até o momento, esse é o conto para a revista bula. Na verdade, era, pois minha filha relembrou que o concurso é para microcontos, até 500 caracteres. -->
 23/10/26
 
 essa história aconteceu mesmo, eu juro pela minha alma que há de ser salva no fim dos tempos com a intenção de Nossa Senhora, amém. eu trabalhava lá na casa das crianças, onde elas ficavam quando tavam se tratando e vi com esses olhos que já tão ficando ceguetas, vi as mãezinhas e os meninos pálidos e as meninas com a perninha cortada, dava dó, dava dó. mas nunca tive pena como no caso dela. foi um rapaz grande, tinha uns 12, 13 anos? grandão, parecia 15, magro, com olhos fundos, grandes olhos morenos e cabelo escuro e pele assim, assim, quase branco, mas era encerado. eu tava por lá e levava as crianças e acompanhava as meninas que trabalhavam nos consultórios, elas eram um doce, sempre tinha café e pão pra mim, só uma loirinha era besta e não queria conversa, as outras eram gente boa. os consultórios ficavam lá no projeto, e tinha as doutoras, sempre muito sérias, de pouca conversa, só não uma baixinha que falava o tempo todo e as mães adoravam, mas eu soube que ela saiu e não trabalha mais lá, só ficaram as de cara séria. as irmãs da casa e as doutoras do projeto eram sempre assim, as roupas e as caras muito, muito sérias, não olhavam pra gente. naquela época era assim. agora tá diferente.
@@ -92,4 +92,13 @@ Uma figura entrou na lanchonete e sentou numa das mesinhas pequenas. Como era gr
 
 "É um traste que está de saída, e me aparece todo ano nesse dia!"
 
-"Dona Rita, como que a senhora me trata assim, a gente é amigo das antiga, que é isso?" A voz dele parecia 
+"Dona Rita, como que a senhora me trata assim, a gente é amigo das antiga, que é isso?" A voz dele parecia
+
+<!-- Tive uma possível idéia para um conto rápido, microconto realmente. Vamos ver se vai. -->
+24/11/26
+
+Ela apareceu a seu lado, sentada na areia da praia. Ele nada falou, mas viu logo: era ela, a cor, digo, não a mulher. A cor que ele imaginava há quantos anos? Nem sabia mais. "Você tem um tipo de sinestesia muito particular", dizia sua professora de psicofísica. "O olho distingue milhões de cores, mas a mente só dá nome conscientemente a poucas. Você instintivamente enxerga cada pessoa como o que realmente é: um perfil cromático único. E dá um nome a cada cor." Ele nunca vira duas pessoas iguais. Para ele, o conceito de raça ou cor de pele era tão artificial quanto um computador. Desde a sua primeira lembrança, quando levantou os olhos para sua mãe e perguntou: "mamãe, por que eu e você não somos iguais?" E sua mãe, intrigada, o colocou nos braços e perguntou o que ele queria dizer. Rindo, o garoto de 4 anos disse: "você é chocolate-com-leite-condensado, eu sou chocolate-escuro-céu-amanhecendo". Sua mãe riu e não levou a sério. Mas ele passou a vida toda olhando cada pessoa e reconhecendo suas cores, nunca iguais, nenhuma. Tornar-se dermatologista foi algo como um destino natural. Como todo diverso, ele aprendeu a viver num mundo de pessoas que, para ele, pareciam cegas às cores. Ria para si quando escutava alguém falar nos "brancos", ou em sua família e amigos como "pretos". Ele sabia. Era preto, sim, mas era único: chocolate-escuro-céu-esmaecido (a cor muda com o tempo, descobriu).
+
+Desde a adolescência começou a sonhar com cores que nunca vira. Com o tempo, acabou encontrando pessoas com todas elas. Mas não essa. Não essa. Achava que era natural, afinal, numa paleta de milhões de cores e tons, tinha que haver muitas que ele jamais encontraria. Mesmo assim, era intrigante, pois todos os seus sonhos acabaram aparecendo. Em um amigo, parente, paciente, uma pessoa que passa, uma imagem num outdoor. Essa nunca. A cor. A única que se repetia em seus sonhos mas nunca aparecia. Sempre que sonhava com ela, acordava pensativo, mas depois esquecia, a vida acontecia como sempre. E, agora, o que houve? Qual a diferença? Lá dentro já sabia.
+
+Naquela praia onde ele foi enconder-se do mundo. "Oi," ela falou, estremecendo-o debaixo da pele. Virou-se finalmente e viu, "preto-céu-por-do-sol-de-verão-potiguar", a cor sonhada, nunca antes encontrada. Ela mesma. Ele não a encontrou, ela o fez.

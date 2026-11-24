@@ -21,6 +21,7 @@ Eu cheguei a ter uma página no extinto Geocities, mas não lembro praticamente 
 Criei a Página Livre em 16/09/2017, sem conteúdo no commit inicial. No sétimo commit (que ironia) já tinha a primeira postagem, a mesma que ainda está aí. Para ser exato, na sexta postagem já tinha um rascunho incompleto e fiz mudanças na oitava, mas fica a sétima como primeira versão. Por que criei este projeto neste formato? Na época, não pensei demais nisso. Estava aprendendo a usar git, e repositórios como Github (comecei lá em 2015), Bitbucket e Gitlab. Também estava brincando com modelos de páginas estáticas, que eram uma febre naquela época pré-IA. Porém, já naquele momento, quase 10 anos atrás, pensei que o versionamento poderia resolver a questão do acesso a rascunhos de escritores em geral. Na era de processadores de texto, não existem mais rascunhos. Hoje, com o advento dos LLM, não existe nem mais originais! E essa solução se tornou, de repente, útil também para isso. Aqui, neste repositório, é possível ler vários anos de rascunhos, prova também de que o autor não usou IA para gerar o conteúdo de uma vez só. Também mostra as escolhas para cada texto ao longo do tempo. Um registro não apenas da escrita, mas de todo o processo criativo, mesmo em tempos digitais.
 
 ![Primeira versão da Página Livre](static/img/primeira-pagina-livre.png)
+
 _Primeira versão da Página Livre, em 2017, renderizada a partir do primeiro commit (que tem uns problemas)._
 
 Em 2020 e 2021 fiz um hiato. Sim, a pandemia teve a ver, mas já havia reduzido muito a atividade desde 2019. Em 2024, fiz outro hiato. Em 2025, com ajuda de LLM, reativei a Página, pois estava com o código desatualizado e não me permitia mais postar. Porém, somente voltei mesmo a encarar seriamente este projeto em 2026.
@@ -59,7 +60,7 @@ _Usei um serviço online de verificação de metadados para verificar essas info
 | Trechos antigos e mentirosos | 19/07/1997 15:55 | 19/10/2003 01:38 |
 | Ômega | 10/08/1997 20:01 | 02/11/2001 23:10 |
 
-O único texto dessa época que usei na Página Livre até o momento foi _Um conto do Amorvírus_, escrito provavelmente há 30 anos atrás, e com últimas modificações em 2001 e 2003. Os arquivos das duas versões não tem mais os metadados originais. Fiz uma revisão no texto, com discretas mudanças. É seguro falar que estes textos foram iniciados entre 1988 e 1997, neste espaço de uma década. Eu tinha entre 17 e 26 anos, porém lembro de ter começado a escrever em formato manuscrito antes disso ainda, mas não antes dos 15 anos de idade. Não lembro exatamente como os manuscritos, que estavam escritos a lápis numa agenda antiga (eram duas?), se perderam, lembro vagamente de terem sido estragados com água ou algo assim. Naquela época, eu vivia sem ter muita privacidade e direito a escolha sobre minha vida. De qualquer forma, perderam-se estes textos mais antigos.
+O único texto dessa época que usei na Página Livre até o momento foi [_Um conto do Amorvírus_][amor], escrito provavelmente há 30 anos atrás, e com últimas modificações em 2001 e 2003. Os arquivos das duas versões não tem mais os metadados originais. Fiz uma revisão no texto, com discretas mudanças. É seguro falar que estes textos foram iniciados entre 1988 e 1997, neste espaço de uma década. Eu tinha entre 17 e 26 anos, porém lembro de ter começado a escrever em formato manuscrito antes disso ainda, mas não antes dos 15 anos de idade. Não lembro exatamente como os manuscritos, que estavam escritos a lápis numa agenda antiga (eram duas?), se perderam, lembro vagamente de terem sido estragados com água ou algo assim. Naquela época, eu vivia sem ter muita privacidade e direito a escolha sobre minha vida. De qualquer forma, perderam-se estes textos mais antigos.
 
 [crow]: https://www.imdb.com/title/tt0489974/
 [blogspot]: /401.html
@@ -73,3 +74,4 @@ O único texto dessa época que usei na Página Livre até o momento foi _Um con
 [postagem]: https://joaocalangro.wordpress.com/2016/10/27/o-que-e-um-direitista-no-brasil/
 [soul]: https://gutenberg.net.au/ebooks12/1204331h.html
 [couto]: http://hdl.handle.net/10400.14/39731
+[amor]: https://angellgunn.github.io/alternate-silversurfer/francisco/amor/
