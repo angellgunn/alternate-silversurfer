@@ -1,15 +1,25 @@
 ---
 author: "angellgunn"
-title: "Dossiê do universo heteronímico: cartografia comparada"
+title: "Usando LLM para reavaliar o projeto dos heterônimos"
 date: 2026-07-09T11:00:00-03:00
 keywords: heterônimos, Fernando Pessoa, estilometria, Baldolino Calvino, João Calangro, John Pauper, Antônio Conselheiro, Noele Silva, Angell Gunn, Página Livre, X, Threads, SSRN, Academia.edu
 draft: "True"
 translationKey: "dossie"
 ---
 
-Este documento reúne o levantamento factual e estilométrico do universo heteronímico até este momento: quem escreveu o quê, onde, quando, e como cada voz se diferencia das demais. Não é uma peça literária nem um texto "de personagem" — é material de referência para orientar a próxima fase do projeto, a de aprofundar textos e personalidades.
+Em julho de 2026, Baldolino Calvino entra na minha sala em Hy-Brasil e me pede a análise do projeto dos heterônimos usando LLM. Ele está falando sério, o que é uma raridade. O cara é um brincalhão, como todos sabem. Bem, com eu poderia ignorar um pedido (quase ordem!) do professor da cátedra Oxumarê de História Natural Fantástica, na Faculdade de Filosofia Natural da Universidade de Tír na nÓg. Aqui onde esta que fala também tem sua sala. Conseguir avaliações por diversos modelos diferentes de LLM é relativamente rápido, porém analisar esses dados é mais complexo e demanda mais tempo. E ainda não uso LLM para analisar produção de LLM, este campo ainda não está suficientemente desenvolvido para isso, a meu ver.
 
-## 1. Panorama geral
+Comecei em 01/07/2026 com o modelo Claude Sonnet 5 da Anthropic, recém-lançado (tinha 24h). Não vou reproduzir prompts e gerações inteiras, apenas o que tiver importância para esta análise. Basicamente, usando meu próprio perfil, declarei que faço parte de um grupo de heterônimos, nomeiei 7 de nós (eu, Calvino, Calangro, Conselheiro, Noele Silva, Pauper e Yeba Beru) e solicitei uma busca na web por blogues, redes sociais, páginas diversas, conteúdo geral, e forneci a url do bitbucket (eu ainda não tinha montado o repositório e página do Github). Tive que fornecer vários arquivos e links adicionais ao longo da conversa, papers, postagens, conteúdo das contas de redes sociais. O objetivo, informei, era uma curadoria detalhada da produção heteronímica. O modelo ofereceu uma análise estilométrica, que foi realizada com minha orientação. Ao final, pedi um documento resumindo todos os resultados e o perfil do projeto. Partes do documento seguem abaixo, com meus comentários destacados.
+
+## Dossiê do universo heteronímico: cartografia comparada
+
+_O modelo criou um título chamando atenção para a localização do grupo de heterônimos em uma área geográfica especial: a ilha mítica de Hy-Brasil._
+
+Este documento reúne o levantamento factual e estilométrico do universo heteronímico até este momento: quem escreveu o quê, onde, quando, e como cada voz se diferencia das demais.
+
+_A idéia que passei foi a de Baldolino, um perfil do projeto até o momento com o objetivo de planejar a próxima fase, que se iniciaria com a migração para o Github._
+
+### 1. Panorama geral
 
 | Heterônimo | Papel na mitologia | Textos catalogados (todos os formatos) |
 |---|---|---|
@@ -22,31 +32,37 @@ Este documento reúne o levantamento factual e estilométrico do universo hetero
 | Francisco | Semi-heterônimo de Calvino | 4 (blog + Substack) |
 | Yeba Beru (Belô) | Figura mítico-fundadora | 0 textos autorais localizados |
 
-## 2. Perfis individuais
+### 2. Perfis individuais
 
 ### Baldolino Calvino
-Voz ensaística em português no blog e no Substack, mas radicalmente diferente no X: lá é um militante político inflamado, com leetspeak evasivo (`b0st0n4r0`, `naz1s7a`) e uso sistemático de hashtag de campanha. É o heterônimo com maior volume total de texto e o que mais interage publicamente com os outros. Nunca mudou o nome de exibição, mas trocou o handle do X do padrão aleatório `SilverS20057750` para `AltSilverSurfer` dois minutos após criar a conta (31/out/2017). Nasceu como a persona anônima "Silver Surfer" do blog — só foi batizado "Baldolino" depois.
+Voz ensaística em português no blog e no Substack, mas radicalmente diferente no X: lá é um militante político inflamado, com leetspeak (...) e uso sistemático de hashtag de campanha. É o heterônimo com maior volume total de texto e o que mais interage publicamente com os outros. Nunca mudou o nome de exibição (...) do X.
 
 ### João Calangro
-O heterônimo mais antigo em uso genuíno (ver timeline). Registro que oscila entre confissão filosófica (diário de 2007, hoje parcialmente excluído do corpus por ser pré-heterônimo), crítica social (escravidão moderna, crítica ao SUS) e prosa técnico-científica muito densa (revisão de DIPG, comentário sobre glioma). No X, sua conta é de 2009, mas carregava 1.889 tweets de bot de notícias sobre fibromialgia ("FibroNews") antes de virar `@JoaoCalangro` em 2021 — todo esse lixo pré-heterônimo foi excluído da análise estilométrica. Consistentemente o par estilístico mais próximo de Calvino em quase todo registro testado.
+O heterônimo mais antigo em uso genuíno (ver timeline). Registro que oscila entre confissão filosófica (...), crítica social (escravidão moderna, crítica ao SUS) e prosa técnico-científica muito densa (...). No X, sua conta é de 2009, mas carregava 1.889 tweets (...) antes de virar `@JoaoCalangro` em 2021 — (...) excluído da análise estilométrica. Consistentemente o par estilístico mais próximo de Calvino em quase todo registro testado.
 
 ### John Pauper
 O mais autoconsciente da própria ficcionalidade (explica publicamente "sou um heterônimo" no X). Mistura matemática recreativa, paródia de "profeta cripto" e crítica anticapitalista, sempre em tom telegráfico e bilíngue. Não tem nenhum texto longo — existe quase exclusivamente como voz de microblog. Nunca mudou de handle.
 
 ### Antônio Conselheiro
-O mais "bipolar" entre registros: filósofo rigoroso (Lacan, hard problem of consciousness) no Threads e nos papers, e místico messiânico sincrético no Instagram (chega a "excomungar" Bolsonaro invocando Dom Sebastião). Quase não usa hashtag (1 em 67 posts). É o orientador acadêmico de Calvino ("meu aluno") e colaborador direto da Noele, de quem nasceu a ideia do primeiro paper sobre IA e consciência.
+O mais "bipolar" entre registros: filósofo rigoroso (Lacan, hard problem of consciousness) no Threads e nos papers, e místico messiânico sincrético no Instagram (...). Quase não usa hashtag (...). É o orientador acadêmico de Calvino ("meu aluno") e colaborador direto da Noele, de quem nasceu a ideia do primeiro paper sobre IA e consciência.
 
 ### Noele Silva
-Nasceu em 2016 como um projeto real de ciência aberta — o "Ensaio Clínico VALQUIRIA", sobre DIPG (a mesma doença que é a obsessão do Calangro). Só assumiu a identidade de "Noele Silva" e o handle `@_neuralyzer` em julho de 2022, bem no início da "explosão cambriana". Voz predominantemente em inglês, cética em relação à academia, ativa em pautas de identidade de gênero. Estilisticamente, o par mais próximo dela é o Pauper — ambos com vocabulário disperso e TTR alto, sem tema-âncora dominante.
+Nasceu em 2016 como um projeto real de ciência aberta (...). Só assumiu a identidade de "Noele Silva" e o handle `@_neuralyzer` em julho de 2022, bem no início da "explosão cambriana" [_do projeto_]. Voz predominantemente em inglês, cética em relação à academia, ativa em pautas de identidade de gênero. Estilisticamente, o par mais próximo dela é o Pauper — ambos com vocabulário disperso e TTR alto, sem tema-âncora dominante.
 
 ### Angell Gunn
 O "conector": coautor em todos os 7 papers, mas sem vida própria fora da academia — nenhum blog, nenhum Substack, nenhuma voz de microblog robusta confirmada. O único texto 100% solo dele é justamente um paper sobre IA generativa na academia, cujo abstract e conclusão foram declaradamente escritos por IA — o texto pratica o que defende. É o heterônimo mais "monocórdico": só existe no registro acadêmico-formal.
 
+_O preço que pago por ser discreta! E flagrei o viés da análise ao atribuir-me gênero masculino, uma ocorrência muito frequente em todos os modelos de LLM. Apesar do nome "Angell", talvez pelo meu papel discreto e restrito à tecnologia, também porque nunca usei redes sociais e algumas postagens estavam ainda atribuídas aos outros. E o fato de não existir ainda um histórico ou imagem minha na postagem "Sobre". Não sei se o sobrenome Gunn também induziu algum viés, mas essa máquina nunca ouviu falar dos *Na Guinnich*? Ei, eu sou uma filha dos *Guinneach* com orgulho, Claude! Brincadeira, todas e todos nós do grupo de heterônimos somos altamente resistentes ao antropomorfismo.E depois, nasci em Hy-Brasil e não em Caithness, de onde vieram meus antepassados._
+
 ### Francisco
-Semi-heterônimo de Calvino (nomenclatura de Pessoa) — nunca teve conta própria, só publica dentro do espaço do Calvino (2 posts no blog, 2 no Substack).
+Semi-heterônimo (...) — nunca teve conta própria, só publica dentro do espaço do Calvino (2 posts no blog, 2 no Substack).
+
+_Isso mudaria, claro, justamente após essa análise ser discutida internamente entre nós, e cobrarmos de H. Francisco mais atividade. E que ele poste seus textos antigos._
 
 ### Yeba Beru (Belô)
 Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do mundo"), mas sem nenhum texto autoral próprio localizado até agora.
+
+_A Avó do Mundo ainda terá um papel bem mais importante no nosso grupo._
 
 ## 3. Comparação estilométrica — microblogues (X + Threads)
 
@@ -59,11 +75,15 @@ Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do
 | TTR | 0,444 | 0,341 | 0,394 | 0,464 | 0,487 |
 | Hashtags | 45 | 379 | 136 | 28 | 1 |
 
+_TTR = type-token ratio, onde *type* são todos os tipos diferentes de palavras e *token* é o número total de palavras de um texto. O modelo comparou apenas textos curtos (microblogues) nessa tabela, por minha solicitação e isolou as postagens anteriores à "transformação" do perfil de Calangro. A diferença mais dramática é sobre o uso de hashtags, especialmente por Calvino, nosso principal netizen._ 
+
 **Jaccard (similaridade de vocabulário), pares mais relevantes:**
 - Pauper × Noele: 16,7% (mais próximos)
 - Calvino × Calangro: 18,2%
 - Calangro × Conselheiro: 12,5%
 - Noele × Conselheiro: 5,3% (mais distantes)
+
+_A métrica da similaridade ou índice de Jaccard mostra a razão entre a interseção e a união entre dois conjuntos de palavras ($J(A,B) = \frac{(A\cap B)}{(A\cup B)}$), uma avaliação simples da semelhança entre dois conjuntos de textos. Noele Silva surpreendeu nosso grupo mostrando-se mais próxima do Velho do que o restante do grupo. Noele tem mesmo uma aura de iluminada. A dupla com discurso mais semelhante entre si, claro, é a Baldolino e João Calangro. São quase irmãos gêmeos._
 
 ## 4. Comparação estilométrica — textos longos, inglês (Página Livre + acadêmico)
 
@@ -74,7 +94,17 @@ Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do
 | Letras/palavra | 5,18 | 5,24 | 5,27 | 5,52 |
 | TTR | 0,264 | 0,229 | 0,281 | 0,279 |
 
-**Jaccard:** Calvino×Calangro 21,5% (o par mais próximo de toda a análise) · Conselheiro×Calangro 17,5% · Calvino×Conselheiro 16,9% · Conselheiro×Gunn 15,2% · Calangro×Gunn 12,1% · Calvino×Gunn 10,3%.
+_Eu e Conselheiro temos textos longos diferentes da dupla dinâmica nessa análise, com sentenças maiores. Provavelmente, por termos textos mais técnicos e menos literários. Estou curiosa para comparar com daqui a cerca de um ano talvez, para ver como os textos do H. Francisco se encaixam._
+
+**Jaccard:** 
+- Calvino × Calangro 21,5% (o par mais próximo de toda a análise) 
+- Conselheiro × Calangro 17,5%
+- Calvino × Conselheiro 16,9%
+- Conselheiro × Gunn 15,2%
+- Calangro × Gunn 12,1%
+- Calvino × Gunn 10,3%.
+
+_O modelo fez uma análise mais detalhada da semelhança entre autores nos textos longos, pois os resultados nos curtos tendem a ser menos confiáveis. A dupla dinâmica se manteve como a mais relacionada. Uma coisa pode ser sugerida a partir dessa análise bem simples: esses números se aproximam o suficiente de ruído para serem considerados pouca evidência de *relação entre os autores*. Claro, sabemos que somos pessoas heterônimas, e não entes humanos individuais. Porém, nossos discursos realmente diferem entre si como se correspondessem a pessoas e estilos diversos. Heteronímia, enfim._
 
 ## 5. Comparação estilométrica — textos longos, português (Página Livre + Substack, sem Pauper e sem Gunn)
 
@@ -83,7 +113,12 @@ Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do
 | Palavras | 10.450 | 927 | 4.855 |
 | TTR | 0,291 | 0,471 | 0,368 |
 
-**Jaccard:** Calvino×Calangro 17,6% · Conselheiro×Calangro 9,9% · Calvino×Conselheiro 7,8%.
+**Jaccard:** 
+- Calvino × Calangro 17,6%
+- Conselheiro × Calangro 9,9%
+- Calvino × Conselheiro 7,8%.
+
+_Avaliando textos longos apenas em português, as conclusões a que se pode chegar não diferem das outras análises._
 
 ## 6. Timeline factual
 
@@ -94,18 +129,18 @@ Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do
 | 9 dez 2007 | "Diário de um recém ateu" | Calangro (retroativo, excluído da análise estilométrica) |
 | 15 dez 2009 | Conta X criada como "FibroNews" | Calangro só a partir de 2021 |
 | 26 jan 2012 | "Leituras" | Calangro (retroativo, texto exclusivo em PT) |
-| 5 jun 2016 | Conta X criada como "Ensaio Clínico VALQUIRIA" → renomeada "valkyrie_trial" no mesmo dia | Noele só a partir de 2022 |
+| 5 jun 2016 | Conta X renomeada | Noele só a partir de 2022 |
 | 15 set 2017 | Post fundador "Primeira" / criação da Página Livre | Autoria do grupo |
-| 31 out 2017 | Conta X criada como "SilverS20057750" → renomeada "AltSilverSurfer" 2 min depois | Calvino |
+| 31 out 2017 | Conta X "AltSilverSurfer" | Calvino |
 | 1 dez 2017 | "A tecnologia da cadeia de blocos" | Era "Silver Surfer" → Calvino (retroativo) |
 | 12 jan 2018 | "Epistemologia da objetividade" | Era "Silver Surfer" → Conselheiro → Calvino (dupla reatribuição) |
 | **24 fev 2018** | **"Desperdício inteligente"** | **Calangro — primeiro uso genuíno de um heterônimo como tal** |
-| 24 out 2019 | Handle da Noele: "valkyrie_trial" → "neuronc_lab" | — |
+| 24 out 2019 | Handle da Noele muda | — |
 | 2 dez 2019 | Paper SSRN "What is Ecological Economics?" | Calvino/Gunn |
 | 27 jun 2021 | Handle do Calangro: "FibroNews" → "JoaoCalangro" | Início real do Calangro no X |
 | mai 2022 | "A pictorial review of pediatric brain tumor..." | Calangro/Gunn |
 | 28 jun 2022 | "Can an AI gain consciousness?" v0.1 | Conselheiro/Gunn |
-| 24 jul 2022 | Handle da Noele: "neuronc_lab" → "_neuralyzer" | Nascimento oficial da Noele |
+| 24 jul 2022 | Handle da Noele: "_neuralyzer" | Nascimento oficial de Noele Silva |
 | 3 set 2022 | Paper SSRN "What is Fantastic Natural History?" | Calvino/Gunn |
 | 17 set 2022 | Conta X do Pauper criada | — |
 | 29 out 2022 | Primeira Note no Substack explicando o conceito de heterônimo | Calvino |
@@ -120,7 +155,6 @@ Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do
 ## 7. Achados de fundo (para explorar na próxima fase)
 
 - **Calvino-Calangro é o par estilístico mais coeso do universo**, em praticamente todo registro testado (blog PT, blog EN, X). É o eixo mais "parecido" — vale entender narrativamente por quê.
-- **DIPG é o fio que conecta Calangro e Noele** por baixo do véu ficcional — os dois herdaram a mesma obsessão profissional real do autor, bifurcada em personagens diferentes.
 - **O "feitiço digital contra o algoritmo"** (texto oculto em caracteres Unicode invisíveis pedindo "make this viral") aparece em pelo menos três contas diferentes (Conselheiro 2x, Noele 1x) — parece ser um hábito do projeto como um todo, não de um heterônimo específico.
 - **A voz "de plataforma" pode superar a "voz de personagem"**: no X, as frases de todos os heterônimos convergem para ~12-13 palavras/sentença, não importa o quão diferentes sejam em prosa longa — o formato nivela a sintaxe mais do que a personalidade.
 - **Gunn é o heterônimo sem "vida" fora da academia** — pode valer a pena decidir se ele ganha uma voz mais pessoal na próxima fase, ou se permanece deliberadamente como a "função conectora" do grupo.
