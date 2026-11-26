@@ -7,7 +7,7 @@ tags = ["ffc"]
 translationKey = "micro"
 +++
 
-Fiz este exercício de escrever microcontos motivado pelo concurso da Revista Bula. Até este momento em que escrevo, não enviei nenhum deles, e nem tenciono. O primeiro, "prompt", tinha uma redação inicial mais simples:
+Fiz este exercício de escrever microcontos motivado pelo concurso da Revista Bula. Até este momento em que escrevo, não enviei nenhum deles, e nem tenciono (na verdade, percebi depois que existe um limite mínimo de caracteres, 300). O primeiro, "prompt", tinha uma redação inicial mais simples:
 
 >                    {ensina-me a nunca depender de ti}
 
