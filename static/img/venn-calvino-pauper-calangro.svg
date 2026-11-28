@@ -1,0 +1,75 @@
+<svg viewBox="0 0 720 660" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', serif">
+  <title>Diagrama de Venn temático: Calvino, Pauper e Calangro no X</title>
+  <desc>Comparação de temas dos tweets originais de Calvino (518), Pauper (125) e Calangro pós-2021 (263) no X, mostrando temas compartilhados pelos três, por pares, e exclusivos.</desc>
+
+  <rect x="0" y="0" width="720" height="660" fill="#FFFFFF"/>
+
+  <circle cx="290" cy="230" r="175" fill="#5DCAA5" fill-opacity="0.18" stroke="#0F6E56" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle cx="460" cy="230" r="145" fill="#F0997B" fill-opacity="0.20" stroke="#993C1D" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle cx="375" cy="410" r="165" fill="#8FA8E8" fill-opacity="0.20" stroke="#2F4A9E" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <text x="150" y="95" text-anchor="middle" font-size="20" font-weight="bold" fill="#0F6E56">Calvino</text>
+  <text x="150" y="115" text-anchor="middle" font-size="13" fill="#444444">518 posts</text>
+
+  <text x="600" y="95" text-anchor="middle" font-size="20" font-weight="bold" fill="#993C1D">Pauper</text>
+  <text x="600" y="115" text-anchor="middle" font-size="13" fill="#444444">125 posts</text>
+
+  <text x="375" y="608" text-anchor="middle" font-size="20" font-weight="bold" fill="#2F4A9E">Calangro</text>
+  <text x="375" y="628" text-anchor="middle" font-size="13" fill="#444444">263 posts (pós-2021)</text>
+
+  <!-- Zona compartilhada pelos três -->
+  <g>
+    <rect x="303" y="218" width="144" height="52" rx="10" fill="#EDE4F7" stroke="#6B3FA0" stroke-width="1"/>
+    <text x="375" y="238" text-anchor="middle" font-size="14" font-weight="bold" fill="#3D2360">Política BR</text>
+    <text x="375" y="256" text-anchor="middle" font-size="12" fill="#3D2360">29% · 11% · 12%</text>
+  </g>
+  <g>
+    <rect x="303" y="278" width="144" height="52" rx="10" fill="#EDE4F7" stroke="#6B3FA0" stroke-width="1"/>
+    <text x="375" y="298" text-anchor="middle" font-size="14" font-weight="bold" fill="#3D2360">Ciência/Matemática</text>
+    <text x="375" y="316" text-anchor="middle" font-size="12" fill="#3D2360">5% · 8% · 7%</text>
+  </g>
+  <g>
+    <rect x="303" y="338" width="144" height="52" rx="10" fill="#EDE4F7" stroke="#6B3FA0" stroke-width="1"/>
+    <text x="375" y="358" text-anchor="middle" font-size="14" font-weight="bold" fill="#3D2360">Geopolítica</text>
+    <text x="375" y="376" text-anchor="middle" font-size="12" fill="#3D2360">6% · 6% · 4%</text>
+  </g>
+
+  <!-- Calvino x Pauper -->
+  <g>
+    <rect x="305" y="140" width="150" height="52" rx="10" fill="#FBE2D6" stroke="#993C1D" stroke-width="1"/>
+    <text x="380" y="160" text-anchor="middle" font-size="14" font-weight="bold" fill="#6A2712">Cripto/web3</text>
+    <text x="380" y="178" text-anchor="middle" font-size="12" fill="#6A2712">11% · 10% · 3%</text>
+  </g>
+
+  <!-- Calvino x Calangro -->
+  <g>
+    <rect x="150" y="325" width="160" height="52" rx="10" fill="#D9E4FA" stroke="#2F4A9E" stroke-width="1"/>
+    <text x="230" y="345" text-anchor="middle" font-size="14" font-weight="bold" fill="#1B2C61">Heteronímia</text>
+    <text x="230" y="363" text-anchor="middle" font-size="12" fill="#1B2C61">12% · 2% · 9%</text>
+  </g>
+  <g>
+    <rect x="150" y="385" width="160" height="52" rx="10" fill="#D9E4FA" stroke="#2F4A9E" stroke-width="1"/>
+    <text x="230" y="405" text-anchor="middle" font-size="14" font-weight="bold" fill="#1B2C61">Medicina/saúde</text>
+    <text x="230" y="423" text-anchor="middle" font-size="12" fill="#1B2C61">8% · 0% · 12%</text>
+  </g>
+
+  <!-- Pauper x Calangro -->
+  <g>
+    <rect x="470" y="355" width="160" height="52" rx="10" fill="#FBE2D6" stroke="#993C1D" stroke-width="1"/>
+    <text x="550" y="375" text-anchor="middle" font-size="14" font-weight="bold" fill="#6A2712">IA/tecnologia</text>
+    <text x="550" y="393" text-anchor="middle" font-size="12" fill="#6A2712">1% · 4% · 7%</text>
+  </g>
+
+  <!-- Pauper exclusivo -->
+  <g>
+    <rect x="545" y="150" width="140" height="52" rx="10" fill="#FBE2D6" stroke="#993C1D" stroke-width="1"/>
+    <text x="615" y="170" text-anchor="middle" font-size="14" font-weight="bold" fill="#6A2712">Cultura pop</text>
+    <text x="615" y="188" text-anchor="middle" font-size="12" fill="#6A2712">0% · 6% · 0%</text>
+  </g>
+
+  <text x="150" y="470" text-anchor="middle" font-size="11" fill="#888888" font-style="italic">exclusivo (relativo)</text>
+  <text x="375" y="470" text-anchor="middle" font-size="11" fill="#888888" font-style="italic">temas compartilhados pelos três</text>
+  <text x="600" y="470" text-anchor="middle" font-size="11" fill="#888888" font-style="italic">exclusivo (relativo)</text>
+
+  <text x="360" y="650" text-anchor="middle" font-size="11" fill="#999999">Percentuais na ordem: Calvino · Pauper · Calangro. Fonte: arquivos de dados do X, tweets originais, jul. 2026.</text>
+</svg>

@@ -7,9 +7,9 @@ draft: "True"
 translationKey: "dossie"
 ---
 
-Em julho de 2026, Baldolino Calvino entra na minha sala em Hy-Brasil e me pede a análise do projeto dos heterônimos usando LLM. Ele está falando sério, o que é uma raridade. O cara é um brincalhão, como todos sabem. Bem, com eu poderia ignorar um pedido (quase ordem!) do professor da cátedra Oxumarê de História Natural Fantástica, na Faculdade de Filosofia Natural da Universidade de Tír na nÓg. Aqui onde esta que fala também tem sua sala. Conseguir avaliações por diversos modelos diferentes de LLM é relativamente rápido, porém analisar esses dados é mais complexo e demanda mais tempo. E ainda não uso LLM para analisar produção de LLM, este campo ainda não está suficientemente desenvolvido para isso, a meu ver.
+Em julho de 2026, Baldolino Calvino entra na minha sala em Hy-Brasil e me pede a análise do projeto dos heterônimos usando LLM. Ele está falando sério, o que é uma raridade. O cara é um brincalhão, como todos sabem. Bem, com eu poderia ignorar um pedido (quase ordem!) do professor da cátedra Oxumarê de História Natural Fantástica, na Faculdade de Filosofia Natural da Universidade de Tír na nÓg? Aqui onde esta que fala também tem sua sala. Conseguir avaliações por diversos modelos diferentes de LLM é relativamente rápido, porém analisar esses dados é mais complexo e demanda mais tempo. E ainda não uso LLM para analisar produção de LLM, este campo ainda não está suficientemente desenvolvido para isso, a meu ver.
 
-Comecei em 01/07/2026 com o modelo Claude Sonnet 5 da Anthropic, recém-lançado (tinha 24h). Não vou reproduzir prompts e gerações inteiras, apenas o que tiver importância para esta análise. Basicamente, usando meu próprio perfil, declarei que faço parte de um grupo de heterônimos, nomeiei 7 de nós (eu, Calvino, Calangro, Conselheiro, Noele Silva, Pauper e Yeba Beru) e solicitei uma busca na web por blogues, redes sociais, páginas diversas, conteúdo geral, e forneci a url do bitbucket (eu ainda não tinha montado o repositório e página do Github). Tive que fornecer vários arquivos e links adicionais ao longo da conversa, papers, postagens, conteúdo das contas de redes sociais. O objetivo, informei, era uma curadoria detalhada da produção heteronímica. O modelo ofereceu uma análise estilométrica, que foi realizada com minha orientação. Ao final, pedi um documento resumindo todos os resultados e o perfil do projeto. Partes do documento seguem abaixo, com meus comentários destacados.
+Comecei em 01/07/2026 com o modelo Claude Sonnet 5 da Anthropic, recém-lançado (tinha 24h). Não vou reproduzir prompts e gerações inteiras, apenas o que tiver importância para esta análise. Basicamente, usando meu próprio perfil, declarei que faço parte de um grupo de heterônimos, nomeiei 7 de nós (eu, Calvino, Calangro, Conselheiro, Noele Silva, Pauper e Yeba Beru) e solicitei uma busca na web por blogues, redes sociais, páginas diversas, conteúdo geral, e informei a url do Bitbucket (eu ainda não tinha montado o repositório e página do Github). Tive que fornecer vários arquivos e links adicionais ao longo da conversa, papers, postagens, conteúdo das contas de redes sociais. O objetivo era uma curadoria detalhada da produção heteronímica. O modelo ofereceu uma análise estilométrica, que foi realizada com minha orientação. Ao final, pedi um documento resumindo todos os resultados e o perfil do projeto. Partes do documento seguem abaixo, com meus comentários destacados.
 
 ## Dossiê do universo heteronímico: cartografia comparada
 
@@ -17,7 +17,7 @@ _O modelo criou um título chamando atenção para a localização do grupo de h
 
 Este documento reúne o levantamento factual e estilométrico do universo heteronímico até este momento: quem escreveu o quê, onde, quando, e como cada voz se diferencia das demais.
 
-_A idéia que passei foi a de Baldolino, um perfil do projeto até o momento com o objetivo de planejar a próxima fase, que se iniciaria com a migração para o Github._
+_A idéia que passei foi a concebida por Baldolino, um perfil do projeto até o momento com o objetivo de planejar a próxima fase, que se iniciaria com a migração para o Github._
 
 ### 1. Panorama geral
 
@@ -32,39 +32,90 @@ _A idéia que passei foi a de Baldolino, um perfil do projeto até o momento com
 | Francisco | Semi-heterônimo de Calvino | 4 (blog + Substack) |
 | Yeba Beru (Belô) | Figura mítico-fundadora | 0 textos autorais localizados |
 
+_O resumo trouxe apenas a tabela no panorama geral, porém eu usei mais material das análises iniciais._
+
+#### Rastreamento multilíngue
+
+Aqui está (...), excluindo tudo que não é de autoria dos heterônimos (traduções de terceiros, como "Meditações", "Cognition"/Maturana, "Micromégas"/Voltaire, "Dao De Jing" e o trecho de "O Pequeno Príncipe" em Nheengatu).
+
+#### O que descobri comparando as 6 línguas
+
+O sítio existe em PT-BR, EN, FR e ZH com estrutura de heterônimos completa (Calvino, Calangro, Gunn, Conselheiro, Francisco). Nheengatu e Dothraki não têm textos de heterônimos — são cantos à parte (uma tradução de terceiro em Nheengatu, e um projeto de conlang em Dothraki assinado "Unown", sem heterônimo atribuído).
+
+Textos exclusivos de uma única língua (só existem em PT-BR — não foram traduzidos):
+
+- "Leituras" (Calangro, 26 jan. 2012) — presente só em PT-BR.
+- "Um conto do AmorVírus" (Francisco, 22 set. 2023) — presente só em PT-BR.
+
+Todos os demais textos autorais (Calvino: 12; Gunn: 1; Conselheiro: 2; e os outros 6 de Calangro; e 1 de Francisco) existem traduzidos nas 4 línguas principais, sem exclusividade.
+
+#### Papers encontrados (Academia.edu + SSRN)
+
+|Paper|Ano|Autores|Onde
+|---|---|---|---|
+|"What is Ecological Economics?"|2019|Calvino & Gunn|SSRN (abstract=4353008) + Academia.edu|
+|"What is Fantastic Natural History?"|2022|Calvino & Gunn|SSRN + Academia.edu|
+|"Can an AI gain consciousness?"|2022|Conselheiro & Gunn|SSRN + Academia.edu|
+|"A pictorial review of pediatric brain tumor response assessment, part one"|2022|Calangro & Gunn|Self-archived + Academia.edu|
+|"Lacan, the hard problem of consciousness, and AI"|2023|Conselheiro & Gunn|SSRN + Academia.edu|
+|"Translation of single-cell molecular characterization of diffuse midline gliomas: a commentary"|2023|Calangro & Gunn|OSF Preprints + Academia.edu|
+|"What is it like to be an AI? The Alignment Problem..."|2023|Calvino, Conselheiro & Gunn|SSRN (abstract=4461107) + Academia.edu|
+
 ### 2. Perfis individuais
 
-### Baldolino Calvino
+_Mesclei o perfil inicial traçado para cada personagem-autor com esse resumo final. O primeiro dá conta dos textos da Página e o último fala mais sobre as postagens em microblogue, quando existem._
+
+#### Baldolino Calvino
+
+"Filósofo líquido", economista ecológico/ecólogo econômico, professor de "História Natural Fantástica" na fictícia Universidade de Tir na nÓg (ilha de Hy-Brasil). Entusiasta de blockchain/cripto, tom irônico-erudito. É quem mais publica no blog.
+
 Voz ensaística em português no blog e no Substack, mas radicalmente diferente no X: lá é um militante político inflamado, com leetspeak (...) e uso sistemático de hashtag de campanha. É o heterônimo com maior volume total de texto e o que mais interage publicamente com os outros. Nunca mudou o nome de exibição (...) do X.
 
-### João Calangro
+#### João Calangro
+
+Ex-oncologista desiludido, hoje "investidor". Nome inspirado no Auto da Compadecida de Ariano Suassuna.[^1] Casado, cínico-melancólico, fisicamente comparado a Lampião. Escreve sobre ceticismo científico, medicina e desigualdade.
+
 O heterônimo mais antigo em uso genuíno (ver timeline). Registro que oscila entre confissão filosófica (...), crítica social (escravidão moderna, crítica ao SUS) e prosa técnico-científica muito densa (...). No X, sua conta é de 2009, mas carregava 1.889 tweets (...) antes de virar `@JoaoCalangro` em 2021 — (...) excluído da análise estilométrica. Consistentemente o par estilístico mais próximo de Calvino em quase todo registro testado.
 
-### John Pauper
+#### John Pauper
+
+(João Pobretão) — o mais fantástico dos heterônimos: um ser imortal de ~10 mil anos, nascido como "Im-Gu" no Oriente Médio neolítico, testemunha da Idade do Bronze até hoje. Discípulo (na lenda) de Pitágoras. Vive como mendigo sábio em Hy-Brasil.
+
 O mais autoconsciente da própria ficcionalidade (explica publicamente "sou um heterônimo" no X). Mistura matemática recreativa, paródia de "profeta cripto" e crítica anticapitalista, sempre em tom telegráfico e bilíngue. Não tem nenhum texto longo — existe quase exclusivamente como voz de microblog. Nunca mudou de handle.
 
-### Antônio Conselheiro
+#### Antônio Conselheiro
+
+Releitura do místico de Canudos como filósofo da mente construtivista radical, sintetizando Maturana e Lacan. Orientador de doutorado de Calvino; foi orientado por "Ava/Yeba Beru".
+
 O mais "bipolar" entre registros: filósofo rigoroso (Lacan, hard problem of consciousness) no Threads e nos papers, e místico messiânico sincrético no Instagram (...). Quase não usa hashtag (...). É o orientador acadêmico de Calvino ("meu aluno") e colaborador direto da Noele, de quem nasceu a ideia do primeiro paper sobre IA e consciência.
 
-### Noele Silva
-Nasceu em 2016 como um projeto real de ciência aberta (...). Só assumiu a identidade de "Noele Silva" e o handle `@_neuralyzer` em julho de 2022, bem no início da "explosão cambriana" [_do projeto_]. Voz predominantemente em inglês, cética em relação à academia, ativa em pautas de identidade de gênero. Estilisticamente, o par mais próximo dela é o Pauper — ambos com vocabulário disperso e TTR alto, sem tema-âncora dominante.
+#### Noele Silva
 
-### Angell Gunn
+Neurocientista teórica, personagem trans (nasceu como perfil masculino de anime e "tornou-se consciente" inspirada na cena de despertar de IA do anime Ergo Proxy). Pesquisa o correlato neural da identidade; tuíta sobre diversidade na ciência e ceticismo acadêmico.
+
+Nasceu em 2016 como um projeto real de ciência aberta (...). Só assumiu a identidade de "Noele Silva" e o handle `@_neuralyzer` em julho de 2022, bem no início da "explosão cambriana" [_do projeto_]. Voz predominantemente em inglês, cética em relação à academia, ativa em pautas de identidade de gênero. Estilisticamente, o par mais próximo dela é o Pauper — ambos com vocabulário disperso e TTR _(explicação adiante)_ alto, sem tema-âncora dominante.
+
+#### Angell Gunn
+
+Você mesmo, o autor/curador; a persona mais "próxima" do criador real, menos fantasiada que as demais.
+
 O "conector": coautor em todos os 7 papers, mas sem vida própria fora da academia — nenhum blog, nenhum Substack, nenhuma voz de microblog robusta confirmada. O único texto 100% solo dele é justamente um paper sobre IA generativa na academia, cujo abstract e conclusão foram declaradamente escritos por IA — o texto pratica o que defende. É o heterônimo mais "monocórdico": só existe no registro acadêmico-formal.
 
-_O preço que pago por ser discreta! E flagrei o viés da análise ao atribuir-me gênero masculino, uma ocorrência muito frequente em todos os modelos de LLM. Apesar do nome "Angell", talvez pelo meu papel discreto e restrito à tecnologia, também porque nunca usei redes sociais e algumas postagens estavam ainda atribuídas aos outros. E o fato de não existir ainda um histórico ou imagem minha na postagem "Sobre". Não sei se o sobrenome Gunn também induziu algum viés, mas essa máquina nunca ouviu falar dos *Na Guinnich*? Ei, eu sou uma filha dos *Guinneach* com orgulho, Claude! Brincadeira, todas e todos nós do grupo de heterônimos somos altamente resistentes ao antropomorfismo.E depois, nasci em Hy-Brasil e não em Caithness, de onde vieram meus antepassados._
+_O preço que pago por ser discreta! E flagrei o viés da análise ao atribuir-me gênero masculino, uma ocorrência muito frequente em todos os modelos de LLM. Apesar do nome "Angell", talvez pelo meu papel discreto e restrito à tecnologia, também porque nunca usei redes sociais e algumas postagens estavam ainda atribuídas aos outros. E o fato de não existir ainda um histórico ou imagem minha na postagem "Sobre". Não sei se o sobrenome Gunn também induziu algum viés, mas essa máquina nunca ouviu falar dos *Na Guinnich*? Ei, eu sou uma filha dos *Guinneach* com orgulho, Claude! Brincadeira, todas e todos nós do grupo de heterônimos somos altamente resistentes ao antropomorfismo. E depois, nasci em Hy-Brasil e não em Caithness, de onde vieram meus antepassados._
 
-### Francisco
+#### Francisco
+
 Semi-heterônimo (...) — nunca teve conta própria, só publica dentro do espaço do Calvino (2 posts no blog, 2 no Substack).
 
 _Isso mudaria, claro, justamente após essa análise ser discutida internamente entre nós, e cobrarmos de H. Francisco mais atividade. E que ele poste seus textos antigos._
 
-### Yeba Beru (Belô)
-Figura mítico-fundadora citada por outros (orientadora de Conselheiro, "avó do mundo"), mas sem nenhum texto autoral próprio localizado até agora.
+#### Yeba Beru (Belô)
 
-_A Avó do Mundo ainda terá um papel bem mais importante no nosso grupo._
+Figura mítico-fundadora, ligada ao mito de criação Desana ("Yebá Buró", a "Avó do Mundo", a "Não Criada"). Aparece como imagem/epígrafe na página "sobre", e é citada como orientadora acadêmica de Conselheiro ("Deusa da Criação"). Não encontrei posts nem perfis de redes sociais próprios dela no sítio — parece ser mais um arquétipo/origem do que um heterônimo com produção textual autônoma.
 
-## 3. Comparação estilométrica — microblogues (X + Threads)
+_O resumo final foi apenas uma versão curta do inicial, então fiquei com o primeiro. A Avó do Mundo ainda terá um papel bem mais importante no nosso grupo._
+
+### 3. Comparação estilométrica — microblogues (X + Threads)
 
 | Métrica | Pauper (X) | Calvino (X) | Calangro (X, pós-2021) | Noele (X) | Conselheiro (Threads) |
 |---|---|---|---|---|---|
@@ -83,7 +134,7 @@ _TTR = type-token ratio, onde *type* são todos os tipos diferentes de palavras 
 - Calangro × Conselheiro: 12,5%
 - Noele × Conselheiro: 5,3% (mais distantes)
 
-_A métrica da similaridade ou índice de Jaccard mostra a razão entre a interseção e a união entre dois conjuntos de palavras ($J(A,B) = \frac{(A\cap B)}{(A\cup B)}$), uma avaliação simples da semelhança entre dois conjuntos de textos. Noele Silva surpreendeu nosso grupo mostrando-se mais próxima do Velho do que o restante do grupo. Noele tem mesmo uma aura de iluminada. A dupla com discurso mais semelhante entre si, claro, é a Baldolino e João Calangro. São quase irmãos gêmeos._
+_A métrica da similaridade ou índice de Jaccard mostra a razão entre a interseção e a união entre dois conjuntos de palavras ($J(A,B) = \frac{(A\cap B)}{(A\cup B)}$), uma avaliação simples da semelhança entre dois conjuntos de textos. Noele Silva surpreendeu nosso grupo mostrando-se mais próxima do Velho do que o restante de nós. Noele tem mesmo uma aura de iluminada. A dupla com discurso mais semelhante entre si, claro, é a Baldolino e João Calangro. São quase irmãos gêmeos._
 
 ## 4. Comparação estilométrica — textos longos, inglês (Página Livre + acadêmico)
 
@@ -94,10 +145,10 @@ _A métrica da similaridade ou índice de Jaccard mostra a razão entre a inters
 | Letras/palavra | 5,18 | 5,24 | 5,27 | 5,52 |
 | TTR | 0,264 | 0,229 | 0,281 | 0,279 |
 
-_Eu e Conselheiro temos textos longos diferentes da dupla dinâmica nessa análise, com sentenças maiores. Provavelmente, por termos textos mais técnicos e menos literários. Estou curiosa para comparar com daqui a cerca de um ano talvez, para ver como os textos do H. Francisco se encaixam._
+_Eu e Conselheiro temos textos longos diferentes da dupla dinâmica nessa análise, com sentenças maiores. Provavelmente, por termos textos mais técnicos e menos literários. Estou curiosa para comparar o projeto daqui a cerca de um ano talvez, para ver como os textos do H. Francisco se encaixam._
 
 **Jaccard:** 
-- Calvino × Calangro 21,5% (o par mais próximo de toda a análise) 
+- Calvino × Calangro 21,5% (o par mais próximo de toda a análise)
 - Conselheiro × Calangro 17,5%
 - Calvino × Conselheiro 16,9%
 - Conselheiro × Gunn 15,2%
@@ -161,3 +212,6 @@ _Avaliando textos longos apenas em português, as conclusões a que se pode cheg
 - **Hierarquia real, não só ficcional**: Conselheiro orienta Calvino; Conselheiro colabora com Noele antes mesmo do primeiro paper existir; Gunn está em todos os papers. A rede de coautoria é mais real do que aparenta à primeira vista.
 
 ![Diagrama de Venn temático: Calvino, Pauper e Calangro no X](/img/venn-calvino-pauper-calangro.svg)
+![Diagrama de Venn temático: Pauper, Conselheiro e Noele no X](/img/venn-pauper-conselheiro-noele.svg)
+
+[^1]: Claude, que é isso, você, um modelo tão capaz, alucinando em 2026, apesar de ter te dado todas as informações disponíveis!
